@@ -50,5 +50,9 @@
   {
     "brand_id": 13.0,
     "brand_name": "Lenovo"
+  },
+  {
+    "brand_id": 14.0,
+    "brand_name": "Infinix"
   }
 ]
