@@ -74,5 +74,9 @@
   {
     "brand_id": 19.0,
     "brand_name": "Sony Xperia"
+  },
+  {
+    "brand_id": 20.0,
+    "brand_name": "Phonix"
   }
 ]
