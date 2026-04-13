@@ -82,5 +82,9 @@
   {
     "brand_id": 21.0,
     "brand_name": "Micomax"
+  },
+  {
+    "brand_id": 22.0,
+    "brand_name": "Symphony"
   }
 ]
