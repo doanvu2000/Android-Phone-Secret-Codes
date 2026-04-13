@@ -66,5 +66,9 @@
   {
     "brand_id": 17.0,
     "brand_name": "Acer"
+  },
+  {
+    "brand_id": 18.0,
+    "brand_name": "Lava"
   }
 ]
