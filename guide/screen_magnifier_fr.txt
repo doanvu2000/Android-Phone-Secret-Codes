@@ -1,0 +1,11 @@
+<h5> Comment activer la loupe d'écran?</h5>
+<ol>
+Les personnes ayant une vue faible n'ont souvent
+aucune idée de l'aide que cette fonctionnalité peut leur apporter.
+Suivez simplement ces étapes
+<li> Allez dans Paramètres</li>
+<li>  Accessibilité</li>
+<li> Geste d'agrandissement.
+Profitez-en.</li>
+</ol>
+

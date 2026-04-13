@@ -1,0 +1,18 @@
+<h5>¿Cómo añadir información del propietario?</h5>
+Añadir tu información de propietario en un teléfono
+android es muy fácil. Solo necesitas abrir
+la configuración de tu teléfono android En 5.0 Lollipop :G a Configuración-
+Seguridad-> Información del propietario. Ahora añade tu
+información de propietario.
+Puedes ver esta información en la pantalla de bloqueo
+de tu móvil android.
+
+Abre la configuración de tu móvil android y
+selecciona Pantalla de bloqueo.
+En Pantalla de bloqueo desplázate hacia abajo y selecciona
+Mensaje de pantalla de bloqueo.
+
+Ahora escribe tu información de propietario.
+
+También puedes añadir tu número de teléfono de
+emergencia así

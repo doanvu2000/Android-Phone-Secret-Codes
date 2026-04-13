@@ -1,0 +1,59 @@
+<h5>1. Reduza o Número de Aplicações Simultâneas para Parar o Bloqueio do Telemóvel</h5>
+Cada telemóvel tem uma quantidade limitada de recursos como memória (RAM) e poder de processamento. Se sobrecarregar o telemóvel para além da capacidade destes recursos, o telemóvel pode bloquear. Assim, deve tentar minimizar o número de aplicações a correr simultaneamente. Existem várias aplicações que correm em segundo plano. Pode libertar a memória obstruída parando as aplicações de que não necessita no momento.
+
+Para ver a lista de aplicações a correr atualmente, vá a Definições > Aplicações > Aplicações em Execução.
+
+<h5>2. Mantenha Todas as Aplicações Atualizadas</h5>
+Visite regularmente as lojas de aplicações como a Google Play (se tiver um telemóvel Android) e a iTunes App Store (se tiver um iPhone). Os desenvolvedores de aplicações móveis melhoram constantemente o desempenho das suas aplicações. Portanto, é altamente recomendável que atualize regularmente todas as aplicações assim que uma versão melhor esteja disponível. As versões mais recentes das aplicações podem ser concebidas para usar menos memória e poder de CPU.
+
+<h5>3. Desligue o Seu Telemóvel</h5>
+Desligar o seu telemóvel de vez em quando é uma boa ideia porque irá refrescar completamente a memória do telemóvel. Quando reiniciar o seu telemóvel, a sua memória estará livre de todos os pedaços desnecessários de dados que estavam a ocupar o espaço de memória.
+
+<h5>4. Instale Aplicações na Memória Externa (cartão SD)</h5>
+A maioria dos utilizadores de telemóveis instala todo o tipo de aplicações nos seus telemóveis. Ao instalar as aplicações, não prestam muita atenção onde a aplicação vai ser instalada e que impacto pode ter no desempenho do telemóvel. Na maioria dos casos, por predefinição, as aplicações são instaladas na memória interna do telemóvel. Isto deixa menos espaço para correr as aplicações e isso, por sua vez, causa a obstrução da memória. Se o seu telemóvel bloqueia, é aconselhável instalar aplicações na memória externa (ou seja, cartão SD) do telemóvel. Normalmente a memória externa é maior do que a memória interna. E a memória externa também pode ser facilmente expandida se necessário. Portanto, na memória externa podem ser facilmente instaladas mais aplicações sem obstruir a memória interna do telemóvel. Isto evitará que o seu telemóvel bloqueie.
+
+Para isto pode definir o disco de escrita predefinido. Vá a Definições > Armazenamento > Disco de escrita predefinido > Selecionar Cartão SD. Por favor note que esta definição está disponível num local ligeiramente diferente em diferentes telemóveis, por isso poderá ter de procurar um pouco.
+
+<h5>5. Mova Aplicações Instaladas da Memória Interna para a Externa</h5>
+Pode sempre mover as aplicações já instaladas da memória interna para a externa. Como explicado acima, isto dará mais espaço na memória interna para o funcionamento suave das aplicações. Como resultado, o seu telemóvel não irá bloquear. A definição para mover aplicações instaladas está normalmente disponível em Definições > Aplicações.
+
+<h5>6. Elimine Aplicações Desnecessárias</h5>
+Também pode navegar pela lista das aplicações instaladas no seu telemóvel. Poderá detetar algumas aplicações que instalou há algum tempo mas que já não necessita. Desinstale essas aplicações imediatamente. Elas permanecem inativas no seu telemóvel e desperdiçam o tão importante espaço de memória.
+
+<h5>7. Elimine Dados Desnecessários (como fotos, vídeos, músicas)</h5>
+Se guardou imagens, vídeos e músicas na memória interna; está realmente a sufocar o espaço da memória interna e isso pode muito bem tornar-se a causa do seu telemóvel bloquear a toda a hora. Vá em frente, dê uma vista de olhos a todas as fotos, vídeos e músicas e elimine as que já não precisa. Alternativamente, primeiro pode fazer uma cópia de segurança destes dados no seu computador e depois eliminá-los do seu telemóvel. Fotos, Vídeos e áudio ocupam a maior parte do espaço no telemóvel de um utilizador médio. E é uma das razões comuns pelas quais o seu telemóvel bloqueia.
+
+<h5>8. Identifique Aplicações que Consomem Muitos Recursos</h5>
+Algumas aplicações usam muito mais memória do que outras. Aplicações de jogos estão entre as que mais consomem memória. Pode verificar quanta memória cada uma das suas aplicações está a usar. Para isto vá a Definições > Aplicações (ou Memória) > Aplicações em Execução. Aqui poderá ver exatamente qual aplicação está a usar quanta memória.
+Se possível, pode tentar uma alternativa mais leve de uma aplicação que esteja a usar muita memória.
+
+<h5>9. Instale Software Antivírus</h5>
+Vírus são uma ameaça. Se o seu telemóvel estiver a hospedar um vírus, o vírus pode abrandar consideravelmente o seu telemóvel. Nem é preciso dizer que o seu telemóvel irá bloquear frequentemente. Portanto, obviamente precisa de um antivírus. Embora o software antivírus em si ocupe muita memória, é melhor ter o vírus removido.
+
+<h5>10. Dê Algum Espaço de Respiração à Memória Externa</h5>
+Até agora, estivemos a falar-lhe da importância de instalar aplicações na memória externa. Mas isso não deve significar que também sufoque a memória externa. Mantenha algum espaço livre na memória externa também para que as aplicações possam facilmente guardar e ler os seus dados relevantes. Se a memória externa também estiver cheia até ao limite, isso também pode tornar-se a causa do bloqueio do telemóvel.
+
+<h5>11. Use a Opção de Reposição de Fábrica</h5>
+Este deve ser o seu último recurso. Se nada mais funcionar e o telemóvel continuar a bloquear, pode repor o seu telemóvel para as definições de fábrica. O uso desta opção irá remover tudo do seu telemóvel. Irá perder tudo o que estiver na memória interna. E desaparecerá para sempre. Todas as mensagens, contactos, aplicações, marcadores, fotos, vídeos, músicas, toques... tudo será apagado. Essencialmente, esta opção tornará o seu telemóvel tal como era quando foi produzido na fábrica.
+
+<h5>12. Aumente a Memória ao Eliminar Dados Indesejados</h5>
+Sabia que quase todos os sites usam cache para aumentar a velocidade da página? Sempre que visita um site, o seu telemóvel guarda automaticamente o que também é conhecido como cookies e caches. Estes dados indesejados serão guardados na memória do seu telemóvel, o que leva à diminuição da memória disponível para aplicações e outros ficheiros.
+
+Solução:
+Este problema pode ser resolvido facilmente a partir das definições.
+Vá a Definições > Armazenamento > Clique na cache e clique em OK para limpar as caches.
+
+<h5>13. Use a memória externa para guardar músicas e outros ficheiros</h5>
+O uso excessivo da memória do telemóvel é a principal razão para o bloqueio do telemóvel. Para resolver o problema de bloqueio no seu telemóvel Android, guarde as suas músicas, vídeos e outros dados na memória externa.
+Pode mover os seus ficheiros para a memória externa e, ao selecionar a memória externa como memória predefinida, ajuda a guardar fotos e vídeos tirados pela câmara. Para tornar a memória externa a memória predefinida, leia a segunda dica.
+
+<h5>14. Opções de reposição de fábrica (Não Recomendado)</h5>
+Eu pessoalmente não recomendo este método porque não é familiar para a maioria dos utilizadores Android. A reposição de fábrica é o último método para eliminar todos os ficheiros indesejados que vêm de Browsers, sites, Aplicações etc.
+A reposição de fábrica apaga todos os ficheiros, aplicações, contactos, memorandos, por isso a maioria dos utilizadores Android não usa esta opção.
+
+Processo Seguro de Reposição de Fábrica:
+O processo de fábrica pode apagar os seus dados pessoais como contactos, memorandos, por isso os utilizadores devem seguir o processo seguro antes de realizar a opção de reposição de fábrica.
+Sempre que realizar o processo de reposição de fábrica, nunca se esqueça de fazer uma Cópia de Segurança de todos os seus ficheiros. Pode mover estes ficheiros de cópia de segurança para o cartão SD externo.
+
+<h5>15. Use Armazenamento na Nuvem</h5>
+Use o armazenamento na Nuvem para guardar os seus ficheiros que deseja guardar para o futuro. Guarde apenas os ficheiros no seu cartão de memória de que necessita todos os dias e carregue os ficheiros para o armazenamento na nuvem de que necessitará no futuro.

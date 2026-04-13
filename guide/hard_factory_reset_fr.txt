@@ -1,0 +1,21 @@
+<h5> Réinitialisation matérielle et réinitialisation
+ d'usine de votre téléphone android</h5>
+
+ Le téléphone Android peut être formaté de deux
+ façons
+ 1. Réinitialisation d'usine :
+ Dans la réinitialisation d'usine, votre téléphone est
+ formaté au niveau d'usine.
+ Cela signifie que tous les paramètres reviendront par défaut
+ et toutes les données internes seront supprimées.
+ Pour réinitialiser un téléphone en usine, composez
+ "#**778O#*#*.
+ 2. Réinitialisation matérielle :
+ Pour effectuer une réinitialisation matérielle d'un téléphone, composez
+ *2767*3855#
+ cela supprimera toutes les données (y compris
+ les données SD internes et externes) ainsi que
+ les paramètres du téléphone android.
+ N'essayez pas ce code à des fins de test,
+ tant que vous n'êtes pas sûr.
+ Il ne demandera aucune confirmation.

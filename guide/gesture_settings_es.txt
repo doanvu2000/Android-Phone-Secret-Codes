@@ -1,0 +1,84 @@
+<h5>Mantén presionado en notificaciones para acceder
+a la configuración de la aplicación</h5>
+Muchos de ustedes pueden saber que si deslizan
+un mensaje de notificación hacia un lado,
+desaparecerá. Sin embargo, puedes hacer otras
+cosas si mantienes el dedo presionado y
+seleccionas uno de los botones que aparecen a la
+derecha. Esto se puede hacer tanto en la
+pantalla de bloqueo como en la barra de notificaciones.
+Verás el ícono de engranaje, que te
+llevará a la configuración y el ícono "i"
+te llevará a la configuración de notificaciones
+para la aplicación en cuestión,
+
+<h5>Desliza dos dedos hacia abajo para acceder
+directamente a la configuración rápida</h5>
+Este truco ha existido desde que Jelly Bean
+estaba presente pero vale la pena ser
+recordado. Para evitar tener que pasar
+por las notificaciones y acceder
+al menú de accesos directos rápidos, solo desliza
+dos dedos desde la parte superior de la pantalla
+hacia abajo. En lugar de hacer el
+movimiento convencional dos veces, es decir, el
+deslizamiento de un dedo, y primero necesitar pasar
+por las notificaciones de la aplicación, el usuario
+accederá rápidamente a los accesos directos a la
+configuración básica de Android.
+ <h5>Doble toque para seleccionar palabras para más
+Opciones</h5>
+Desde que Android 6.0 Marshmallow entró
+en escena, la función habitual de copiar y
+pegar con doble toque ha tenido
+una actualización. Ahora, solo toca dos veces en una
+palabra, frase o texto y mantén presionado el
+contenido seleccionado. A continuación, obtendrás la
+opción de copiar y compartir, o si presionas
+en el botón de menú de desbordamiento de acción
+tres puntos verticales, esto te permitirá
+buscar el texto seleccionado en la web,
+activar el Asistente de Google y traducirlo,
+todo sin salir de la pantalla.
+ <h5>Accede fácilmente al modo seguro</h5>
+¿Qué es exactamente el modo seguro? En pocas
+palabras, este modo arranca el sistema
+Android sin mostrar las aplicaciones
+que has instalado, como si hubieras
+formateado el teléfono. Esta opción es ideal
+si estás experimentando problemas con una
+aplicación específica. Además, es fácil de
+acceder. Presiona el botón de encendido de tu
+dispositivo por unos segundos. Tan pronto como
+aparezca la pantalla de apagado, solo sigue
+presionando el botón de encendido por unos
+segundos. Una nueva ventana te preguntará si
+quieres reiniciar el teléfono en modo
+seguro.
+<h5> Zoom en cualquier pantalla</h5>
+Muchas aplicaciones te permiten hacer zoom
+en una pantalla colocando dos dedos
+en la pantalla y separándolos pero
+en otras aplicaciones o incluso en la mayoría de los
+sistemas, esta acción no está permitida
+sin embargo hay una solución. Activa
+la función yendo a Configuración
+Accesibilidad > Gestos de ampliación.
+ Una vez activado, haces clic tres veces
+en la pantalla para hacer Zoom en donde
+quieras. Para luego deslizarte de lado a lado en
+la pantalla con Zoom, necesitas
+deslizar dos dedos a izquierda y derecha. Puedes
+hacer un pellizco de dos dedos para ajustar el
+zoom.
+<h5> Desinstalar una aplicación directamente desde la pantalla
+de inicio</h5>
+
+Si mantienes presionado en un ícono de aplicación en
+tu pantalla de inicio, esto te permitirá
+desinstalarla directamente arrastrando
+la aplicación a la palabra Desinstalar que
+habrá aparecido. Anteriormente, solo se eliminaba el
+acceso directo. Esto podría cambiar
+dependiendo del modelo de teléfono y
+versión de Android.

@@ -1,0 +1,54 @@
+<h5>Desativar rastreamento de localização do Android</h5>
+Abra Configurações
+
+Role para baixo até Localização. Você verá
+um interruptor liga/desliga no canto superior direito. Use
+isso para ligar ou desligar os serviços de localização
+completamente.
+
+<h5>Toque em Localização> Histórico de Localização do Google</h5>
+ Mais uma vez, há um botão
+no canto superior direito que permite ligar
+ou desligar seu histórico de localização. Se você
+também quiser excluir seu histórico de
+localização, você pode fazer isso aqui também:
+em Histórico de Localização toque em Excluir
+Histórico de Localização. Uma vez excluída, esta
+informação não pode ser recuperada.
+
+ <h5>Ativar Modo Convidado no Android</h5>
+Deslize para baixo do topo da
+Tela para puxar a barra de
+notificações.
+Toque no seu avatar no canto superior direito
+duas vezes
+Agora você verá três ícones: sua
+conta do Google, Adicionar convidado e Adicionar
+usuário.
+
+Toque em Adicionar convidado.
+Agora seu smartphone mudará
+para o modo convidado. Isso pode levar algum
+tempo e o telefone pode ficar um pouco
+lento inicialmente, mas em nossos testes com um
+Nexus 5 funcionou bem após alguns
+minutos.
+
+Quando você terminar com o modo
+convidado, você pode reverter facilmente para sua
+conta do Google. Siga os passos 1 e
+2 acima e toque no ícone que mostra
+sua conta do Google. Isso excluirá
+todos os dados salvos na sessão de convidado
+também.
+
+Se seu smartphone não tiver
+Android 5.0 Lollipop instalado, você
+deve verificar se há um modo convidado pré-carregado
+que você pode acessar indo
+para Configurações> Geral > Privacidade>
+Modo Convidado.
+
+ <h5>Fique longe de Aplicativos fraudulentos</h5>
+Sempre use a play store para instalar qualquer
+tipo de aplicativo

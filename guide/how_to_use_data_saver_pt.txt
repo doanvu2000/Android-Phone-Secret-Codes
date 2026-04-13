@@ -1,0 +1,27 @@
+<h5> Como usar o Economizador de Dados</h5>
+
+ Um dos principais novos recursos no Android
+ é o novo modo de Economia de Dados em todo o sistema
+ que ajuda a reduzir o uso de dados móveis.
+ O recurso funciona restringindo que
+ aplicativos recebam ou enviem dados
+ em segundo plano. Seus aplicativos usados
+ frequentemente continuarão a ter acesso
+ a dados em segundo plano, mas a
+ frequência será reduzida para limitar o uso de
+ dados. Outro efeito colateral positivo não intencional
+ de usar o modo de Economia de Dados é
+ que leva a uma leve melhoria na
+ vida útil da bateria.
+ Veja como você pode ativar o modo de Economia de Dados
+ no seu dispositivo Android:
+ Vá para Configurações-> Uso de Dados ->
+ Economia de Dados.
+ Alterne o interruptor no canto superior
+ direito para Ligado, e pronto.
+
+ Caso você não queira que o uso de dados
+ móveis seja restrito para certos aplicativos,
+ você sempre pode colocá-los na lista branca do
+ modo de Economia de Dados usando a
+ opção de acesso a dados irrestrito.

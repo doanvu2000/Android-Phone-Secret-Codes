@@ -1,0 +1,59 @@
+<h5>1. Kurangi Jumlah Aplikasi yang Berjalan Bersamaan untuk Menghentikan Ponsel Hang</h5>
+Setiap ponsel memiliki jumlah sumber daya yang terbatas seperti memori (RAM) dan daya pemrosesan. Jika Anda membebani ponsel melampaui kapasitas sumber daya ini, ponsel mungkin akan hang. Jadi, Anda harus mencoba meminimalkan jumlah aplikasi yang berjalan secara bersamaan. Ada sejumlah aplikasi yang berjalan di latar belakang. Anda dapat membebaskan memori yang tersumbat dengan menghentikan aplikasi yang tidak Anda perlukan saat ini.
+
+Untuk melihat daftar aplikasi yang sedang berjalan, buka Setelan > Aplikasi > Aplikasi yang Berjalan.
+
+<h5>2. Jaga Semua Aplikasi Tetap Terperbarui</h5>
+Terus kunjungi toko aplikasi seperti Google Play (jika Anda memiliki ponsel Android) dan iTunes App Store (jika Anda memiliki iPhone). Pengembang aplikasi seluler terus meningkatkan performa aplikasi mereka. Oleh karena itu, sangat disarankan agar Anda memperbarui semua aplikasi secara berkala segera setelah versi yang lebih baik tersedia. Versi terbaru aplikasi mungkin dirancang untuk menggunakan lebih sedikit memori dan daya CPU.
+
+<h5>3. Matikan Ponsel Anda</h5>
+Mematikan ponsel sesekali adalah ide yang bagus karena akan menyegarkan kembali memori ponsel secara keseluruhan. Saat Anda menyalakan kembali ponsel, memorinya akan bebas dari semua kepingan data yang tidak perlu yang tersisa dan menempati ruang memori.
+
+<h5>4. Instal Aplikasi di Memori Eksternal (kartu SD)</h5>
+Sebagian besar pengguna ponsel menginstal segala jenis aplikasi di ponsel mereka. Saat menginstal aplikasi, mereka tidak terlalu memperhatikan di mana aplikasi tersebut akan diinstal dan dampak apa yang dapat ditimbulkannya pada performa ponsel. Dalam kebanyakan kasus, secara default, aplikasi terinstal di memori internal ponsel. Hal ini menyisakan ruang yang lebih sedikit untuk menjalankan aplikasi dan hal tersebut pada gilirannya menyebabkan memori tersumbat. Jika ponsel Anda hang, disarankan untuk menginstal aplikasi di memori eksternal (yaitu kartu SD) ponsel. Biasanya memori eksternal lebih besar daripada memori internal. Dan memori eksternal juga dapat dengan mudah diperluas jika diperlukan. Oleh karena itu, di memori eksternal lebih banyak aplikasi dapat diinstal dengan mudah tanpa menyumbat memori internal ponsel. Ini akan menyelamatkan ponsel Anda dari kondisi hang.
+
+Untuk ini, Anda dapat mengatur disk tulis default. Buka Setelan > Penyimpanan > Disk tulis default > Pilih Kartu SD. Harap dicatat bahwa pengaturan ini tersedia di lokasi yang sedikit berbeda di berbagai perangkat ponsel, jadi Anda mungkin harus sedikit mencarinya.
+
+<h5>5. Pindahkan Aplikasi yang Terinstal dari Memori Internal ke Eksternal</h5>
+Anda selalu dapat memindahkan aplikasi yang sudah terinstal dari memori internal ke eksternal. Seperti dijelaskan di atas, ini akan memberikan lebih banyak ruang memori internal untuk kelancaran aplikasi. Hasilnya, ponsel Anda tidak akan hang. Pengaturan untuk memindahkan aplikasi yang terinstal biasanya tersedia di bawah Setelan > Aplikasi.
+
+<h5>6. Hapus Aplikasi yang Tidak Perlu</h5>
+Anda juga dapat menelusuri daftar aplikasi yang terinstal di ponsel Anda. Anda mungkin melihat beberapa aplikasi yang pernah Anda instal dulu tetapi tidak lagi Anda perlukan. Segera copot pemasangan aplikasi tersebut. Aplikasi tersebut tetap diam di ponsel Anda dan membuang-buang ruang memori yang sangat penting.
+
+<h5>7. Hapus Data yang Tidak Perlu (seperti foto, video, lagu)</h5>
+Jika Anda menyimpan gambar, video, dan lagu di memori internal; Anda benar-benar mencekik ruang memori internal dan itu bisa menjadi penyebab ponsel Anda hang sepanjang waktu. Lanjutkan, lihat semua gambar, video, dan lagu, lalu hapus yang tidak lagi Anda butuhkan. Sebagai alternatif, pertama-tama Anda dapat melakukan pencadangan data ini di komputer Anda dan kemudian menghapusnya dari ponsel Anda. Foto, video, dan audio memakan sebagian besar ruang di ponsel pengguna ponsel pintar rata-rata. Dan itu adalah salah satu alasan umum mengapa ponsel Anda hang.
+
+<h5>8. Identifikasi Aplikasi yang Memakan Banyak Sumber Daya</h5>
+Beberapa aplikasi menggunakan memori jauh lebih banyak daripada aplikasi lainnya. Aplikasi game adalah salah satu aplikasi yang paling banyak menyedot memori. Anda dapat memeriksa seberapa banyak memori yang digunakan oleh setiap aplikasi Anda. Untuk ini, buka Setelan > Aplikasi (atau Memori) > Aplikasi yang Berjalan. Di sini Anda akan dapat melihat aplikasi mana yang menggunakan berapa banyak memori secara tepat.
+Jika memungkinkan, Anda dapat mencoba alternatif yang lebih ringan dari aplikasi yang menggunakan banyak memori.
+
+<h5>9. Instal Perangkat Lunak Antivirus</h5>
+Virus adalah ancaman. Jika ponsel Anda menjadi inang bagi virus, virus tersebut dapat memperlambat ponsel Anda secara drastis. Sudah pasti, ponsel Anda akan sering hang. Jadi, jelas Anda membutuhkan anti-virus. Meskipun perangkat lunak anti-virus itu sendiri memakan banyak memori, lebih baik virus tersebut dihapus.
+
+<h5>10. Beri Memori Eksternal Ruang Bernapas</h5>
+Sejauh ini, kami telah memberi tahu Anda tentang pentingnya menginstal aplikasi di memori eksternal. Namun bukan berarti Anda juga harus menyumbat memori eksternal. Jaga agar tetap ada ruang kosong di memori eksternal juga agar aplikasi dapat dengan mudah menyimpan dan membaca data terkait mereka. Jika memori eksternal juga penuh sesak, itu juga dapat menjadi penyebab ponsel hang.
+
+<h5>11. Gunakan Opsi Reset Pabrik</h5>
+Ini harus menjadi upaya terakhir Anda. Jika tidak ada hal lain yang berhasil dan ponsel tetap hang, Anda dapat mereset ponsel Anda kembali ke pengaturan pabrik. Penggunaan opsi ini akan menghapus semua hal dari ponsel Anda. Anda akan kehilangan semua yang ada di memori internal. Dan itu akan hilang selamanya. Semua pesan, kontak, aplikasi, bookmark, foto, video, lagu, nada dering... semuanya akan dihapus. Intinya, opsi ini akan membuat ponsel Anda persis seperti saat pertama kali diproduksi di pabrik.
+
+<h5>12. Tingkatkan Memori dengan Menghapus Data yang Tidak Diinginkan</h5>
+Tahukah Anda bahwa hampir setiap situs web menggunakan cache untuk meningkatkan kecepatan halaman situs web? Kapan pun Anda mengunjungi situs web, ponsel Anda secara otomatis menyimpan apa yang juga dikenal sebagai cookie dan cache. Data yang tidak diinginkan ini akan disimpan di memori ponsel Anda yang menyebabkan berkurangnya memori yang tersedia untuk aplikasi dan file lainnya.
+
+Solusi:
+Masalah ini dapat diselesaikan dengan mudah dari pengaturan.
+Buka Setelan >> Penyimpanan >> Klik pada cache dan klik Oke untuk menghapus cache.
+
+<h5>13. Gunakan Memori Eksternal untuk Menyimpan Lagu dan File Lainnya</h5>
+Terlalu banyak penggunaan memori ponsel adalah alasan utama ponsel hang. Untuk menyelesaikan masalah hang di ponsel Android Anda, simpan lagu, video, dan data lainnya di memori eksternal.
+Anda dapat memindahkan file Anda ke memori eksternal dan dengan memilih memori eksternal sebagai memori default membantu menyimpan foto dan video yang diambil oleh kamera. Untuk menjadikan memori eksternal sebagai memori default, baca tips kedua.
+
+<h5>14. Opsi Reset Pabrik (Tidak Direkomendasikan)</h5>
+Saya pribadi tidak merekomendasikan metode ini karena tidak akrab bagi sebagian besar pengguna Android. Reset pabrik adalah metode terakhir untuk menghapus semua file yang tidak diinginkan yang berasal dari Browser, situs web, Aplikasi, dll.
+Reset pabrik menghapus semua file, aplikasi, kontak, memo, jadi sebagian besar pengguna Android tidak menggunakan opsi ini.
+
+Proses Reset Pabrik yang Aman:
+Proses pabrik dapat menghapus data pribadi Anda seperti kontak, memo, jadi Anda sebagai pengguna harus mengikuti proses yang aman sebelum melakukan opsi reset pabrik.
+Kapan pun Anda melakukan proses reset pabrik, jangan pernah lupa untuk mencadangkan semua file Anda. Anda dapat memindahkan file cadangan ini ke kartu SD eksternal.
+
+<h5>15. Gunakan Penyimpanan Cloud</h5>
+Gunakan penyimpanan cloud untuk menyimpan file Anda yang ingin Anda simpan untuk masa depan. Simpan hanya file-file di kartu memori Anda yang Anda butuhkan setiap hari dan unggah file-file yang dibutuhkan di masa depan ke penyimpanan cloud.

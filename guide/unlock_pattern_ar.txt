@@ -1,0 +1,29 @@
+<h5>كيفية فتح قفل نمط Android باستخدام موجه الأوامر</h5>
+<ol>
+<li> قم بتوصيل هاتف Android الخاص بك بجهاز
+الكمبيوتر الخاص بك.</li>
+ <li>  افتح موجه الأوامر كمسؤول.</li>
+ <li> الآن في نافذة موجه الأوامر
+اكتب الكود التالي بعناية تمامًا
+كما هو ثم اضغط على enter.
+adb shell cd /data/data/
+com.android.providers.settings/
+databases SQLite3 settings.db
+update system set value=0 where
+name=lock_pattern_auto lock; update
+system set value-0 where name=lock
+Screen.locked out permanently; .quit</li>
+<li>  الآن سترى شاشة كما هو موضح
+أدناه ثم يمكنك إعادة تشغيل
+هاتفك والآن عندما يبدأ
+مرة أخرى حاول فتح قفل هاتفك
+باستخدام أي نمط قفل عشوائي وسوف
+يعمل بشكل جيد.</li>
+<li>  إذا واجهت أي مشكلة كرر نفس
+الخطوات ولكن بدلاً من الكود أعلاه
+حاول استخدام adb shell rm/data/system/
+gesture.key ثم اضغط على enter و
+الآن حاول إعادة تشغيل جهازك لمعرفة ما إذا كان
+يعمل.
+استمتع.</li>
+</ol>

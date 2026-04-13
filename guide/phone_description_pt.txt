@@ -1,0 +1,11 @@
+<h5>Obter informações detalhadas
+sobre o status do telefone</h5>
+Podemos obter as estatísticas detalhadas
+relacionadas ao nosso dispositivo como informações
+do telefone, informações da bateria, estatísticas
+de uso e informações de Wi-Fi apenas
+discando
+*#*#4636#*#*
+Este é um USSD prático para obter os detalhes
+sobre o uso da bateria, verificação de DNS, Ping.
+Tempo de aplicativo, tempo de uso e assim por diante.

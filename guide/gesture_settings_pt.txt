@@ -1,0 +1,84 @@
+<h5>Pressione longamente nas notificações para acessar
+as configurações do aplicativo</h5>
+Muitos de vocês podem saber que se deslizarem
+uma mensagem de notificação para um lado, ela
+desaparecerá. No entanto, você pode fazer outras
+coisas se mantiver o dedo pressionado e
+selecionar um dos botões que aparecem à
+direita. Isso pode ser feito tanto na
+tela de bloqueio quanto na barra de notificações.
+Você verá o ícone de engrenagem, que o
+levará às configurações e o ícone "i"
+o levará às configurações de notificação
+para o aplicativo em questão,
+
+<h5>Deslize dois dedos para baixo para acessar
+diretamente as configurações rápidas</h5>
+Este truque existe desde que o Jelly Bean
+estava por aí, mas vale a pena ser
+lembrado. Para evitar ter que passar
+pelas notificações e acessar
+o menu de atalhos rápidos, basta deslizar
+dois dedos do topo da tela
+para baixo. Em vez de fazer o
+movimento convencional duas vezes, ou seja, o
+deslize de um dedo, e primeiro precisar passar
+pelas notificações do aplicativo, o usuário
+acessará rapidamente os atalhos para as
+configurações básicas do Android.
+ <h5>Toque duplo para selecionar palavras para mais
+Opções</h5>
+Desde que o Android 6.0 Marshmallow entrou
+em cena, a função usual de copiar e
+colar com toque duplo teve
+uma atualização. Agora, apenas toque duas vezes em uma
+palavra, frase ou texto e pressione longamente o
+conteúdo selecionado. Em seguida, você terá a
+opção de copiar e compartilhar, ou se pressionar
+o botão de menu de estouro de ação
+três pontos verticais, isso permitirá que você
+pesquise o texto selecionado na web,
+ative o Google Assistant e o traduza,
+tudo sem sair da tela.
+ <h5>Acesse facilmente o modo de segurança</h5>
+O que exatamente é o modo de segurança? Em poucas
+palavras, este modo inicializa o Sistema
+Android Sem mostrar os aplicativos
+que você instalou, como se você tivesse
+formatado o telefone. Esta opção é ideal
+se você estiver enfrentando problemas com um
+aplicativo específico. Além disso, é fácil de
+acessar. Pressione o botão liga/desliga do seu
+dispositivo por alguns segundos. Assim que
+a tela de desligar aparecer, continue
+pressionando o botão liga/desliga por alguns
+segundos. Uma nova janela perguntará se
+você deseja reiniciar o telefone no modo
+de segurança.
+<h5> Zoom em qualquer Tela</h5>
+Muitos aplicativos permitem que você dê zoom
+em uma Tela colocando dois dedos
+na tela e separando-os, mas
+em outros aplicativos ou mesmo na maioria dos
+Sistemas, esta ação não é permitida
+no entanto, há uma solução alternativa. Ative
+a função indo para Configurações
+Acessibilidade > Gestos de ampliação.
+ Uma vez ativado, você clica três vezes
+na tela para dar Zoom onde você
+quiser. Para então deslizar de um lado para o outro na
+tela com Zoom, você precisa
+deslizar dois dedos para a esquerda e para a direita. Você
+pode fazer uma pinça com dois dedos para ajustar o
+zoom.
+<h5> Desinstalar um aplicativo diretamente da tela
+inicial</h5>
+
+Se você pressionar longamente em um ícone de aplicativo na
+sua tela inicial, isso permitirá que você
+o desinstale diretamente arrastando
+o aplicativo para a palavra Desinstalar que
+terá aparecido. Anteriormente, apenas o
+atalho era excluído. Isso pode mudar
+dependendo do modelo do telefone e
+versão do Android.

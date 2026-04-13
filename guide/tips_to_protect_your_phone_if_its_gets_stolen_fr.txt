@@ -1,0 +1,36 @@
+<h5>1. Utilisez un écran de verrouillage</h5>
+
+Nous savons que l'utilisation d'écrans de verrouillage était autrefois pénible lorsque tout ce que vous vouliez faire était de voir si vous aviez reçu un e-mail. Mais maintenant que vous pouvez utiliser des widgets d'écran de verrouillage, il n'y a aucune raison de ne pas verrouiller votre téléphone correctement avec un code, une empreinte digitale, un geste ou un visage. Les nouveaux appareils Android sont équipés de scanners d'empreintes digitales pour une bonne raison : ils sécurisent votre appareil et sont très rapides. Ne pas utiliser d'écran de verrouillage est l'équivalent Android de sortir et de laisser votre porte d'entrée ouverte aux cambrioleurs.
+
+<h5>2. Masquez vos mots de passe</h5>
+
+Le menu Paramètres > Sécurité d'Android dispose d'une option pour rendre tous les mots de passe visibles, et bien que cela parte d'une bonne intention (cela facilite la saisie de mots de passe précis), c'est un risque de sécurité si vous saisissez des mots de passe là où vous pouvez être vu, par exemple lorsque vous êtes dans le train ou dans une foule. Il vaut mieux laisser cette option désactivée.
+
+<h5>3. Masquez et verrouillez vos applications</h5>
+
+Un bon verrouillage d'applications peut être une véritable aubaine non seulement pour des raisons de sécurité, mais aussi pour la protection de la vie privée et pour garantir que les enfants ne peuvent pas effacer ou déplacer quoi que ce soit d'important. Un verrouillage tel qu'AppLock peut empêcher les autres d'accéder à vos photos, contacts, Facebook, paramètres du téléphone et tout ce que vous ne voudriez pas qu'ils manipulent.
+
+<h5>4. Suivez votre téléphone avec Android Device Manager</h5>
+
+Il s'agit plutôt d'un conseil "que faire si vous n'avez pas protégé votre téléphone" : s'il est perdu ou égaré, Android Device Manager peut le trouver, le verrouiller à distance et, dans le pire des cas, suivre sa localisation à distance. Notez que si vous n'avez pas activé les services de localisation sur votre appareil, ADM ne pourra pas le trouver s'il disparaît.
+
+<h5>5. Configurez correctement les services de localisation</h5>
+
+Assurez-vous que votre appareil suit correctement le GPS : si ce n'est pas le cas, il sera beaucoup plus difficile de le suivre avec quelque chose comme Android Device Manager si vous l'égarez.
+
+<h5>6. Vérifiez les notifications et paramètres de vos applications</h5>
+
+Un rapport récent a révélé que dix des applications de lampe de poche les plus populaires demandaient des quantités ridicules d'autorisations, y compris la capacité de suivre votre position et même de supprimer des applications et des fichiers. Et bien sûr, ce ne sont pas seulement les applications de lampe de poche : de nombreux téléchargements douteux sont conçus pour récolter les données des utilisateurs ou les escroquer pour qu'ils remettent des détails financiers ou de l'argent réel. Assurez-vous de maîtriser les autorisations de vos applications.
+
+<h5>7. Utilisez des messageries avec chiffrement</h5>
+
+Si le chiffrement de votre appareil est activé par défaut (c'est-à-dire que vos données sont brouillées de telle manière qu'elles ne peuvent pas simplement être copiées et consultées), cela ne signifie pas que les données que vous envoyez sur Internet sont chiffrées. Pour garantir que vos communications sont privées, utilisez une plateforme chiffrée telle que Telegram, WhatsApp, Facebook Messenger, etc., plutôt que des alternatives non chiffrées.
+
+<h5>8. Installez les mises à jour</h5>
+
+Parfois, les mises à jour d'applications sont des choses mineures qui ne font aucune différence notable, mais parfois ces mises à jour contiennent des correctifs essentiels pour des problèmes de sécurité que vous ne pouvez pas voir mais que les attaquants potentiels peuvent exploiter. Les personnes qui ne mettent pas à jour vers les dernières versions restent vulnérables, il est donc très important de rester à jour avec les mises à jour d'applications et d'Android.
+
+<h5>9. Épinglez l'écran</h5>
+
+Si vous voulez laisser quelqu'un lire quelque chose, comme un article AndroidPIT dans notre application, mais que vous ne voulez pas qu'il saute vers autre chose, l'épinglage d'écran, qui est apparu pour la première fois sur Android Lollipop, verrouille l'affichage sur une seule application. Ce n'est pas la chose la plus sécurisée au monde (il vous indique comment l'annuler directement sur l'écran), mais au moins cela empêche vos amis ou collègues de fouiner accidentellement dans votre appareil. S'ils le font, vous saurez qu'ils l'ont fait délibérément.
+

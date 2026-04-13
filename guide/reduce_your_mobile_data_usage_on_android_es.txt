@@ -1,0 +1,225 @@
+ <h5>Reduce el uso de datos móviles en Android</h5>
+
+Puedes seguir estos consejos para las
+aplicaciones que más usas o para tus
+hábitos de uso particulares.
+
+Comprimir páginas de Chrome
+
+Si usas Chrome para todo tu tráfico
+web, este consejo por sí solo puede ahorrarte
+del 30 al 35 por ciento de tu consumo de datos
+del navegador móvil. La opción Economizador
+de datos comprime las páginas web
+antes de cargarlas en tu navegador.
+
+Usar el Economizador de datos ralentiza un
+poco las cosas, pero te acostumbras
+rápidamente y un momento de retraso
+vale la pena cuando tus datos duran
+mucho más. Simplemente inicia Chrome,
+toca los tres puntos en la esquina superior
+derecha, ve a Configuración
+y luego a Economizador de datos. Vigila
+el gráfico para ver cómo crecen tus ahorros de datos.
+
+  <h5>Usa la compresión de video de Opera</h5>
+El navegador Opera para Android ahora
+tiene una opción de compresión de video muy útil,
+que puede ahorrarte una gran cantidad de
+datos si ves videos con frecuencia
+mientras viajas. Para usarlo, simplemente
+descarga el navegador Opera, ve a
+Configuración > Ahorro de datos y marca la
+casilla que dice Compresión de video.
+Este ajuste no solo te ahorra datos,
+sino que también significa que es más probable
+que los videos se carguen más rápido.
+
+  <h5>Abandona la aplicación de Facebook</h5>
+Es bastante conocido entre los
+aficionados de Android que la
+aplicación de Facebook es uno de los mayores
+consumidores de datos, sin mencionar
+su alto uso de recursos y el agotamiento de la batería.
+Entonces, ¿por qué no reemplazarla con
+algo menos exigente?
+
+Hay muchas aplicaciones alternativas de Facebook,
+pero muchas de ellas son tan
+hambrientas como la versión oficial.
+Incluso Facebook Lite, que afirma
+reducir el consumo de datos en un
+50 por ciento, todavía consume
+cientos de MB en un mes.
+
+¿Por qué no probar Tinfoil para Facebook?,
+que es simplemente una aplicación web que
+muestra el sitio web de Facebook o simplemente
+podrías crear un acceso directo de Chrome en tu navegador web.
+Solo abre Facebook en Chrome, abre el
+menú de opciones y selecciona Agregar a la
+pantalla de inicio.
+
+  <h5>Haz uso de aplicaciones, juegos y servicios fuera de línea</h5>
+
+Algunas aplicaciones y juegos requieren
+acceso constante a Internet para funcionar:
+esto puede ser simplemente una medida de
+seguridad o porque necesitan recuperar datos constantemente.
+Hay algunas aplicaciones y juegos que no
+requieren acceso a Internet en absoluto después
+de la descarga inicial.
+
+Consulta a continuación algunas pistas.
+
+  <h5>Restringir datos de fondo</h5>
+La forma más fácil de ahorrar datos es
+decirle a tus aplicaciones (o al propio sistema
+Android) que restrinjan los datos de fondo.
+Los datos de fondo son todo ese tráfico de
+Internet que ocurre cuando no estás usando
+realmente una aplicación: sincronización de
+correo electrónico, actualización de fuentes,
+widgets meteorológicos, etc.
+
+También puedes decirle al sistema Android
+que restrinja los datos de fondo en
+ <h5>Configuración > Uso de datos > Restringir
+datos de fondo o para aplicaciones individuales
+en Configuración > Aplicaciones (dependiendo
+de la versión de Android que tengas). También
+puedes cambiar tu configuración de sincronización
+para los servicios de Google en Configuración >
+Cuentas > Google > selecciona la cuenta y luego
+desmarca los servicios que no quieres sincronizar automáticamente.
+
+  <h5>Deshabilitar la actualización automática de aplicaciones</h5>
+Otro gran drenaje de tu
+asignación de datos proviene de la
+actualización ocasional de aplicaciones de Google Play.
+Si tienes Play Store configurado para actualizar
+automáticamente las aplicaciones, incluso
+a través de una conexión de datos, esto podría
+estar consumiendo tu asignación cada mes sin
+que te des cuenta.
+
+Para verificar, ve a Play Store y
+desliza el panel de navegación izquierdo.
+Toca Configuración y en la parte superior,
+verás Actualizar aplicaciones automáticamente.
+Toca esto y asegúrate de tenerlo configurado en
+No actualizar aplicaciones automáticamente o
+Actualizar aplicaciones automáticamente solo por Wi-Fi.
+Para administrar aplicaciones individuales, ve a mis
+aplicaciones, selecciona una aplicación y luego toca
+el menú de opciones para marcar o desmarcar
+la actualización automática.
+
+   <h5>Pon algo de música en tu teléfono</h5>
+Servicios de streaming como YouTube,
+Spotify, Vine y otros sitios de video y
+música consumen gran cantidad de datos.
+Si hay una melodía o álbum que escuchas
+constantemente en el gimnasio
+o de camino al trabajo, usarás
+mucho menos datos cargándolo en tu
+teléfono y escuchándolo fuera de línea,
+en lugar de transmitirlo interminablemente desde la web.
+
+Si tu teléfono no tiene una
+tarjeta micro SD o suficiente espacio
+en su memoria interna para que
+guardes música, puedes usar un adaptador
+micro SD. Alternativamente, puedes guardar
+música para escuchar fuera de línea. No
+requerirá tanto espacio en tu
+teléfono y es fácil de quitar o
+reemplazar más tarde. Si puedes frenar tus
+antojos de streaming, aunque sea un poco,
+verás una gran reducción en el consumo
+de datos.
+
+   <h5>Identifica y limita/elimina aplicaciones de
+alto consumo</h5>
+
+En Configuración > Uso de datos puedes
+echar un vistazo a las aplicaciones que
+consumen más datos tanto en primer
+plano como en segundo plano. Esto puede
+ser muy útil para saber qué aplicaciones
+debes restringir.
+
+Toma Gmail, por ejemplo. En mi
+teléfono, ha descargado 451 MB de
+correos electrónicos en segundo plano. Si sintiera
+que no uso la aplicación lo suficiente como para
+justificar tanto uso de datos, podría eliminar
+la aplicación, limitar la frecuencia con la que se sincroniza
+o evitar que descargue archivos adjuntos,
+todo lo cual reduciría el consumo de datos.
+
+<h5>No subas, descargues ni envíes
+fotos o videos</h5>
+
+Un solo minuto de metraje de alta definición
+capturado en un teléfono inteligente moderno
+puede ocupar hasta 200 MB de datos.
+Las fotos individuales pueden superar fácilmente los 40 MB.
+Ni siquiera pienses en subirlas a
+Facebook, o descargar fotos y videos de amigos,
+a menos que tu plan de datos móviles pueda manejarlo.
+
+ <h5>Haz uso de puntos de acceso Wi-Fi</h5>
+Las redes Wi-Fi abiertas son una excelente
+manera de ahorrar datos cuando estás
+fuera de casa. Cada vez más restaurantes
+y locales ofrecen conectividad Wi-Fi y estos
+puntos de acceso son fáciles de encontrar en tu
+dispositivo Android.
+
+En tu menú de Wi-Fi (fácil de encontrar
+con un deslizamiento hacia abajo de dos dedos
+desde la parte superior de tu teléfono en
+Lollipop/Marshmallow), cualquier punto de acceso
+Wi-Fi que no tenga un icono de candado
+está abierto y tiene el potencial de ser accedido
+sin ingresar detalles o contraseñas.
+Simplemente toca un punto de acceso cuando
+lo veas para conectarte. Existe el potencial
+de que la gente escuche tus interacciones en línea
+a través de estas redes, pero esto solo significa
+que debes tener precaución. No ingreses información
+confidencial en tales situaciones, ni accedas a
+material privado. O si deseas hacer esto, podrías
+usar una aplicación VPN para mantenerte privado y seguro.
+
+ <h5>Comparte fotos, videos y otros archivos
+vía Bluetooth</h5>
+Como mencionamos en el punto 10, simplemente
+recibir fotos y videos puede consumir muchos datos.
+Pero las transferencias a través de la red móvil no son la única
+forma de enviar archivos. Gracias a la magia del
+Bluetooth, puedes enviar rápida y fácilmente archivos
+relativamente grandes a otros en tu vecindad sin usar
+nada de datos.
+
+Por supuesto, la proximidad es una de las
+limitaciones del Bluetooth, pero cuando el
+destinatario está cerca, esto podría ser un gran ahorro de datos.
+
+Para enviar algo por Bluetooth, debes navegar
+hasta el elemento que deseas enviar y luego presionar el
+botón compartir (se ve así) o seleccionar
+compartir en el menú de opciones. La
+forma de hacerlo dependerá del elemento
+que estés enviando.
+
+Luego, selecciona el icono de Bluetooth.
+Si tu Bluetooth no está habilitado, es posible que
+se te pida que lo habilites. Finalmente, debes
+seleccionar el dispositivo de destino de una lista
+de gadgets cercanos con Bluetooth habilitado.
+Ten en cuenta que el dispositivo de destino
+también debe tener el Bluetooth habilitado,
+y debes saber su nombre para encontrarlo en la lista.

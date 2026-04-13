@@ -1,0 +1,66 @@
+<h5>Lihat notifikasi Anda bahkan setelah
+menghapusnya:</h5>
+Apakah Anda telah menghapus semua notifikasi Anda
+tanpa melihatnya? Ada cara yang sangat
+sederhana untuk melihatnya lagi. Pergi ke
+widget, ambil "pintasan pengaturan"
+ke layar beranda Anda dan pilih
+notifikasi di sana. Sekarang Anda dapat melihat
+pintasan Notifikasi di layar
+beranda Anda. Sekarang buka dan Anda dapat melihat
+semua notifikasi. Jalurnya adalah Widget>
+Pintasan Pengaturan> Notifikasi.
+ <h5>Atur peringatan untuk batas data:</h5>
+
+Navigasikan ke menu Pengaturan dan pilih
+opsi 'Penggunaan Data' untuk menemukan
+grafik yang dengan jelas menggambarkan
+penggunaan data di perangkat Anda oleh semua
+aplikasi. Anda dapat menemukan opsi untuk
+mengatur peringatan untuk batas data, mengatur siklus
+untuk memantau penggunaan data dan mengaktifkan atau
+menonaktifkan penggunaan data di perangkat Anda.
+
+Penggunaan data seluler sangat berkaitan
+dengan kinerja perangkat. Ada
+banyak fitur utama yang perlu
+dipantau untuk meningkatkan masa pakai
+baterai perangkat android Anda. Jadi awasi
+dan mainkan dengan opsi
+seperti sinkronisasi data selektif,
+jaringan seluler selektif, beralih
+dari 2G ke 3G kapan pun diperlukan dll.,
+tips ini akan membantu Anda meningkatkan
+masa pakai baterai di perangkat Anda pastinya.
+Cara mendapatkan masa pakai baterai yang lebih baik di
+Ponsel Cerdas Anda navigasikan ke Pengaturan>>Penggunaan
+Data
+
+<h5>Dapatkan informasi terperinci tentang status
+ponsel:</h5>
+Kita bisa mendapatkan statistik terperinci
+terkait dengan perangkat kita seperti informasi
+ponsel, informasi baterai, statistik
+penggunaan dan informasi Wi-Fi hanya dengan
+menekan #*#4636#*#* Ini adalah USSD
+yang praktis untuk mendapatkan detail tentang penggunaan
+baterai, pemeriksaan DNS, Ping, waktu
+Aplikasi, waktu penggunaan dan sebagainya.
+
+<h5> Hard Reset dan Reset Pabrik
+ponsel android Anda:</h5>
+
+Ponsel Android dapat diformat dengan
+dua cara: a) Reset pabrik: Dalam reset
+pabrik, ponsel Anda sedang diformat
+ke tingkat pabrik. Berarti semua pengaturan
+akan menjadi default dan semua data
+internal akan dihapus. Untuk mereset pabrik
+ponsel hubungi #*#7780#*#. b) Hard reset:
+Untuk melakukan hard reset ponsel hubungi *2767*3855#,
+ ini akan menghapus semua data (termasuk
+data SD internal dan eksternal) serta
+pengaturan ponsel android. Jangan
+coba kode ini untuk tujuan pengujian, sampai
+Anda yakin. Ini tidak akan meminta konfirmasi
+apa pun.

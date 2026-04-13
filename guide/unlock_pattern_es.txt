@@ -1,0 +1,30 @@
+<h5>Cómo desbloquear el patrón de bloqueo de Android usando el símbolo del sistema</h5>
+<ol>
+<li> Conecta tu teléfono Android a tu
+computadora.</li>
+ <li>  Abre el símbolo del sistema como
+administrador.</li>
+ <li> Ahora en la ventana del símbolo del sistema
+escribe el siguiente código cuidadosamente exactamente
+como está y luego presiona enter.
+adb shell cd /data/data/
+com.android.providers.settings/
+databases SQLite3 settings.db
+update system set value=0 where
+name=lock_pattern_auto lock; update
+system set value-0 where name=lock
+Screen.locked out permanently; .quit</li>
+<li>  Ahora verás una pantalla como se muestra
+a continuación y luego puedes reiniciar tu
+teléfono y ahora cuando comience
+de nuevo, intenta desbloquear tu teléfono
+usando cualquier patrón de bloqueo aleatorio y
+funcionará bastante bien.</li>
+<li>  Si enfrentas algún problema repite los mismos
+pasos pero en lugar del código anterior
+intenta usar adb shell rm/data/system/
+gesture.key y luego presiona enter y
+ahora intenta reiniciar tu dispositivo para ver si
+funciona.
+Disfruta.</li>
+</ol>

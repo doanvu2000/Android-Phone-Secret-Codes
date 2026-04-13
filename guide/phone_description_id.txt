@@ -1,0 +1,11 @@
+<h5>Dapatkan informasi terperinci
+tentang status ponsel</h5>
+Kita bisa mendapatkan statistik terperinci
+terkait dengan perangkat kita seperti informasi
+ponsel, informasi baterai, statistik
+penggunaan dan informasi Wi-Fi hanya dengan
+menekan
+*#*#4636#*#*
+Ini adalah USSD yang praktis untuk mendapatkan detail
+tentang penggunaan baterai, pemeriksaan DNS, Ping.
+Waktu aplikasi, waktu penggunaan dan sebagainya.

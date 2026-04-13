@@ -1,0 +1,26 @@
+Selecciona la categoría de aplicación de la lista
+Desliza la pantalla para cambiar la
+categoría de Almacenamiento interno a
+Lista de aplicaciones en ejecución
+La imagen muestra una lista de aplicaciones en ejecución
+Ahora selecciona y "detén" la aplicación
+que se está ejecutando innecesariamente y
+está agotando la batería de tu dispositivo
+
+si tu batería se está agotando demasiado rápido, podría
+ser debido a aplicaciones en segundo plano
+que olvidas que están en ejecución. Mejorar
+tu duración de batería puede ser más fácil de lo que
+piensas.
+
+<h5>Navega a Configuración>>Aplicaciones>>luego
+desliza a la pestaña en ejecución</h5> . Verás las
+aplicaciones que están usando más procesamiento
+y energía de batería. Si no usas una
+aplicación de alto consumo muy a menudo, simplemente toca
+la aplicación y luego toca el botón salir.
+Deshacerse de aplicaciones que consumen energía
+debería darte un pequeño impulso a tu
+duración de batería.
+
+

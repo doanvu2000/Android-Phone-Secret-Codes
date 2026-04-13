@@ -1,0 +1,37 @@
+<h5> Como Melhorar a Duração da
+Bateria do Android?</h5>
+<ol>
+<li> Reduza o brilho da tela</li>
+<li> 0 Não use Papéis de Parede Animados</li>
+<li>Use papel de parede preto ou tema preto</li>
+<li> Remova widgets da tela inicial que
+você não precisa</li>
+<li> Mantenha sua bateria longe de calor
+extremo</li>
+<li> Desative a Sincronização Automática
+Para desativar a sincronização automática, vá para Configurações
+-> Contas e Sincronização -> desmarque a
+'Sincronização automática'.</li>
+<li> Desligue o Wi-Fi quando não estiver em uso</li>
+<li> Desative o feedback tátil.
+Para desativar o feedback tátil, vá para
+Configurações -> Som. Role para baixo até
+sistema e desmarque Feedback tátil.</li>
+<li> Desligue os serviços de localização.
+Para desligar os serviços de localização:
+Toque em Configurações -> Serviços de localização.
+Desmarque todas as caixas disponíveis.</li>
+<li> Desative atualizações automáticas para widgets
+Para desativar as atualizações automáticas de um widget:
+Abra o widget e pressione Menu ->
+Configurações.</li>
+Toque em atualização automática e escolha Nenhum
+Se você não pode personalizar o widget e
+é algo sem o qual você pode viver, nós
+sugerimos que você o remova da tela
+inicial. Para fazer isso:
+Pressione e segure o widget até que ele
+esteja destacado.
+Arraste o widget para o ícone de lixeira para
+removê-lo da tela inicial.
+</ol>

@@ -1,0 +1,17 @@
+<h5>Añade tu segundo idioma</h5>
+Si eres igualmente fluido en dos
+idiomas, entonces Android te proporciona
+la facilidad de dar entrada en ambos
+idiomas, lo cual es obviamente una gran
+característica para usuarios bilingües y también
+viajeros frecuentes.
+Para hacer uso de la característica
+multi-idioma, abre Configuración > Idiomas y
+entrada > Preferencias de idioma, luego
+selecciona Añadir un idioma y finalmente elige
+tu segundo idioma de la lista de
+idiomas disponibles. Después de eso, puedes
+cambiar fácilmente el idioma en el
+teclado en pantalla presionando el globo
+o manteniendo presionada la tecla espaciadora.
+

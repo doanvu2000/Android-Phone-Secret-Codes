@@ -1,0 +1,105 @@
+ <h5>Configure corretamente</h5>
+Certifique-se de ter configurado o Google Now corretamente
+antes de começar a explorar.
+Primeiro, faça o Google Now reconhecer
+seu comando "OK Google" de qualquer
+tela tocando no ícone do menu hambúrguer
+no aplicativo Google. em seguida, vá para
+ Configurações Voz > detecção OK Google.
+ Aqui você simplesmente desliza todos os botões para a
+direita.
+Uma vez feito isso, você será solicitado
+a treinar o OK Google para o seu dispositivo, o que
+você faz dizendo "OK Google" três
+vezes.
+Em seguida, vá para Configurações> Voz
+Reconhecimento de fala offline  e certifique-se
+de que todos os idiomas que você precisa foram
+baixados. Dessa forma, você ainda pode
+usar comandos OK Google que não
+requerem internet quando estiver offline.
+Se você confia no Google o suficiente para dar-lhe
+acesso aos seus dados de localização, você abrirá
+muitos recursos ótimos do Google Now.
+Para permitir que o Google Now use seus
+dados de localização, vá para o aplicativo de configurações
+do Google, escolha Localização e certifique-se de que está
+definido como Ativado. Em seguida, vá para Histórico de localização do Google
+na parte inferior da mesma página
+e defina isso como Ativado também.
+Enquanto estiver nisso, vá para o aplicativo
+Google, pressione o ícone do menu hambúrguer
+e depois vá para Personalizar. aqui, você
+pode definir seus endereços residenciais e de trabalho,
+que podem ser usados para definir lembretes e
+obter informações sobre seu trajeto.
+Você também pode inserir seus times esportivos
+favoritos, quais modos de transporte você
+usa, e mais, para obter os cartões mais úteis
+e interessantes exibidos
+
+<h5>Aprenda todos os comandos de voz
+OK Google</h5>
+
+Google Now OK Google oferece centenas
+de comandos de voz que podem ser usados para
+realizar uma série de operações. quanto
+mais você souber, mais você obterá
+do Google Now.
+ <h5>Use lembretes baseados em localização</h5>
+Se você precisa se lembrar de fazer algo
+em um determinado lugar, mas não tem certeza
+de que horas você estará lá, você pode pedir ao
+Google para lembrá-lo assim que detectar
+que você está lá. isso pode ser útil para lembrar
+o que você precisa comprar quando chegar
+à loja, ou que você precisa
+ligar o forno assim que
+chegar em casa, por exemplo.
+ <h5>Deixe ajudá-lo com arranjos de viagem</h5>
+Se você usa o Google Calendar, o Google
+Now fornecerá cartões
+e notificações que informam
+antecipadamente que horas você deve sair
+para chegar a um compromisso no horário.
+Essas notificações até levam em conta as
+condições de tráfego, tornando você um ser humano mais
+pontual e eficaz.
+Certifique-se de ter seu modo de
+transporte preferido selecionado  (Personalizar > transporte)  e
+depois vá para  configurações> cartões NOW
+ e ative Trajeto e Hora de sair.
+
+ <h5>Use para rastrear pacotes ou voos</h5>
+
+Se você receber confirmações de voo
+e informações de rastreamento de entrega para uma
+conta de e-mail do Google vinculada ao
+Google Now, esses e-mails serão usados
+para fornecer cartões que rastreiam pacotes
+e atualizam você sobre o status do seu voo.
+O mesmo pode ser feito para qualquer voo
+pesquisando o número do voo. Se
+você tiver o histórico da web ativado, o Google
+Now criará um cartão dedicado para o
+voo.
+
+<h5> Faça perguntas de acompanhamento</h5>
+
+O Google Now é muito bom em
+contextualizar o que você diz. Se você
+perguntou, "Quão grande é a Califórnia?",
+por exemplo, você pode fazer uma pergunta de acompanhamento
+como "Quantas pessoas
+vivem lá?" e o Google não deve ter
+problemas em lembrar que "lá"
+se refere à Califórnia.
+ <h5>Inicie aplicativos</h5>
+O Google Now sempre esteve lá
+para fornecer uma experiência sem as mãos,
+então, por que continuar usando seus dedos
+para abrir aplicativos laboriosamente? Simplesmente diga
+"Abrir [nome do aplicativo]" e deixe o Google fazer isso
+por você!
+
+

@@ -1,0 +1,139 @@
+<h5>Comment vérifier les mises à jour du système android</h5>
+Pour les utilisateurs d'Android qui utilisent la ROM
+stock, vous voudrez peut-être rechercher de nouvelles
+mises à jour pour votre système. Pour vérifier
+les mises à jour :
+
+Allez dans Paramètres> à propos du téléphone/tablette.
+
+Appuyez sur Mises à jour du système.
+
+Appuyez sur Vérifier maintenant pour rechercher des mises à jour
+du système.
+
+ <h5>Changer les applications par défaut</h5>
+Si vous avez déjà défini certaines applications
+par défaut pour des tâches particulières (par ex. utiliser
+Chrome pour ouvrir des liens web) mais souhaitez
+changer cela :
+
+Allez dans Paramètres > Applications.
+
+Glissez vers la droite et cherchez l'onglet tout.
+
+Sélectionnez l'application que vous voulez supprimer comme
+défaut.
+
+Appuyez sur Effacer les valeurs par défaut.
+
+
+ <h5>Organiser les raccourcis de l'écran d'accueil avec
+des dossiers</h5>
+
+Une fois que vous avez beaucoup d'applications installées,
+votre écran d'accueil pourrait être rempli de
+raccourcis d'applications. Contrairement au tiroir d'applications
+les applications sur votre écran d'accueil ne sont pas
+arrangées alphabétiquement, donc, vous pourriez
+vouloir créer quelques dossiers pour vos
+raccourcis d'écran d'accueil.
+
+En supposant que vous avez plus d'une
+poignée de raccourcis déjà sur votre
+écran d'accueil, appuyez longuement sur n'importe lequel des
+raccourcis et faites-le glisser sur un autre
+raccourci
+
+Un cercle devrait maintenant apparaître autour des
+applications, indiquant qu'un dossier a été
+créé.
+
+En appuyant sur le dossier nouvellement créé,
+une mini fenêtre apparaîtra Avec vos
+applications Dedans.
+
+Vous pouvez faire glisser et déposer des applications supplémentaires
+dans le dossier si vous le souhaitez. Vous pouvez aussi
+renommer le dossier en appuyant sur la
+zone de texte en bas de la mini
+fenêtre.
+
+Il y a beaucoup d'applications Facebook alternatives
+mais beaucoup d'entre elles sont tout aussi gourmandes que la
+version officielle.
+même facebook lite, qui prétend
+réduire la consommation de données de
+50 pour cent, mâche encore des centaines de Mo en un mois.
+
+Alors pourquoi ne pas essayer Tinfoil pour Facebook
+qui est Simplement une application web qui affiche
+le site web de Facebook ou vous pourriez
+Simplement créer un raccourci Chrome Dans votre
+navigateur web. Ouvrez juste Facebook Dans
+Chrome, ouvrez le menu de débordement et sélectionnez Ajouter à l'écran d'accueil.
+
+ <h5>Désactiver les animations</h5>
+Voici une astuce sur comment faire fonctionner votre appareil
+Android un peu plus fluidement : désactivez ses
+animations. Vous devrez avoir accès
+aux Options pour les développeurs qui peuvent être
+trouvées sous paramètres ou à propos de l'appareil.
+
+Note : Pour certains téléphones, vous pourriez avoir besoin
+d'aller à Numéro de build et d'appuyer dessus
+répétitivement jusqu'à ce que vous voyiez Vous êtes maintenant un
+développeur. Les options pour les développeurs sont maintenant
+activées.
+
+Sous les options pour les Développeurs activées, cherchez
+échelle d'animation de fenêtre, échelle d'animation de
+Transition, et Échelle de durée de
+l'Animateur. Ensuite, éteignez-les (désactivez)
+une à la fois.
+
+ <h5>Comment désactiver la correction automatique</h5>
+Détestez-vous le fait que votre téléphone passe
+en mode professeur d'anglais sur vous ? désactivez
+la correction automatique pour la tranquillité d'esprit lors de
+l'envoi de SMS.
+Allez dans Paramètres Langue et saisie.
+Appuyez sur l'icône de paramètres à côté du
+clavier que vous utilisez, par ex. Clavier
+Google.
+Cherchez Correction automatique et appuyez dessus.
+
+Sélectionnez Désactivé pour éteindre la correction automatique.
+
+ <h5>Changer la préférence réseau</h5>
+
+Beaucoup d'appareils d'aujourd'hui fonctionnent sur le réseau
+4G. Malheureusement la couverture
+4G est souvent inégale, et l'utiliser peut rapidement
+drainer la batterie de votre téléphone et vous mettre
+au-dessus de votre allocation mensuelle de données. Vous pourriez
+vouloir utiliser le réseau 4G seulement
+dans une zone bien couverte, ou passer à la 3G
+quand vous manquez de puissance
+Android rend facile de faire cela. Pour
+Changer de réseaux, allez simplement dans <h5>Paramètres
+>Réseaux mobiles > Mode réseau</h5> et
+réglez votre téléphone sur CDMA seulement (3G) ou
+LTE/CDMA (4G). Ces paramètres pourraient
+varier selon votre emplacement et
+sur quel réseau vous êtes.
+
+ <h5>Message flash sur l'écran de verrouillage</h5>
+Si vous avez la malchance de perdre
+votre téléphone, il est peu probable que vous le
+récupériez. Même si quelqu'un veut
+le rendre, la protection par mot de passe les
+empêchera d'accéder à un numéro
+pour vous joindre. Avec Android 4.1, 4.2 et
+4.3 (Jelly Bean), vous pouvez afficher vos
+informations de Contact sur l'écran de verrouillage
+pour augmenter les chances de réunir
+avec un appareil perdu. Depuis Paramètres. allez dans
+Sécurité> Sécurité de l'écran > Infos propriétaire.
+Vous pouvez entrer votre nom, adresse e-mail,
+numéro de téléphone ou autres informations pour
+apparaître sur l'écran de verrouillage.

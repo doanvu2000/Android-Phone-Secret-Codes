@@ -1,0 +1,9 @@
+<h5>Bagaimana cara Memblokir Bluetooth?</h5>
+1. Pertama-tama Nyalakan Bluetooth Anda.
+2. Ketik kode *9990# Di Papan Tombol
+3. Kemudian blokir bluetooth Anda
+4. Jika Anda ingin Membuka Blokir Bluetooth Anda
+Maka Ketik *999O# Lagi di
+Papan Tombol.
+Nikmati.
+

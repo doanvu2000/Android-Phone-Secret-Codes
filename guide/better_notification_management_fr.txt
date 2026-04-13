@@ -1,0 +1,22 @@
+<h5>Meilleure gestion des notifications</h5>
+Avec Android, vous pouvez gérer certains
+types de notifications en fonction des applications
+d'où elles proviennent. Ignorez les publicités, les promotions
+et autres notifications non pertinentes et
+ne gardez que les importantes qui nécessitent vraiment
+votre attention.
+Pour ce faire, sur toute notification entrante,
+appuyez longuement sur la notification de l'application
+> sélectionnez le comportement
+en conséquence parmi les options. Vous pouvez
+choisir de mettre les notifications sous silence ou
+de les bloquer totalement.
+Si vous appuyez sur PLUS DE PARAMÈTRES (en
+bas, à côté de TERMINÉ), vous pouvez choisir de :
+*Bloquer toutes les notifications de cette application,
+*Les afficher silencieusement.
+*Contrôler ce qui apparaît sur l'écran de
+verrouillage, ou
+*Autoriser l'application à passer outre le paramètre
+Ne pas déranger.
+

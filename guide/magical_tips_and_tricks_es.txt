@@ -1,0 +1,66 @@
+<h5>Ver tus notificaciones incluso después de
+borrarlas:</h5>
+¿Has borrado todas tus notificaciones
+sin verlas? Hay una manera muy
+sencilla de verlas de nuevo. Ve a
+widgets, toma el "acceso directo de configuración"
+en tu pantalla de inicio y selecciona
+notificaciones allí. Ahora puedes ver
+el acceso directo de Notificaciones en tu pantalla
+de inicio. Ahora ábrelo y podrás ver
+todas las notificaciones. La ruta es Widgets>
+Acceso directo de configuración> Notificaciones.
+ <h5>Establecer advertencias para límites de datos:</h5>
+
+Navega al menú de Configuración y selecciona
+la opción 'Uso de Datos' para encontrar el
+gráfico que representa claramente el
+uso de datos en tu dispositivo por todas las
+aplicaciones. Puedes encontrar las opciones para
+establecer advertencias para límites de datos, establecer ciclos
+para monitorear el uso de datos y habilitar o
+deshabilitar el uso de datos en tu dispositivo.
+
+El uso de datos móviles tiene mucho que ver
+con el rendimiento del dispositivo. Hay
+muchas características clave que necesitan ser
+monitoreadas para mejorar la vida de la
+batería de tu dispositivo android. Así que mantén
+un ojo y juega con opciones
+como sincronización selectiva de datos,
+redes móviles selectivas, cambiar
+de 2G a 3G cuando sea necesario, etc.,
+estos consejos te ayudarán a aumentar la
+vida de la batería en tu dispositivo con seguridad.
+Cómo obtener una mejor vida de la batería en tu
+teléfono inteligente navega a Configuración>>Uso
+de Datos
+
+<h5>Obtener información detallada sobre el estado del
+teléfono:</h5>
+Podemos obtener las estadísticas detalladas
+relacionadas con nuestro dispositivo como información
+del teléfono, información de la batería, estadísticas
+de uso e información de Wi-Fi simplemente
+marcando #*#4636#*#* Este es un código USSD
+práctico para obtener los detalles sobre el uso de
+batería, verificación de DNS, Ping, tiempo de
+aplicación, tiempo de uso y demás.
+
+<h5> Hard Reset y Restablecimiento de fábrica de tu
+teléfono android:</h5>
+
+El teléfono Android se puede formatear de
+dos maneras: a) Restablecimiento de fábrica: En el restablecimiento
+de fábrica, tu teléfono se formatea
+a nivel de fábrica. Significa que todas las configuraciones
+volverán a ser predeterminadas y todos los datos
+internos se eliminarán. Para restablecer de fábrica un
+teléfono marca #*#7780#*#. b) Hard reset:
+Para hacer un hard reset a un teléfono marca *2767*3855#,
+ esto eliminará todos los datos (incluyendo
+datos SD internos y externos) así como
+la configuración del teléfono android. No
+pruebes este código con fines de prueba, hasta que
+no estés seguro. No pedirá ninguna
+confirmación.

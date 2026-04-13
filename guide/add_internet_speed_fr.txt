@@ -1,0 +1,27 @@
+<h5>Indicateur sur les téléphones Android</h5>
+Vous pouvez surveiller votre vitesse de téléchargement
+amont et aval en temps réel sur votre téléphone.
+Tout ce que vous avez à faire est de télécharger l'application Internet
+Speed Meter sur votre téléphone. Vous pouvez
+également suivre votre utilisation quotidienne de données avec
+l'aide de cette application.
+Ce n'est pas seulement une application de compteur de vitesse. C'est un
+paquet complet pour suivre votre utilisation de données
+internet par application. Oui, vous
+obtenez un rapport d'utilisation internet quotidien, mais
+en plus de cela, vous obtenez également des informations
+complètes sur la connexion Wi-Fi à laquelle
+vous êtes connecté. Informations
+incluant la fréquence Wi-Fi, l'adresse IP,
+la vitesse de liaison, le SSID et bien plus encore.
+<h5>Indicateur sur les téléphones Xiaomi</h5>
+Si vous avez un téléphone Xiaomi avec MIUI
+installé, eh bien mes amis, vous n'avez pas
+besoin d'installer un quelconque type d'application sur votre
+téléphone Android.
+Pour activer l'indicateur de vitesse Internet
+dans MIUI 8, ouvrez les paramètres de votre téléphone et
+sélectionnez Notifications et barre d'état.
+Activez Afficher la vitesse de connexion.
+Maintenant vous voyez l'indicateur de vitesse réseau sur
+votre téléphone Xiaomi.

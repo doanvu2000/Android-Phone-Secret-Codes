@@ -1,0 +1,24 @@
+<h5> Cara Mengontrol Laptop
+atau Komputer Anda Melalui
+Ponsel Anda</h5>
+ Sekarang Anda dapat mengontrol laptop atau
+komputer Anda dengan ponsel Android Anda.
+Ikuti saja saya.
+<ol>
+<li> Instal Team Viewer di ponsel dan
+komputer Anda.</li>
+ <li>Setelah instalasi selesai
+buka Team Viewer di ponsel dan
+komputer Anda.</li>
+<li> Sekarang salin ID Team
+Viewer komputer Anda dan masukkan ID tersebut di
+Team Viewer ponsel Anda.</li>
+<li> Sekarang klik Remote Control.</li>
+ <li>Sekarang akan meminta kata sandi. Salin
+kata sandi Team Viewer komputer Anda dan
+masukkan di Team Viewer ponsel Anda.</li>
+<li> Sekarang tekan OK dan ya, Anda telah
+SELESAI sekarang.
+Nikmati.</li>
+</ol>
+

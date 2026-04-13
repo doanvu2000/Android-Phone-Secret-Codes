@@ -1,0 +1,66 @@
+<h5>Voir vos notifications même après
+les avoir effacées :</h5>
+Avez-vous effacé toutes vos notifications
+sans les voir ? Il existe un moyen très
+simple de les revoir. Allez dans les
+widgets, prenez le "raccourci paramètres"
+sur votre écran d'accueil et sélectionnez
+notifications là-bas. Maintenant vous pouvez voir
+le raccourci Notifications sur votre écran
+d'accueil. Maintenant ouvrez-le et vous pouvez voir
+toutes les notifications. Le chemin est Widgets>
+Raccourci paramètres> Notifications.
+ <h5>Définir des avertissements pour les limites de données :</h5>
+
+Naviguez vers le menu Paramètres et sélectionnez
+l'option 'Utilisation des données' pour trouver le
+graphique qui dépeint clairement l'
+utilisation des données dans votre appareil par toutes les
+applications. Vous pouvez trouver les options pour
+définir des avertissements pour les limites de données, définir des cycles
+pour surveiller l'utilisation des données et activer ou
+désactiver l'utilisation des données dans votre appareil.
+
+L'utilisation des données mobiles a beaucoup à voir
+avec les performances de l'appareil. Il y a
+de nombreuses fonctionnalités clés qui doivent être
+surveillées afin d'améliorer la durée de vie de la
+batterie de votre appareil android. Alors gardez
+un œil et jouez avec des options
+comme la synchronisation sélective des données,
+les réseaux mobiles sélectifs, passer
+de 2G à 3G chaque fois que nécessaire etc.,
+ces conseils vous aideront à augmenter la
+durée de vie de la batterie sur votre appareil à coup sûr.
+Comment obtenir une meilleure autonomie de la batterie sur votre
+Smartphone naviguez vers Paramètres>>Utilisation
+des données
+
+<h5>Obtenir des informations détaillées sur l'état du
+téléphone :</h5>
+Nous pouvons obtenir les statistiques détaillées
+liées à notre appareil comme les informations
+du téléphone, les informations de la batterie, les statistiques
+d'utilisation et les informations Wi-Fi en
+composant simplement #*#4636#*#* C'est un code USSD
+pratique pour obtenir les détails sur l'utilisation de la
+batterie, la vérification DNS, Ping, le temps d'
+Application, le temps d'utilisation et ainsi de suite.
+
+<h5> Réinitialisation matérielle et réinitialisation d'usine de votre
+téléphone android :</h5>
+
+Le téléphone Android peut être formaté de
+deux façons : a) Réinitialisation d'usine : Dans la réinitialisation
+d'usine, votre téléphone est formaté
+au niveau d'usine. Cela signifie que tous les paramètres
+reviendront par défaut et toutes les données
+internes seront supprimées. Pour réinitialiser un
+téléphone en usine, composez #*#7780#*#. b) Réinitialisation matérielle :
+Pour effectuer une réinitialisation matérielle d'un téléphone, composez *2767*3855#,
+ cela supprimera toutes les données (y compris
+les données SD internes et externes) ainsi que
+les paramètres du téléphone android. N'
+essayez pas ce code à des fins de test, tant que
+vous n'êtes pas sûr. Il ne demandera aucune
+confirmation.

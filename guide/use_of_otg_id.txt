@@ -1,0 +1,67 @@
+USB OTG, USB on the go adalah standar
+yang memungkinkan perangkat seluler untuk berbicara
+satu sama lain. Secara tradisional perangkat
+seluler hanya dapat terhubung ke
+Mac/PC melalui USB, tetapi USB OTG memungkinkan
+perangkat untuk terhubung langsung satu sama
+lain,
+
+ <h5>Bagaimana cara mengetahui apakah perangkat Android saya
+mendukung USB OTG?</h5>
+
+USB OTG memiliki logonya sendiri, yang
+seharusnya ada di kemasan perangkat Anda
+jika didukung. Jika Anda tidak memiliki
+kemasan aslinya, Anda dapat mencari
+dengan model perangkat di Google untuk menemukan
+informasi ini.
+Umumnya, jika smartphone Anda
+dirilis dalam dua tahun terakhir, ia akan
+Mendukungnya.
+
+ <h5>Apa yang bisa saya lakukan dengan USB OTG?</h5>
+Hubungkan mouse atau keyboard
+
+Cukup colokkan mouse USB dan Anda akan
+secara otomatis melihat kursornya muncul di
+layar Anda. Ini juga merupakan cara yang bagus
+untuk menggunakan perangkat Anda jika layar sentuh
+rusak. Atau, hubungkan keyboard
+eksternal untuk mengubah tablet menjadi
+laptop.
+Hubungkan drive penyimpanan USB
+
+Anda dapat terhubung ke perangkat penyimpanan seperti
+USB stick atau hard drive eksternal
+dengan USB OTG. Menggunakan manajer file pada
+perangkat Anda, Anda dapat langsung mengakses
+data pada perangkat penyimpanan eksternal dan
+memutar film atau musik tanpa harus
+menyimpannya di ponsel Anda.
+
+ <h5>Hubungkan pengontrol game</h5>
+Menggunakan pengontrol Xbox 360 berkabel adalah
+cara mudah untuk melakukan ini: cukup hubungkan
+ke ponsel Anda dengan kabel USB OTG
+jalankan game dan itu akan langsung berfungsi,
+tidak perlu konfigurasi.
+
+ <h5>Gunakan smartphone Anda yang rusak dari PC</h5>
+Layar rusak tetapi Anda masih bisa melihat
+tampilan
+Jika layar sentuh Anda rusak tetapi
+tampilan masih berfungsi (Anda dapat melihatnya),
+Anda dapat memperbaikinya dengan menggunakan USB OTG
+dan mouse yang terhubung ke perangkat Anda.
+
+Setelah Anda menghubungkan mouse,
+Anda dapat membuka kunci perangkat Anda terlepas
+dari apakah Anda memiliki pola, PIN
+atau kata sandi. Kami merekomendasikan menggunakan
+kata sandi karena sangat aman.
+
+Sekarang ponsel Anda telah terbuka kuncinya,
+Anda dapat menghubungkannya ke komputer dan
+mentransfer data yang Anda butuhkan ke
+memori microSD Anda atau menghubungkannya langsung
+ke PC Anda dan mentransfer file ke sana.

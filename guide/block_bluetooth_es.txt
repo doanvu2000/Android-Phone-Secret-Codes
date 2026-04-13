@@ -1,0 +1,9 @@
+<h5>¿Cómo bloquear Bluetooth?</h5>
+1. Primero que nada, enciende tu Bluetooth.
+2. Escribe el código *9990# en el marcador
+3. Luego bloquea tu bluetooth
+4. Si quieres desbloquear tu
+Bluetooth entonces escribe *999O# de nuevo en
+el marcador.
+Disfruta.
+

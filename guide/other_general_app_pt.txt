@@ -1,0 +1,66 @@
+<h5>Aplicativo não encontrado para todos os aplicativos no
+SD, por que isso?</h5>
+ Esta é uma das maiores armadilhas
+ de mover aplicativos para o SD-se o SD
+ funcionar mal ou for removido inesperadamente,
+ pode quebrar o aplicativo. Você
+ Desmontou o cartão antes de removê-lo
+ (em Configurações>Armazenamento)? Tente ir para
+ Configurações>Aplicativos, selecione um desses
+ aplicativos e veja se você pode Mover para o Armazenamento
+ do Telefone novamente. Se isso funcionar, então toque em
+ Mover para cartão SD depois para ver se
+ isso corrige.
+
+ Caso contrário, você pode ter que desinstalar o
+ aplicativo, então reinstalá-lo novamente. Não tenho certeza
+ se os dados restantes do aplicativo no cartão SD
+ serão incorporados corretamente no
+ aplicativo reinstalado, ou se ele ficará confuso
+
+ <h5>Restaurar meus contatos da agenda telefônica</h5>
+ Se você já usou o G Mail, isso significa que seus
+ contatos estão sincronizados na sua
+ conta do Gmail, se você quiser restaurar para
+ seu novo telefone, siga isto: coloque sua
+ conta do Gmail no seu novo telefone
+ e alterne a sincronização para a posição
+ ligado, uma vez que a sincronização
+ terminar você verá todos os contatos
+ aparecerão no seu novo telefone.
+
+ <h5>O som fica mais baixo ao conectar
+ fones de ouvido</h5>
+ É um recurso de segurança. A maioria dos fabricantes
+ de telefones está aplicando esse
+ nivelamento automático de volume ao
+ conectar fones de ouvido para evitar ruídos altos e
+ repentinos estourando em seus ouvidos,
+ prevenindo danos/perda auditiva.
+
+
+ Telefones Samsung, por exemplo, não
+ apenas fazem isso, mas também adicionam um pop-up
+ de aviso muito irritante (mas muito válido)
+ quando você tenta ultrapassar
+ um certo nível de volume enquanto usa
+ fones de ouvido. Ele aparece uma vez por reinicialização
+ e não há como desativar, descartar
+ permanentemente ou ignorá-lo.
+
+ <h5>Desativar Reprodução Automática de Vídeo do Facebook No
+ Android</h5>
+ Há ainda outro recurso do Facebook
+ que pode ser bastante irritante: reprodução automática
+ de vídeo. Não só você nem sempre
+ quer ver o que as pessoas estão mostrando,
+ mas isso também consome mais dados
+ e bateria do seu Android. Aqui está
+ como desativar este recurso no Android.
+ Para fazer isso, deslize para a guia mais distante
+ no aplicativo do Facebook para Android e
+ toque em Configurações do Aplicativo. Bem ali sob
+ as Configurações Gerais, toque em 'Reprodução Automática
+ de Vídeo' e defina como Desligado. Claro,
+ o Facebook tem como padrão Ligado, mas não
+ mais!

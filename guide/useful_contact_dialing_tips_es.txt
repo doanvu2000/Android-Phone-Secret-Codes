@@ -1,0 +1,66 @@
+ <h5>Llama a tus contactos favoritos con un toque</h5>
+Android te permite crear iconos en
+tu pantalla de inicio para contactos. Para agregar
+uno presiona y mantén presionado un espacio vacío en
+tu pantalla. Cuando aparezca el menú
+selecciona Accesos directos > Contacto. Luego puedes
+desplazarte por tu lista de contactos y
+tocar la persona que deseas agregar.
+ <h5>Pasos para llamar a tus contactos favoritos
+con un toque</h5>
+
+En una pantalla de inicio de tu dispositivo presiona
+y mantén presionado un espacio vacío donde
+lo encuentres. La pantalla aparece así
+Después de presionar y mantener presionado un espacio
+vacío, la pantalla aparece así después
+de eso Selecciona el icono de widgets que
+aparece en la pantalla.
+Después de seleccionar el icono de widgets, se mostrarán muchos
+elementos en la pantalla de tu teléfono
+Ahora selecciona el icono de Contacto.
+Ahora al seleccionar el icono de contacto. Aparecerá una lista completa
+de contactos en la pantalla de tu teléfono
+desde la cual puedes elegir tus
+contactos favoritos que más te gusten:
+Al seleccionar tus contactos favoritos
+de tu lista de contactos. Ahora ese
+contacto en particular que has
+seleccionado aparecerá en la parte superior de
+tu pantalla de inicio.
+Ahora llama a tus favoritos con un
+solo toque.
+<h5> CONFIGURAR MARCACIÓN RÁPIDA</h5>
+si tienes contactos que llamas
+a menudo, puedes configurar accesos directos
+directamente a ellos a través de tu
+pantalla de inicio. toca y mantén presionado un espacio
+vacío en tu pantalla de inicio, luego toca el
+botón Accesos directos. A continuación, toca Contactos
+y elige la persona que te gustaría
+colocar en tu pantalla de inicio.
+Su imagen de contacto debería aparecer en
+tu pantalla, y solo tomará un solo
+toque para darle una llamada.
+<h5> PASOS</h5>
+En una pantalla de inicio de tu dispositivo
+presiona y mantén presionado un espacio vacío
+donde lo encuentres. La pantalla aparece
+así
+Después de seleccionar el icono de widgets, se mostrarán muchos
+elementos en la pantalla de tu teléfono.
+Ahora selecciona el icono "Marcación directa" de la
+lista de widgets.
+Ahora al seleccionar el icono "Marcación directa".
+Aparecerá tu lista de contactos en la pantalla de tu
+teléfono desde la cual puedes elegir
+tus contactos favoritos que más te gusten:
+Al seleccionar tus contactos de tu
+lista de contactos. Ahora ese contacto
+en particular que has seleccionado
+aparecerá en la parte superior de tu pantalla de
+inicio como "Contacto de marcación rápida"
+ con un solo toque puedes darle
+una llamada sin tener ningún problema de
+buscar y marcar ningún contacto.
+

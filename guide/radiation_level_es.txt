@@ -1,0 +1,66 @@
+<h5> Verifica el nivel de radiación de
+Tu Android</h5>
+Marca *#07# en tu teclado, y presiona el
+botón de llamar.
+Si los resultados muestran SAR por encima de 1.6W/Kg.
+Entonces cambia tu teléfono móvil
+INMEDIATAMENTE.
+ ¿Qué es el valor SAR?
+Muchas personas han tenido problemas
+entendiendo los valores máximos reportados
+de Tasa de Absorción Específica (SAR)
+para dispositivos inalámbricos.
+SAR es una medida de la tasa de absorción de energía
+RF (radiofrecuencia) por el cuerpo de la
+fuente siendo medida. SAR proporciona
+un medio directo para medir
+las características de exposición RF de
+dispositivos inalámbricos para asegurar que están
+dentro de las pautas de seguridad establecidas por la
+FCC.
+ <h5>¿Cómo Verificar el Valor SAR?</h5>
+Hay un proceso muy simple para verificar
+el valor SAR de cualquier teléfono móvil. El
+usuario solo necesita marcar el código USSD
+*#07# en su teléfono móvil y serán
+llevados a la página donde pueden
+verificar el valor SAR y otra
+información necesaria. El límite
+umbral para un teléfono móvil es 1.6W/kg, si
+el valor de su teléfono móvil es menor
+que esto, entonces no hay problemas usando
+el teléfono, si es mayor, eso podría significar
+riesgo para la salud del usuario.
+Para otros dispositivos donde el lujo de
+escribir el número no está disponible, los usuarios
+pueden simplemente visitar el sitio web de la marca
+De ese dispositivo específico para conocer el valor SAR
+también pueden visitar la opción de configuración y averiguar
+el valor SAR de ese dispositivo específico desde
+allí. esta información suele estar presente en el
+manual de usuario de muchos de tales dispositivos también.
+muchas personas todavía se preguntan qué es el valor SAR.
+ <h5>¿Cae Tu Teléfono Bajo
+El Límite de Umbral de Radiación
+?</h5>
+ Cómo verificar el valor SAR y qué es el
+ valor SAR son las dos preguntas principales
+ que están siendo hechas por la gente últimamente.
+ Aprende más en esta guía SAR aquí. En este
+ día y edad, la tecnología se ha convertido
+ en una parte crucial de la vida diaria de un ser humano.
+ Dondequiera que vayan, ya sea en el
+ trabajo o en casa, están rodeados
+ por una serie de dispositivos que están destinados
+ a completar alguna tarea. El número de
+ dispositivos por los que un humano promedio pasa
+ en un día es mucho y ese número
+ solo ha aumentado con el tiempo. Estos
+ dispositivos funcionan electrónicamente y también
+ liberan radiación electromagnética. Cuando
+ las personas están expuestas a estas radiaciones
+ por un largo periodo de tiempo, podría llevar
+ a que se enfermen. Las personas deberían llevar
+ un registro del número de radiaciones
+ que sus dispositivos emiten. Esto se puede hacer
+ verificando el valor SAR del dispositivo.

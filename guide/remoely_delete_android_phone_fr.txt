@@ -1,0 +1,40 @@
+ <h5>Assurez-vous de pouvoir supprimer vos données
+pendant que vous avez encore votre téléphone</h5>
+Si vous voulez avoir la possibilité d'effacer votre téléphone à distance, il y a deux paramètres que vous devez activer avant que votre téléphone ne disparaisse. Ils devraient être activés par défaut, mais vérifiez pour en être sûr.
+
+Allez dans Paramètres Google > Sécurité > Gestionnaire d'appareils Android. Recherchez Autoriser le verrouillage et l'effacement à distance et assurez-vous qu'il est activé.
+
+Le deuxième commutateur qui doit être activé se trouve également sur l'écran du gestionnaire d'appareils Android : recherchez Localiser cet appareil à distance, et assurez-vous qu'il est activé. Si ces paramètres ne sont pas activés, le gestionnaire d'appareils ne pourra pas localiser votre appareil.
+
+Le gestionnaire d'appareils Android fonctionne également pour les tablettes, mais si vous avez plusieurs comptes d'utilisateurs, seule la personne définie comme propriétaire de la tablette peut configurer les fonctionnalités du gestionnaire d'appareils Android.
+
+C'est aussi une bonne idée de prendre quelques autres précautions : ne stockez rien de sensible sur les cartes microSD (l'effacement à distance ne peut pas les effacer), assurez-vous d'avoir un code de verrouillage ou un schéma décent, et envisagez d'investir dans une application telle qu'AirDroid ou Lookout. Les deux applications offrent des fonctionnalités d'effacement à distance, mais elles peuvent également transférer des données cruciales avant de débrancher.
+Paramètres Google
+Sécurité
+<h5>Activez les deux options du gestionnaire d'appareils Android comme vous pouvez le voir sur l'image ci-dessous :</h5>
+<h5>Comment effacer à distance votre téléphone Android</h5>
+
+Oh non ! Votre téléphone a disparu ! Il est temps d'agir, et par agir, nous entendons le gestionnaire d'appareils Android. Vous pouvez accéder au gestionnaire d'appareils Android de deux manières : via l'application Gestionnaire d'appareils Android sur un autre appareil Android, ou via le site Web du gestionnaire d'appareils Android.
+
+Une fois connecté, le gestionnaire d'appareils Android tentera de localiser votre appareil manquant. S'il est allumé et peut recevoir un signal, vous verrez l'emplacement sur une carte. Vous verrez également trois options : le faire sonner, le verrouiller ou l'effacer à distance. Si l'appareil n'est pas allumé ou ne peut pas recevoir de signal, le gestionnaire d'appareils Android signalera son emplacement lorsqu'il s'allumera et se connectera à un réseau WI-FI ou cellulaire.
+
+À ce stade, vous pouvez effacer toutes les données de votre téléphone, mais nous vous recommandons vivement d'essayer les options moins graves avant de passer à l'option radicale et de tout supprimer. Essayez-les dans cet ordre :
+
+ <h5>Utiliser le gestionnaire d'appareils Android pour faire sonner votre téléphone</h5>
+
+Les téléphones perdus sont souvent simplement égarés plutôt que définitivement manquants ou volés. Pour exclure cela, utilisez le gestionnaire d'appareils Android pour faire sonner le téléphone fort pendant cinq minutes complètes. Cela vous permet de retrouver votre téléphone s'il est tombé sur le plancher de votre voiture ou s'il a été caché dans une pantoufle par l'un de vos enfants.
+
+ <h5>Changer l'écran de verrouillage</h5>
+Une deuxième option non radicale s'offre à vous : changer l'écran de verrouillage pour que, lors de la prochaine mise sous tension du téléphone, votre message s'affiche. "RENDEZ-MOI MON TÉLÉPHONE" risque d'être contre-productif, mais un message "S'il vous plaît, appelez-moi", éventuellement accompagné d'une modeste récompense, pourrait bien fonctionner.
+
+Vous avez essayé cela ? Toujours rien ? D'accord. Il est temps de détruire vos données.
+
+ <h5>Effacer vos données</h5>
+Choisir l'option d'effacement effacera à distance votre téléphone ou votre tablette. C'est la même chose que d'effectuer une réinitialisation d'usine complète, donc cela supprimera tous vos paramètres, votre musique, vos photos et vos applications (mais pas la carte SD). Comme pour le verrouillage, si le téléphone manquant est éteint, la sélection de cette option l'effacera à distance une fois qu'il sera de nouveau en ligne.
+Si vous êtes assez inquiet pour choisir cette option, vous devriez également aller sur votre compte et révoquer l'accès pour votre téléphone manquant. Nous vous recommandons également de changer tous les mots de passe de vos services en ligne.
+La probabilité qu'un téléphone perdu conduise des personnes malveillantes à accéder à toutes vos affaires est très faible, mais il ne faut pas longtemps pour éliminer complètement cette possibilité.
+
+ <h5>Que se passe-t-il si le gestionnaire d'appareils Android ne parvient pas à se connecter ?</h5>
+Si le gestionnaire d'appareils Android ne parvient pas à se connecter, vous pouvez essayer deux autres choses. Google Maps suit l'historique de localisation de votre téléphone - ou du moins, il le fait si vous n'avez pas désactivé cette fonctionnalité dans votre compte Google - vous pouvez donc parfois découvrir où se trouvait votre téléphone manquant en visitant la page Historique de localisation et en vérifiant les horodatages. Cela ne vous dira pas nécessairement où se trouve votre téléphone maintenant, mais cela peut vous dire où il est allé.
+
+Une autre option consiste à utiliser une application telle qu'Android Lost, qui fonctionne bien sur les anciens appareils Android. C'est l'une des rares solutions que vous pouvez installer à distance, c'est donc une bonne option si vous n'aviez pas activé les options du gestionnaire d'appareils Android spécifiées ci-dessus. L'application et le site Web ont l'air terribles mais fonctionnent bien, bien que l'appareil doive être en ligne via le réseau cellulaire ou le Wi-Fi pour que cela fonctionne.

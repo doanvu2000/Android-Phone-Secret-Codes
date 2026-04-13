@@ -1,0 +1,30 @@
+<h5>Comment déverrouiller le modèle de verrouillage Android à l'aide de l'invite de commande</h5>
+<ol>
+<li> Connectez votre téléphone Android à votre
+ordinateur.</li>
+ <li>  Ouvrez l'invite de commande en tant
+qu'administrateur.</li>
+ <li> Maintenant dans la fenêtre d'invite de commande
+tapez le code suivant soigneusement exactement
+tel quel puis appuyez sur entrée.
+adb shell cd /data/data/
+com.android.providers.settings/
+databases SQLite3 settings.db
+update system set value=0 where
+name=lock_pattern_auto lock; update
+system set value-0 where name=lock
+Screen.locked out permanently; .quit</li>
+<li>  Maintenant vous verrez un écran comme indiqué
+ci-dessous et ensuite vous pouvez redémarrer votre
+téléphone et maintenant quand il démarrera
+à nouveau, essayez de déverrouiller votre téléphone
+en utilisant n'importe quel modèle de verrouillage aléatoire et cela
+fonctionnera très bien.</li>
+<li>  Si vous rencontrez un problème répétez les mêmes
+étapes mais au lieu du code ci-dessus
+essayez d'utiliser adb shell rm/data/system/
+gesture.key puis appuyez sur entrée et
+maintenant essayez de redémarrer votre appareil pour voir si
+cela fonctionne.
+Profitez-en.</li>
+</ol>

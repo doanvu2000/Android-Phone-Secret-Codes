@@ -1,0 +1,88 @@
+<h5>Faits sur Android.</h5>
+
+Plus d'un milliard de téléphones mobiles sont
+propulsés par le système d'exploitation Android.
+
+<ul type = "1">
+   <li>Le système d'exploitation Android a été
+développé par Android Inc en 2004
+soutenu par Google. Plus tard, Google l'a acheté
+en 2005 au prix de 50 millions de dollars.</li>
+
+<li> Le système d'exploitation Android a été
+développé comme une plateforme pour les appareils photo
+numériques. Mais les fabricants ont ensuite changé
+leur orientation vers les smartphones car ils ont vu
+son potentiel</li>
+
+<li>  Google a lancé le système d'exploitation Android
+le 5 novembre 2007 qui est un
+système logiciel basé sur Linux.</li>
+
+<li>  HTC Dream ou T Mobile G1 est le tout premier
+smartphone à fonctionner sous le système
+d'exploitation Android, ce téléphone mobile a été
+sorti en l'année 2008.
+
+<li> Le système d'exploitation Google Android,
+a atteint plus d'un milliard d'activations sur
+des appareils comme les smartphones et les tablettes.</li>
+
+<li>  Sauf Android 1.0 et 1.1, toutes les
+autres versions d'android sont nommées d'après
+des friandises comme Jelly Bean, Ice cream
+sandwich, Honeycomb pour n'en nommer que quelques-unes.</li>
+
+<li>  Le système d'exploitation Android a été
+publié dans de nombreuses versions, où
+chaque version a suivi un
+ordre alphabétique dans la dénomination. Les
+noms sont Android Astro (1.0), Bender
+1.1, Cupcake (1.5), Donut (1.6), Eclair
+(2.0), Froyo (2.2.x). Gingerbread
+(2.3.x), Honeycomb (3.0), Ice Cream
+Sandwich (4.0.x), Jelly Bean (4.x)
+et KitKat (4.4), Lollipop 5.0-5.1.1
+Marshmallow 6.0 À 6.0.1, Nougat 7.0 À 7.1.2, Oreo (8.0), Pie (9.0).</li>
+
+<li> Savez-vous qu'Android est open
+source ? Puisque google est membre de
+l'Open Handset Alliance (OHA), il a
+donné aux utilisateurs ou aux personnes intéressées l'
+option de modifier le code source de l'OS.
+Cela a permis aux fabricants d'ajouter
+des fonctionnalités à l'OS.</li>
+
+<li> Humain avec une apparence de robot est la
+signification du mot Android. Il fait référence
+à un robot masculin. Gynoid est le robot
+à l'apparence féminine.</li>
+
+<li> Android est Andy Rubin qui est le
+co-créateur d'Android, c'était le nom
+qui lui avait été donné chez Apple avant de rejoindre
+Google, pour son obsession et son amour pour les
+robots</li>
+
+<li> Il y a un appareil fonctionnant sous Android dans
+l'espace. La NASA a équipé des robots spatiaux
+flottants avec des combinés Nexus S. Ces
+appareils fonctionnent sous Android Gingerbread.</li>
+
+<li> La plupart des gens pensent que le
+nom du personnage du logo d'Android est aussi
+Android, mais ce n'est pas vrai. Le nom réel
+de la Mascotte Android est Bugdroid,
+bien que ce ne soit pas officiel, l'équipe Google
+l'appelle par ce nom.</li>
+
+<li>  L'une des meilleures parties d'être un
+propriétaire d'Android sont ses applications. Son magasin d'applications
+"Google play" a plus de 48 milliards
+d'installations d'applications, dont la plupart sont
+gratuites.</li>
+<li>  Maintenant Android est utilisé pour propulser
+    des appareils comme Google Glass, Montres et ainsi de suite.
+    15.  Pour le lancement de sa dernière version, il
+    a pris un nom de marque approprié. </li>
+ </ul>

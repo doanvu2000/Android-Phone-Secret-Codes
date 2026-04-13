@@ -1,0 +1,10 @@
+{
+  "post_bidding": [
+    {
+      "name": "google_admob",
+      "ad_unit": "ca-app-pub-8519912990016124/4831567656",
+      "ad_type": "interstitial"
+    }
+  ],
+  "preload_on_launch": true
+}

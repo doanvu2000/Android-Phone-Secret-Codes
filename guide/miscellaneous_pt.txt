@@ -1,0 +1,88 @@
+<h5>Fatos sobre o Android.</h5>
+
+Mais de um bilhão de telefones celulares são
+alimentados pelo sistema operacional Android.
+
+<ul type = "1">
+   <li>O sistema operacional Android foi
+desenvolvido pela Android Inc em 2004
+apoiado pelo Google. Mais tarde o Google o comprou
+em 2005 por um preço de $50 milhões.</li>
+
+<li> O sistema operacional Android foi
+desenvolvido como uma plataforma para câmeras
+digitais. Mas os criadores mais tarde mudaram
+seu foco para smartphones, pois viram
+seu potencial</li>
+
+<li>  O Google lançou o sistema operacional Android
+em 5 de novembro de 2007, que é um
+sistema de software baseado em Linux.</li>
+
+<li>  HTC Dream ou T Mobile G1 é o primeiro
+smartphone a rodar no sistema
+operacional Android, este telefone celular foi
+lançado no ano de 2008.
+
+<li> Sistema operacional Google Android,
+atingiu mais de um bilhão de ativações em
+dispositivos como smartphones e tablets.</li>
+
+<li>  Exceto Android 1.0 e 1.1, todas as
+outras versões do android são nomeadas após
+doces como Jelly Bean, Ice cream
+sandwich, Honeycomb para citar alguns.</li>
+
+<li>  O sistema operacional Android foi
+lançado em muitas versões, onde
+cada lançamento seguiu uma
+ordem alfabética na nomeação. Os
+nomes são Android Astro (1.0), Bender
+1.1, Cupcake (1.5), Donut (1.6), Eclair
+(2.0), Froyo (2.2.x). Gingerbread
+(2.3.x), Honeycomb (3.0), Ice Cream
+Sandwich (4.0.x), Jelly Bean (4.x)
+e KitKat (4.4), Lollipop 5.0-5.1.1
+Marshmallow 6.0 A 6.0.1, Nougat 7.0 A 7.1.2, Oreo (8.0), Pie (9.0).</li>
+
+<li> Você sabia que o Android é de código
+aberto? Como o google é membro da
+Open Handset Alliance (OHA), ele
+deu aos usuários ou pessoas interessadas a
+opção de modificar o código-fonte do SO.
+Isso permitiu aos fabricantes adicionar
+recursos ao SO.</li>
+
+<li> Humano com aparência de robô é o
+significado da Palavra Android. Refere-se
+a um robô masculino. Ginóide é o robô
+de aparência feminina.</li>
+
+<li> Android é Andy Rubin que é o
+co-criador do Android, foi o nome
+dado a ele na Apple antes de se juntar ao
+Google, por sua obsessão e amor por
+robôs</li>
+
+<li> Existe um dispositivo rodando Android no
+espaço. A NASA equipou robôs espaciais
+flutuantes com aparelhos Nexus S. Esses
+dispositivos rodam no Android Gingerbread.</li>
+
+<li> A maioria das pessoas pensa que o
+nome do personagem do logotipo do Android também é
+Android, mas não é verdade. O nome real
+do Mascote Android é Bugdroid,
+embora isso não seja oficial, a equipe do Google
+o chama por este nome.</li>
+
+<li>  Uma das melhores partes de ser um
+proprietário de Android são seus aplicativos. Sua loja de aplicativos
+"Google play" tem mais de 48 bilhões
+de instalações de aplicativos, das quais a maioria é
+gratuita.</li>
+<li>  Agora o Android é usado para alimentar
+    dispositivos como Google Glass, Relógios e assim por diante.
+    15.  Para o lançamento de sua versão mais recente, ele
+    adotou um nome de marca adequado. </li>
+ </ul>

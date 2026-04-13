@@ -1,0 +1,15 @@
+ <h5>Cara Menggunakan Hotspot WiFi?</h5>
+ <ol>
+<li> Dari Layar Beranda, pilih
+menu Pengaturan.</li>
+<li> Klik LAINNYA lalu Tethering
+dan hotspot portabel.</li>
+<li> Kemudian centang kotak Tethering WiFi.</li>
+<li>Kemudian klik Atur hotspot WI-FI.</li>
+<li> Kemudian atur Nama Pengguna dan Kata Sandi.</li>
+<li> Sekarang Nyalakan WiFi Laptop Anda.</li>
+<li> Anda akan melihat bahwa hotspot
+WiFi Anda akan muncul di pengaturan WIFI
+Laptop Anda.</li>
+<li> Sekarang Hubungkan dan Nikmati.</li>
+</ol>

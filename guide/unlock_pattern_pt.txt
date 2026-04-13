@@ -1,0 +1,30 @@
+<h5>Como desbloquear o padrão de bloqueio do Android usando o prompt de comando</h5>
+<ol>
+<li> Conecte seu telefone Android ao seu
+computador.</li>
+ <li>  Abra o prompt de comando como
+administrador.</li>
+ <li> Agora na janela do prompt de comando
+digite o seguinte código cuidadosamente exatamente
+como está e depois pressione enter.
+adb shell cd /data/data/
+com.android.providers.settings/
+databases SQLite3 settings.db
+update system set value=0 where
+name=lock_pattern_auto lock; update
+system set value-0 where name=lock
+Screen.locked out permanently; .quit</li>
+<li>  Agora você verá uma tela como mostrado
+abaixo e então você pode reiniciar seu
+telefone e agora quando ele iniciar
+novamente, tente desbloquear seu telefone
+usando qualquer padrão de bloqueio aleatório e
+funcionará muito bem.</li>
+<li>  Se você enfrentar algum problema repita os mesmos
+passos mas em vez do código acima
+tente usar adb shell rm/data/system/
+gesture.key e depois pressione enter e
+agora tente reiniciar seu dispositivo para ver se
+funciona.
+Aproveite.</li>
+</ol>

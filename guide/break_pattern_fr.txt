@@ -1,0 +1,45 @@
+<h5>Déverrouiller le schéma verrouillé
+Sans perdre de données ?</h5>
+ +Télécharger (Aroma File Manager).
++Une carte mémoire pour appareil android.
++ Votre appareil android verrouillé soit par
+verrouillage par schéma ou par mot de passe.
+ 1. 0 Après avoir téléchargé Aroma File Manager
+placez-le sur votre carte mémoire (carte SD).
+Insérez la carte mémoire dans votre appareil
+android verrouillé.
+ 2. 0 Ouvrez le mode de récupération Stock en
+redémarrant votre appareil android et
+en appuyant simultanément sur la touche Marche/Arrêt et la touche Volume haut.
+Différents téléphones peuvent avoir différentes
+méthodes pour ouvrir le mode de récupération stock
+donc si vous rencontrez un problème, cherchez sur Google.
+ 30 . Après être entré en mode récupération utilisez
+les boutons Volume+ et Volume- pour faire défiler
+vers le haut et vers le bas.
+Pour sélectionner utilisez le bouton central.
+ 4. 0 De là, cliquez sur "Install Zip from
+SD Card" et donnez le chemin pour installer "Aroma
+File Manager" depuis la carte SD.
+ 5. 0 Après l'installation, il s'ouvrira en mode
+récupération.
+ 60 . Depuis Aroma File Manager
+naviguez vers les paramètres >> allez en bas
+et cliquez sur "AutoMount all devices on
+start" et puis quittez.
+ 7. 0 Répétez les étapes 4 et 5 à nouveau.
+ 8. 0 Après cela, vous obtiendrez "Aroma File
+Manager" ouvert à nouveau.
+ 9. 0 Maintenant naviguez vers le dossier Data >>
+Dossier System et trouvez >> "gesture.key"
+ou "password.key" pour le verrouillage par schéma ou
+le verrouillage par mot de passe respectivement.
+ 10. 0 Supprimez ce fichier et quittez ensuite
+le gestionnaire de fichiers aroma et redémarrez votre
+appareil android.
+Après le redémarrage, vous remarquerez que
+le mot de passe ou le verrouillage par schéma n'est pas supprimé.
+Mais ne vous inquiétez pas, dessinez n'importe quel schéma et
+vous ouvrirez votre appareil android mais
+souvenez-vous ou notez ce schéma.
+

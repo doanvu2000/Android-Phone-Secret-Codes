@@ -1,0 +1,37 @@
+<h5> Comment améliorer l'autonomie de la
+batterie Android ?</h5>
+<ol>
+<li> Réduisez la luminosité de l'écran</li>
+<li> 0 N'utilisez pas de fonds d'écran animés</li>
+<li>Utilisez un fond d'écran noir ou un thème noir</li>
+<li> Supprimez les widgets de l'écran d'accueil dont
+vous n'avez pas besoin</li>
+<li> Gardez votre batterie à l'abri de la chaleur
+extrême</li>
+<li> Désactivez la synchronisation automatique
+Pour désactiver la synchronisation automatique, allez dans Paramètres
+-> Comptes et synchronisation -> décochez la
+'Synchronisation automatique'.</li>
+<li> Éteignez le Wi-Fi lorsqu'il n'est pas utilisé</li>
+<li> Désactivez le retour haptique.
+Pour désactiver le retour haptique, allez dans
+Paramètres -> Son. Faites défiler jusqu'à
+système et décochez Retour haptique.</li>
+<li> Désactivez les services de localisation.
+Pour désactiver les services de localisation :
+Appuyez sur Paramètres -> Services de localisation.
+Décochez toutes les cases disponibles.</li>
+<li> Désactivez les mises à jour automatiques pour les widgets
+Pour désactiver les mises à jour automatiques d'un widget :
+Ouvrez le widget et appuyez sur Menu ->
+Paramètres.</li>
+Appuyez sur actualisation automatique et choisissez Aucun
+Si vous ne pouvez pas personnaliser le widget et
+que c'est quelque chose dont vous pouvez vous passer, nous
+vous suggérons de le supprimer de l'écran
+d'accueil. Pour ce faire :
+Appuyez et maintenez le widget jusqu'à ce qu'il
+soit mis en évidence.
+Faites glisser le widget vers l'icône de la corbeille pour
+le supprimer de l'écran d'accueil.
+</ol>

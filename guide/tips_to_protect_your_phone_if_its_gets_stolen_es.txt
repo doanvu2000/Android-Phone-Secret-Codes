@@ -1,0 +1,36 @@
+<h5>1. Use una pantalla de bloqueo</h5>
+
+Sabemos que usar pantallas de bloqueo solía ser una molestia cuando todo lo que querías hacer era ver si habías recibido algún correo electrónico. Pero ahora que puedes usar widgets de pantalla de bloqueo, no hay razón para no bloquear tu teléfono correctamente con un código, huella digital, gesto o reconocimiento facial. Los dispositivos Android más nuevos vienen con escáneres de huellas digitales por una buena razón: mantienen tu dispositivo seguro y son convenientemente rápidos. No usar una pantalla de bloqueo es el equivalente en Android de salir y dejar la puerta principal abierta para los ladrones.
+
+<h5>2. Oculte sus contraseñas</h5>
+
+El menú Configuración > Seguridad de Android tiene una opción para hacer visibles todas las contraseñas, y aunque tiene buenas intenciones (hace que ingresar contraseñas precisas sea más simple), es un riesgo de seguridad si estás ingresando contraseñas donde puedes ser visto, por ejemplo cuando estás en el tren o en una multitud. Es mejor dejar esta opción deshabilitada.
+
+<h5>3. Oculte y bloquee sus aplicaciones</h5>
+
+Un buen bloqueador de aplicaciones puede ser una verdadera bendición no solo por razones de seguridad sino también para protección de privacidad y para asegurar que los niños no puedan borrar o mover nada importante. Un bloqueador como AppLock puede mantener a otros fuera de tus fotos, contactos, Facebook, configuración del teléfono y cualquier otra cosa con la que no quieras que se entrometan.
+
+<h5>4. Rastree su teléfono con Android Device Manager</h5>
+
+Este es más un consejo de "qué hacer si no protegiste tu teléfono": si se pierde o extravía, Android Device Manager puede encontrarlo, bloquearlo remotamente y, en el peor de los casos, rastrear su ubicación remota. Ten en cuenta que si no tienes habilitados los servicios de ubicación en tu dispositivo, ADM no podrá encontrarlo si se pierde.
+
+<h5>5. Configure los servicios de ubicación correctamente</h5>
+
+Asegúrate de que tu dispositivo esté rastreando GPS correctamente: si no lo está, será mucho más difícil rastrearlo con algo como Android Device Manager si lo extravías.
+
+<h5>6. Verifique las notificaciones y configuraciones de sus aplicaciones</h5>
+
+Un informe reciente encontró que diez de las aplicaciones de linterna más populares estaban solicitando cantidades ridículas de permisos, incluida la capacidad de rastrear tu ubicación e incluso eliminar aplicaciones y archivos. Y por supuesto, no son solo las aplicaciones de linterna: muchas descargas dudosas están diseñadas para recopilar datos de usuarios o engañarlos para que entreguen detalles financieros o dinero real. Asegúrate de estar al tanto de los permisos de tus aplicaciones.
+
+<h5>7. Use mensajeros con encriptación</h5>
+
+Si el cifrado de tu dispositivo está activado de forma predeterminada (es decir, codificando tus datos de tal manera que no se pueden simplemente copiar y ver), eso no significa que los datos que envías por Internet estén cifrados. Para asegurar que tus comunicaciones sean privadas, usa una plataforma cifrada como Telegram, WhatsApp, Facebook Messenger, etc., en lugar de alternativas no cifradas.
+
+<h5>8. Instale actualizaciones</h5>
+
+A veces las actualizaciones de aplicaciones son cosas menores que no hacen ninguna diferencia notable en absoluto, pero a veces esas actualizaciones contienen correcciones esenciales para problemas de seguridad que no puedes ver pero que los atacantes potenciales sí pueden. Las personas que no actualizan a las últimas versiones permanecen vulnerables, por lo que es muy buena idea mantenerse al día con las actualizaciones de aplicaciones y Android.
+
+<h5>9. Fije la pantalla</h5>
+
+Si quieres dejar que alguien lea algo, como un artículo de AndroidPIT en nuestra aplicación, pero no quieres que salten a otra cosa, el anclaje de pantalla, que apareció por primera vez en Android Lollipop, bloquea la pantalla en una sola aplicación. No es lo más seguro del mundo (te dice cómo deshacerlo justo allí en la pantalla), pero al menos evita que tus amigos o colegas curioseen accidentalmente en tu dispositivo. Si lo hacen, sabrás que lo hicieron deliberadamente.
+

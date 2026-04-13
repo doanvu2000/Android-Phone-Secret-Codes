@@ -1,0 +1,66 @@
+<h5>Ver suas notificações mesmo depois de
+limpá-las:</h5>
+Você limpou todas as suas notificações
+sem vê-las? Existe uma maneira muito
+simples de vê-las novamente. Vá para
+widgets, pegue o "atalho de configurações"
+na sua tela inicial e selecione
+notificações lá. Agora você pode ver
+o atalho de Notificações na sua tela
+inicial. Agora abra-o e você pode ver
+todas as notificações. O caminho é Widgets>
+Atalho de configurações> Notificações.
+ <h5>Definir avisos para limites de dados:</h5>
+
+Navegue até o menu Configurações e selecione
+a opção 'Uso de Dados' para encontrar o
+gráfico que retrata claramente o
+uso de dados no seu dispositivo por todos os
+aplicativos. Você pode encontrar as opções para
+definir avisos para limites de dados, definir ciclos
+para monitorar o uso de dados e ativar ou
+desativar o uso de dados no seu dispositivo.
+
+O uso de dados móveis tem muito a ver
+com o desempenho do dispositivo. Existem
+muitos recursos principais que precisam ser
+monitorados para aumentar a vida útil da
+bateria do seu dispositivo android. Então fique
+de olho e brinque com opções
+como sincronização seletiva de dados,
+redes móveis seletivas, alternar
+de 2G para 3G sempre que necessário etc.,
+essas dicas ajudarão você a aumentar a
+vida útil da bateria no seu dispositivo com certeza.
+Como obter melhor vida útil da bateria no seu
+Smartphone navegue até Configurações>>Uso de
+Dados
+
+<h5>Obter informações detalhadas sobre o status do
+telefone:</h5>
+Podemos obter as estatísticas detalhadas
+relacionadas ao nosso dispositivo como informações
+do telefone, informações da bateria, estatísticas
+de uso e informações de Wi-Fi apenas
+discando #*#4636#*#* Este é um código USSD
+prático para obter os detalhes sobre o uso da
+bateria, verificação de DNS, Ping, tempo de
+Aplicativo, tempo de uso e assim por diante.
+
+<h5> Hard Reset e Redefinição de fábrica do seu
+telefone android:</h5>
+
+O telefone Android pode ser formatado de
+duas maneiras: a) Redefinição de fábrica: Na redefinição
+de fábrica, seu telefone está sendo formatado
+para o nível de fábrica. Significa que todas as configurações
+voltarão ao padrão e todos os dados
+internos serão excluídos. Para redefinir de fábrica um
+telefone disque #*#7780#*#. b) Hard reset:
+Para fazer um hard reset em um telefone disque *2767*3855#,
+ isso excluirá todos os dados (incluindo
+dados SD internos e externos) bem como
+configurações do telefone android. Não
+tente este código para fins de teste, até que
+você não tenha certeza. Ele não pedirá nenhuma
+confirmação.

@@ -1,0 +1,11 @@
+<h5> ¿Cómo habilitar la lupa de pantalla?</h5>
+<ol>
+Las personas con vista débil a menudo no tienen
+idea de cuánto puede ayudarles esta función.
+Solo sigue estos pasos
+<li> Ve a Configuración</li>
+<li>  Accesibilidad</li>
+<li> Gesto de ampliación.
+Disfruta.</li>
+</ol>
+

@@ -1,0 +1,133 @@
+ Android mendapat reputasi buruk untuk masa pakai baterai yang
+pendek. Lakukan perubahan Sederhana ini pada
+ponsel pintar atau tablet Anda dan ikuti
+tips dan trik ini maka Anda dapat memiliki
+masa pakai baterai yang lebih baik dan lebih lama di
+ponsel pintar Anda.
+
+ <h5>1. Nonaktifkan riwayat lokasi dan pelaporan</h5>
+Sistem Pemosisian Global (GPS) adalah
+penguras baterai yang besar, karena memanfaatkan
+data dari menara telepon seluler
+hotspot Wi-Fi, dan Chip sistem pemosisian Global ponsel,
+untuk menemukan lokasi Anda. penggunaan
+baterai terkait langsung dengan penggunaan GPS,
+semakin ponsel Anda mensurvei lokasi Anda,
+semakin banyak baterai yang dikonsumsi.
+
+Riwayat lokasi dan pelaporan lokasi
+adalah dua layanan berbasis GPS dengan
+motif yang agak tidak jelas. Halaman Bantuan Google
+mengatakan bahwa, layanan dapat
+digunakan bersama dengan Aplikasi Google
+lainnya. Anda dapat menonaktifkan dua fitur ini
+yang memakan baterai Anda
+dengan menuju ke pengaturan Lokasi
+Layanan Lokasi Google > Riwayat Lokasi Google.
+
+<h5> 2. Nonaktifkan kartu Google Now</h5>
+Google Now adalah asisten pribadi yang tak tertandingi
+dan, itu membantu Anda dalam banyak cara.
+Tapi beberapa Layanannya yang Datang
+dalam bentuk kartu informasi
+tidak perlu dan bertanggung jawab atas
+pengurasan baterai. ketika Anda bepergian ke tempat
+yang dikenali Google sebagai tempat di luar
+rutinitas biasa Anda maka kartu berjudul
+Tempat Terdekat muncul. Kartu tersebut
+terdiri dari atraksi terdekat dan merupakan
+fitur keren tetapi jika Anda ingin menghemat
+baterai Anda maka lebih baik nonaktifkan. Untuk
+menonaktifkannya, buka Google Now
+dan kemudian gulir ke bawah dan ketuk tongkat
+ajaib. Di sini, Anda dapat memilih kartu
+dan membuang semua yang tidak diperlukan.
+ kartu yang bergantung pada GPS akan menuntut
+sebagian besar baterai Anda jadi lebih baik menonaktifkan kartu
+seperti tempat terdekat " dan " perjalanan untuk melihat peningkatan baterai
+sebagian besar dari kita . tidak tahu bahwa fitur semacam ini
+ada di ponsel pintar kita dan kehilangan
+pengalaman pengguna yang lebih baik.
+
+<h5> 3. Pemindaian WiFi</h5>
+Kita semua tahu bahwa ketika Wi-Fi dibiarkan
+aktif, lebih banyak energi digunakan. Banyak dari
+kita tidak tahu bahwa di Android bahkan
+ketika Wi-Fi dinonaktifkan, ponsel bisa
+ sedang mencari jaringan. untuk mencegah pengurasan baterai,
+buka pengaturan wifi > lanjutan, di mana Anda
+dapat menghapus centang opsi untuk pemindaian wifi.
+tetapi Anda harus terhubung ke wifi secara manual,
+tetapi apa yang Anda dapatkan sebagai gantinya adalah masa pakai baterai yang lebih lama.
+
+ <h5> 4. Perbarui semua Perangkat Lunak Anda</h5>
+Tidak perlu dikatakan bahwa setiap pembaruan firmware
+membawa fitur dan perbaikan yang
+Meningkatkan kinerja perangkat.
+Setiap pembaruan membantu dalam pengelolaan
+sumber daya daya yang lebih baik. Sebagian besar
+Produsen memberikan pembaruan
+untuk ponsel mereka. Jika Anda belum memperbaruinya
+belum, buka pengaturan > Tentang
+ponsel > Pembaruan Sistem dan periksa
+di sana untuk pembaruan. katakanlah misalnya,
+semua pembaruan baru dari google untuk
+android OS termasuk antarmuka pengguna yang diperbarui, fitur buka kunci pintar,
+penghemat baterai baru dan sistem notifikasi yang dirubah.
+
+<h5>5. Jaringan Seluler Selektif adalah
+Poin kunci lainnya</h5>
+
+Jika Anda tidak menggunakan data seluler
+maka mengapa kita harus membiarkannya mengonsumsi
+masa pakai baterai yang berharga? Anda dapat mengubah
+pengaturan Anda di ponsel pintar Anda sehingga
+Anda hanya dapat menggunakan jaringan 2G untuk
+panggilan dan pesan, jika Anda ingin berselancar
+atau menjelajah maka beralih ke 3G atau LTE.
+Anda dapat menghemat banyak baterai dengan melakukan
+hal itu. Anda dapat beralih antara 2G dan 3G
+atau LTE dengan mengikuti jalur ini, Pengaturan
+Lainnya > Jaringan Seluler > Mode Jaringan.
+
+<h5> 6 .Aplikasi yang meningkatkan masa pakai baterai</h5>
+Cobalah untuk mematikan pembaruan otomatis di
+perangkat Anda dan memanipulasi interval penyegaran
+aplikasi yang diinstal untuk
+mempertahankan baterai dan mendapatkan masa pakai baterai yang lebih baik
+ di ponsel pintar Anda. Aplikasi seperti
+Battery Doctor dan Greenery membantu Anda
+mempertahankan baterai. Jika Anda tidak yakin tentang
+seberapa menuntut energi suatu aplikasi maka
+aplikasi ini membantu Anda mengetahui aplikasi mana
+ yang mengonsumsi lebih banyak sumber daya berdasarkan penggunaan Anda
+dan sehingga Anda dapat menghubungkan pada Penggunaan
+mereka.
+
+<h5> 7. Sinkronisasi data selektif</h5>
+Untuk masa pakai baterai yang ditingkatkan, penting
+untuk melihat apa yang sedang
+disinkronkan secara otomatis di semua
+perangkat Anda. Katakanlah misalnya setiap kali Anda
+mengambil foto itu akan secara otomatis
+diunggah dan menghasilkan pengurasan baterai yang besar.
+Jadi untuk menghemat baterai Anda
+pilih secara selektif apa saja yang perlu
+disinkronkan. Jalurnya adalah <h4>Pengaturan>
+Akun> Google> Sinkronisasi</h4>.
+
+<h5> 8.Sesuaikan tingkat kecerahan</h5>
+Cadangan baterai perangkat Anda
+tergantung pada tingkat kecerahan yang Anda
+tetapkan. Disarankan untuk mengatur kecerahan
+ke " Otomatis " di Pengaturan cepat
+untuk menghemat baterai Anda .
+jalurnya adalah Pengaturan>Tampilan>Kecerahan
+adaptif(aktifkan).
+ <h5>9.Hindari pemukul berat</h5>
+Aplikasi seperti go launcher
+Dan tema, yang secara grafis
+intens mengonsumsi banyak RAM saat berjalan
+ dan mengonsumsi banyak baterai. Kami merekomendasikan
+  peluncur yang kurang intensif seperti Apex atau nova untuk menghemat baterai Anda.
+

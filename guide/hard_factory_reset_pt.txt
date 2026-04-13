@@ -1,0 +1,21 @@
+<h5> Hard Reset e Redefinição
+ de fábrica do seu telefone android</h5>
+
+ O telefone Android pode ser formatado de duas
+ maneiras
+ 1. Redefinição de fábrica:
+ Na redefinição de fábrica, seu telefone está sendo
+ formatado para o nível de fábrica.
+ Significa que todas as configurações voltarão ao padrão
+ e todos os dados internos serão excluídos.
+ Para redefinir de fábrica um telefone disque
+ "#**778O#*#*.
+ 2. Hard reset:
+ Para fazer um hard reset em um telefone disque
+ *2767*3855#
+ isso excluirá todos os dados (incluindo
+ dados SD internos e externos) bem como
+ configurações do telefone android.
+ Não tente este código para fins de teste,
+ até que você não tenha certeza.
+ Ele não pedirá nenhuma confirmação.

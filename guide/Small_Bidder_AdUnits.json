@@ -1,0 +1,12 @@
+{
+  "post_bidding": [
+    {
+      "name": "google_admob",
+      "ad_unit": "ca-app-pub-8519912990016124/3494435259",
+      "ad_type": "banner"
+    }
+  ],
+  "ad_size": "small",
+  "layout": "jedyapps_native_custom_layout_type_3",
+  "preload_on_launch": true
+}

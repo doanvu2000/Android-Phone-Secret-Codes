@@ -1,0 +1,66 @@
+<h5> Periksa tingkat radiasi
+ Android Anda</h5>
+Tekan *#07# pada Keypad Anda, dan tekan
+tombol panggil.
+Jika hasilnya menunjukkan SAR di atas 1.6W/Kg.
+Maka ganti ponsel Anda
+SEGERA.
+ Apa itu nilai SAR?
+Banyak orang mengalami kesulitan
+memahami nilai Tingkat Penyerapan Spesifik
+(SAR) maksimum yang dilaporkan
+untuk perangkat nirkabel.
+SAR adalah ukuran tingkat penyerapan energi
+RF (frekuensi radio) oleh tubuh dari
+sumber yang diukur. SAR menyediakan
+sarana langsung untuk mengukur
+karakteristik paparan RF dari
+perangkat nirkabel untuk memastikan bahwa mereka
+berada dalam pedoman keselamatan yang ditetapkan oleh
+FCC.
+ <h5>Cara Memeriksa Nilai SAR?</h5>
+Ada proses yang sangat sederhana untuk memeriksa
+nilai SAR dari ponsel apa pun. Pengguna
+hanya perlu menekan kode USSD
+*#07# di ponsel mereka dan mereka
+Akan dibawa ke halaman di mana mereka
+dapat memeriksa nilai SAR dan informasi
+penting lainnya. Batas
+ambang untuk ponsel adalah 1.6W/kg, jika
+nilai ponsel mereka lebih kecil
+dari ini, maka tidak ada masalah menggunakan
+ponsel, jika lebih tinggi, itu bisa berarti
+risiko bagi kesehatan pengguna.
+Untuk perangkat lain di mana kemewahan
+mengetik nomor tidak tersedia, pengguna
+dapat mengunjungi situs web merek
+Dari perangkat tertentu itu untuk mengetahui nilai SAR
+mereka juga dapat mengunjungi opsi pengaturan dan mencari
+tahu nilai SAR perangkat tertentu itu dari
+sana. informasi ini biasanya ada di
+manual pengguna banyak perangkat semacam itu juga.
+banyak orang masih bertanya-tanya apa itu nilai SAR.
+ <h5>Apakah Ponsel Anda Masuk Dalam
+Batas Ambang Radiasi
+?</h5>
+ Cara memeriksa nilai SAR dan apa itu
+ nilai SAR adalah dua pertanyaan utama
+ yang diajukan oleh orang-orang akhir-akhir ini.
+ Pelajari lebih lanjut dalam panduan SAR ini di sini. Di zaman
+ dan usia ini, teknologi telah menjadi
+ bagian penting dari kehidupan sehari-hari manusia.
+ Ke mana pun mereka pergi, baik itu di
+ tempat kerja atau di rumah, mereka dikelilingi
+ oleh serangkaian perangkat yang dimaksudkan
+ untuk menyelesaikan beberapa tugas. Jumlah
+ perangkat yang dilalui manusia rata-rata
+ dalam sehari sangat banyak dan jumlah itu
+ baru saja meningkat seiring waktu. Perangkat
+ ini bekerja secara elektronik dan juga
+ melepaskan radiasi elektromagnetik. Ketika
+ orang terpapar radiasi ini
+ untuk waktu yang lama, itu bisa menyebabkan
+ mereka jatuh sakit. Orang-orang harus mencatat
+ jumlah radiasi
+ yang dipancarkan perangkat mereka. Ini dapat dilakukan dengan
+ memeriksa nilai SAR perangkat.

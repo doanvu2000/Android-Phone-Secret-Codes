@@ -1,0 +1,66 @@
+<h5> Vérifiez le niveau de radiation de
+ Votre Android</h5>
+Composez *#07# sur votre clavier, et appuyez sur
+le bouton d'appel.
+Si les résultats montrent un DAS supérieur à 1,6 W/Kg.
+Alors changez votre téléphone mobile
+IMMÉDIATEMENT.
+ Qu'est-ce que la valeur DAS ?
+Beaucoup de gens ont eu du mal
+à comprendre les valeurs maximales signalées
+de Débit d'Absorption Spécifique (DAS)
+pour les appareils sans fil.
+Le DAS est une mesure du taux d'absorption d'énergie
+RF (radiofréquence) par le corps à partir de la
+source mesurée. Le DAS fournit
+un moyen simple de mesurer
+les caractéristiques d'exposition aux RF des
+appareils sans fil pour s'assurer qu'ils sont
+dans les limites de sécurité établies par la
+FCC.
+ <h5>Comment vérifier la valeur DAS ?</h5>
+Il y a un processus très simple pour vérifier
+la valeur DAS de n'importe quel téléphone mobile. L'
+utilisateur a juste besoin de composer le code USSD
+*#07# sur son téléphone mobile et il
+Sera emmené à la page où il peut
+vérifier la valeur DAS et d'autres
+informations nécessaires. La limite
+seuil pour un téléphone mobile est de 1,6 W/kg, si
+la valeur de leur téléphone mobile est inférieure
+à cela, alors il n'y a aucun problème à utiliser
+le téléphone, si elle est plus élevée, cela pourrait signifier
+un risque pour la santé de l'utilisateur.
+Pour d'autres appareils où le luxe de
+taper le numéro n'est pas disponible, les utilisateurs
+peuvent simplement visiter le site web de la marque
+De cet appareil spécifique pour connaître la valeur DAS
+ils peuvent aussi visiter l'option paramètres et trouver
+la valeur DAS de cet appareil spécifique à partir de
+là. cette information est généralement présente dans le
+manuel d'utilisation de beaucoup de ces appareils aussi.
+beaucoup de gens se demandent encore ce qu'est la valeur DAS.
+ <h5>Votre téléphone tombe-t-il sous
+La limite de seuil de radiation
+?</h5>
+ Comment vérifier la valeur DAS et qu'est-ce que la
+ valeur DAS sont les deux principales questions
+ qui sont posées par les gens ces derniers temps.
+ Apprenez-en plus dans ce guide DAS ici. De nos
+ jours, la technologie est devenue
+ une partie cruciale de la vie quotidienne d'un être humain.
+ Partout où ils vont, que ce soit au
+ travail ou à la maison, ils sont entourés
+ par une gamme d'appareils qui sont destinés
+ à accomplir une certaine tâche. Le nombre d'
+ appareils qu'un humain moyen utilise
+ dans une journée est important et ce nombre
+ a juste augmenté avec le temps. Ces
+ appareils fonctionnent électroniquement et libèrent
+ aussi des radiations électromagnétiques. Lorsque
+ les gens sont exposés à ces radiations
+ pendant une longue période, cela pourrait les
+ rendre malades. Les gens devraient garder
+ une trace du nombre de radiations
+ que leurs appareils émettent. Cela peut être fait en
+ vérifiant la valeur DAS de l'appareil.

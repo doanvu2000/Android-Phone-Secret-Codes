@@ -1,0 +1,465 @@
+ <h5>Les faits sur Android
+que vous devriez connaître.?</h5>
+Android existe depuis
+un peu plus d'une décennie et beaucoup
+de choses ont changé depuis ses débuts.
+Android est un système d'exploitation mobile
+qui a été publié le 23
+septembre 2008. Android est gratuit,
+système d'exploitation open source et
+est basé sur une version modifiée du
+noyau Linux. Open Handset Alliance
+(OHA) a développé Android et
+Google l'a sponsorisé commercialement. Il est
+principalement conçu pour les appareils à écran tactile
+tels que les smartphones et
+les tablettes. Android est pris en charge sur
+différentes plateformes comme ARM 32 et 64
+bits, x86 et x86-64. Android est
+disponible dans plus de 100 langues
+avec une interface graphique (multi-touch) comme
+interface utilisateur par défaut. Ce qui a commencé
+comme un simple système d'exploitation est
+devenu une puissance s'étendant sur
+d'innombrables appareils et facteurs de
+forme. L'histoire d'Android est une
+histoire intéressante. Vous pourriez penser
+que vous savez tout ce qu'il y a à
+savoir sur Android, mais nous avons les
+choses suivantes que vous ne saviez probablement
+pas. Découvrez-les!
+<h5> 1. Google n'a pas créé
+Android</h5>
+De nos jours Google et Android
+sont synonymes l'un de l'autre,
+mais vous pourriez être surpris de découvrir
+que ce n'a pas toujours été le cas.
+Android a été fondé en 2003 par
+Andy Rubin, Rich Miner, Nick Sears,
+et Chris White. Les fondateurs
+avaient des liens étroits avec T-Mobile. Andy
+Rubin a créé l'ultra-populaire
+Mobile Sidekick, et Nick Sears
+était vice-président chez T-Mobile. Donc,
+vous pouvez voir pourquoi T-Mobile a obtenu
+le premier téléphone Android. Ce n'est
+qu'en 2005 que Google a acquis
+Android Inc. Rubin, Miner et
+White sont tous restés avec Android
+pendant l'acquisition. Ensemble,
+ils ont développé ce que nous
+connaissons maintenant comme Android OS, en fait,
+le surnom de Rubin est d'où vient le
+nom "Android". Beaucoup de
+gens considèrent Android comme l'une
+des meilleures acquisitions de Google et 10
+ans après l'acquisition, Android
+a explosé pour contrôler 88% de la
+part de marché des OS pour smartphones.
+<h5> 2. De nombreux critiques pensaient
+qu'Android échouerait
+lamentablement</h5>
+Android est presque universellement loué
+de nos jours, mais à l'époque les
+critiques étaient beaucoup plus sceptiques. Au
+moment de l'émergence d'Android
+l'iPhone était encore relativement récent
+tandis que Microsoft et Blackberry
+étaient occupés à montrer la voie dans les
+smartphones. L'idée d'une entreprise de recherche web
+et d'e-mail faisant
+des téléphones ne semblait pas être un pari sûr.
+Fin 2008 lors d'une table
+ronde sur le mobile, la
+question a été posée "nous devons parler
+d'Android, n'est-ce pas?" Un membre
+de Pandora a répondu avec véhémence
+"Pourquoi? Pourquoi devons-nous parler
+d'Android, personne ne s'en soucie.
+Évidemment Pandora a finalement
+compris et créé une application Android.
+ <h5> 3. le premier prototype d'Android
+ressemblait à un Blackberry</h5>
+ beaucoup de gens croyaient que si ce n'était
+pour l'iPhone le premier
+appareil Android aurait ressemblé
+radicalement différent du T
+Mobile G1 (HTC Dream). En 2007,
+avant qu'Apple ne montre l'iPhone original,
+le premier prototype Android
+circulait déjà. L'appareil
+- nom de code "Sooner"
+avait un clavier portrait, des boutons d'appel et
+de fin, un trackpad et aucun
+écran tactile du tout. L'interface
+Android ressemblait même beaucoup à
+l'interface Blackberry. Bien sûr,
+tout cela a changé une fois que l'iPhone
+a été annoncé. C'était tellement différent.
+Il n'y avait pas de clavier physique,
+juste un grand écran pour l'époque
+et une interface à écran tactile
+révolutionnaire. Le prochain appareil Android
+que nous verrions après cela, le T-Mobile
+G1, aurait également un grand écran
+avec une interface à écran tactile. Le
+prototype ressemblant à BlackBerry? Il
+n'est jamais arrivé sur le marché. Nous ne pouvons
+pas dire avec certitude que l'iPhone a eu
+un effet sur la vision de Google pour
+Android, mais ce ne serait pas hors de
+question. Voyage d'ANDROID
+de la première version à la dernière version:
+Toutes les versions d'Android sont nommées dans
+l'ordre alphabétique, avec le
+nom de desserts sucrés associés
+à cet alphabet comme Cupcake.
+Donut etc.
+ .  Android 1.0 (2008) Pas de nom de version
+ . Android 1.1 2009)- Petite Four
+ . Android 1.5 (2009) Cupcake
+ . Android 1.6 (2009) Donut
+ . Android 2.0 2.1 (2009)- Éclair
+ . Android 2.2 2.2.3 (2010)- Froyo
+ . Android 2.3 2.3.7 (2010)-
+Gingerbread
+ . Android 3.0-3.2.6 (2011)
+Honeycomb
+ . Android 4.0 4.0.4 (2011) Ice
+Cream Sandwich
+ . Android 4.1 4.3.1 (2012) Jelly
+Bean
+ . Android 4.4- 4.4.4 (2013) KitKat
+ . Android 5.0 5.1.1 (2014)
+Lollipop
+ . Android 6.0 6.0.1 (2015)
+Marshmallow
+ . Android 7.0 7.1.2 (2016) - Nougat
+ . Android 8.0 8.1 (2017) Oreo
+ . Android 9.0 (2018) Pie
+ . Android 10 (2019) Android 10
+ . Android 11 (2020) Android 11
+ . Android 12 (2021) Android 12
+<h5> 4. Android 1.0 et 1.1
+n'ont pas été nommés d'après
+des desserts</h5>
+Pendant longtemps Google a
+surnommé les nouvelles versions d'Android
+avec des desserts. Au moment
+de cet article nous en sommes à Android
+5.0 Lollipop, et avant cela c'était
+KitKat, Jelly Bean, Ice Cream
+Sandwich, et ainsi de suite. Les fans d'Android
+essaient toujours de prédire quel
+sera le prochain nom. Google est même
+entré dans le jeu avec cette vidéo teaser
+pour Android 5.0. Ce que vous
+ne savez peut-être pas, c'est que les premières
+versions d'Android n'ont en fait pas été
+nommées d'après des desserts. Du moins
+pas intentionnellement. Android 1.0 était
+parfois appelé "Alpha" ou "Astro
+Boy" tandis qu'Android 1.1 avait techniquement
+un nom de dessert, mais pas dans l'ordre
+que nous connaissons aujourd'hui. Il était
+connu en interne sous le nom de "Petite Four,
+qui est un petit apéritif français.
+Android 1.5 "Cupcake" a été la première
+version à avoir un surnom officiel de dessert
+et ainsi a commencé le schéma de dénomination
+que nous voyons aujourd'hui. Les noms de dessert "A" et
+"B" pour Android 1.0
+et 1.1 ne seront jamais connus, mais si
+nous devions deviner quels noms ils
+auraient utilisés, peut-être que "tarte aux pommes"
+et "banana split" sont assez
+évidents. que devineriez-vous?
+
+ <h5>5. Android 3.0 est la seule
+version à ne jamais fonctionner sur
+les téléphones</h5>
+ Aujourd'hui Android est conçu pour fonctionner sur
+de nombreux types différents de matériel
+dans toutes les formes et
+tailles. Tout, des téléphones,
+tablettes, montres, voitures, téléviseurs - vous
+choisissez. Mais cela n'a pas toujours été
+le cas. En 2010, Apple a annoncé
+l'iPad original et le monde de la technologie
+a instantanément eu la fièvre des tablettes. Les fabricants Android
+voulaient profiter de
+la frénésie des tablettes, mais à l'époque,
+l'OS n'était adapté qu'aux appareils à petit
+écran comme les smartphones.
+Cela n'a pas empêché certains fabricants
+d'essayer. Samsung
+a eu un certain succès en utilisant Android 2.3
+Gingerbread sur le Galaxy Tab 7.0 de taille moyenne,
+mais si Android allait
+concurrencer l'iPad de 10 pouces, il avait besoin d'une refonte majeure et
+au CES 2011, le monde a eu son premier
+aperçu d'Android 3.0 Honeycomb
+fonctionnant sur le Motorola XOOM.
+Honeycomb présentait une interface utilisateur
+complètement redessinée, faite
+spécialement pour les tablettes. Avec une
+"UI Holo" sombre et des widgets interactifs
+plus grands, la version Android était
+toujours considérée comme un échec à certains
+égards. Alors que tous les fabricants
+sur la face de la Terre
+fabriquaient des tablettes Android, elles étaient
+chères et manquaient d'applications dédiées aux tablettes.
+Google finirait par
+abandonner Honeycomb et
+construire les futures versions d'Android
+en commençant par Ice Cream Sandwich
+pour fonctionner sur toutes les tailles d'écran. L'une des
+fonctionnalités durables d'Honeycomb
+sont les boutons de navigation à l'écran que nous
+utilisons encore aujourd'hui
+ <h5>6. Le premier téléphone Android
+n'avait même pas de clavier virtuel
+ou de prise casque 3,5 mm</h5>
+Si vous retourniez en 2008
+et disiez au monde que presque tous les
+smartphones à l'avenir n'auraient
+pas de claviers physiques - on
+se moquerait de vous. Pendant cette
+période le téléphone le plus populaire était
+un BlackBerry, qui avait bien sûr
+un clavier physique emblématique. L'idée
+d'un appareil sans touches physiques
+n'est devenue populaire qu'avec
+l'iPhone original, mais même alors
+il y avait beaucoup de sceptiques. En fait,
+le premier appareil Android, le T-
+Mobile G1, était équipé d'un
+clavier physique coulissant, mais vous
+pourriez être plus surpris d'apprendre
+ce qu'il n'avait pas. Le G1 a été livré
+avec Android 1.1 qui, à l'époque
+ne comportait pas de clavier virtuel pour
+taper sur l'écran. Vous deviez
+absolument utiliser le clavier physique pour
+taper, ce qui signifiait que vous ne pouviez pas faire
+de frappe à une main en mode portrait.
+Ce n'est que six mois
+plus tard avec la sortie d'Android
+1.5 que le G1 a finalement ajouté un
+clavier virtuel. L'autre fonctionnalité
+manquante du T-Mobile G1 était
+importante et ne pouvait pas être corrigée
+avec une simple mise à jour logicielle: la
+prise casque. HTC n'a inexplicablement
+pas inclus de prise casque traditionnelle de 3,5 mm
+dans le G1. Au lieu de cela,
+le téléphone était livré avec un
+adaptateur propriétaire que vous deviez utiliser, ce qui signifie
+que vous ne pouviez pas écouter de la musique et
+charger le téléphone en même temps
+C'était une plainte courante dans les
+critiques initiales du T-Mobile G1
+et étrangement une préfiguration de
+choses à venir
+ <h5>7. Android a fait expulser le PDG de Google
+du conseil d'administration d'Apple</h5>
+Au fil du temps, alors que la concurrence entre
+iOS et Android s'intensifiait,
+la relation entre Apple
+et Google n'était pas si amicale.
+Cela était plus évident en 2009
+lorsque le PDG de Google, Eric Schmidt,
+a été forcé de démissionner du
+conseil d'administration d'Apple. Steve Jobs
+a déclaré ce qui suit: "Malheureusement, alors que
+Google entre dans davantage d'activités principales d'Apple,
+avec Android et maintenant
+Chrome OS, l'efficacité d'Eric
+en tant que membre du conseil d'Apple sera
+considérablement diminuée, car il devra
+se récuser de portions encore
+plus importantes de nos réunions en raison de
+conflits d'intérêts potentiels."
+Vous pouvez imaginer qu'il y a eu beaucoup de
+gros titres sensationnels à propos de cette
+histoire, mais cela a beaucoup de sens.
+À quoi bon un membre du conseil
+qui ne peut pas être présent aux réunions
+en raison d'un conflit d'intérêts? La
+relation entre Google et
+Apple a continué à s'intensifier au fil des ans,
+avec Apple prenant la
+décision controversée de supprimer
+Google Maps dans iOS 6, ce qui a entraîné
+Google bloquant plus tard la propre application
+YouTube tierce d'Apple. Finalement
+un accord serait conclu où
+Google serait autorisé à offrir
+ses applications dans l'App Store, devenant même
+le moteur de recherche par défaut
+dans iOS pour la somme considérable de 3 à 4
+milliards de dollars par an
+ <h5>8. WebOS aurait pu
+détruire Android</h5>
+Comme nous l'avons déjà couvert, les gens
+étaient un peu sceptiques à propos d'Android au
+tout début. WebOS d'autre
+part a été universellement loué
+lorsqu'il a été annoncé. À cette
+époque il y avait très peu d'appareils Android
+disponibles et au moment où
+WebOS a été lancé, Android 1.5 était
+encore récent et personne n'avait entendu parler
+du Motorola DROID. Le timing
+était parfait pour que WebOS écrase
+Android et devienne le vrai
+concurrent d'iOS, du moins c'est
+ce que les critiques croyaient. Cela aurait pu
+vraiment arriver aussi si ce n'était
+pour quelques décisions étranges de Palm.
+Ils ont lancé le premier appareil WebOS
+sur Sprint au lieu d'un des
+grands opérateurs et la campagne marketing
+était très étrange pour dire
+le moins. Pourtant, le Palm Pre s'est très
+bien vendu le premier mois, mais a souffert
+d'une forte baisse après cela.
+Quelques mois plus tard Verizon
+annoncerait le Motorola
+DROID et Apple était sur
+l'iPhone 3GS. Palm et WebOS
+se sont estompés, Google a continué
+à améliorer Android, et maintenant il
+a rapidement dominé le monde avec
+sa plateforme ouverte. Google embaucherait plus tard
+le designer de WebOS,
+Matias Duarte, pour aider à améliorer
+l'interface et le design d'Android. Sa
+première grande contribution? L'UI Holo d'Android 3.0
+Honeycomb.
+<h5> 9. Sony a fabriqué la première
+smartwatch Android en
+2010</h5>
+En 2014, Google a annoncé Android
+Wear, une version spéciale d'Android
+conçue spécialement pour les smartwatches.
+Depuis lors nous avons vu un tas
+de smartwatches Android inonder
+le marché. Vous pourriez penser que
+ce sont les premières smartwatches basées sur Android
+à avoir été fabriquées,
+mais une entreprise a battu tout le monde
+au départ. En 2010 Sony
+(Ericsson) a lancé la montre LiveView.
+Elle se connectait avec les téléphones Android
+pour afficher les chronologies Twitter,
+les flux RSS, les SMS et contrôler le
+lecteur multimédia du téléphone. Sony lancerait
+plus tard la SmartWatch 2
+en 2013 avec beaucoup des mêmes
+fonctionnalités. Ce n'est qu'à cette
+époque que Samsung a lancé sa
+première smartwatch basée sur Android, mais
+Sony était la première à sortir.
+<h5> 10. QUELQUES AUTRES FAITS</h5>
+ 1 . Le système d'exploitation Android a été
+développé par Android Inc., en 2004
+soutenu par Google. Plus tard Google
+l'a acheté en 2005 pour un prix de 50
+millions de dollars.
+ 2 . Le système d'exploitation Android a été
+développé comme plateforme pour les appareils photo numériques.
+Mais les créateurs ont plus tard
+changé leur focus vers les smartphones
+en voyant son potentiel.
+ 3. 0 Google a lancé le système d'exploitation Android
+le 5 novembre
+2007, qui est un système logiciel
+basé sur Linux.
+ 4 Le premier smartphone fonctionnant sous
+Android a été lancé en 2008,
+le HTC Dream ou T-Mobile G1
+selon votre pays, il avait un
+clavier coulissant.
+ 5. 0 Le système d'exploitation Android de Google,
+a atteint plus d'un
+milliard d'activations sur des appareils comme
+les smartphones et les tablettes.
+ 6. 0 Sauf Android 1.0 et 1.1, toutes les
+autres versions d'Android sont nommées
+d'après des friandises sucrées comme Jelly Bean,
+ice cream sandwich, honeycomb pour
+n'en nommer que quelques-unes
+ 7. 0 Saviez-vous qu'Android est open
+source? Puisque Google est membre de
+l'Open Handset Alliance (OHA), il a
+donné aux utilisateurs ou aux personnes intéressées l'option
+de modifier le code source du
+système d'exploitation. Cela a permis aux fabricants
+d'ajouter des fonctionnalités au système d'exploitation.
+ 8. 0 Humain avec apparence de robot
+est la signification du mot Android.
+Il fait référence à un robot masculin. Genocide est
+le robot à l'apparence féminine.
+ 9. 0 Android est Andy Rubin qui est le
+co-créateur d'Android, c'était le
+nom qui lui a été donné chez Apple avant de
+rejoindre Google, pour son obsession et
+son amour des robots.
+ 10. 0 Il y a un appareil fonctionnant sous Android
+dans l'espace!! La NASA a équipé
+des robots spatiaux flottants avec des combinés
+Nexus S. Ces appareils fonctionnent sous
+Android Gingerbread.
+ 11. 0 La plupart des gens pensent que le
+nom du personnage du logo d'Android est
+aussi Android, mais ce n'est pas vrai. Le
+nom réel de la mascotte d'Android est
+Droid, bien que ce ne soit pas officiel,
+l'équipe Google l'appelle par ce nom.
+ 12. 0 L'une des meilleures parties d'être
+un propriétaire d'Android ce sont ses applications, sa boutique d'applications
+"Google play" a plus de
+92 milliards d'installations d'applications, dont la plupart
+sont gratuites.
+ 13. 0 Maintenant Android est utilisé pour alimenter
+des appareils comme Google Glass, les montres
+et ainsi de suite.
+ 14 Pour le lancement de sa dernière
+version, un nom de marque approprié a été adopté.
+ 150 . Google a dû conclure un accord avec
+Nestlé pour utiliser le nom "Kit-
+Kat" pour la version 4.4 d'Android.
+ 16 Même Google Maps utilise la
+vitesse des mobiles Android pour
+calculer le trafic sur les routes.
+ 17. 0 Microsoft gagne environ 2 milliards de dollars
+par an en redevances de brevets, de la
+vente d'appareils Android.
+ 18. 0 La vente d'appareils Android est
+supérieure à la vente combinée d'appareils
+Microsoft Windows, iOS et Mac OS.
+ 190 . En 2010, Anssi Vanja, PDG de
+Nokia, a fait un commentaire hilarant sur
+Android. il a dit que l'utilisation d'Android
+est comme un garçon finlandais qui fait pipi dans son pantalon
+pour rester au chaud.
+ 20. 0 Le système de journalisation d'Android
+a une méthode nommée "wtf)"
+qui signifie "What a Terrible
+Failure" (Quel échec terrible).
+ 21 Android est un logiciel open source,
+ce qui signifie que son code source
+est librement disponible. N'importe qui peut
+modifier le code source et ajouter
+de nouvelles fonctionnalités uniques.
+ 22. 0 Avant Google, une offre
+a été faite à Samsung pour acheter
+Android Inc., mais ils ont trouvé Android
+inintéressant et ont rejeté l'offre.
+ 23 Android est écrit dans de nombreux
+langages comme Java, C, C++, XML,
+langage Assembly, Python, Shell
+Script, Go, Make, D.
+Source: world wide web

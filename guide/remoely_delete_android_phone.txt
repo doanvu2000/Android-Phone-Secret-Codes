@@ -1,0 +1,143 @@
+ <h5>Make sure you can delete your data
+while you still have your phone</h5>
+If you want the ability to remotely wipe
+your phone, there are two settings
+that you need to switch on before
+your phone goes missing. It should be
+enabled by default, but check to make
+Sure.
+
+Go to Google Settings> Security>
+Android Device Manager.  Look for Allow
+remote lock and erase and make sure it's
+switched on.
+
+The second toggle that needs to be
+enabled is also in the Android Device
+Manager screen: find Remotely Locate
+This Device, and make sure it's on. If
+these settings are not enabled, then
+Device Manager won't be able to locate
+your device.
+
+Android Device Manager works for
+tablets as well, but if you have multiple
+user accounts, only the person set as
+tablet owner can set the Android Device
+Manager features.
+
+It's a good idea to take a few other
+precautions too: don't store anything
+sensitive on microSD cards (remote
+wiping can't erase them), make sure
+you have a decent lock code or pattern,
+and consider investing in an app such
+as AirDroid or Lookout. Both apps offer
+remote wipe features, but they can also
+transfer crucial data before pulling the
+plug
+Google Settings
+Security
+<h5>Enable both the option of Android
+Device Manager as you can see in the
+image below:</h5>
+<h5>How remotely wipe your Android phone</h5>
+
+Oh no. Your phone's gone! It's time for
+action, arnd by action we mean Android
+Device Manager. You can access Android
+Device Manager in two ways: Via the
+Android Device Manager app on another
+Android device, or via the Android
+Device Manager website.
+
+Once you've logged in, Android Device
+Manage will attempt to locate your
+missing device. If it's on and can get a
+signal, you'll see the location on a map.
+our also see three options: ring it, lock
+It or remotely wipe It. if the device is
+not on or can not get a signal, Android
+Device Manager will report its location
+when it comes on and connects to a
+WI-FI or cellular network.
+
+At that point you can erase all the data
+from your phone, but we'd strongly
+recommend trying the less-serious
+options in before you go nuclear and
+delete everything. Try them in this order:
+
+ <h5>Use Android Device Manager to make
+your phone ring</h5>
+
+Lost phones are often mislaid rather
+than permanentiy missing or stolen. to
+rule that out, use the Androld Device
+Manager to make the phone ring loudly
+Tor five full minutes. his enables you
+to find your phone if it's fallen onto the
+floor of your car or been hidden in a
+Slipper by one of your children.
+
+ <h5>Change the lock screen</h5>
+There's a second non-nuclear option
+avallabile to you. changing the Iock
+screen so that when the phone is next
+SWitched on, your message is displayed.
+"GIVE ME MY PHONE BACK" is likely to
+be counter -productive, but a "Please
+call me" message, possibly backed with
+a modest reward, might just work.
+
+Tried that? Still no joy? OK. It's time to
+destroy your data.
+
+ <h5>Erase your data</h5>
+Choosing the erase option will remotely
+Wipe your phone or tablet. that's the
+same as performing a full tactory reset,
+so it'll delete all of your settings, your
+music, your photos and your apps (but
+not the SD card). As with locking, if
+the missing phone is off then selecting
+this optlion will remotely wipe it once it
+Comes back online.
+If you're worried enough to take this
+Option you should also go into your
+Account and revoke access
+or your missing phone. We'd also
+recommend changing any passwords
+to your online Services.
+the likelihood of a lost phone leading
+to baddies accessing all your stuff is
+very remote, but it doesn't take long
+to remove that possiblity altogethe.
+
+ <h5>What if Android Device Manager can
+not connect?</h5>
+If Android Device Manager can not
+connect, there are two more things
+you can try. Google Maps tracks your
+phone location history - or at least, it
+does if you have not turned that feature
+off in your Google Account - so you
+can sometimes discover where your
+missing phone has been by visiting the
+nissingpnone has been by Visiting the
+Location History page and checking the
+timestamps. It was not necessarily tell
+you where your phone is now, but it can
+tell you where its been.
+
+Another option is to use an app such as
+Android Lost, which works well on older
+Android devices. It is one of the few
+solutions that you can install remotely,
+so its a good option if you had not
+enabled the Android Device Manager
+options specified above. The app and
+website look terrible but work well,
+although the device needs to be online
+via the cellular network or Wi-Fi for it to
+Work.

@@ -1,0 +1,19 @@
+<h5>Sesuaikan Font dan Ukuran Layar</h5>
+Dengan Android, Anda dapat menyesuaikan ukuran
+teks dan bahkan elemen non-tekstual,
+yaitu, menambah atau mengurangi
+rasio ukuran aplikasi (termasuk bilah
+dan tombol) ke ukuran layar sesuai
+kebutuhan tampilan Anda
+Untuk menyesuaikan ukuran teks yang ditampilkan
+di mana saja di antarmuka pengguna.
+Buka aplikasi Pengaturan > pilih Tampilan >
+ketuk Ukuran font dan gerakkan penggeser untuk mengatur
+ukuran font akhir.
+
+Untuk menyesuaikan ukuran bagian non-tekstual
+dari antarmuka termasuk laci,
+bilah dan tombol, buka aplikasi Pengaturan
+klik Tampilan > ketuk Ukuran tampilan dan
+gerakkan penggeser untuk mengatur ukuran yang Anda inginkan.
+

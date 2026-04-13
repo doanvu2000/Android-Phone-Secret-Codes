@@ -1,0 +1,659 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Secret Codes Explorer</title>
+    <style>
+      :root {
+        --bg: #0b0f14;
+        --panel: #0f1722;
+        --panel-2: #0c131d;
+        --border: rgba(255, 255, 255, 0.12);
+        --text: rgba(255, 255, 255, 0.92);
+        --muted: rgba(255, 255, 255, 0.64);
+        --accent: #8be9fd;
+        --success: #50fa7b;
+        --sticky-top: 0px;
+        --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: var(--sans);
+        background: radial-gradient(1200px 600px at 20% -10%, rgba(139, 233, 253, 0.16), transparent 60%),
+          radial-gradient(900px 500px at 90% 10%, rgba(80, 250, 123, 0.12), transparent 55%),
+          linear-gradient(180deg, #070a0e, var(--bg));
+        color: var(--text);
+      }
+
+      .wrap {
+        max-width: 1160px;
+        margin: 0 auto;
+      }
+
+      header {
+        padding: 16px;
+        position: sticky;
+        top: 0;
+        z-index: 20;
+        border-bottom: 1px solid var(--border);
+        backdrop-filter: blur(10px);
+        background: rgba(7, 10, 14, 0.7);
+      }
+
+      h1 {
+        margin: 0;
+        font-size: 18px;
+      }
+
+      .sub {
+        margin-top: 6px;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .tabs {
+        margin-top: 12px;
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+      }
+
+      .tab-btn,
+      .subtab-btn,
+      .copy-btn,
+      .copy-json-btn {
+        border: 1px solid rgba(255, 255, 255, 0.16);
+        background: rgba(255, 255, 255, 0.06);
+        color: rgba(255, 255, 255, 0.9);
+        border-radius: 10px;
+        cursor: pointer;
+      }
+
+      .tab-btn,
+      .subtab-btn {
+        padding: 8px 12px;
+        font-size: 13px;
+      }
+
+      .tab-btn.active,
+      .subtab-btn.active {
+        border-color: rgba(139, 233, 253, 0.4);
+        background: rgba(139, 233, 253, 0.15);
+      }
+
+      .copy-btn,
+      .copy-json-btn {
+        font-size: 12px;
+        padding: 6px 10px;
+      }
+
+      .copy-btn[data-copied="1"],
+      .copy-json-btn[data-copied="1"] {
+        border-color: rgba(80, 250, 123, 0.45);
+        background: rgba(80, 250, 123, 0.12);
+        color: var(--success);
+      }
+
+      main {
+        padding: 14px 16px 28px;
+      }
+
+      .top-panel {
+        display: none;
+      }
+
+      .top-panel.active {
+        display: block;
+      }
+
+      .toolbar {
+        margin-bottom: 12px;
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        align-items: center;
+      }
+
+      .select {
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        background: rgba(15, 23, 34, 0.9);
+        color: var(--text);
+        padding: 8px 10px;
+      }
+
+      .subtabs {
+        display: flex;
+        gap: 8px;
+        margin-bottom: 12px;
+      }
+
+      .subtab-panel {
+        display: none;
+      }
+
+      .subtab-panel.active {
+        display: block;
+      }
+
+      .table {
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 0;
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        background: rgba(15, 23, 34, 0.7);
+      }
+
+      .table th {
+        text-align: left;
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 0.12em;
+        color: rgba(255, 255, 255, 0.7);
+        background: rgba(12, 19, 29, 0.92);
+        border-bottom: 1px solid var(--border);
+        padding: 12px;
+        position: sticky;
+        top: var(--sticky-top);
+        z-index: 5;
+      }
+
+      .table td {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+        padding: 10px 12px;
+        vertical-align: top;
+      }
+
+      .table tr:last-child td {
+        border-bottom: 0;
+      }
+
+      .cell {
+        display: grid;
+        grid-template-columns: 1fr auto;
+        gap: 10px;
+        align-items: start;
+      }
+
+      .val {
+        min-width: 0;
+        line-height: 1.4;
+        word-break: break-word;
+      }
+
+      .mono {
+        font-family: var(--mono);
+      }
+
+      .json-box {
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        background: rgba(12, 19, 29, 0.8);
+        overflow: auto;
+      }
+
+      .json-header {
+        display: flex;
+        justify-content: flex-end;
+        padding: 10px;
+        border-bottom: 1px solid var(--border);
+      }
+
+      pre {
+        margin: 0;
+        padding: 12px;
+        color: #d7e7ff;
+        font-family: var(--mono);
+        font-size: 12px;
+        line-height: 1.6;
+      }
+
+      .error {
+        display: none;
+        margin: 0 0 12px;
+        border: 1px solid rgba(255, 112, 112, 0.4);
+        background: rgba(255, 90, 90, 0.14);
+        color: #ffd4d4;
+        border-radius: 10px;
+        padding: 10px;
+        font-size: 13px;
+      }
+
+      .error.visible {
+        display: block;
+      }
+
+      .muted {
+        color: var(--muted);
+        font-size: 12px;
+        margin-top: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <h1>Secret Codes Explorer</h1>
+        <div class="sub">Source of truth: <span class="mono">code/data/brands.json</span> and <span class="mono">code/data/secret_codes.json</span></div>
+        <div class="tabs" id="topTabs">
+          <button class="tab-btn active" data-tab="codes" type="button">Codes</button>
+          <button class="tab-btn" data-tab="brands" type="button">Brands</button>
+          <button class="tab-btn" data-tab="secret-codes" type="button">Secret Codes</button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <div class="wrap">
+        <div id="globalError" class="error"></div>
+
+        <section id="panel-codes" class="top-panel active" aria-label="Codes">
+          <div class="toolbar">
+            <label for="codesBrandFilter">Brand:</label>
+            <select id="codesBrandFilter" class="select"></select>
+          </div>
+          <div id="codesTableWrap"></div>
+        </section>
+
+        <section id="panel-brands" class="top-panel" aria-label="Brands">
+          <div class="subtabs" data-subtab-group="brands">
+            <button class="subtab-btn active" data-subtab="brands-table" type="button">Table</button>
+            <button class="subtab-btn" data-subtab="brands-json" type="button">JSON</button>
+          </div>
+          <div id="brands-table" class="subtab-panel active"></div>
+          <div id="brands-json" class="subtab-panel">
+            <div class="json-box">
+              <div class="json-header">
+                <button id="copyBrandsJson" class="copy-json-btn" type="button">Copy JSON</button>
+              </div>
+              <pre id="brandsJsonText"></pre>
+            </div>
+          </div>
+        </section>
+
+        <section id="panel-secret-codes" class="top-panel" aria-label="Secret Codes">
+          <div class="subtabs" data-subtab-group="secret-codes">
+            <button class="subtab-btn active" data-subtab="sc-table" type="button">Table</button>
+            <button class="subtab-btn" data-subtab="sc-json" type="button">JSON</button>
+          </div>
+          <div id="sc-table" class="subtab-panel active">
+            <div class="toolbar">
+              <label for="scBrandFilter">Brand:</label>
+              <select id="scBrandFilter" class="select"></select>
+            </div>
+            <div id="secretCodesTableWrap"></div>
+          </div>
+          <div id="sc-json" class="subtab-panel">
+            <div class="json-box">
+              <div class="json-header">
+                <button id="copySecretCodesJson" class="copy-json-btn" type="button">Copy JSON</button>
+              </div>
+              <pre id="secretCodesJsonText"></pre>
+            </div>
+          </div>
+        </section>
+
+        <div class="muted">Each table cell has its own copy button.</div>
+      </div>
+    </main>
+
+<script>
+      const state = {
+        brands: [],
+        secretCodes: [],
+        brandMap: new Map(),
+      };
+
+      function updateStickyTop() {
+        const header = document.querySelector("header");
+        const h = header ? header.offsetHeight : 0;
+        document.documentElement.style.setProperty("--sticky-top", h + "px");
+      }
+
+      function escapeHtml(s) {
+        return String(s || "")
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/\"/g, "&quot;")
+          .replace(/'/g, "&#039;");
+      }
+
+      async function copyText(text) {
+        const value = String(text || "");
+        try {
+          if (navigator.clipboard && typeof navigator.clipboard.writeText === "function") {
+            await navigator.clipboard.writeText(value);
+            return true;
+          }
+        } catch (_) {}
+
+        try {
+          const ta = document.createElement("textarea");
+          ta.value = value;
+          ta.setAttribute("readonly", "");
+          ta.style.position = "fixed";
+          ta.style.left = "-9999px";
+          document.body.appendChild(ta);
+          ta.select();
+          const ok = document.execCommand("copy");
+          document.body.removeChild(ta);
+          return ok;
+        } catch (_) {
+          return false;
+        }
+      }
+
+      function attachCopyBehavior(button, textProvider) {
+        button.addEventListener("click", async () => {
+          const ok = await copyText(textProvider());
+          const prev = button.textContent;
+          button.textContent = ok ? "Copied" : "Failed";
+          button.setAttribute("data-copied", ok ? "1" : "0");
+          setTimeout(() => {
+            button.textContent = prev;
+            button.removeAttribute("data-copied");
+          }, 900);
+        });
+      }
+
+      function makeCell(text, className) {
+        const safeText = String(text || "");
+        const wrapper = document.createElement("div");
+        wrapper.className = "cell";
+
+        const val = document.createElement("div");
+        val.className = "val " + (className || "");
+        val.textContent = safeText;
+
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "copy-btn";
+        btn.textContent = "Copy";
+        attachCopyBehavior(btn, () => safeText);
+
+        wrapper.appendChild(val);
+        wrapper.appendChild(btn);
+        return wrapper;
+      }
+
+      function renderTable(container, columns, rows) {
+        const table = document.createElement("table");
+        table.className = "table";
+
+        const thead = document.createElement("thead");
+        const trh = document.createElement("tr");
+        columns.forEach((c) => {
+          const th = document.createElement("th");
+          th.textContent = c.label;
+          if (c.width) th.style.width = c.width;
+          trh.appendChild(th);
+        });
+        thead.appendChild(trh);
+
+        const tbody = document.createElement("tbody");
+        rows.forEach((row) => {
+          const tr = document.createElement("tr");
+          columns.forEach((c) => {
+            const td = document.createElement("td");
+            const raw = c.format ? c.format(row[c.key], row) : row[c.key];
+            td.appendChild(makeCell(raw, c.className || ""));
+            tr.appendChild(td);
+          });
+          tbody.appendChild(tr);
+        });
+
+        table.appendChild(thead);
+        table.appendChild(tbody);
+        container.innerHTML = "";
+        container.appendChild(table);
+      }
+
+      function setError(message) {
+        const box = document.getElementById("globalError");
+        if (!message) {
+          box.classList.remove("visible");
+          box.textContent = "";
+          return;
+        }
+        box.textContent = message;
+        box.classList.add("visible");
+      }
+
+      async function loadJson(path) {
+        const resp = await fetch(path, { cache: "no-store" });
+        if (!resp.ok) {
+          throw new Error("Cannot load " + path + " (" + resp.status + ")");
+        }
+        return resp.json();
+      }
+
+      async function loadJsonFromCandidates(candidates) {
+        let lastErr = null;
+        for (const p of candidates) {
+          try {
+            return await loadJson(p);
+          } catch (err) {
+            lastErr = err;
+          }
+        }
+        if (location.protocol === "file:") {
+          throw new Error("file:// cannot fetch JSON. Open via localhost server.");
+        }
+        throw lastErr || new Error("Failed to load JSON from /data/");
+      }
+
+      function normalizeData(brands, secretCodes) {
+        const brandMap = new Map(brands.map((b) => [Number(b.brand_id), b]));
+        const grouped = new Map();
+
+        secretCodes.forEach((item) => {
+          const brandId = Number(item.brand_id);
+          const code = String(item.code || "").trim();
+          const desc = String(item.description || "").trim();
+          if (!brandMap.has(brandId) || !code) return;
+
+          const key = brandId + "::" + code;
+          if (!grouped.has(key)) {
+            grouped.set(key, { brand_id: brandId, code, descriptions: [] });
+          }
+          const target = grouped.get(key);
+          if (desc && !target.descriptions.includes(desc)) {
+            target.descriptions.push(desc);
+          }
+        });
+
+        let idx = 1;
+        const merged = Array.from(grouped.values())
+          .sort((a, b) => {
+            if (a.brand_id !== b.brand_id) return a.brand_id - b.brand_id;
+            return a.code.localeCompare(b.code);
+          })
+          .map((it) => ({
+            code_id: idx++,
+            brand_id: it.brand_id,
+            code: it.code,
+            description: it.descriptions.join(" / "),
+          }));
+
+        return { brands, secretCodes: merged, brandMap };
+      }
+
+      function populateBrandSelect(selectEl, brands) {
+        selectEl.innerHTML = "";
+        const optAll = document.createElement("option");
+        optAll.value = "all";
+        optAll.textContent = "All Brands";
+        selectEl.appendChild(optAll);
+
+        brands.forEach((b) => {
+          const opt = document.createElement("option");
+          opt.value = String(b.brand_id);
+          opt.textContent = b.brand_name;
+          selectEl.appendChild(opt);
+        });
+      }
+
+      function buildCodesRows(selectedBrand) {
+        const filtered = state.secretCodes.filter((x) => selectedBrand === "all" || String(x.brand_id) === selectedBrand);
+        return filtered.map((x) => ({
+          code: x.code,
+          description: x.description,
+        }));
+      }
+
+      function buildSecretCodesRows(selectedBrand) {
+        const filtered = state.secretCodes.filter((x) => selectedBrand === "all" || String(x.brand_id) === selectedBrand);
+        return filtered.map((x) => ({
+          code_id: x.code_id,
+          brand_name: state.brandMap.get(x.brand_id)?.brand_name || "Unknown",
+          code: x.code,
+          description: x.description,
+        }));
+      }
+
+      function renderCodesTab() {
+        const selected = document.getElementById("codesBrandFilter").value;
+        const rows = buildCodesRows(selected);
+        renderTable(
+          document.getElementById("codesTableWrap"),
+          [
+            { key: "code", label: "Code", width: "34%", className: "mono" },
+            { key: "description", label: "Description" },
+          ],
+          rows
+        );
+      }
+
+      function renderBrandsTab() {
+        const rows = state.brands.map((x) => ({ brand_id: x.brand_id, brand_name: x.brand_name }));
+        renderTable(
+          document.getElementById("brands-table"),
+          [
+            { key: "brand_id", label: "Brand ID", width: "20%", className: "mono" },
+            { key: "brand_name", label: "Brand Name" },
+          ],
+          rows
+        );
+
+        const jsonText = JSON.stringify(state.brands, null, 2);
+        const pre = document.getElementById("brandsJsonText");
+        pre.textContent = jsonText;
+      }
+
+      function renderSecretCodesTab() {
+        const selected = document.getElementById("scBrandFilter").value;
+        const rows = buildSecretCodesRows(selected);
+        renderTable(
+          document.getElementById("secretCodesTableWrap"),
+          [
+            { key: "code_id", label: "Code ID", width: "12%", className: "mono" },
+            { key: "brand_name", label: "Brand", width: "16%" },
+            { key: "code", label: "Code", width: "28%", className: "mono" },
+            { key: "description", label: "Description" },
+          ],
+          rows
+        );
+
+        const jsonText = JSON.stringify(state.secretCodes, null, 2);
+        const pre = document.getElementById("secretCodesJsonText");
+        pre.textContent = jsonText;
+      }
+
+      function initTopTabs() {
+        const tabs = Array.from(document.querySelectorAll("#topTabs .tab-btn"));
+        const panels = {
+          codes: document.getElementById("panel-codes"),
+          brands: document.getElementById("panel-brands"),
+          "secret-codes": document.getElementById("panel-secret-codes"),
+        };
+
+        tabs.forEach((btn) => {
+          btn.addEventListener("click", () => {
+            const tab = btn.getAttribute("data-tab");
+            tabs.forEach((b) => b.classList.toggle("active", b === btn));
+            Object.keys(panels).forEach((k) => {
+              panels[k].classList.toggle("active", k === tab);
+            });
+          });
+        });
+      }
+
+      function initSubTabs() {
+        const groups = Array.from(document.querySelectorAll(".subtabs"));
+        groups.forEach((group) => {
+          const buttons = Array.from(group.querySelectorAll(".subtab-btn"));
+          buttons.forEach((btn) => {
+            btn.addEventListener("click", () => {
+              const target = btn.getAttribute("data-subtab");
+              buttons.forEach((b) => b.classList.toggle("active", b === btn));
+
+              const section = group.parentElement;
+              const panels = Array.from(section.querySelectorAll(".subtab-panel"));
+              panels.forEach((p) => p.classList.toggle("active", p.id === target));
+            });
+          });
+        });
+      }
+
+      async function init() {
+        try {
+          updateStickyTop();
+          window.addEventListener("resize", updateStickyTop);
+
+          const [brandsRaw, secretCodesRaw] = await Promise.all([
+            loadJsonFromCandidates(["/data/brands.json", "./data/brands.json", "data/brands.json"]),
+            loadJsonFromCandidates(["/data/secret_codes.json", "./data/secret_codes.json", "data/secret_codes.json"]),
+          ]);
+
+          const normalized = normalizeData(brandsRaw, secretCodesRaw);
+          state.brands = normalized.brands;
+          state.secretCodes = normalized.secretCodes;
+          state.brandMap = normalized.brandMap;
+
+          if (state.brands.length === 0) {
+            throw new Error("brands.json is empty.");
+          }
+
+          const codeFilter = document.getElementById("codesBrandFilter");
+          const scFilter = document.getElementById("scBrandFilter");
+          populateBrandSelect(codeFilter, state.brands);
+          populateBrandSelect(scFilter, state.brands);
+
+          codeFilter.addEventListener("change", renderCodesTab);
+          scFilter.addEventListener("change", renderSecretCodesTab);
+
+          renderCodesTab();
+          renderBrandsTab();
+          renderSecretCodesTab();
+
+          initTopTabs();
+          initSubTabs();
+
+          attachCopyBehavior(document.getElementById("copyBrandsJson"), () => document.getElementById("brandsJsonText").textContent);
+          attachCopyBehavior(
+            document.getElementById("copySecretCodesJson"),
+            () => document.getElementById("secretCodesJsonText").textContent
+          );
+
+          setError("");
+        } catch (err) {
+          setError("Failed to load data. " + escapeHtml(err?.message || "Unknown error"));
+        }
+      }
+
+      document.addEventListener("DOMContentLoaded", init);
+    </script>
+  </body>
+</html>
+
+
+

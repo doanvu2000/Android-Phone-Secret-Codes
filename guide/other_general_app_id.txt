@@ -1,0 +1,66 @@
+<h5>Aplikasi tidak ditemukan untuk semua aplikasi di
+SD, mengapa demikian?</h5>
+ Ini adalah salah satu kelemahan utama
+ memindahkan aplikasi ke SD-jika SD
+ tidak berfungsi atau dilepas secara tidak terduga,
+ itu dapat merusak aplikasi. Apakah Anda
+ Melepas kartu sebelum melepasnya
+ (di Pengaturan>Penyimpanan)? Coba buka
+ Pengaturan>Aplikasi , pilih salah satu dari
+ aplikasi itu, dan lihat apakah Anda dapat Pindahkan ke Penyimpanan
+ Ponsel lagi. Jika itu berhasil, ketuk
+ Pindahkan ke kartu SD setelahnya untuk melihat apakah
+ itu memperbaikinya.
+
+ Jika tidak, Anda mungkin harus mencopot pemasangan
+ aplikasi, lalu menginstalnya lagi. Saya tidak yakin
+ apakah sisa data aplikasi di kartu SD
+ akan digabungkan dengan benar ke dalam
+ aplikasi yang diinstal ulang, atau apakah itu akan menjadi bingung
+
+ <h5>Kembalikan kontak buku telepon saya</h5>
+ Jika Anda pernah menggunakan G Mail, itu berarti
+ kontak Anda disinkronkan di akun
+ Gmail Anda, jika Anda ingin memulihkan ke
+ ponsel baru Anda, ikuti ini: masukkan
+ akun Gmail Anda ke ponsel baru Anda
+ dan alihkan sinkronisasi ke posisi
+ hidup, setelah sinkronisasi
+ selesai Anda akan melihat semua kontak
+ akan muncul di ponsel baru Anda.
+
+ <h5>Suara menjadi lebih pelan saat mencolokkan
+ headphone</h5>
+ Ini adalah fitur keamanan. Sebagian besar produsen
+ ponsel menerapkan perataan ulang
+ volume otomatis itu saat
+ mencolokkan headphone untuk menghindari suara keras,
+ tiba-tiba meledak ke telinga Anda,
+ mencegah kerusakan/kehilangan pendengaran.
+
+
+ Ponsel Samsung, misalnya, tidak
+ hanya melakukan itu, tetapi mereka juga menambahkan pop-up
+ peringatan yang sangat mengganggu (tetapi sangat valid)
+ ketika Anda mencoba melampaui
+ tingkat volume tertentu saat menggunakan
+ headphone. Ini muncul sekali setiap reboot
+ dan tidak ada cara untuk menonaktifkan, mengabaikan
+ secara permanen, atau mengabaikannya.
+
+ <h5>Nonaktifkan Putar Otomatis Video Facebook Di
+ Android</h5>
+ Ada fitur Facebook lain
+ yang bisa sangat mengganggu: putar otomatis
+ video. Tidak hanya Anda tidak selalu
+ ingin melihat apa yang ditampilkan orang,
+ tetapi ini juga menghabiskan lebih banyak data
+ dan baterai Android Anda. Berikut adalah
+ cara menonaktifkan fitur ini di Android.
+ Untuk melakukan ini, geser ke tab terjauh
+ di aplikasi Facebook untuk Android dan
+ ketuk Pengaturan Aplikasi. Tepat di sana di bawah
+ Pengaturan Umum, ketuk 'Putar Otomatis
+ Video' dan atur ke Mati. Tentu saja,
+ Facebook telah mengaturnya secara default ke Hidup, tetapi tidak
+ lagi!

@@ -1,0 +1,322 @@
+<h5>Como fazer backup do seu
+telefone Android</h5>
+Sempre existe a possibilidade de que
+você perca seu telefone ou o deixe cair
+na água e perca tudo.
+Felizmente, existem muitas
+maneiras de fazer backup de dispositivos Android,
+garantindo que mesmo se algo
+acontecer com seu telefone, você não
+perderá todas aquelas fotos embaraçosas
+de seus filhos que você ia mostrar
+no aniversário de 21 anos deles. Seja
+através do Google, um aplicativo de terceiros
+ou seu computador, aqui estão várias
+maneiras de fazer backup de telefones para garantir
+que você nunca se encontre em uma
+situação em que acabe com dados
+perdidos.
+<h5> Nota do editor: Todos os passos
+neste artigo foram reunidos
+usando um Pixel
+4a com 5G executando
+Android 12 e um PC personalizado
+executando Windows 11.
+Lembre-se de que os passos podem
+diferir dependendo do seu
+dispositivo e software.</h5>
+<h5>Como fazer backup do seu
+telefone Android com
+Google</h5>
+ Fazer backup da maioria dos seus dados é
+bastante fácil com o Google, e tem
+ficado muito mais fácil nos últimos
+anos. Infelizmente, ainda não há
+um método de backup único para
+telefones Android através do Google.
+Você terá que usar diferentes serviços do
+Google para fazer backup de diferentes tipos
+de dados.
+<h5> 1. Fotos e vídeos</h5>
+Se você ainda não está usando o Google
+Photos, deveria estar. O serviço
+faz backup automaticamente de cada foto
+e vídeo que você tira para a nuvem, então
+você nunca terá que fazer backup de sua
+mídia manualmente novamente. Se o
+aplicativo Photos não estiver no seu
+telefone, você pode baixá-lo. Uma vez
+instalado, você precisará garantir que o
+Photos esteja configurado para fazer backup de seus
+arquivos automaticamente.
+como sincronizar suas imagens com o google photos:
+Abra o aplicativo Google Photos.
+Toque na imagem de perfil no canto
+superior direito
+Selecione configurações de Fotos.
+Ative Backup e sincronização.
+Além disso, certifique-se de ir em Tamanho de
+upload e escolher suas configurações de
+upload preferidas
+Apenas tenha em mente que fazer upload
+para o Google Photos não é mais
+Completamente gratuito. A partir de 1º de junho de
+2021, quaisquer novas fotos e vídeos
+que você enviar contarão para o
+armazenamento gratuito de 15GB que vem com
+cada Conta do Google. Claro,
+você pode pagar por mais armazenamento. Não se
+preocupe, pois quaisquer fotos ou vídeos que
+você possa ter enviado em alta qualidade
+antes de 1º de junho de 2021, não contarão
+para o seu armazenamento do Google e
+ainda serão considerados gratuitos e isentos
+do limite de armazenamento.
+ <h5>2. Música</h5>
+O Google tem uma ótima maneira de fazer backup
+de sua música para a nuvem, e depois ouvi-la
+de qualquer dispositivo. Você pode usar o
+YouTube Music, que permite que você
+envie até 100.000 músicas.
+Como enviar músicas para o YouTube
+Music:
+Abra seu navegador e vá para
+music.youtube.com.
+Clique na sua imagem de perfil no
+canto superior direito.
+Selecione Fazer upload de música.
+Escolha as músicas que você quer enviar
+e selecione Abrir.
+Você agora pode tocar as músicas do
+aplicativo ou site do YouTube Music.
+Vá para Biblioteca > Músicas > Uploads.
+<h5>3. Outros arquivos</h5>
+O Google Drive permite que você armazene seus
+outros arquivos na nuvem, o que significa
+que eles estarão acessíveis de qualquer
+dispositivo conectado.
+Como armazenar seus arquivos no Google
+Drive:
+Baixe o aplicativo Google Drive, se
+você ainda não o tiver.
+No aplicativo, pressione o botão +.
+Pressione Fazer upload.
+Selecione o(s) arquivo(s) que você gostaria de fazer
+backup.
+É isso!
+
+<h5>4. Configurações, aplicativos, SMS,
+histórico de chamadas, e muito
+mais!</h5>
+
+Google Drive e Photos tornam as
+soluções de backup do Google
+fragmentadas, mas as coisas ficam muito
+mais perfeitas com todos os outros
+dados essenciais. A solução nativa de
+backup em nuvem do Android pode armazenar
+configurações, aplicativos, mensagens SMS, e
+até mesmo seu histórico de chamadas. Isso torna
+fácil restaurar tudo em um novo
+telefone.
+Como fazer backup do Android para o Google
+One:
+Abra o aplicativo Configurações no seu
+telefone Android.
+toque em Google.
+Vá em Backup.
+Ative Backup pelo Google One.
+Você também pode ir em dados da Conta
+do Google e selecionar outros dados
+que você pode sincronizar. Isso inclui o
+Calendário, Docs, Google Fit, Keep,
+e muito mais.
+Volte para as configurações principais de
+Backup.
+Toque em Fazer backup agora.
+
+Como fazer backup do seu
+telefone Android com
+Amazon Photos,
+OneDrive, e outros??
+ Os serviços em nuvem são abundantes,
+ e o Google não é o único
+ oferecendo montes de armazenamento.
+ O OneDrive da Microsoft é uma alternativa muito
+ competente. Se você
+ assinar o Office 365, a
+ empresa oferece 1TB de armazenamento
+ online.
+ Em outros lugares, o Amazon Photos oferece
+ armazenamento ilimitado de fotos mais
+ 5GB de armazenamento de vídeo com uma assinatura
+ Prime. Enquanto isso, 100GB
+ de armazenamento custam apenas s1.99/mês ou
+ $19.99/ano, tornando-o uma alternativa
+ acessível, embora não tão intimamente integrada.
+ Existem muitas outras
+ soluções de armazenamento em nuvem por aí;
+ confira clicando no
+ link abaixo. A maior desvantagem de
+ se afastar do ecossistema do Google
+ é o esforço necessário para garantir que
+ todo o seu conteúdo seja copiado ou sincronizado.
+ Estes não são tão intimamente integrados
+ ao Android, então eles precisam de um pouco mais de
+ Trabalho.
+ O processo de usar esses aplicativos
+ é relativamente simples. Você tem que
+ baixá-los e seguir as
+ instruções durante o processo de
+ configuração.
+<h5> Fazendo backup para o seu
+Computador</h5>
+<h5>1. Usando Android File
+Transfer</h5>
+ Em vez de fazer backup do seu dispositivo para
+ a nuvem ou para o próprio telefone, você
+ pode querer fazer backup de todos os seus arquivos
+ para o seu computador para fácil acesso
+ mais tarde. Felizmente, isso é muito fácil
+ de fazer, e o processo é bastante
+ o mesmo se você é um usuário de
+ Mac ou PC. Usuários de Mac precisarão
+ baixar e instalar o aplicativo Android
+ File Transfer, no entanto.
+ Como fazer backup do seu dispositivo Android
+ para um computador
+ Conecte seu telefone ao seu computador
+ com seu cabo USB.
+ No Windows, vá para Meu Computador
+ e abra o armazenamento do telefone.
+ No Mac, abra o Android File Transfer.
+ Arraste os arquivos que você deseja fazer backup
+ para uma pasta no seu computador.
+ Sim, o aplicativo Android File Transfer
+ é bastante desajeitado e nem sempre
+ faz o trabalho. Se copiar manualmente
+ arquivos é sua opção preferida,
+ pode ser uma boa ideia investir
+ em um aplicativo melhor. Commander One
+ é um aplicativo excelente que permite que você faça
+ exatamente isso. Oliver Craig do Android Authority
+ nos dá todas as informações
+ sobre a melhor maneira de transferir arquivos
+ entre um telefone Android e Mac.
+ <h5>2. Sincronização sem fio com
+Syncthing</h5>
+ E se você pudesse fazer backup automaticamente
+ de todas as suas imagens e arquivos para
+ o seu computador ou unidade NAS sem
+ ter que conectar um cabo? É aí que
+ os utilitários de sincronização entram em ação.
+ Syncthing é um ótimo utilitário para
+ garantir que todas as suas fotografias e
+ arquivos adicionais sejam baixados para
+ o computador. A premissa é simples
+ instale um aplicativo no seu telefone e
+ selecione uma pasta para ficar de olho
+ constantemente. Enquanto isso, um cliente roda
+ no seu computador, permitindo que você
+ se conecte com seu telefone.
+ Agora, sempre que o aplicativo no
+ telefone detecta uma alteração ou adição de
+ arquivo em uma pasta vigiada, ele
+ envia imediatamente uma cópia para
+ o computador. Simples e confiável. Ele
+ Apenas funciona. Claro, você pode usá-lo
+ como um utilitário de sincronização padrão também, mas
+ eu prefiro ter todos os meus arquivos enviados em um
+ sentido para o computador para ter uma cópia
+ disponível mesmo se eu excluir algo
+ do meu telefone.
+ Como você configura o Syncthing:
+ Instale o aplicativo Syncthing da
+ Play Store.
+ Instale o aplicativo Syncthing no seu PC
+ ou Mac.
+ É uma boa ideia emparelhar um dispositivo
+ antes de criar pares de pastas. Vá para
+ a guia Dispositivos e toque no ícone +.
+ Você pode inserir o nome do dispositivo ou
+ clicar na leitura de código de barras para adicionar o
+ par de dispositivos usando um código QR.
+ É isso. Vá para a guia Pastas
+ e toque no ícone +.
+ Nomeie a pasta, selecione-a no
+ diretório, escolha o tipo de pasta e
+ passe por todas as configurações. Você pode até
+ configurar a pasta para receber dados se você
+ quiser receber conteúdo do seu
+ PC para o seu telefone.
+ Em alguns momentos, você será
+ solicitado a confirmar o par no seu
+ PC, e a sincronização começará.
+
+<h5>Outras opções para fazer backup do
+telefone Android</h5>
+Os serviços do Google são excelentes,
+mas se você está procurando uma solução mais
+Abrangente uma que
+faça backup de tudo de uma vez, isso
+é-você pode precisar usar um aplicativo de
+terceiros.
+ <h5>Telefone sem root</h5>
+Existem muitos ótimos aplicativos para
+fazer backup de seus dados, e um dos
+melhores é o Super Backup & Restore.
+Ele permite que você faça backup de itens
+individuais no seu telefone, como aplicativos,
+Contatos, SMS, calendários, chamadas de voz,
+e mais. Os usuários podem definir para onde
+os backups vão para fácil localização
+mais tarde, e você também pode Agendar
+backups automáticos junto com
+backup para armazenamento em nuvem.
+Como fazer backup do Android usando Super
+Backup & Restore:
+Baixe Super Backup & Restore.
+Você verá uma lista de categorias de itens
+que você pode fazer backup (Imagens,
+Aplicativos, etc.).
+Selecione os itens individuais que você gostaria
+de incluir no seu backup.
+Toque em Backup ou Backup de tudo para
+cada seleção.
+ <h5>Telefones com root</h5>
+ Enquanto a maioria das pessoas não precisará
+ fazer root em seus telefones para fazer backup do que
+ precisam, fazer root no seu telefone
+ pode ajudá-lo a fazer backup de mais algumas
+ coisas. Ao fazer root no seu telefone, quase
+ tudo no seu telefone
+ pode ser restaurado, incluindo coisas como
+ configurações de aplicativos, dados do sistema e até
+ senhas de Wi-Fi. Um dos aplicativos mais
+ usados para fazer backup de um telefone
+ com root é o Titanium Backup. Enquanto
+ o Titanium Backup certamente parece um
+ pouco desatualizado, é um aplicativo atraente
+ de fato. Aqui está como fazer backup de seus
+ arquivos usando o Titanium Backup:
+ Baixe e abra o Titanium
+ Backup.
+ Toque no botão Menu no canto superior
+ direito e selecione ações em Lote.
+ Selecione tudo o que você deseja fazer backup.
+ Se esta é a primeira vez que você está fazendo backup
+ do seu dispositivo, você vai querer pelo menos
+ selecionar fazer backup de todos os aplicativos de usuário e
+ fazer backup de todos os dados do sistema.
+ Você também pode escolher fazer backup dos
+ arquivos para o Dropbox ou Google Drive,
+ o que você pode querer fazer se
+ perder seu telefone.
+ Você também pode optar por criar um
+ arquivo de backup .zip compatível com recuperação
+ Isso garante que mesmo se os
+ arquivos de sistema do seu telefone ficarem corrompidos
+ ou algo mais acontecer que
+ impeça você de inicializar seu
+ telefone, você poderá restaurar seu
+ telefone a partir do backup.

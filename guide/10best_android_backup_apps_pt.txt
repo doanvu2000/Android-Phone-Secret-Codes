@@ -1,0 +1,29 @@
+Deve sempre fazer uma cópia de segurança dos seus
+ficheiros. É uma das coisas mais importantes
+que uma pessoa precisa de fazer com os seus
+dispositivos eletrónicos. Nunca se sabe quando
+as coisas vão correr mal e não vai querer
+perder nada do seu conteúdo quando
+tais eventos ocorrerem. Felizmente, existem
+muitas formas de fazer cópias de segurança dos seus
+ficheiros e aplicações no Android. Para esta lista,
+vamos dar uma vista de olhos às melhores aplicações de
+cópia de segurança para Android. Infelizmente, com as ferramentas
+nativas a tornarem-se mais populares, o cenário de aplicações
+para isto está a tornar-se um pouco mais fraco.
+De um modo geral, a menos que seja um utilizador
+root, as suas melhores opções são normalmente o armazenamento
+na nuvem e a cópia de segurança nativa da Google, mas
+falamos sobre isso com mais detalhe abaixo.
+As melhores aplicações de cópia de segurança para Android e
+outras formas também
+<h6>1. Auto sync by MetaCtrl</h6>
+<h6>2. Buggy Backup Pro</h6>
+<h6>3. Backup your Mobile</h6>
+<h6>4. G Cloud Backup</h6>
+<h6>5. Google Photos</h6>
+<h6>6. Migrate</h6>
+<h6>7. Resilient Sync</h6>
+<h6>8. Solid Explorer</h6>
+<h6>9. Swift Backup</h6>
+<h6>10. Titanium Backup</h6>

@@ -1,0 +1,54 @@
+<h5>Apagar el seguimiento de ubicación de Android</h5>
+Abre Configuración
+
+Desplázate hacia abajo hasta Ubicación. Verás
+un interruptor de encendido/apagado en la parte superior derecha. Usa
+esto para encender o apagar los servicios de ubicación
+por completo.
+
+<h5>Toca en Ubicación> Historial de Ubicación de Google</h5>
+ Una vez más hay un botón
+en la esquina superior derecha que te permite encender
+o apagar tu historial de ubicación. Si
+también quieres eliminar tu historial de
+ubicación, puedes hacerlo aquí también:
+bajo Historial de Ubicación toca Eliminar
+Historial de Ubicación. Una vez eliminada esta
+información no se puede recuperar.
+
+ <h5>Habilitar Modo Invitado en Android</h5>
+Desliza hacia abajo desde la parte superior de la
+pantalla para bajar la barra de
+notificaciones.
+Toca tu avatar en la parte superior derecha
+dos veces
+Ahora verás tres iconos: tu
+cuenta de Google, Añadir invitado y Añadir
+usuario.
+
+Toca Añadir invitado.
+Ahora tu teléfono inteligente cambiará
+al modo invitado. Esto puede tomar algún
+tiempo y el teléfono puede ser ligeramente
+lento inicialmente, pero en nuestras pruebas con un
+Nexus 5 funcionó bien después de unos
+minutos.
+
+Cuando hayas terminado con el modo
+invitado, puedes revertir fácilmente a tu
+cuenta de Google. Sigue los pasos 1 y
+2 anteriores y toca el icono que muestra
+tu cuenta de Google. Esto eliminará
+todos los datos guardados en la sesión de invitado
+también.
+
+Si tu teléfono inteligente no tiene
+Android 5.0 Lollipop instalado,
+deberías buscar un modo invitado precargado
+al que puedas acceder yendo
+a Configuración> General > Privacidad>
+Modo Invitado.
+
+ <h5>Mantente alejado de aplicaciones fraudulentas</h5>
+Siempre usa play store para instalar cualquier
+tipo de aplicación

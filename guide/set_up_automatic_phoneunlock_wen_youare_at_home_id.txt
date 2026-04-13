@@ -1,0 +1,16 @@
+ Atur pembukaan kunci telepon otomatis
+Smart unlock adalah fitur baru di
+Android 5.0 Lollipop dan sistem operasi
+Android yang lebih tinggi. Ini menghapus
+PIN atau kode sandi telepon Anda di lokasi
+tertentu yang Anda percayai, seperti rumah atau kantor.
+Buka Pengaturan > Keamanan > Smart Lock
+Tempat tepercaya dan tambahkan ke tempat
+tepercaya.
+
+Jika perangkat Anda menjalankan Android 4.4
+KitKat, ada solusi cerdas untuk
+ini. Aktifkan instalasi dari aplikasi pihak ketiga
+dengan membuka Pengaturan> Keamanan>
+memilih Sumber tidak dikenal.
+

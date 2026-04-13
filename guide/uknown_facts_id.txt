@@ -1,0 +1,458 @@
+ <h5>Fakta Tentang Android
+Yang Harus Anda Ketahui.?</h5>
+Android telah ada selama
+sedikit lebih dari satu dekade dan banyak
+hal telah berubah sejak masa-masa
+awalnya. Android adalah Sistem Operasi
+Seluler yang dirilis pada 23,
+September 2008. Android adalah sistem
+operasi gratis dan sumber terbuka dan
+berdasarkan versi modifikasi dari
+kernel Linux. Open Handset Alliance
+(OHA) mengembangkan Android dan
+Google mensponsorinya secara komersial. Ini
+terutama dirancang untuk perangkat layar
+sentuh seperti smartphone dan
+tablet. Android didukung pada
+berbagai platform seperti ARM 32 dan 64-
+bit, x86, dan x86-64. Android
+tersedia dalam lebih dari 100 bahasa
+dengan Grafis (multi-sentuh) sebagai
+antarmuka pengguna default. Apa yang dimulai
+sebagai sistem operasi sederhana telah
+menjadi kekuatan besar yang mencakup
+perangkat dan faktor bentuk yang tak terhitung
+jumlahnya. Sejarah Android adalah
+cerita yang menarik. Anda mungkin berpikir
+Anda tahu segalanya tentang
+Android, tetapi kami memiliki
+hal-hal berikut yang mungkin tidak Anda
+ketahui. Cek di bawah ini!
+<h5> 1. Google tidak membuat
+Android</h5>
+Saat ini Google dan Android
+sinonim satu sama lain,
+tetapi Anda mungkin terkejut mengetahui
+bahwa hal itu tidak selalu terjadi.
+Android didirikan pada tahun 2003 oleh
+Andy Rubin, Rich Miner, Nick Sears,
+dan Chris White. Para pendiri
+memiliki hubungan kuat dengan T-Mobile. Andy
+Rubin menciptakan T-Mobile Sidekick yang sangat populer,
+dan Nick Sears
+adalah wakil presiden di T-Mobile. Jadi,
+Anda dapat melihat mengapa T-Mobile mendaratkan
+ponsel Android pertama. Baru pada tahun 2005 Google mengakuisisi
+Android Inc. Rubin, Miner, dan
+White semuanya tetap bersama Android
+selama akuisisi tersebut. Bersama-sama,
+mereka mengembangkan apa yang sekarang kita
+kenal sebagai OS Android, bahkan,
+nama panggilan Rubin adalah asal mula
+nama "Android". Banyak
+orang menganggap Android sebagai salah
+satu akuisisi terbaik Google dan 10
+tahun setelah akuisisi tersebut, Android
+telah membengkak untuk mengendalikan 88% dari pangsa
+pasar OS smartphone.
+<h5> 2. Banyak kritikus berpikir
+Android akan gagal
+total</h5>
+Android hampir dipuji secara universal
+saat ini, tetapi pada masa itu
+kritikus jauh lebih skeptis. Pada
+saat kemunculan Android,
+iPhone masih relatif baru
+sementara Microsoft dan Blackberry
+sibuk memimpin jalan di
+Smartphone. Ide tentang perusahaan
+pencarian web dan email yang membuat
+ponsel tidak tampak seperti sebuah
+kepastian sukses. Pada akhir 2008 dalam sebuah diskusi
+meja bundar tentang seluler,
+pertanyaan diajukan "kita harus berbicara
+tentang Android, bukan?" Seorang anggota
+dari Pandora menjawab dengan tegas
+"Kenapa? Kenapa kita harus berbicara
+tentang Android, tidak ada yang peduli.
+Jelas Pandora akhirnya sadar
+dan membuat aplikasi Android.
+ <h5> 3. prototipe android pertama
+tampak seperti blackberry</h5>
+ banyak orang percaya bahwa jika bukan
+karena iphone, perangkat
+Android pertama akan terlihat
+sangat berbeda dari T
+Mobile G1 (HTC Dream). Pada tahun 2007,
+sebelum Apple memamerkan iPhone
+asli, prototipe Android pertama
+sudah beredar. Perangkat dengan nama kode "Sooner"
+memiliki keyboard portrait, tombol panggil dan
+akhiri, track pad, dan tidak ada
+layar sentuh sama sekali. UI
+Android bahkan sangat mirip dengan
+antarmuka Blackberry. Tentu saja,
+semua itu berubah setelah iPhone
+diumumkan. Itu sangat berbeda.
+Tidak ada keyboard fisik,
+hanya layar besar untuk masanya
+dan antarmuka layar sentuh yang
+revolusioner. Perangkat Android berikutnya
+yang kita lihat setelah itu, T-Mobile
+G1 juga akan memiliki layar besar
+dengan antarmuka layar sentuh. Prototipe
+ala BlackBerry? Ia
+tidak pernah dipasarkan. Kita tidak bisa
+mengatakan dengan pasti bahwa iPhone memiliki
+efek apa pun pada visi Google untuk
+Android, tetapi itu bukan hal yang mustahil. Perjalanan ANDROID
+dari versi pertama hingga versi terbaru:
+Semua versi Android dinamai sesuai
+urutan abjad, bersama dengan
+nama makanan penutup manis yang terkait
+dengan abjad tersebut seperti Cupcake.
+Donut dll.
+ . Android 1.0 (2008) Tanpa Nama Versi
+ . Android 1.1 (2009)- Petite Four
+ . Android 1.5 (2009) Cupcake
+ . Android 1.6 (2009) Donut
+ . Android 2.0 2.1 (2009)- \'c9clair
+ . Android 2.2 2.2.3 (2010)- Froyo
+ . Android 2.3 2.3.7 (2010)-
+Gingerbread
+ . Android 3.0-3.2.6 (2011)
+Honeycomb
+ . Android 4.0 4.0.4 (2011) Ice
+Cream Sandwich
+ . Android 4.1 4.3.1 (2012) Jelly
+Bean
+ . Android 4.4- 4.4.4 (2013) KitKat
+ . Android 5.0 5.1.1 (2014)
+Lollipop
+ . Android 6.0 6.0.1 (2015)
+Marshmallow
+ . Android 7.0 7.1.2 (2016) - Nougat
+ . Android 8.0 8.1 (2017) Oreo
+ . Android 9.0 (2018) Pie
+ . Android 10 (2019) Android 10
+ . Android 11 (2020) Android 11
+ . Android 12 (2021) Android 12
+<h5> 4. Android 1.0 dan 1.1
+tidak dinamai sesuai
+makanan penutup</h5>
+Untuk waktu yang lama Google telah
+memberikan nama panggilan versi baru
+Android dengan makanan penutup. Pada saat
+artikel ini dibuat, kita berada di Android
+5.0 Lollipop, dan sebelum itu ada
+KitKat, Jelly Bean, Ice Cream
+Sandwich, dan seterusnya. Penggemar Android
+selalu mencoba memprediksi apa
+nama berikutnya. Google bahkan
+ikut bersenang-senang dengan video teaser
+ini untuk Android 5.0. Apa yang
+mungkin tidak Anda ketahui adalah beberapa versi
+pertama Android sebenarnya tidak
+dinamai sesuai makanan penutup. Setidaknya
+tidak secara sengaja. Android 1.0
+terkadang disebut "Alpha" atau "Astro
+Boy" sementara Android 1.1 secara teknis
+memiliki nama makanan penutup, tetapi tidak dalam
+urutan yang kita kenal sekarang. Itu
+dikenal secara internal sebagai "Petite Four",
+yang merupakan hidangan pembuka kecil khas Prancis.
+Android 1.5 "Cupcake" adalah versi
+pertama yang memiliki nama panggilan makanan penutup
+resmi dan dimulailah skema penamaan
+yang kita lihat sekarang. Nama makanan penutup "A" dan
+"B" untuk Android 1.0
+dan 1.1 tidak akan pernah diketahui, tetapi jika
+kita harus menebak nama mana yang
+akan mereka gunakan, mungkin "apple
+pie" dan "banana split" adalah hal yang cukup
+jelas. Apa tebakan Anda?
+
+ <h5>5. Android 3.0 adalah satu-satunya
+versi yang tidak pernah berjalan di
+ponsel</h5>
+ Hari ini Android dibangun untuk berjalan di
+banyak jenis konfigurasi perangkat keras yang berbeda
+dalam segala bentuk dan
+ukuran. Segalanya mulai dari ponsel,
+tablet, jam tangan, mobil, TV- sebutkan saja.
+Tapi hal itu tidak selalu terjadi. Pada tahun 2010, Apple mengumumkan
+iPad asli dan dunia teknologi
+seketika dilanda demam tablet. Produsen
+Android ingin mengambil keuntungan
+dari kegilaan tablet tersebut tetapi pada saat itu,
+OS tersebut hanya cocok untuk perangkat berlayar
+lebih kecil seperti smartphone.
+Hal itu tidak menghentikan beberapa produsen
+untuk mencobanya. Samsung
+beruntung menggunakan Android 2.3
+Gingerbread pada Galaxy Tab 7.0 berukuran
+sedang, tetapi jika Android ingin
+bersaing dengan iPad 10 inci,
+ia membutuhkan perombakan besar-besaran dan
+di CES 2011, dunia melihat pertama
+kali Android 3.0 Honeycomb
+yang berjalan di Motorola XOOM.
+Honeycomb menampilkan antarmuka pengguna yang sepenuhnya
+didesain ulang, yang dibuat
+khusus untuk tablet. Dengan "Holo UI" yang gelap,
+dan widget interaktif yang lebih besar, versi Android
+tersebut masih dianggap gagal dalam beberapa
+aspek. Sementara setiap produsen
+di muka bumi ini
+membuat tablet Android, mereka
+mahal dan kurang memiliki aplikasi khusus tablet
+yang memadai. Google pada akhirnya
+akan membuang Honeycomb dan
+membangun versi Android masa depan
+mulai dari Ice Cream Sandwich
+untuk bekerja di semua ukuran layar. Salah satu
+fitur Honeycomb yang masih bertahan
+adalah tombol navigasi layar yang masih kita
+gunakan sampai hari ini.
+ <h5>6. Ponsel Android pertama
+bahkan tidak memiliki keyboard
+virtual atau jack headset
+3.5mm</h5>
+Jika Anda kembali ke tahun 2008
+dan memberi tahu dunia bahwa hampir semua
+smartphone di masa depan tidak akan
+memiliki keyboard fisik- Anda
+akan ditertawakan. Selama
+masa ini ponsel yang paling populer adalah
+BlackBerry, yang tentu saja memiliki
+keyboard fisik yang ikonik.
+Ide tentang perangkat tanpa tombol fisik
+tidak menjadi populer sampai iPhone
+asli, tetapi bahkan saat itu
+ada banyak orang yang skeptis. Faktanya,
+perangkat Android pertama T-
+Mobile G1 dilengkapi dengan
+keyboard fisik geser, tetapi Anda
+mungkin lebih terkejut mengetahui
+apa yang tidak dimilikinya. G1 dikirimkan
+dengan Android 1.1 yang, pada saat itu
+tidak memiliki keyboard virtual untuk
+mengetik di layar. Anda benar-benar
+harus menggunakan keyboard fisik untuk
+mengetik, yang berarti Anda tidak bisa melakukan
+pengetikan satu tangan dalam mode
+portrait. Baru enam bulan
+kemudian dengan perilisan Android
+1.5, G1 akhirnya menambahkan
+keyboard virtual. Fitur lain yang
+tidak ada di T-Mobile G1 adalah
+fitur besar yang tidak bisa diperbaiki
+dengan pembaruan perangkat lunak sederhana:
+jack headphone. HTC secara tidak dapat dijelaskan
+tidak menyertakan jack headphone tradisional 3.5mm
+pada G1. Sebaliknya,
+ponsel tersebut hadir dengan adaptor khusus
+yang harus Anda gunakan, artinya
+Anda tidak bisa mendengarkan musik dan
+mengisi daya ponsel secara bersamaan.
+Ini adalah keluhan umum dalam ulasan awal
+untuk T-Mobile G1 dan anehnya merupakan bayangan
+dari hal-hal yang akan datang.
+ <h5>7. Android membuat CEO Google
+dikeluarkan dari dewan direksi Apple</h5>
+Seiring waktu ketika persaingan antara
+iOS dan Android meningkat,
+hubungan antara Apple
+dan Google tidak begitu ramah.
+Hal ini paling nyata terjadi pada tahun 2009
+ketika CEO Google Eric Schmidt
+dipaksa mengundurkan diri dari dewan direksi
+Apple. Steve Jobs
+mengatakan hal ini: "Sayangnya, karena
+Google memasuki lebih banyak bisnis inti Apple,
+dengan Android dan sekarang
+Chrome OS, efektivitas Eric
+sebagai anggota dewan Apple akan
+berkurang secara signifikan, karena ia harus
+mengundurkan diri dari bagian yang lebih
+besar dalam pertemuan kami karena
+potensi konflik kepentingan."
+Anda bisa membayangkan ada banyak
+berita utama yang sensasional tentang
+cerita ini, tetapi hal itu sangat masuk akal.
+Apa gunanya anggota dewan
+yang tidak bisa hadir dalam pertemuan
+karena konflik kepentingan?
+Hubungan antara Google dan
+Apple terus memanas seiring berjalannya
+tahun, dengan Apple membuat keputusan
+kontroversial untuk menghapus
+Google Maps di iOS 6, yang mengakibatkan
+Google kemudian memblokir aplikasi YouTube
+pihak ketiga milik Apple sendiri. Akhirnya
+sebuah kesepakatan tercapai di mana
+Google diizinkan untuk menawarkan
+aplikasi mereka di App Store, bahkan
+menjadi mesin pencari default
+di iOS dengan biaya yang sangat besar sekitar $3-4
+miliar setahun.
+ <h5>8. WebOS bisa saja
+menghancurkan Android</h5>
+Seperti yang sudah kita bahas, orang-orang
+agak skeptis terhadap Android pada
+awalnya. WebOS di sisi lain
+dipuji secara universal saat
+diumumkan. Pada saat
+itu sangat sedikit perangkat Android
+yang tersedia dan pada saat
+WebOS diluncurkan, Android 1.5 masih
+baru dan belum ada yang pernah mendengar
+tentang Motorola DROID. Waktunya
+sempurna bagi WebOS untuk melibas
+Android dan menjadi pesaing sejati
+bagi iOS, setidaknya itulah
+yang dipercayai para kritikus. Hal itu mungkin
+benar-benar terjadi juga jika bukan
+karena beberapa keputusan aneh dari Palm.
+Mereka meluncurkan perangkat WebOS pertama
+di Sprint alih-alih di salah satu
+operator besar dan kampanye
+pemasarannya sangat aneh.
+Namun, Palm Pre terjual sangat
+baik pada bulan pertama, tetapi menderita
+penurunan tajam setelah itu.
+Beberapa bulan kemudian Verizon
+akan mengumumkan Motorola
+DROID dan Apple sudah merilis
+iPhone 3GS. Palm dan WebOS
+gagal, Google terus
+meningkatkan Android, dan sekarang ia
+dengan cepat mendominasi dunia dengan
+platform terbukanya. Google nantinya
+akan mempekerjakan desainer WebOS,
+Matias Duarte, untuk membantu meningkatkan
+antarmuka dan desain Android. Kontribusi
+besar pertamanya? Antarmuka Holo UI Android 3.0
+Honeycomb.
+<h5> 9. Sony membuat smartwatch
+Android pertama pada tahun
+2010</h5>
+Pada tahun 2014, Google mengumumkan Android
+Wear, versi khusus Android yang dibangun
+khusus untuk smartwatch.
+Sejak saat itu kita telah melihat banyak
+smartwatch Android membanjiri
+pasar. Anda mungkin berpikir bahwa
+ini adalah smartwatch berbasis Android pertama
+yang pernah dibuat, tetapi satu perusahaan mengalahkan
+semua orang. Jauh di tahun 2010 Sony
+(Ericsson) meluncurkan jam tangan LiveView.
+Ia terhubung dengan ponsel Android
+untuk menampilkan timeline Twitter,
+RSS feed, SMS, dan mengontrol
+pemutar media ponsel. Sony nantinya
+akan meluncurkan SmartWatch 2
+pada tahun 2013 dengan banyak fitur
+yang sama. Baru sekitar waktu inilah
+Samsung meluncurkan smartwatch
+berbasis Android pertama mereka, tetapi
+Sony adalah yang pertama.
+<h5> 10. BEBERAPA FAKTA LAGI</h5>
+ 1 . Sistem operasi Android dikembangkan
+oleh Android Inc., pada tahun 2004 didukung
+oleh Google. Kemudian Google
+membelinya pada tahun 2005 dengan harga $50
+juta.
+ 2 . Sistem operasi Android
+dikembangkan sebagai platform untuk kamera digital.
+Tetapi para pembuatnya kemudian
+mengalihkan fokus mereka ke smartphone
+karena mereka melihat potensinya.
+ 3. 0 Google meluncurkan sistem operasi
+Android pada 5 November 2007,
+yang merupakan sistem perangkat lunak
+berbasis Linux.
+ 4 Smartphone pertama yang menjalankan
+Android dirilis pada tahun 2008,
+HTC Dream atau T-Mobile G1
+tergantung pada negara Anda, ia memiliki
+keyboard geser.
+ 5. 0 Sistem operasi Android Google,
+telah mencapai lebih dari satu
+miliar aktivasi pada perangkat seperti
+smartphone dan tablet.
+ 6. 0 Kecuali Android 1.0 dan 1.1, semua
+versi Android lainnya dinamai
+sesuai makanan manis seperti Jelly Bean,
+ice cream sandwich, honeycomb untuk
+menyebutkan beberapa.
+ 7. 0 Tahukah Anda bahwa Android adalah sumber
+terbuka? Karena Google adalah anggota
+Open Handset Alliance (OHA), ia telah
+memberi pengguna atau orang yang tertarik
+pilihan untuk memodifikasi kode sumber dari
+OS tersebut. Ini telah memungkinkan produsen
+untuk menambahkan fitur ke OS tersebut.
+ 8. 0 Manusia dengan penampilan robot
+adalah arti dari kata Android.
+Ini merujuk pada robot laki-laki. Gynoid adalah
+robot yang tampak perempuan.
+ 9. 0 Android adalah Andy Rubin yang merupakan
+salah satu pencipta Android, itu adalah
+nama yang diberikan kepadanya di Apple sebelum
+bergabung dengan Google, karena obsesi dan
+kecintaannya pada robot.
+ 10. 0 Ada perangkat yang menjalankan Android
+di luar angkasa!! NASA melengkapi
+robot luar angkasa yang melayang dengan handset
+Nexus S. Perangkat ini berjalan pada
+Android Gingerbread.
+ 11. 0 Kebanyakan orang berpikir bahwa
+nama karakter logo Android adalah
+juga Android, tetapi itu tidak benar. Nama
+sebenarnya dari Maskot Android adalah
+Droid, meskipun ini tidak resmi, tim
+Google memanggilnya dengan nama ini.
+ 12. 0 Salah satu bagian terbaik menjadi
+pemilik Android adalah aplikasinya, toko
+aplikasinya "Google Play" memiliki lebih dari
+92 miliar pemasangan aplikasi, yang sebagian
+besar gratis.
+ 13. 0 Sekarang Android digunakan untuk mentenagai
+perangkat seperti Google Glass, Jam Tangan
+dan sebagainya.
+ 14 Untuk peluncuran versi terbarunya,
+ia mengambil nama merek yang tepat.
+ 150 . Google harus membuat kesepakatan dengan
+Nestle untuk menggunakan nama "Kit-
+Kat" untuk Android versi 4.4.
+ 16 Bahkan Google Maps menggunakan
+kecepatan Ponsel Android untuk
+menghitung lalu lintas di jalan.
+ 17. 0 Microsoft menghasilkan sekitar $2 miliar
+setiap tahun dalam royalti paten, dari
+penjualan perangkat Android.
+ 18. 0 Penjualan perangkat Android lebih
+banyak daripada gabungan penjualan
+Microsoft Windows, iOS, dan perangkat Mac OS.
+ 190 . Pada tahun 2010, Anssi Vanjoki, CEO
+Nokia, membuat komentar kocak tentang
+Android . ia mengatakan penggunaan Android
+seperti anak laki-laki Finlandia yang mengencingi celananya
+agar tetap hangat.
+ 20. 0 Sistem Logging Android memiliki
+metode bernama "wtf()"
+yang merupakan singkatan dari "What a Terrible
+Failure".
+ 21 Android adalah perangkat lunak sumber terbuka,
+yang berarti kode sumbernya tersedia
+secara bebas. Siapa pun dapat memodifikasi kode sumber dan
+menambahkan fitur unik baru.
+ 22. 0 Sebelum Google, sebuah penawaran
+diberikan kepada Samsung untuk membeli
+Android Inc. tetapi mereka menganggap Android
+tidak menarik dan menolak tawaran tersebut.
+ 23 Android ditulis dalam banyak bahasa
+seperti Java, C, C++, XML, bahasa
+Assembly, Python, Shell Script, Go, Make, D.
+Sumber: world wide web

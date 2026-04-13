@@ -1,0 +1,59 @@
+<h5>1. Reduzca el número de aplicaciones simultáneas para evitar que el teléfono se bloquee</h5>
+Cada teléfono móvil tiene una cantidad limitada de recursos como la memoria (RAM) y la potencia de procesamiento. Si sobrecarga el teléfono más allá de la capacidad de estos recursos, el teléfono puede bloquearse o "congelarse". Por lo tanto, debe intentar minimizar el número de aplicaciones que se ejecutan simultáneamente. Hay una serie de aplicaciones que se ejecutan en segundo plano. Puede liberar la memoria obstruida deteniendo las aplicaciones que no necesita en este momento.
+
+Para ver la lista de aplicaciones que se están ejecutando actualmente, vaya a Ajustes > Aplicaciones > Aplicaciones en ejecución.
+
+<h5>2. Mantenga todas las aplicaciones actualizadas</h5>
+Visite con frecuencia las tiendas de aplicaciones como Google Play (si tiene un teléfono Android) y iTunes App Store (si tiene un iPhone). Los desarrolladores de aplicaciones móviles mejoran constantemente el rendimiento de sus aplicaciones. Por lo tanto, se recomienda encarecidamente que actualice periódicamente todas las aplicaciones a medida que haya una versión mejor disponible. Las versiones más recientes de las aplicaciones pueden estar diseñadas para usar menos memoria y potencia de CPU.
+
+<h5>3. Apague su teléfono móvil</h5>
+Apagar el teléfono de vez en cuando es una buena idea porque refrescará completamente la memoria del teléfono. Cuando reinicie su teléfono, su memoria estará libre de todos los fragmentos innecesarios de datos que estaban ocupando espacio en la memoria.
+
+<h5>4. Instale aplicaciones en la memoria externa (tarjeta SD)</h5>
+La mayoría de los usuarios de teléfonos móviles instalan todo tipo de aplicaciones en sus teléfonos. Al instalar las aplicaciones, no prestan mucha atención a dónde se va a instalar la aplicación y qué impacto puede tener en el rendimiento del teléfono. En la mayoría de los casos, por defecto, las aplicaciones se instalan en la memoria interna del teléfono. Esto deja menos espacio para ejecutar las aplicaciones y eso, a su vez, provoca una memoria obstruida. Si su teléfono se bloquea, es aconsejable instalar aplicaciones en la memoria externa (es decir, la tarjeta SD) del teléfono. Por lo general, la memoria externa es más grande que la memoria interna y puede ampliarse fácilmente si es necesario. Por lo tanto, en la memoria externa se pueden instalar más aplicaciones fácilmente sin obstruir la memoria interna del teléfono. Esto evitará que su teléfono se bloquee.
+
+Para esto puede configurar el disco de escritura predeterminado. Vaya a Ajustes > Almacenamiento > Disco de escritura predeterminado > Seleccionar tarjeta SD. Tenga en cuenta que este ajuste está disponible en una ubicación ligeramente diferente en diferentes teléfonos, por lo que es posible que tenga que buscar un poco.
+
+<h5>5. Mueva las aplicaciones instaladas de la memoria interna a la externa</h5>
+Siempre puede mover las aplicaciones ya instaladas de la memoria interna a la externa. Como se explicó anteriormente, esto proporcionará más espacio en la memoria interna para el buen funcionamiento de las aplicaciones. Como resultado, su teléfono no se bloqueará. El ajuste para mover aplicaciones instaladas suele estar disponible en Ajustes > Aplicaciones.
+
+<h5>6. Elimine aplicaciones innecesarias</h5>
+También puede navegar por la lista de aplicaciones instaladas en su teléfono. Es posible que detecte algunas aplicaciones que instaló hace tiempo pero que ya no necesita. Desinstale esas aplicaciones inmediatamente. Permanecen inactivas en su teléfono y desperdician espacio de memoria importante.
+
+<h5>7. Elimine datos innecesarios (como fotos, vídeos, canciones)</h5>
+Si ha almacenado imágenes, vídeos y canciones en la memoria interna, realmente está asfixiando el espacio de la memoria interna y eso podría ser la causa de que su teléfono se bloquee todo el tiempo. Eche un vistazo a todas las imágenes, vídeos y canciones y elimine los que ya no necesite. Alternativamente, primero puede hacer una copia de seguridad de estos datos en su computadora y luego eliminarlos de su teléfono. Las fotos, los vídeos y el audio ocupan la mayor parte del espacio en el teléfono de un usuario promedio. Y es una de las razones comunes por las que su teléfono se bloquea.
+
+<h5>8. Identifique las aplicaciones que consumen muchos recursos</h5>
+Algunas aplicaciones utilizan mucha más memoria que otras. Las aplicaciones de juegos suelen estar entre las que más memoria consumen. Puede comprobar cuánta memoria está utilizando cada una de sus aplicaciones. Para ello, vaya a Ajustes > Aplicaciones (o Memoria) > Aplicaciones en ejecución. Aquí podrá ver qué aplicación está utilizando exactamente cuánta memoria.
+Si es posible, intente usar una alternativa más ligera de una aplicación que esté consumiendo mucha memoria.
+
+<h5>9. Instale software antivirus</h5>
+Los virus son una amenaza. Si su teléfono móvil alberga un virus, este puede ralentizar considerablemente su dispositivo. No hace falta decir que su teléfono se bloqueará a menudo. Por lo tanto, obviamente necesita un antivirus. Aunque el software antivirus en sí ocupa mucha memoria, es mejor eliminar el virus.
+
+<h5>10. Dé a la memoria externa un poco de espacio para respirar</h5>
+Hasta ahora, le hemos hablado de la importancia de instalar aplicaciones en la memoria externa, pero eso no significa que deba asfixiar también la memoria externa. Mantenga algo de espacio libre en la memoria externa también para que las aplicaciones puedan almacenar y leer fácilmente sus datos relevantes. Si la memoria externa también está llena hasta el tope, eso también puede ser causa de bloqueos.
+
+<h5>11. Use la opción de Restablecimiento de fábrica</h5>
+Este debe ser su último recurso. Si nada más funciona y el teléfono sigue bloqueándose, puede restablecer su teléfono móvil a los ajustes de fábrica. El uso de esta opción eliminará todo de su teléfono móvil. Perderá todo lo que haya en la memoria interna y desaparecerá para siempre. Todos los mensajes, contactos, aplicaciones, marcadores, fotos, vídeos, canciones, tonos de llamada... todo se borrará. Básicamente, esta opción dejará su teléfono tal como estaba cuando salió de la fábrica.
+
+<h5>12. Aumente la memoria eliminando datos no deseados</h5>
+¿Sabía que casi todos los sitios web utilizan el almacenamiento en caché para aumentar la velocidad de carga? Cada vez que visita un sitio web, su teléfono almacena automáticamente lo que también se conoce como cookies y cachés. Estos datos no deseados se almacenarán en la memoria de su teléfono, lo que reduce la memoria disponible para aplicaciones y otros archivos.
+
+Solución:
+Este problema se puede solucionar fácilmente desde los ajustes.
+Vaya a Ajustes > Almacenamiento > Haga clic en la caché y haga clic en Aceptar para borrar las cachés.
+
+<h5>13. Use la memoria externa para guardar canciones y otros archivos</h5>
+El uso excesivo de la memoria del teléfono es la razón principal de que el teléfono se bloquee. Para solucionar el problema de bloqueo en su teléfono Android, guarde sus canciones, vídeos y otros datos en la memoria externa.
+Puede mover sus archivos a la memoria externa y, al seleccionar la memoria externa como memoria predeterminada, ayuda a almacenar fotos y vídeos capturados con la cámara. Para configurar la memoria externa como memoria predeterminada, lea el segundo consejo.
+
+<h5>14. Opciones de restablecimiento de fábrica (No recomendado)</h5>
+Personalmente, no recomiendo este método porque no es familiar para la mayoría de los usuarios de Android. El restablecimiento de fábrica es el último método para eliminar todos los archivos no deseados que provienen de navegadores, sitios web, aplicaciones, etc.
+El restablecimiento de fábrica elimina todos los archivos, aplicaciones, contactos y notas, por lo que la mayoría de los usuarios de Android no utilizan esta opción.
+
+Proceso seguro de restablecimiento de fábrica:
+El proceso de fábrica puede eliminar sus datos personales como contactos y notas, por lo que los usuarios deben seguir el proceso seguro antes de realizar la opción de restablecimiento de fábrica.
+Siempre que realice un proceso de restablecimiento de fábrica, nunca olvide hacer una copia de seguridad de todos sus archivos. Puede mover estos archivos de copia de seguridad a la tarjeta SD externa.
+
+<h5>15. Use almacenamiento en la nube</h5>
+Utilice el almacenamiento en la nube para guardar los archivos que desee conservar para el futuro. Almacene solo aquellos archivos en su tarjeta de memoria que necesite todos los días y suba al almacenamiento en la nube aquellos archivos que necesite en el futuro.

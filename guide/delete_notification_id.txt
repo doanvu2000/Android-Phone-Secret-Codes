@@ -1,0 +1,15 @@
+<h5>Lihat notifikasi Anda bahkan
+setelah menghapusnya.</h5>
+Apakah Anda telah menghapus semua notifikasi Anda
+tanpa melihatnya?
+Ada cara yang sangat sederhana untuk melihatnya
+lagi.
+Pergi ke widget, ambil "pintasan pengaturan"
+ke layar beranda Anda dan
+pilih notifikasi di sana.
+Sekarang Anda dapat melihat pintasan
+Notifikasi di layar beranda Anda.
+Sekarang buka, dan Anda dapat melihat semua
+notifikasi.
+Jalurnya adalah Widget > Pintasan Pengaturan >
+Notifikasi.

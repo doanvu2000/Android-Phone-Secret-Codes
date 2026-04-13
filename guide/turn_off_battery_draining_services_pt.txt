@@ -1,0 +1,12 @@
+ <h5>Desligar serviços que drenam a bateria</h5>
+Deslize do topo da sua tela até
+a parte inferior da sua tela inicial lhe dará
+Opções rápidas. Essas opções variam
+de toque a economizadores de energia como
+GPS, Wi-Fi, Bluetooth, dados móveis e
+modo avião.
+
+Se você não vai usar Wi-Fi
+ou GPS no futuro próximo, este menu
+torna fácil desligar esses
+serviços que drenam energia.

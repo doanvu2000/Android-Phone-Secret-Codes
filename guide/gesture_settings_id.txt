@@ -1,0 +1,84 @@
+<h5>Tekan lama pada notifikasi untuk mengakses
+pengaturan aplikasi</h5>
+Banyak dari Anda mungkin tahu bahwa jika Anda menggeser
+pesan notifikasi ke satu sisi, itu akan
+menghilang. Namun, Anda dapat melakukan hal
+lain jika Anda menahan jari Anda ke bawah dan
+memilih salah satu tombol yang muncul di
+kanan. Ini dapat dilakukan baik di
+layar kunci maupun di bilah notifikasi.
+Anda akan melihat ikon roda gigi, yang akan
+membawa Anda ke pengaturan dan ikon "i"
+akan membawa Anda ke pengaturan notifikasi
+untuk aplikasi yang dimaksud,
+
+<h5>Geser dua jari ke bawah untuk langsung
+mengakses pengaturan cepat</h5>
+Trik ini sudah ada sejak Jelly Bean
+ada tetapi sangat layak untuk
+diingatkan. Untuk menghindari harus melalui
+notifikasi dan mengakses
+menu pintasan cepat, cukup geser
+dua jari dari bagian atas layar
+ke bawah. Alih-alih melakukan
+gerakan konvensional dua kali, artinya
+gesekan satu jari, dan pertama-tama perlu melalui
+notifikasi aplikasi, pengguna
+akan dengan cepat mengakses pintasan ke
+pengaturan dasar Android.
+ <h5>Ketuk dua kali untuk memilih kata untuk lebih banyak
+Opsi</h5>
+Sejak Android 6.0 Marshmallow masuk
+ke dalam adegan, fungsi salin dan
+tempel ketuk dua kali yang biasa telah mendapatkan
+peningkatan. Sekarang, Cukup ketuk dua kali pada
+kata, frasa atau teks dan tekan lama
+konten yang dipilih. Selanjutnya, Anda akan mendapatkan
+opsi untuk menyalin dan membagikan, atau jika Anda menekan
+tombol menu luapan tindakan
+tiga titik vertikal, ini akan membiarkan Anda
+mencari teks yang dipilih di web,
+mengaktifkan Asisten Google dan menerjemahkannya,
+semua tanpa meninggalkan layar.
+ <h5>Akses mode aman dengan mudah</h5>
+Apa sebenarnya mode aman itu? Dalam beberapa
+kata, mode ini mem-boot Sistem
+Android Tanpa menampilkan aplikasi
+yang telah Anda instal, jadi seolah-olah Anda telah
+memformat telepon. Opsi ini ideal
+jika Anda mengalami masalah dengan
+aplikasi tertentu. Selanjutnya, mudah untuk
+diakses. Tekan tombol daya perangkat
+Anda selama beberapa detik. Segera setelah
+layar mematikan muncul, terus saja
+menekan tombol daya selama beberapa
+detik. Jendela baru akan menanyakan apakah
+Anda ingin memulai ulang telepon dalam mode
+aman.
+<h5> Zoom di Layar mana pun</h5>
+Banyak aplikasi memungkinkan Anda untuk memperbesar
+Layar dengan menempatkan dua jari
+di layar dan memisahkannya tetapi
+di aplikasi lain atau bahkan di sebagian besar
+Sistem, tindakan ini tidak diizinkan
+namun ada solusinya. Aktifkan
+fungsi dengan pergi ke Pengaturan
+Aksesibilitas > Gestur pembesaran.
+ Setelah diaktifkan, Anda klik tiga kali
+di layar untuk Memperbesar di tempat yang Anda
+inginkan. Untuk kemudian menggeser dari sisi ke sisi pada
+layar yang Diperbesar, Anda perlu
+menggeser dua jari ke kiri dan kanan. Anda
+dapat melakukan cubitan dua jari untuk menyesuaikan
+zoom.
+<h5> Copot pemasangan aplikasi langsung dari layar
+beranda</h5>
+
+Jika Anda menekan lama pada ikon aplikasi di
+layar beranda Anda, ini Akan memungkinkan Anda
+untuk mencopotnya secara langsung dengan menyeret
+aplikasi ke kata Copot pemasangan yang akan
+muncul. Sebelumnya, hanya
+pintasan yang dihapus. Ini mungkin berubah
+tergantung pada model telepon dan
+versi Android.

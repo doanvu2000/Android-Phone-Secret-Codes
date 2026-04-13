@@ -1,0 +1,30 @@
+<h5>Mode Image dans l'image</h5>
+
+Le nouveau mode image dans l'image d'Android
+vous permet de réduire les vidéos pour que vous puissiez
+faire plusieurs tâches. Ce que cela signifie essentiellement
+c'est que vous pouvez appeler quelqu'un en vidéo
+ou regarder une vidéo sur YouTube tout en
+vérifiant vos e-mails ou en faisant un autre travail
+en arrière-plan.
+
+Pour activer le mode Image dans l'image,
+suivez les étapes ci-dessous :
+Allez dans vos Paramètres Android
+et appuyez sur Applis et notifications. Une fois
+là, appuyez sur Avancé pour révéler plus d'
+options.
+Maintenant, appuyez sur l'option Accès spécial aux applis.
+Une fois là, une nouvelle liste de contrôles d'accès
+spéciaux disponibles pour diverses applications
+s'ouvrira.
+
+Sélectionnez Image dans l'image dans la liste
+On vous présentera maintenant
+une liste de toutes les applications qui prennent en charge
+l'image dans l'image. Appuyez simplement sur l'
+application souhaitée et activez le commutateur à côté
+de Autoriser image dans l'image.
+
+Vous pouvez maintenant utiliser le mode Image dans l'image
+pour les applications que vous souhaitez.

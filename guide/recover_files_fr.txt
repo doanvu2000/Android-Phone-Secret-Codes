@@ -1,0 +1,158 @@
+<h5>Comment récupérer des fichiers perdus
+sur Android : Votre guide de
+récupération de données Android</h5>
+Tout le monde connaît la douleur de
+supprimer accidentellement un fichier
+sans le vouloir. C’est un moment
+angoissant quand on se rend compte
+de ce qu’on a fait. Perdre des fichiers
+est mauvais, mais c’est une réalité
+de l’ère numérique. Tout n’est
+cependant pas perdu, car il peut
+exister un moyen de récupérer vos
+fichiers perdus. C’est là qu’intervient
+la récupération de données Android.
+Selon la nature du fichier, la manière
+dont vous l’avez supprimé et votre
+chance, certaines méthodes de
+récupération peuvent fonctionner.
+Voici quelques-unes des meilleures
+techniques pour récupérer des fichiers
+perdus sur Android.
+Voir aussi : ul Comment sauvegarder
+votre téléphone Android
+
+<h5>RÉPONSE RAPIDE</h5>
+Pour récupérer des fichiers perdus
+sur Android, vous pouvez utiliser
+différentes méthodes : vérifier la
+corbeille, consulter vos sauvegardes
+cloud, utiliser des applications de
+récupération pour PC ou Android, et
+même contacter le développeur.
+Cependant, il est important de se
+souvenir qu’aucune méthode ne
+garantit la récupération des fichiers
+perdus sur Android.
+
+<h5>Cessez d’utiliser votre téléphone
+et activez le mode Avion</h5>
+Avant toute autre manipulation, la
+chose la plus importante à savoir
+sur la récupération de données
+Android est que vous devez arrêter
+d’utiliser votre téléphone dès que
+possible. Cela vous donnera les
+meilleures chances de récupérer
+vos fichiers perdus.
+Lorsque vous supprimez un fichier,
+les données ne disparaissent pas
+totalement. Android marque simplement
+l’espace où l’information est stockée
+comme « vide ». Cela signifie que vous
+ne trouverez pas le fichier et qu’Android
+le considérera comme manquant. Cela
+signifie également que les emplacements
+qui contenaient ces données sont prêts
+à être réutilisés si de nouveaux fichiers
+ont besoin d’espace. Ce n’est que lorsque
+cela se produit que les données sont
+réellement perdues et que vous ne pouvez
+plus les récupérer.
+
+C’est pourquoi il est si important
+d’arrêter d’utiliser votre téléphone,
+de ne plus prendre de nouvelles photos
+et de ne pas installer de nouvelles
+applications. Nous vous recommandons
+fortement d’activer le mode Avion.
+Ainsi, vous empêcherez le téléchargement
+d’e-mails, de photos WhatsApp et de
+mises à jour.
+
+<h5>Vérifiez votre corbeille</h5>
+Si vous avez de la chance, vous n’aurez
+pas supprimé vos fichiers du tout. Tout
+comme sur un PC, de nombreuses
+applications Android disposent d’une
+corbeille, ce qui signifie que les fichiers
+ne sont pas supprimés immédiatement.
+Par exemple, l’application Galerie
+fournie avec les téléphones Samsung
+dispose d’une telle protection (ce qui
+explique aussi pourquoi la suppression
+de photos ne libère pas d’espace sur
+votre appareil).
+
+Pour vérifier la corbeille, retournez au
+niveau supérieur de l’onglet Photos ou
+Albums et appuyez sur le menu en haut à
+droite. Un menu s’ouvrira incluant une
+option Corbeille. Sélectionnez-la et vous
+accéderez à un dossier contenant toutes
+vos photos supprimées.
+
+D’autres applications ont également
+cette option, comme le populaire gestionnaire
+de fichiers Astro File Manager. Quelle que
+soit l’application utilisée pour supprimer
+le fichier, vérifiez soigneusement si elle
+dispose d’une corbeille.
+
+<h5>Vérifiez la sauvegarde cloud</h5>
+Google Photos dispose également d’une
+corbeille qui conserve les photos pendant
+60 jours, mais elle fonctionne un peu
+différemment en sauvegardant vos photos
+sur Google Drive. Cela signifie que même
+si vous avez complètement supprimé une
+photo via une autre application, elle peut
+encore être récupérable via Google Photos.
+
+Si vous ne voyez pas votre photo ou
+vidéo ici, vérifiez la corbeille depuis le
+menu hamburger en haut à gauche.
+Si vous n’avez toujours pas de chance,
+essayez de visiter photos.google.com.
+Vérifiez également le dossier Corbeille
+depuis le menu hamburger. Même si vous
+avez supprimé vos photos de la corbeille
+dans Google Photos, il est possible que
+ces changements ne soient pas encore
+répercutés sur Google Drive.
+Vérifiez donc rapidement ici aussi.
+Autre chose que vous ne savez peut-être
+pas sur Google Drive : vous pouvez
+lui demander de sauvegarder n’importe
+quel dossier de votre appareil. Ouvrez
+simplement Photos -> Paramètres ->
+Sauvegarde et synchronisation -> Sauvegarder
+les dossiers de l’appareil.
+Bien sûr, de nombreuses autres applications,
+comme Gmail, sauvegardent également
+vos fichiers sur le cloud par défaut.
+
+<h5>Comment récupérer
+les photos WhatsApp</h5>
+
+Si c’est une photo WhatsApp que vous avez supprimée par accident, il existe plusieurs options pour essayer de récupérer ces photos.
+Tout d’abord, vérifiez la **sauvegarde intégrée dans WhatsApp**. Allez dans **Paramètres > Discussions > Sauvegarde des discussions**.
+Vous devriez voir des informations indiquant quand la dernière sauvegarde a été effectuée. Si elle est récente, désinstallez l’application et réinstallez-la depuis le Play Store. Cela vous donnera alors l’option de restaurer vos anciennes discussions et médias. Vous verrez également l’option de sauvegarder vos photos sur **Google Drive**, donc essayez de vérifier ici également si cette option est activée.
+
+Mais que se passe-t-il si vous avez accidentellement écrasé votre dernière sauvegarde ? Même dans ce cas, il y a encore de l’espoir. WhatsApp conserve plusieurs fichiers de sauvegarde sur votre appareil, indiquant quelles photos récupérer depuis les serveurs.
+Utilisez le **navigateur de fichiers** de votre choix et rendez-vous dans **WhatsApp -> Databases**. Vous verrez plusieurs fichiers portant des noms comme `store-2022-01-05.crypt12`. Trouvez le plus récent et renommez-le en `store-1997.crypt12` (ou le nom que vous souhaitez). Maintenant, WhatsApp se réfèrera au **deuxième fichier de sauvegarde le plus récent** pour récupérer vos photos.
+
+Vous pouvez également consulter le **dossier Média WhatsApp** dans votre bibliothèque **Google Photos** pour voir si vos photos s’y trouvent. WhatsApp stocke des copies des photos que vous envoyez ainsi que celles que vous recevez. Donc, si vous avez envoyé une photo à quelqu’un mais que vous l’avez supprimée du dossier appareil photo de votre téléphone, il peut encore y avoir une copie dans le dossier Média WhatsApp.
+
+<h5>Essayez les applications de récupération de données Android</h5>
+
+Si c’est une photo WhatsApp que vous avez supprimée par accident, il existe plusieurs options pour essayer de récupérer ces photos.
+Tout d’abord, vérifiez la **sauvegarde intégrée dans WhatsApp**. Allez dans **Paramètres > Discussions > Sauvegarde des discussions**.
+Vous devriez voir des informations indiquant quand la dernière sauvegarde a été effectuée. Si elle est récente, désinstallez l’application et réinstallez-la depuis le Play Store. Cela vous donnera alors l’option de restaurer vos anciennes discussions et médias. Vous verrez également l’option de sauvegarder vos photos sur **Google Drive**, donc essayez de vérifier ici également si cette option est activée.
+
+Mais que se passe-t-il si vous avez accidentellement écrasé votre dernière sauvegarde ? Même dans ce cas, il y a encore de l’espoir. WhatsApp conserve plusieurs fichiers de sauvegarde sur votre appareil, indiquant quelles photos récupérer depuis les serveurs.
+Utilisez le **navigateur de fichiers** de votre choix et rendez-vous dans **WhatsApp -> Databases**. Vous verrez plusieurs fichiers portant des noms comme `store-2022-01-05.crypt12`. Trouvez le plus récent et renommez-le en `store-1997.crypt12` (ou le nom que vous souhaitez). Maintenant, WhatsApp se réfèrera au **deuxième fichier de sauvegarde le plus récent** pour récupérer vos photos.
+
+Vous pouvez également consulter le **dossier Média WhatsApp** dans votre bibliothèque **Google Photos** pour voir si vos photos s’y trouvent. WhatsApp stocke des copies des photos que vous envoyez ainsi que celles que vous recevez. Donc, si vous avez envoyé une photo à quelqu’un mais que vous l’avez supprimée du dossier appareil photo de votre téléphone, il peut encore y avoir une copie dans le dossier Média WhatsApp.
+
+<h5>Essayez les applications de récupération de données Android</h5>

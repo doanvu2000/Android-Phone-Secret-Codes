@@ -1,0 +1,12 @@
+ <h5>Matikan Layanan yang Menguras Baterai</h5>
+Geser dari atas layar Anda ke
+bawah layar beranda Anda akan memberi Anda
+Opsi Cepat. Opsi ini bervariasi
+dari nada dering hingga penghemat daya seperti
+GPS, Wi-Fi, Bluetooth, data seluler, dan
+mode pesawat.
+
+Jika Anda tidak akan menggunakan Wi-Fi
+atau GPS dalam waktu dekat, menu ini
+memudahkan untuk mematikan
+layanan yang menguras daya ini.

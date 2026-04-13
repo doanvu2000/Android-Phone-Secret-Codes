@@ -1,0 +1,17 @@
+<h5>Ajoutez votre deuxième langue</h5>
+Si vous parlez couramment deux
+langues, Android vous offre
+la possibilité de saisir des données dans les deux
+langues, ce qui est évidemment une excellente
+fonctionnalité pour les utilisateurs bilingues et aussi
+les voyageurs fréquents.
+Pour utiliser la fonctionnalité
+multi-locale, ouvrez Paramètres > Langues et
+saisie > Préférences de langue, puis
+sélectionnez Ajouter une langue et choisissez enfin
+votre deuxième langue dans la liste des
+langues disponibles. Ensuite, vous
+pouvez facilement changer la langue sur le
+clavier à l'écran en appuyant sur le globe
+ou en appuyant longuement sur la barre d'espace.
+

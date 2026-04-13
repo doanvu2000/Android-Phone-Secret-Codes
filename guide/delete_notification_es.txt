@@ -1,0 +1,15 @@
+<h5>Ver tus notificaciones incluso
+después de borrarlas.</h5>
+¿Has borrado todas tus notificaciones
+sin verlas?
+Hay una manera muy sencilla de verlas
+de nuevo.
+Ve a widgets, toma el "acceso directo de configuración"
+en tu pantalla de inicio y
+selecciona notificaciones allí.
+Ahora puedes ver el acceso directo de
+Notificaciones en tu pantalla de inicio.
+Ahora ábrelo, y podrás ver todas las
+notificaciones.
+La ruta es Widgets > Acceso directo de configuración >
+Notificaciones.

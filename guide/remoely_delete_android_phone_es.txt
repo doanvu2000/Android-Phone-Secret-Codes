@@ -1,0 +1,39 @@
+ <h5>Asegúrese de poder eliminar sus datos mientras aún tiene su teléfono</h5>
+Si desea tener la capacidad de borrar su teléfono de forma remota, hay dos configuraciones que debe activar antes de que su teléfono se pierda. Debería estar habilitado de forma predeterminada, pero compruébelo para estar seguro.
+
+Vaya a Ajustes de Google > Seguridad > Administrador de dispositivos Android. Busque Permitir bloqueo y borrado remotos y asegúrese de que esté activado.
+
+El segundo interruptor que debe habilitarse también está en la pantalla del Administrador de dispositivos Android: busque Localizar este dispositivo de forma remota y asegúrese de que esté encendido. Si estas configuraciones no están habilitadas, el Administrador de dispositivos no podrá localizar su dispositivo.
+
+El Administrador de dispositivos Android también funciona para tabletas, pero si tiene varias cuentas de usuario, solo la persona establecida como propietario de la tableta puede configurar las funciones del Administrador de dispositivos Android.
+
+También es una buena idea tomar algunas otras precauciones: no guarde nada confidencial en tarjetas microSD (el borrado remoto no puede borrarlas), asegúrese de tener un código o patrón de bloqueo decente y considere invertir en una aplicación como AirDroid o Lookout. Ambas aplicaciones ofrecen funciones de borrado remoto, pero también pueden trasmitir datos cruciales antes de desconectar.
+Ajustes de Google
+Seguridad
+<h5>Habilite ambas opciones del Administrador de dispositivos Android como puede ver en la imagen a continuación:</h5>
+<h5>Cómo borrar de forma remota su teléfono Android</h5>
+
+¡Oh no! ¡Su teléfono se ha ido! Es hora de actuar, y por acción nos referimos al Administrador de dispositivos Android. Puede acceder al Administrador de dispositivos Android de dos maneras: a través de la aplicación Administrador de dispositivos Android en otro dispositivo Android, o a través del sitio web del Administrador de dispositivos Android.
+
+Una vez que haya iniciado sesión, el Administrador de dispositivos Android intentará localizar su dispositivo perdido. Si está encendido y puede recibir señal, verá la ubicación en un mapa. También verá tres opciones: hacerlo sonar, bloquearlo o borrarlo de forma remota. Si el dispositivo no está encendido o no puede recibir señal, el Administrador de dispositivos Android informará su ubicación cuando se encienda y se conecte a una red WI-FI o celular.
+
+En ese momento puede borrar todos los datos de su teléfono, pero le recomendamos encarecidamente que pruebe las opciones menos graves antes de tomar medidas drásticas y eliminarlo todo. Pruébelas en este orden:
+
+ <h5>Use el Administrador de dispositivos Android para hacer que su teléfono suene</h5>
+
+Los teléfonos perdidos a menudo simplemente se dejan en el lugar equivocado en lugar de estar perdidos o ser robados permanentemente. Para descartar eso, use el Administrador de dispositivos Android para hacer que el teléfono suene con fuerza durante cinco minutos completos. Esto le permite encontrar su teléfono si se ha caído al suelo de su automóvil o si uno de sus hijos lo ha escondido en una zapatilla.
+
+ <h5>Cambiar la pantalla de bloqueo</h5>
+Hay una segunda opción no drástica disponible para usted: cambiar la pantalla de bloqueo para que, cuando se encienda el teléfono por próxima vez, se muestre su mensaje. "DEVUÉLVEME MI TELÉFONO" probablemente sea contraproducente, pero un mensaje de "Por favor, llámame", posiblemente respaldado con una recompensa modesta, podría funcionar.
+
+¿Probó eso? ¿Aún sin suerte? Bien. Es hora de destruir sus datos.
+
+ <h5>Borrar sus datos</h5>
+Elegir la opción de borrar borrará de forma remota su teléfono o tableta. Eso es lo mismo que realizar un restablecimiento de fábrica completo, por lo que eliminará todas sus configuraciones, su música, sus fotos y sus aplicaciones (pero no la tarjeta SD). Al igual que con el bloqueo, si el teléfono perdido está apagado, seleccionar esta opción lo borrará de forma remota una vez que vuelva a estar en línea.
+Si está lo suficientemente preocupado como para tomar esta opción, también debe entrar en su cuenta y revocar el acceso para su teléfono perdido. También recomendamos cambiar cualquier contraseña de sus servicios en línea.
+La probabilidad de que un teléfono perdido lleve a que personas malintencionadas accedan a todas sus cosas es muy remota, pero no toma mucho tiempo eliminar esa posibilidad por completo.
+
+ <h5>¿Qué pasa si el Administrador de dispositivos Android no se puede conectar?</h5>
+Si el Administrador de dispositivos Android no se puede conectar, hay dos cosas más que puede probar. Google Maps rastrea el historial de ubicación de su teléfono, o al menos lo hace si no ha desactivado esa función en su cuenta de Google, por lo que a veces puede descubrir dónde ha estado su teléfono perdido visitando la página de Historial de ubicación y comprobando las marcas de tiempo. No necesariamente le dirá dónde está su teléfono ahora, pero puede decirle dónde ha estado.
+
+Otra opción es usar una aplicación como Android Lost, que funciona bien en dispositivos Android más antiguos. Es una de las pocas soluciones que puede instalar de forma remota, por lo que es una buena opción si no había habilitado las opciones del Administrador de dispositivos Android especificadas anteriormente. La aplicación y el sitio web se ven terribles pero funcionan bien, aunque el dispositivo debe estar en línea a través de la red celular o Wi-Fi para que funcione.

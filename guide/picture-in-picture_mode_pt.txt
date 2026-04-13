@@ -1,0 +1,30 @@
+<h5>Modo Picture-in-Picture</h5>
+
+O novo modo picture-in-picture do Android
+permite minimizar vídeos para que você possa
+realizar multitarefas. O que isso significa essencialmente
+é que você pode fazer uma chamada de vídeo com alguém
+ou assistir a um vídeo no YouTube enquanto
+verifica seu e-mail ou faz outro trabalho
+em segundo plano.
+
+Para ativar o modo Picture-in-Picture,
+siga os passos abaixo:
+Vá para as Configurações do seu Android
+e toque em Aplicativos e Notificações. Uma vez
+lá, toque em Avançado para revelar mais
+opções.
+Agora, toque na opção Acesso Especial a Apps.
+Uma vez lá, uma nova lista de controles de acesso
+especial disponíveis para vários aplicativos
+será aberta.
+
+Selecione Picture-in-Picture da lista
+Você agora será apresentado a
+uma lista de todos os aplicativos que suportam
+picture-in-picture. Simplesmente toque no
+aplicativo desejado e ative a alternância ao lado
+de Permitir picture-in-picture.
+
+Você agora pode usar o modo Picture-in-Picture
+para os aplicativos que desejar.

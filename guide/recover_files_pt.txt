@@ -1,0 +1,143 @@
+<h5>Como recuperar arquivos perdidos
+no Android: Seu guia para
+recuperação de dados Android</h5>
+Todos sabem a dor de
+acidentalmente excluir um arquivo que
+não deveriam ter apagado. É um momento
+desanimador quando você percebe o que
+fez. Perder arquivos é ruim, mas
+faz parte da vida na era digital. No entanto,
+nem tudo está perdido, pois pode haver uma
+maneira de recuperar seus arquivos perdidos.
+É aí que entra a recuperação de dados Android.
+Dependendo da natureza do arquivo, de quão
+completamente você o deletou e de quão
+sortudo você é, alguns métodos de recuperação
+podem funcionar. Aqui estão algumas das melhores
+técnicas para recuperar arquivos perdidos no Android.
+Veja também: ul Como fazer backup do seu
+telefone Android
+
+<h5>RESPOSTA RÁPIDA</h5>
+Para recuperar arquivos perdidos no Android,
+você pode usar alguns métodos diferentes para
+recuperar seus arquivos, desde simplesmente
+verificar a lixeira, checar seus backups na nuvem,
+usar aplicativos de recuperação para PC ou Android,
+e até entrar em contato com o desenvolvedor.
+No entanto, é importante lembrar que
+não há garantia de recuperação de arquivos
+Android perdidos.
+
+<h5>Pare de usar seu telefone
+e ative o modo Avião</h5>
+Antes de fazer qualquer outra coisa,
+o mais importante a saber sobre
+recuperação de dados Android é que você
+deve parar de usar seu telefone o mais
+rápido possível. Isso lhe dará
+a melhor chance de recuperar seu arquivo
+se ele estiver perdido.
+
+Quando você exclui um arquivo, os dados
+não desaparecem de fato. O Android apenas marca
+o espaço onde a informação está
+armazenada como "vazio". Isso significa que
+você não encontrará o arquivo, e o Android
+o tratará como desaparecido. Também significa
+que os slots que antes continham esses dados
+são marcados como prontos para serem sobrescritos,
+caso novos arquivos precisem de espaço.
+Somente quando isso acontece, os dados
+realmente se perdem, e você não consegue
+recuperá-los.
+
+É por isso que é tão importante
+parar de usar seu telefone e parar
+de tirar novas fotos ou instalar novos
+aplicativos. Recomendamos fortemente
+que você coloque seu telefone no modo avião.
+Dessa forma, você evitará que ele faça
+download de e-mails, fotos do WhatsApp
+e atualizações.
+
+<h5>Verifique sua lixeira</h5>
+Se você tiver sorte, pode ser que
+não tenha deletado seus arquivos de fato.
+Assim como em um PC, muitos aplicativos Android têm
+uma lixeira, o que significa que os arquivos
+não são completamente removidos imediatamente.
+Por exemplo, o aplicativo Galeria
+que vem com os telefones Samsung
+possui essa rede de segurança (isso também
+pode explicar por que deletar fotos não está
+liberando espaço no seu dispositivo).
+
+Para verificar a lixeira, você precisa
+voltar ao nível superior na aba **Pictures** ou **Albums** e tocar no menu no canto superior direito. Isso abrirá um menu que inclui a opção **Recycle Bin**. Selecione-a, e você será levado para uma pasta com todas as suas fotos excluídas.
+
+Outros aplicativos também têm essa opção, como o popular gerenciador de arquivos **Astro File Manager**. Qualquer que seja o aplicativo que você tenha usado para excluir o arquivo, verifique cuidadosamente se ele possui uma lixeira.
+
+<h5>Verifique o backup na nuvem</h5>
+O **Google Photos** também possui uma lixeira que armazena fotos por 60 dias, mas funciona um pouco diferente, fazendo backup das suas fotos no **Google Drive**. Isso significa que, mesmo que você tenha excluído completamente uma foto por outro aplicativo, ela ainda pode ser recuperável via Google Photos.
+
+Se você não vir sua foto ou vídeo aqui, verifique a lixeira no menu “hambúrguer” no canto superior esquerdo. Se ainda assim não tiver sorte, tente visitar **photos.google.com**. Verifique também a pasta **Trash** pelo menu “hambúrguer”. Mesmo que você remova suas fotos da lixeira no Google Photos, ainda há uma chance de que essas alterações não tenham sido refletidas no Google Drive. Então, verifique rapidamente aqui também.
+
+Algo que você talvez não saiba sobre o Google Drive é que você pode pedir para fazer backup de qualquer pasta no seu dispositivo. Basta abrir **Photos -> Settings -> Back up and Sync -> Back up device folders**. É claro que muitos outros aplicativos, como **Gmail**, também armazenam seus arquivos na nuvem por padrão.
+
+<h5>Como recuperar fotos do WhatsApp</h5>
+Se for uma foto do WhatsApp que você **excluiu acidentalmente**, existem várias opções para tentar recuperá-la. Primeiro, verifique o backup incorporado ao próprio WhatsApp. Vá para **Settings > Chats > Chat Backup**.
+
+Você verá informações sobre quando o último backup foi realizado. Se for recente, desinstale o aplicativo e reinstale-o a partir da **Play Store**. Isso dará a opção de **restaurar suas conversas e mídias antigas**. Você também verá a opção de fazer backup das fotos no Google Drive, então tente olhar lá também se essa opção estiver ativada.
+
+Mas e se você acidentalmente sobrescreveu seu último backup? Mesmo assim, ainda há esperança. Isso porque o WhatsApp mantém vários arquivos de backup no seu dispositivo, informando quais fotos recuperar dos servidores. Use o **file browser** de sua escolha e vá para **WhatsApp -> Databases**. Aqui você verá vários arquivos com nomes como `store-2022-01-05.crypt12`. Encontre o mais recente e renomeie-o para `store-1997.crypt12` (ou qualquer nome que preferir).
+
+Agora o WhatsApp recorrerá ao segundo backup mais recente ao recuperar suas fotos. Você também pode verificar a **pasta de mídia do WhatsApp** na sua biblioteca do Google Photos para ver se suas fotos estão lá. O WhatsApp armazena cópias das fotos que você envia, bem como as que recebe. Portanto, se você enviou uma foto para alguém, mas depois a excluiu da pasta da câmera do seu telefone, ainda pode haver uma cópia na pasta **WhatsApp Media**.
+
+<h5>Experimente aplicativos de recuperação de dados para Android</h5>
+Se nenhuma dessas etapas funcionou, você precisará começar a tentar soluções de terceiros. Aplicativos de **recuperação de dados para Android** às vezes podem recuperar dados perdidos. Eles funcionam procurando onde os dados foram armazenados, mesmo quando marcados como excluídos pelo Android.
+
+É aqui que se torna importante **parar de usar o telefone o máximo possível** para evitar corromper os dados que você está tentando recuperar.
+
+Também significa que você está em um pouco de um dilema, pois instalar um aplicativo de recuperação de terceiros no seu smartphone pode causar sobrescrita dos arquivos que você está tentando salvar. Para evitar esse problema, **sempre tente usar primeiro um aplicativo de recuperação no computador**. Recomendamos o **Recuva** como um bom ponto de partida. Instale o aplicativo, e o assistente o guiará por várias etapas para tentar recuperar seus arquivos perdidos.
+
+Este método de recuperação de dados para Android funciona um pouco melhor para arquivos armazenados em **cartões de memória** do que para arquivos armazenados internamente.
+
+<h5>Serviços de recuperação de dados Android</h5>
+Dependendo de quão desesperado e rico você esteja,
+outra opção pode ser utilizar um serviço de recuperação de dados.
+Esses serviços oferecem recuperar dados de qualquer dispositivo
+usando diversos métodos. Por exemplo, uma empresa chamada Ontrack
+promete “se os dados puderem ser armazenados nele, nós podemos recuperá-los”
+e se orgulha de uma taxa de sucesso de 90%. Essas empresas precisam
+coletar seu dispositivo pessoalmente e provavelmente utilizarão uma
+combinação das estratégias listadas aqui, juntamente com processos
+sofisticados de restauração de arquivos. A boa notícia é que você só será
+cobrado se eles avaliarem que o arquivo é recuperável.
+O único problema é que eles são muito mais caros do que outras opções nesta lista,
+então você precisa pensar cuidadosamente se realmente precisa desses arquivos.
+
+<h5>Contactar o desenvolvedor</h5>
+Esta é uma possibilidade remota, mas se os arquivos perdidos
+pertenciam a um jogo ou aplicativo que você baixou da Play Store,
+você pode conseguir recuperá-los com um pouco de ajuda do desenvolvedor.
+Isso acontece porque os desenvolvedores gerenciam (ou pelo menos têm acesso)
+aos servidores que contêm backups em nuvem dos arquivos. Além disso,
+eles podem conhecer alguns backups “secretos” que seus aplicativos fazem por padrão.
+De qualquer forma, há uma pequena chance de que eles consigam recuperar
+os arquivos perdidos da sua conta ou fornecer instruções para que você faça isso sozinho.
+Infelizmente, nunca há garantia de recuperar arquivos Android perdidos.
+Com um pouco de sorte e determinação, porém, há pelo menos uma chance razoável.
+Mas queremos terminar com uma palavra de cautela – perder arquivos é uma experiência
+altamente frustrante e emocional. Quando estamos frustrados e emocionais,
+às vezes tomamos decisões precipitadas e fazemos coisas que normalmente não faríamos.
+
+Portanto, se você está pensando em gastar centenas de dólares em softwares de
+restauração de arquivos que provavelmente não vão funcionar, ou se já perdeu horas
+tentando recuperar trabalhos que você levou apenas meia hora para criar, talvez seja
+hora de colocar as coisas em perspectiva. Qualquer trabalho que você tente recriar
+virá mais rápido (e provavelmente melhor) na segunda tentativa,
+e você ainda terá lembranças para ajudar a refazer fotos que possa ter perdido.
+Apenas não enlouqueça com isso.
+
+Leia mais: ul 10 melhores aplicativos de backup Android

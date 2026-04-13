@@ -1,0 +1,59 @@
+<h5>1. Réduire le nombre d'applications simultanées pour arrêter le blocage du téléphone</h5>
+Chaque téléphone mobile dispose d'une quantité limitée de ressources comme la mémoire (RAM) et la puissance de traitement. Si vous surchargez le téléphone au-delà de la capacité de ces ressources, le téléphone peut se bloquer. Par conséquent, vous devriez essayer de minimiser le nombre d'applications fonctionnant simultanément. De nombreuses applications s'exécutent en arrière-plan. Vous pouvez libérer la mémoire encombrée en arrêtant les applications dont vous n'avez pas besoin pour le moment.
+
+Pour voir la liste des applications en cours d'exécution, allez dans Paramètres > Applications > Applications en cours d'exécution.
+
+<h5>2. Gardez toutes les applications à jour</h5>
+Visitez régulièrement les boutiques d'applications comme Google Play (si vous avez un téléphone Android) et l'App Store d'iTunes (si vous avez un iPhone). Les développeurs d'applications mobiles améliorent constamment les performances de leurs applications. Il est donc fortement recommandé de mettre à jour régulièrement toutes les applications dès qu'une meilleure version est disponible. Les dernières versions des applications peuvent être conçues pour utiliser moins de mémoire et de puissance CPU.
+
+<h5>3. Éteignez votre téléphone mobile</h5>
+Éteindre votre téléphone de temps en temps est une bonne idée car cela rafraîchira complètement la mémoire du téléphone. Lorsque vous redémarrerez votre téléphone, sa mémoire sera libérée de toutes les données inutiles qui s'y attardaient et occupaient l'espace mémoire.
+
+<h5>4. Installez les applications sur la mémoire externe (carte SD)</h5>
+La plupart des utilisateurs de téléphones mobiles installent toutes sortes d'applications sur leur téléphone. Lors de l'installation des applications, ils ne font pas attention à l'endroit où l'application va être installée et à l'impact que cela peut avoir sur les performances du téléphone. Dans la plupart des cas, par défaut, les applications s'installent dans la mémoire interne du téléphone. Cela laisse moins d'espace pour l'exécution des applications, ce qui encombre la mémoire. Si votre téléphone se bloque, il est conseillé d'installer les applications sur la mémoire externe (c'est-à-dire la carte SD) du téléphone. Généralement, la mémoire externe est plus grande que la mémoire interne et peut être facilement étendue si nécessaire. Par conséquent, sur la mémoire externe, plus d'applications peuvent être facilement installées sans encombrer la mémoire interne du téléphone. Cela évitera à votre téléphone de se bloquer.
+
+Pour cela, vous pouvez définir le disque d'écriture par défaut. Allez dans Paramètres > Stockage > Disque d'écriture par défaut > Sélectionner la carte SD. Veuillez noter que ce paramètre est disponible à un emplacement légèrement différent selon les modèles de téléphones mobiles, vous devrez donc peut-être chercher un peu.
+
+<h5>5. Déplacez les applications installées de la mémoire interne vers la mémoire externe</h5>
+Vous pouvez toujours déplacer les applications déjà installées de la mémoire interne vers la mémoire externe. Comme expliqué plus haut, cela donnera plus d'espace mémoire interne pour le bon fonctionnement des applications. Par conséquent, votre téléphone ne se bloquera pas. Le paramètre pour déplacer les applications installées est généralement disponible sous Paramètres > Applications.
+
+<h5>6. Supprimez les applications inutiles</h5>
+Vous pouvez également parcourir la liste des applications installées sur votre téléphone. Vous pourriez repérer quelques applications que vous aviez installées autrefois mais dont vous n'avez plus besoin. Désinstallez ces applications immédiatement. Elles restent inactives dans votre téléphone et gaspillent l'espace mémoire si important.
+
+<h5>7. Supprimez les données inutiles (comme les photos, vidéos, chansons)</h5>
+Si vous avez stocké des images, des vidéos et des chansons dans la mémoire interne, vous saturez réellement l'espace mémoire interne, ce qui pourrait très bien être la cause du blocage constant de votre téléphone. Allez-y, jetez un coup d'œil à toutes les photos, vidéos et chansons et supprimez celles dont vous n'avez plus besoin. Alternativement, vous pouvez d'abord sauvegarder ces données sur votre ordinateur, puis les supprimer de votre téléphone. Les photos, vidéos et fichiers audio occupent la majeure partie de l'espace sur le téléphone d'un utilisateur moyen de smartphone. Et c'est l'une des raisons courantes pour lesquelles votre téléphone se bloque.
+
+<h5>8. Identifiez les applications gourmandes en ressources</h5>
+Certaines applications utilisent beaucoup plus de mémoire que d'autres. Les applications de jeux sont parmi les applications les plus gourmandes en mémoire. Vous pouvez vérifier la quantité de mémoire utilisée par chacune de vos applications. Pour cela, allez dans Paramètres > Applications (ou Mémoire) > Applications en cours d'exécution. Ici, vous pourrez voir exactement quelle application utilise quelle quantité de mémoire.
+Si possible, vous pouvez essayer une alternative plus légère à une application qui utilise beaucoup de mémoire.
+
+<h5>9. Installez un logiciel antivirus</h5>
+Les virus sont un fléau. Si votre téléphone mobile héberge un virus, celui-ci peut considérablement ralentir votre téléphone mobile. Inutile de dire que votre téléphone se bloquera souvent. Donc, vous avez évidemment besoin d'un antivirus. Bien que le logiciel antivirus lui-même occupe beaucoup de mémoire, il est préférable de faire supprimer le virus.
+
+<h5>10. Donnez un peu d'espace de respiration à la mémoire externe</h5>
+Jusqu'à présent, nous vous avons parlé de l'importance d'installer les applications sur la mémoire externe. Mais cela ne signifie pas que vous devriez également saturer la mémoire externe. Gardez un peu d'espace libre sur la mémoire externe afin que les applications puissent facilement stocker et lire leurs données pertinentes. Si la mémoire externe est également pleine à craquer, cela peut aussi être la cause du blocage du téléphone.
+
+<h5>11. Utilisez l'option de réinitialisation d'usine</h5>
+Cela devrait être votre dernier recours. Si rien d'autre ne fonctionne et que le téléphone se bloque toujours, vous pouvez réinitialiser votre téléphone mobile aux paramètres d'usine. L'utilisation de cette option supprimera tout de votre téléphone mobile. Vous perdrez tout ce qui se trouvait dans la mémoire interne. Et ce sera parti pour toujours. Tous les messages, contacts, applications, favoris, photos, vidéos, chansons, sonneries... tout sera supprimé. Essentiellement, cette option rendra votre téléphone tel qu'il était à sa sortie d'usine.
+
+<h5>12. Augmentez la mémoire en supprimant les données indésirables</h5>
+Saviez-vous que presque tous les sites Web utilisent le cache pour augmenter la vitesse de chargement des pages ? Chaque fois que vous visitez un site Web, votre téléphone stocke automatiquement ce que l'on appelle aussi les cookies et les caches. Ces données indésirables seront stockées dans la mémoire de votre téléphone, ce qui réduit la mémoire disponible pour les applications et autres fichiers.
+
+Solution :
+Ce problème peut être résolu facilement à partir des paramètres.
+Allez dans Paramètres > Stockage > Cliquez sur le cache et cliquez sur OK pour effacer les caches.
+
+<h5>13. Utilisez la mémoire externe pour enregistrer des chansons et d'autres fichiers</h5>
+Une utilisation excessive de la mémoire du téléphone est la raison principale du blocage du téléphone. Pour résoudre le problème de blocage de votre téléphone Android, enregistrez vos chansons, vidéos et autres données sur la mémoire externe.
+Vous pouvez déplacer vos fichiers vers la mémoire externe et, en sélectionnant la mémoire externe comme mémoire par défaut, cela aide à stocker les photos et vidéos prises par l'appareil photo. Pour faire de la mémoire externe la mémoire par défaut, lisez le deuxième conseil.
+
+<h5>14. Options de réinitialisation d'usine (Non recommandé)</h5>
+Personnellement, je ne recommande pas cette méthode car elle n'est pas familière à la plupart des utilisateurs d'Android. La réinitialisation d'usine est la dernière méthode pour supprimer tous les fichiers indésirables provenant des navigateurs, des sites Web, des applications, etc.
+La réinitialisation d'usine supprime tous les fichiers, applications, contacts, mémos, donc la plupart des utilisateurs d'Android n'utilisent pas cette option.
+
+Processus sécurisé de réinitialisation d'usine :
+Le processus d'usine peut supprimer vos données personnelles comme les contacts, les mémos, les utilisateurs doivent donc suivre le processus sécurisé avant d'exécuter l'option de réinitialisation d'usine.
+Chaque fois que vous effectuez un processus de réinitialisation d'usine, n'oubliez jamais de sauvegarder tous vos fichiers. Vous pouvez déplacer ces fichiers de sauvegarde vers la carte SD externe.
+
+<h5>15. Utilisez le stockage en nuage</h5>
+Utilisez le stockage en nuage pour stocker vos fichiers que vous souhaitez conserver pour l'avenir. Ne stockez sur votre carte mémoire que les fichiers dont vous avez besoin quotidiennement et téléchargez vers le stockage en nuage les fichiers dont vous aurez besoin à l'avenir.

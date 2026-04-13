@@ -1,0 +1,16 @@
+ Configurar desbloqueo automático del teléfono
+Smart unlock es una nueva función en
+Android 5.0 Lollipop y sistemas operativos
+Android superiores. Elimina
+el PIN o código de acceso de tu teléfono en ciertas
+ubicaciones de confianza, como el hogar o el trabajo.
+Ve a Configuración > Seguridad > Smart Lock
+Lugares de confianza y agrega a lugares de
+confianza.
+
+Si tu dispositivo ejecuta Android 4.4
+KitKat, hay una solución inteligente para
+esto. Habilita la instalación desde aplicaciones de terceros
+yendo a Configuración> Seguridad>
+seleccionando Fuentes desconocidas.
+

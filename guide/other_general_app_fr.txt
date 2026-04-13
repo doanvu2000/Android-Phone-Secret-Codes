@@ -1,0 +1,66 @@
+<h5>Application non trouvée pour toutes les applications sur
+SD, pourquoi cela ?</h5>
+ C'est l'un des pièges majeurs
+ du déplacement des applications vers la SD - si la SD
+ fonctionne mal ou est retirée de manière inattendue,
+ cela peut casser l'application. Avez-vous
+ démonté la carte avant de la retirer
+ (dans Paramètres>Stockage) ? Essayez d'aller dans
+ Paramètres>Applications, sélectionnez l'une de ces
+ applications, et voyez si vous pouvez Déplacer vers le stockage
+ du téléphone à nouveau. Si cela fonctionne, appuyez ensuite sur
+ Déplacer vers la carte SD pour voir si
+ cela résout le problème.
+
+ Sinon, vous devrez peut-être désinstaller l'
+ application, puis la réinstaller. Je ne suis pas sûr
+ si les données d'application restantes sur la carte SD
+ seront incorporées correctement dans l'
+ application réinstallée, ou si elle sera confuse
+
+ <h5>Restaurer mes contacts du répertoire téléphonique</h5>
+ Si vous avez déjà utilisé G Mail, cela signifie que vos
+ contacts sont synchronisés dans votre
+ compte Gmail, si vous voulez les restaurer sur
+ votre nouveau téléphone, suivez ceci : mettez votre
+ compte Gmail sur votre nouveau téléphone
+ et basculez la synchronisation sur la position
+ marche, une fois la synchronisation
+ terminée vous verrez que tous les contacts
+ apparaîtront sur votre nouveau téléphone.
+
+ <h5>Le son baisse lors du branchement des
+ écouteurs</h5>
+ C'est une fonctionnalité de sécurité. La plupart des fabricants
+ de téléphones appliquent ce
+ re-nivellement automatique du volume lors du
+ branchement des écouteurs pour éviter les bruits forts et
+ soudains explosant dans vos oreilles,
+ prévenant les dommages/la perte d'audition.
+
+
+ Les téléphones Samsung, par exemple, ne
+ font pas seulement cela, mais ils ajoutent aussi un pop-up
+ d'avertissement très ennuyeux (mais très valide)
+ lorsque vous essayez de dépasser
+ un certain niveau de volume tout en utilisant des
+ écouteurs. Il apparaît une fois par redémarrage
+ et il n'y a aucun moyen de le désactiver, de le rejeter
+ définitivement ou de l'ignorer.
+
+ <h5>Désactiver la lecture automatique des vidéos Facebook sur
+ Android</h5>
+ Il y a encore une autre fonctionnalité Facebook
+ qui peut être assez ennuyeuse : la lecture automatique
+ des vidéos. Non seulement vous ne voulez pas toujours
+ voir ce que les gens montrent,
+ mais cela utilise aussi plus de données
+ et de batterie de votre Android. Voici
+ comment désactiver cette fonctionnalité sur Android.
+ Pour ce faire, balayez vers l'onglet le plus éloigné
+ sur l'application Facebook pour Android et
+ appuyez sur Paramètres de l'application. Juste là sous
+ les Paramètres généraux, appuyez sur 'Lecture automatique
+ des vidéos' et réglez-le sur Désactivé. Bien sûr,
+ Facebook l'a par défaut sur Activé, mais plus
+ maintenant !

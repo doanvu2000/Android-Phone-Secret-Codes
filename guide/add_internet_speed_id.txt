@@ -1,0 +1,27 @@
+<h5>Indikator di Ponsel Android</h5>
+Anda dapat memantau kecepatan unggah
+dan unduh waktu nyata di ponsel Anda.
+Yang perlu Anda lakukan hanyalah mengunduh aplikasi Internet
+Speed Meter di ponsel Anda. Anda juga
+dapat melacak penggunaan data harian Anda dengan
+bantuan aplikasi ini.
+Ini bukan hanya aplikasi pengukur kecepatan. Ini adalah
+paket lengkap untuk melacak penggunaan data
+internet Anda per aplikasi. Ya, Anda
+mendapatkan laporan penggunaan internet harian, tetapi
+bersama dengan itu, Anda juga mendapatkan informasi
+lengkap tentang koneksi Wi-Fi yang
+terhubung dengan Anda. Informasi
+termasuk frekuensi Wi-Fi, alamat IP,
+Kecepatan Tautan, SSID, dan banyak lagi.
+<h5>Indikator di Ponsel Xiaomi</h5>
+Jika Anda menggunakan ponsel Xiaomi dengan MIUI
+terinstal, nah teman-teman, Anda tidak
+perlu menginstal aplikasi jenis apa pun di
+ponsel android Anda.
+Untuk mengaktifkan Indikator Kecepatan Internet
+di MIUI 8 buka pengaturan ponsel Anda dan
+pilih Pemberitahuan dan bilah status.
+Aktifkan Tampilkan kecepatan koneksi.
+Sekarang Anda melihat indikator kecepatan jaringan di
+Ponsel Xiaomi Anda.

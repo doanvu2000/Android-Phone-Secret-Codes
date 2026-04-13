@@ -1,0 +1,66 @@
+<h5>Aplicación no encontrada para todas las apps en
+SD, ¿por qué es eso?</h5>
+ Este es uno de los principales inconvenientes
+ de mover aplicaciones a SD: si la SD
+ funciona mal o se quita inesperadamente,
+ puede romper la aplicación. ¿Desmontaste
+ la tarjeta antes de quitarla
+ (en Configuración>Almacenamiento)? Intenta ir a
+ Configuración>Aplicaciones, selecciona una de esas
+ aplicaciones y ve si puedes Mover al Almacenamiento
+ del Teléfono de nuevo. Si eso funciona, entonces toca
+ Mover a tarjeta SD después para ver si
+ eso lo soluciona.
+
+ De lo contrario, es posible que debas desinstalar la
+ aplicación y luego volver a instalarla. No estoy seguro
+ de si los datos sobrantes de la aplicación en la tarjeta SD
+ se incorporarán correctamente en la
+ aplicación reinstalada, o si se confundirá
+
+ <h5>Restaurar mis contactos de la agenda telefónica</h5>
+ Si alguna vez usaste Gmail, significa que tus
+ contactos están sincronizados en tu
+ cuenta de Gmail, si quieres restaurarlos en
+ tu nuevo teléfono, sigue esto: pon tu
+ cuenta de Gmail en tu nuevo teléfono
+ y cambia la sincronización a la posición
+ de encendido, una vez que la sincronización
+ se complete verás que todos los contactos
+ aparecerán en tu nuevo teléfono.
+
+ <h5>El sonido disminuye al enchufar
+ auriculares</h5>
+ Es una característica de seguridad. La mayoría de los fabricantes
+ de teléfonos están aplicando esa
+ renivelación automática de volumen al
+ enchufar auriculares para evitar ruidos fuertes y
+ repentinos que exploten en tus oídos,
+ previniendo daños/pérdida de audición.
+
+
+ Los teléfonos Samsung, por ejemplo, no
+ solo hacen eso, sino que también agregan una ventana emergente
+ de advertencia muy molesta (pero muy válida)
+ cuando intentas superar
+ cierto nivel de volumen mientras usas
+ auriculares. Aparece una vez por reinicio
+ y no hay forma de desactivarla, descartarla
+ permanentemente o ignorarla.
+
+ <h5>Desactivar Reproducción Automática de Video de Facebook En
+ Android</h5>
+ Hay otra característica de Facebook
+ que puede ser bastante molesta: la reproducción automática
+ de video. No solo no siempre
+ quieres ver lo que la gente está mostrando,
+ sino que esto también usa más datos
+ y batería de tu Android. Aquí está
+ cómo desactivar esta característica en Android.
+ Para hacer esto, desliza hasta la pestaña más lejana
+ en la aplicación de Facebook para Android y
+ toca en Configuración de la Aplicación. Justo ahí bajo
+ la Configuración General, toca en 'Reproducción Automática
+ de Video' y configúralo en Apagado. Por supuesto,
+ Facebook lo tiene predeterminado en Encendido, ¡pero ya no
+ más!

@@ -1,0 +1,54 @@
+<h5>Matikan pelacakan lokasi Android</h5>
+Buka Pengaturan
+
+Gulir ke bawah ke Lokasi Anda akan melihat
+sakelar on/off di kanan atas. Gunakan
+ini untuk menghidupkan atau mematikan layanan lokasi
+sama sekali.
+
+<h5>Ketuk Lokasi> Riwayat Lokasi Google</h5>
+ Sekali lagi ada tombol
+di kanan atas yang memungkinkan Anda menghidupkan
+atau mematikan riwayat lokasi Anda. Jika Anda
+juga ingin menghapus riwayat
+lokasi Anda, Anda dapat melakukannya di sini juga:
+di bawah Riwayat Lokasi ketuk Hapus
+Riwayat Lokasi. Setelah dihapus informasi
+ini tidak dapat dipulihkan.
+
+ <h5>Aktifkan Mode Tamu di Android</h5>
+Geser ke bawah dari bagian atas
+Layar untuk menarik bilah
+notifikasi.
+Ketuk avatar Anda di kanan atas
+dua kali
+Sekarang Anda akan melihat tiga ikon: akun
+Google Anda, Tambahkan tamu dan Tambahkan
+pengguna.
+
+Ketuk Tambahkan tamu.
+Sekarang ponsel cerdas Anda akan beralih
+ke mode tamu. Ini mungkin memakan waktu
+dan ponsel mungkin sedikit
+lambat pada awalnya, tetapi dalam pengujian kami dengan
+Nexus 5 itu bekerja dengan baik setelah beberapa
+menit.
+
+Ketika Anda selesai dengan mode
+tamu, Anda dapat dengan mudah kembali ke akun
+Google Anda. Ikuti langkah 1 dan
+2 di atas dan ketuk ikon yang menunjukkan
+akun Google Anda. Ini akan menghapus
+semua data yang disimpan dalam sesi tamu
+juga.
+
+Jika ponsel cerdas Anda tidak memiliki
+Android 5.0 Lollipop terinstal, Anda
+harus memeriksa mode tamu yang dimuat sebelumnya
+yang dapat Anda akses dengan pergi
+ke Pengaturan> Umum > Privasi>
+Mode Tamu.
+
+ <h5>Jauhi Aplikasi penipuan</h5>
+Selalu gunakan play store untuk menginstal jenis
+aplikasi apa pun

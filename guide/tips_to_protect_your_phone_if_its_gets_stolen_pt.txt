@@ -1,0 +1,36 @@
+<h5>1. Use um ecrã de bloqueio</h5>
+
+Sabemos que usar ecrãs de bloqueio costumava ser um incómodo quando tudo o que queria fazer era ver se tinha recebido algum e-mail. Mas agora que pode usar widgets de ecrã de bloqueio, não há razão para não bloquear o seu telemóvel corretamente com um código, impressão digital, gesto ou rosto. Os dispositivos Android mais recentes vêm com scanners de impressões digitais por uma boa razão: mantêm o seu dispositivo seguro e são convenientemente rápidos. Não usar um ecrã de bloqueio é o equivalente Android de sair e deixar a sua porta da frente aberta para ladrões.
+
+<h5>2. Oculte as suas palavras-passe</h5>
+
+O menu Definições > Segurança do Android tem uma opção para tornar todas as palavras-passe visíveis, e embora tenha boas intenções (torna mais simples introduzir palavras-passe precisas), é um risco de segurança se estiver a introduzir palavras-passe onde pode ser visto, por exemplo quando está no comboio ou numa multidão. É melhor deixar esta opção desativada.
+
+<h5>3. Oculte e bloqueie as suas aplicações</h5>
+
+Um bom bloqueador de aplicações pode ser uma verdadeira bênção não apenas por razões de segurança, mas também para proteção de privacidade e para garantir que as crianças não possam apagar ou mover nada importante. Um bloqueador como o AppLock pode manter outros afastados das suas fotos, contactos, Facebook, definições do telemóvel e qualquer outra coisa com a qual não gostaria que se intrometessem.
+
+<h5>4. Rastreie o seu telemóvel com o Android Device Manager</h5>
+
+Esta é mais uma dica de "o que fazer se não protegeu o seu telemóvel": se estiver perdido ou extraviado, o Android Device Manager pode encontrá-lo, bloqueá-lo remotamente e, no pior dos casos, rastrear a sua localização remota. Note que se não tiver ativado os serviços de localização no seu dispositivo, o ADM não conseguirá encontrá-lo se desaparecer.
+
+<h5>5. Configure os serviços de localização corretamente</h5>
+
+Certifique-se de que o seu dispositivo está a rastrear o GPS corretamente: se não estiver, será muito mais difícil rastreá-lo com algo como o Android Device Manager se o extraviar.
+
+<h5>6. Verifique as notificações e definições das suas aplicações</h5>
+
+Um relatório recente descobriu que dez das aplicações de lanterna mais populares estavam a pedir quantidades ridículas de permissões, incluindo a capacidade de rastrear a sua localização e até eliminar aplicações e ficheiros. E claro que não são apenas aplicações de lanterna: muitos downloads duvidosos são concebidos para recolher dados dos utilizadores ou enganá-los para que entreguem detalhes financeiros ou dinheiro real. Certifique-se de que está a par das permissões das suas aplicações.
+
+<h5>7. Use mensageiros com encriptação</h5>
+
+Se a encriptação do seu dispositivo estiver ativada por predefinição - isto é, embaralhar os seus dados de tal forma que não podem simplesmente ser copiados e consultados - isso não significa que os dados que envia pela Internet estejam encriptados. Para garantir que as suas comunicações são privadas, use uma plataforma encriptada como Telegram, WhatsApp, Facebook Messenger, etc., em vez de alternativas não encriptadas.
+
+<h5>8. Instale atualizações</h5>
+
+Às vezes, as atualizações de aplicações são coisas menores que não fazem nenhuma diferença notável, mas às vezes essas atualizações contêm correções essenciais para problemas de segurança que não pode ver, mas que potenciais atacantes podem. As pessoas que não atualizam para as versões mais recentes permanecem vulneráveis, por isso é muito boa ideia manter-se atualizado com as atualizações de aplicações e Android.
+
+<h5>9. Fixe o ecrã</h5>
+
+Se quiser deixar alguém ler algo - como um artigo do AndroidPIT na nossa aplicação - mas não quiser que saltem para outra coisa, a fixação de ecrã, que apareceu pela primeira vez no Android Lollipop, bloqueia o ecrã numa única aplicação. Não é a coisa mais segura do mundo (diz-lhe como desfazê-lo mesmo ali no ecrã) - mas pelo menos impede que os seus amigos ou colegas bisbilhotem acidentalmente no seu dispositivo. Se o fizerem, saberá que o fizeram deliberadamente.
+

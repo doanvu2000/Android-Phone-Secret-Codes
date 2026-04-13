@@ -1,0 +1,88 @@
+<h5>Fakta tentang Android.</h5>
+
+Lebih dari satu miliar ponsel
+didukung oleh sistem operasi Android.
+
+<ul type = "1">
+   <li>Sistem operasi Android
+dikembangkan oleh Android Inc pada tahun 2004
+didukung oleh Google. Kemudian Google membelinya
+pada tahun 2005 dengan harga $50 juta.</li>
+
+<li> Sistem operasi Android
+dikembangkan sebagai platform untuk kamera
+digital. Tapi pembuatnya kemudian mengubah
+fokus mereka ke ponsel pintar karena mereka melihat
+potensinya</li>
+
+<li>  Google meluncurkan sistem operasi Android
+pada 5 November 2007 yang merupakan
+sistem perangkat lunak berbasis Linux.</li>
+
+<li>  HTC Dream atau T Mobile G1 adalah
+ponsel pintar pertama yang menjalankan sistem
+operasi Android, ponsel ini
+dirilis pada tahun 2008.
+
+<li> Sistem operasi Google Android,
+telah mencapai lebih dari satu miliar aktivasi pada
+perangkat seperti ponsel pintar dan tablet.</li>
+
+<li>  Kecuali Android 1.0 dan 1.1, semua
+versi android lainnya dinamai setelah
+makanan manis seperti Jelly Bean, Ice cream
+sandwich, Honeycomb untuk menyebutkan beberapa.</li>
+
+<li>  Sistem operasi Android telah
+dirilis dalam banyak versi, di mana
+setiap rilis telah mengikuti
+urutan abjad dalam penamaan. Nama-
+namanya adalah Android Astro (1.0), Bender
+1.1, Cupcake (1.5), Donut (1.6), Eclair
+(2.0), Froyo (2.2.x). Gingerbread
+(2.3.x), Honeycomb (3.0), Ice Cream
+Sandwich (4.0.x), Jelly Bean (4.x)
+dan KitKat (4.4), Lollipop 5.0-5.1.1
+Marshmallow 6.0 Ke 6.0.1, Nougat 7.0 Ke 7.1.2, Oreo (8.0), Pie (9.0).</li>
+
+<li> Tahukah Anda bahwa Android adalah sumber
+terbuka? Karena google adalah anggota dari
+Open Handset Alliance (OHA), Ia telah
+memberikan pengguna atau orang yang tertarik
+opsi untuk memodifikasi kode sumber OS.
+Ini telah memungkinkan produsen untuk menambahkan
+fitur ke OS.</li>
+
+<li> Manusia dengan penampilan robot adalah
+arti dari Kata Android. Ini merujuk
+pada robot laki-laki. Gynoid adalah robot
+yang terlihat perempuan.</li>
+
+<li> Android adalah Andy Rubin yang merupakan
+salah satu pencipta Android, itu adalah nama
+yang diberikan kepadanya di Apple sebelum bergabung dengan
+Google, karena obsesi dan cintanya pada
+robot</li>
+
+<li> Ada perangkat yang menjalankan Android di
+luar angkasa. NASA melengkapi robot ruang angkasa
+mengambang dengan handset Nexus S. Perangkat
+ini berjalan di Android Gingerbread.</li>
+
+<li> Kebanyakan orang berpikir bahwa
+nama karakter logo Android juga
+Android, tapi itu tidak benar. Nama sebenarnya
+dari Maskot Android adalah Bugdroid,
+meskipun ini tidak resmi, tim Google
+memanggilnya dengan nama ini.</li>
+
+<li>  Salah satu bagian terbaik menjadi
+pemilik Android adalah aplikasinya. Toko aplikasinya
+"Google play" memiliki lebih dari 48 miliar
+instalan aplikasi, yang sebagian besar
+gratis.</li>
+<li>  Sekarang Android digunakan untuk mendukung
+    perangkat seperti Google Glass, Jam Tangan dan sebagainya.
+    15.  Untuk peluncuran versi terbarunya, ia
+    mengambil nama merek yang tepat. </li>
+ </ul>

@@ -1,0 +1,26 @@
+Selecione a categoria de aplicativo da lista
+Deslize a tela para alterar a
+categoria de armazenamento Interno para
+lista de aplicativos em Execução
+A imagem mostra uma lista de aplicativos em Execução
+Agora selecione e "pare" o aplicativo
+que está sendo executado desnecessariamente e
+drenando a bateria do seu dispositivo
+
+se sua bateria está morrendo muito rápido, pode
+ser por causa de aplicativos em segundo plano
+que você esquece que estão em execução. Aumentar
+a vida útil da bateria pode ser mais fácil do que você
+pensa.
+
+<h5>Navegue até Configurações>>Aplicativos>>depois
+deslize para a guia em execução</h5> . Você verá os
+aplicativos que estão usando mais processamento
+e energia da bateria. Se você não usa um
+aplicativo de alto consumo com muita frequência, simplesmente toque no
+aplicativo e depois toque no botão sair.
+Livrar-se de aplicativos que sugam energia
+deve dar um pequeno impulso à sua
+vida útil da bateria.
+
+

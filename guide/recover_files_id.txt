@@ -1,0 +1,142 @@
+<h5> Cara mengambil kembali file yang hilang
+di Android: Panduan Anda untuk
+pemulihan data Android</h5>
+Semua orang tahu betapa menyakitkannya
+secara tidak sengaja menghapus file yang
+tidak seharusnya dihapus. Ini adalah momen
+yang membuat hati terasa hancur ketika
+Anda menyadari apa yang telah Anda lakukan.
+Kehilangan file memang buruk, tetapi ini
+adalah bagian dari kehidupan di era digital.
+Namun, semuanya belum hilang, karena mungkin
+ada cara untuk mengambil kembali file yang hilang.
+Di sinilah pemulihan data Android masuk.
+Tergantung pada sifat file, seberapa teliti
+Anda menghapusnya, dan seberapa beruntung Anda,
+beberapa metode pemulihan mungkin berhasil.
+Berikut adalah beberapa teknik terbaik untuk
+mengambil kembali file yang hilang di Android.
+Lihat juga: ul Cara mencadangkan ponsel Android Anda
+
+<h5>JAWABAN CEPAT</h5>
+Untuk mengambil kembali file yang hilang di Android,
+Anda bisa menggunakan beberapa metode berbeda untuk
+memulihkan file yang hilang, mulai dari hanya
+memeriksa tempat sampah, memeriksa cadangan cloud,
+menggunakan aplikasi pemulihan untuk PC atau Android,
+dan bahkan menghubungi pengembang. Namun, penting
+untuk diingat bahwa tidak ada jaminan bahwa file
+Android yang hilang dapat dipulihkan.
+
+<h5>Berhenti menggunakan ponsel Anda
+dan aktifkan mode Pesawat</h5>
+Sebelum melakukan hal lain, hal terpenting yang perlu
+diketahui tentang pemulihan data Android adalah
+Anda harus segera berhenti menggunakan ponsel Anda.
+Ini akan memberi Anda peluang terbaik untuk mendapatkan
+kembali file Anda jika hilang.
+
+Saat Anda menghapus file, data sebenarnya tidak hilang sama sekali.
+Android hanya menandai ruang tempat informasi disimpan sebagai "kosong."
+Itu berarti Anda tidak akan menemukan file, dan Android akan menganggapnya hilang.
+Ini juga berarti slot yang sebelumnya berisi data tersebut ditandai siap ditimpa,
+jika file baru membutuhkan ruang. Hanya ketika ini terjadi, data benar-benar hilang,
+dan Anda tidak dapat mendapatkannya kembali.
+
+Inilah mengapa sangat penting untuk berhenti menggunakan ponsel Anda
+dan berhenti mengambil foto baru atau menginstal aplikasi baru.
+Kami sangat menyarankan agar Anda mengaktifkan mode pesawat.
+Dengan cara ini, Anda akan mencegah ponsel mengunduh email, foto WhatsApp, dan pembaruan.
+
+<h5>Periksa tempat sampah (recycle bin) Anda</h5>
+Jika Anda beruntung, mungkin Anda **belum menghapus file sama sekali**. Seperti pada PC, banyak aplikasi Android memiliki **tempat sampah (recycle bin)**, yang berarti file tidak dihapus sepenuhnya secara langsung. Misalnya, aplikasi **Gallery** yang ada pada ponsel Samsung memiliki fitur pengaman seperti ini (ini juga bisa menjelaskan mengapa menghapus foto tidak membebaskan ruang pada perangkat Anda).
+
+Untuk memeriksa tempat sampah, Anda perlu kembali ke tingkat atas pada tab **Pictures** atau **Albums** dan ketuk menu di kanan atas. Ini akan membuka menu yang mencakup opsi **Recycle Bin**. Pilih opsi ini, dan Anda akan dibawa ke folder yang berisi semua foto yang telah dihapus.
+
+Aplikasi lain juga memiliki opsi ini, seperti file manager populer **Astro File Manager**. Apapun aplikasi yang Anda gunakan untuk menghapus file, periksa dengan teliti apakah aplikasi tersebut memiliki tempat sampah.
+
+<h5>Periksa cadangan cloud</h5>
+**Google Photos** juga memiliki tempat sampah yang menyimpan foto selama 60 hari, tetapi bekerja sedikit berbeda dengan mencadangkan foto Anda ke **Google Drive**. Ini berarti bahkan jika Anda sepenuhnya menghapus foto melalui aplikasi lain, foto tersebut mungkin masih dapat dipulihkan melalui Google Photos.
+
+Jika Anda tidak melihat foto atau video di sini, periksa tempat sampah melalui menu hamburger di kiri atas. Jika masih belum berhasil, coba kunjungi **photos.google.com**. Periksa juga folder **Trash** dari menu hamburger. Bahkan jika Anda menghapus foto dari tempat sampah di Google Photos, masih ada kemungkinan perubahan ini belum tercermin di Google Drive. Jadi periksa dengan cepat di sini juga.
+
+Sesuatu yang mungkin tidak Anda ketahui tentang Google Drive adalah Anda dapat meminta Drive untuk mencadangkan **folder mana pun di perangkat Anda**. Cukup buka **Photos -> Settings -> Back up and Sync -> Back up device folders**. Tentu saja, banyak aplikasi lain seperti **Gmail** juga akan menyimpan file Anda di cloud secara default.
+
+<h5>Cara mengambil foto WhatsApp</h5>
+Jika ini adalah foto WhatsApp yang secara tidak sengaja Anda hapus, ada beberapa opsi untuk mencoba mengembalikan foto tersebut. Pertama, periksa **backup** yang sudah ada di WhatsApp itu sendiri. Pergi ke **Settings > Chats > Chat Backup**.
+
+Anda akan melihat informasi tentang kapan backup terakhir dilakukan. Jika baru-baru ini dilakukan, hapus instalan aplikasi dan pasang kembali dari **Play Store**. Ini akan memberi Anda opsi untuk memulihkan **chat dan media lama**. Anda juga akan melihat opsi untuk **mencadangkan foto ke Google Drive**, jadi periksa di sini juga jika opsi itu diaktifkan.
+
+Tapi bagaimana jika Anda secara tidak sengaja menimpa backup terakhir Anda? Bahkan dalam hal ini, masih ada harapan. WhatsApp menyimpan beberapa file backup di perangkat Anda yang memberi tahu aplikasi file mana yang harus diambil dari server. Gunakan **file browser** pilihan Anda dan buka **WhatsApp -> Databases**. Di sini, Anda akan melihat beberapa file dengan nama seperti `store-2022-01-05.crypt12`. Temukan yang paling baru dan ubah namanya menjadi `store-1997.crypt12` (atau nama apa pun yang Anda suka).
+
+Sekarang WhatsApp akan menggunakan file backup kedua terbaru saat mengambil foto Anda. Anda juga bisa memeriksa **folder media WhatsApp** di perpustakaan Google Photos Anda untuk melihat apakah foto Anda ada di sana. WhatsApp menyimpan salinan foto yang Anda kirim serta yang Anda terima. Jadi jika Anda mengirim seseorang sebuah foto tetapi kemudian menghapusnya dari folder kamera ponsel Anda, mungkin masih ada salinannya di folder **WhatsApp Media**.
+<h5>Coba aplikasi pemulihan data Android</h5>
+Jika kedua langkah ini tidak berhasil,
+maka Anda perlu mulai mencoba solusi pihak ketiga.
+Aplikasi pemulihan data Android terkadang dapat
+mengambil data yang telah hilang. Ini bekerja dengan
+mencari di mana data disimpan bahkan ketika ditandai
+sebagai dihapus oleh Android. Di sinilah menjadi penting
+untuk berhenti menggunakan ponsel Anda sebanyak mungkin
+agar tidak merusak data yang sedang Anda coba pulihkan.
+Ini juga berarti Anda berada di sedikit situasi catch-22,
+karena menginstal aplikasi pemulihan data pihak ketiga
+di smartphone Anda mungkin menyebabkan Anda menimpa
+file yang sedang Anda coba simpan. Untuk mencegah masalah ini,
+Anda sebaiknya selalu mencoba menggunakan aplikasi pemulihan
+di komputer desktop terlebih dahulu. Kami merekomendasikan
+Recuva sebagai tempat yang baik untuk memulai.
+Instal aplikasi ini, dan Wizard akan membawa Anda melalui
+beberapa langkah untuk mencoba memulihkan file yang hilang.
+Metode pemulihan data Android ini bekerja sedikit lebih baik
+untuk file yang disimpan di kartu memori dibandingkan dengan
+file yang disimpan secara internal.
+
+<h5>Layanan pemulihan data Android</h5>
+Tergantung seberapa putus asa dan kaya Anda,
+opsi lain mungkin adalah menggunakan layanan pemulihan data.
+Layanan ini menawarkan untuk memulihkan data dari perangkat
+apapun menggunakan berbagai metode. Misalnya, sebuah perusahaan
+bernama Ontrack menjanjikan “jika data bisa disimpan di dalamnya,
+kami bisa memulihkannya” dan membanggakan tingkat keberhasilan 90%.
+Perusahaan-perusahaan ini perlu mengambil perangkat Anda secara
+langsung dan kemungkinan akan menggunakan kombinasi strategi yang
+tercantum di sini, bersama dengan proses pemulihan file yang lebih
+canggih. Kabar baiknya adalah Anda hanya akan dikenakan biaya
+jika mereka menilai bahwa file dapat dipulihkan. Satu-satunya masalah
+adalah mereka jauh lebih mahal dibandingkan opsi lain dalam daftar ini,
+jadi Anda perlu berpikir matang-matang apakah Anda benar-benar
+membutuhkan file-file tersebut.
+
+<h5>Hubungi pengembang</h5>
+Ini merupakan langkah yang agak kecil kemungkinannya,
+tetapi jika file yang hilang berasal dari game atau aplikasi
+yang Anda unduh dari Play Store, Anda mungkin bisa mendapatkannya
+kembali dengan sedikit bantuan dari pengembang.
+Hal ini karena pengembang akan mengelola (atau setidaknya memiliki akses)
+ke server yang berisi cadangan cloud dari file-file tersebut.
+Selain itu, mereka mungkin juga mengetahui beberapa cadangan
+rahasia yang dibuat aplikasi mereka secara default.
+Bagaimanapun, ada kemungkinan kecil mereka dapat memulihkan
+file yang hilang dari akun Anda atau memberikan petunjuk agar
+Anda bisa melakukannya sendiri. Sayangnya, tidak pernah ada
+jaminan untuk memulihkan file Android yang hilang.
+Dengan sedikit keberuntungan dan tekad, setidaknya ada peluang
+yang masuk akal. Tetapi kami ingin mengakhiri dengan kata-kata
+peringatan – kehilangan file adalah pengalaman yang sangat
+menyebalkan dan emosional. Ketika kita frustrasi dan emosional,
+kita terkadang membuat keputusan terburu-buru dan melakukan hal-hal
+yang biasanya tidak kita lakukan.
+
+Jadi jika Anda berpikir untuk menghabiskan ratusan dolar
+untuk perangkat lunak pemulihan file yang kemungkinan besar tidak
+akan berhasil, atau telah membuang waktu berjam-jam untuk
+memulihkan pekerjaan yang hanya Anda butuhkan setengah jam
+untuk membuatnya pada awalnya, mungkin saatnya untuk mendapatkan
+perspektif. Setiap pekerjaan yang Anda coba buat ulang akan selesai
+lebih cepat (dan mungkin lebih baik) pada percobaan kedua,
+dan Anda tetap akan memiliki kenangan untuk membantu
+membuat kembali foto-foto yang mungkin hilang.
+Hanya saja jangan sampai membuat diri Anda gila karena hal ini.
+
+Baca lebih lanjut: ul 10 aplikasi backup Android terbaik

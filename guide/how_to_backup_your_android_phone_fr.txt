@@ -1,0 +1,321 @@
+<h5>Comment sauvegarder votre
+téléphone Android</h5>
+Il y a toujours la possibilité que
+vous égariez votre téléphone ou le fassiez tomber
+dans l'eau et perdiez tout.
+Heureusement, il existe de nombreuses
+façons de sauvegarder les appareils Android,
+garantissant que même si quelque chose
+arrive à votre téléphone, vous ne
+perdrez pas toutes ces photos embarrassantes
+de vos enfants que vous alliez montrer
+à leur 21e anniversaire. Que ce soit
+via Google, une application tierce
+ou votre ordinateur, voici plusieurs
+façons de sauvegarder des téléphones pour vous assurer
+que vous ne vous retrouvez jamais dans une
+situation où vous finissez avec des données
+perdues.
+<h5> Note de l'éditeur : Toutes les étapes
+dans cet article ont été rassemblées
+en utilisant un Pixel
+4a avec 5G exécutant
+Android 12 et un PC personnalisé
+exécutant Windows 11.
+Rappelez-vous que les étapes peuvent
+différer selon votre
+appareil et logiciel.</h5>
+<h5>Comment sauvegarder votre
+téléphone Android avec
+Google</h5>
+ Sauvegarder la plupart de vos données est
+assez facile avec Google, et c'est
+devenu beaucoup plus facile au cours des dernières
+années. Malheureusement, il n'y a pas
+encore de méthode de sauvegarde unique pour
+les téléphones Android via Google.
+Vous devrez utiliser différents services
+Google pour sauvegarder différents types
+de données.
+<h5> 1. Photos et vidéos</h5>
+Si vous n'utilisez pas déjà Google
+Photos, vous devriez. Le service
+sauvegarde automatiquement chaque photo
+et vidéo que vous prenez dans le cloud, donc
+vous n'aurez plus jamais à sauvegarder vos
+médias manuellement. Si l'application
+Photos n'est pas déjà sur votre
+téléphone, vous pouvez la télécharger. Une fois
+installée, vous devrez vous assurer que
+Photos est configuré pour sauvegarder vos
+fichiers automatiquement.
+comment synchroniser vos images avec google photos :
+Ouvrez l'application Google Photos.
+Appuyez sur l'image de profil dans le coin
+supérieur droit
+Sélectionnez paramètres Photos.
+Activez Sauvegarde et synchronisation.
+Aussi, assurez-vous d'aller dans Taille d'
+importation et choisissez vos paramètres d'
+importation préférés
+Gardez juste à l'esprit que le téléchargement
+vers Google Photos n'est plus
+Complètement gratuit. À partir du 1er juin
+2021, toutes les nouvelles photos et vidéos
+que vous téléchargez compteront pour le
+stockage gratuit de 15 Go qui vient avec
+chaque compte Google. Bien sûr,
+vous pouvez payer pour plus de stockage. Ne vous
+inquiétez pas, car toutes les photos ou vidéos que
+vous auriez pu télécharger en haute qualité
+avant le 1er juin 2021, ne compteront pas
+pour votre stockage Google et seront
+toujours considérées comme gratuites et exemptées
+de la limite de stockage.
+ <h5>2. Musique</h5>
+Google a un excellent moyen de sauvegarder
+votre musique dans le cloud, puis de l'écouter
+depuis n'importe quel appareil. Vous pouvez utiliser
+YouTube Music, qui vous permet de
+télécharger jusqu'à 100 000 chansons.
+Comment télécharger des chansons sur YouTube
+Music :
+Ouvrez votre navigateur et allez sur
+music.youtube.com.
+Cliquez sur votre image de profil dans le
+coin supérieur droit.
+Sélectionnez Importer de la musique.
+Choisissez les chansons que vous voulez télécharger
+et sélectionnez Ouvrir.
+Vous pouvez maintenant jouer les Chansons depuis
+l'application ou le site web YouTube Music.
+Allez dans Bibliothèque > Chansons > Importations.
+<h5>3. Autres fichiers</h5>
+Google Drive vous permet de stocker vos
+autres fichiers dans le cloud, ce qui signifie
+qu'ils seront accessibles depuis n'importe quel
+appareil connecté.
+Comment stocker vos fichiers dans Google
+Drive :
+Téléchargez l'application Google Drive, si
+vous ne l'avez pas déjà.
+Dans l'application, appuyez sur le bouton +.
+Appuyez sur Importer.
+Sélectionnez le(s) fichier(s) que vous souhaitez sauvegarder.
+C'est tout !
+
+<h5>4. Paramètres, applications, SMS,
+historique des appels, et bien
+plus !</h5>
+
+Google Drive et Photos rendent les
+solutions de sauvegarde de Google
+fragmentées, mais les choses deviennent beaucoup
+plus fluides avec toutes les autres
+données essentielles. La solution native de
+sauvegarde cloud d'Android peut stocker
+les paramètres, les applications, les messages SMS, et
+même votre historique d'appels. Cela rend
+facile de tout restaurer sur un nouveau
+téléphone.
+Comment sauvegarder Android sur Google
+One :
+Ouvrez l'application Paramètres sur votre
+téléphone Android.
+appuyez sur Google.
+Allez dans Sauvegarde.
+Activez Sauvegarde par Google One.
+Vous pouvez également aller dans les données du compte
+Google et sélectionner d'autres données
+que vous pouvez synchroniser. Cela inclut le
+Calendrier, Docs, Google Fit, Keep,
+et bien plus encore.
+Revenez aux paramètres principaux de
+Sauvegarde.
+Appuyez sur Sauvegarder maintenant.
+
+Comment sauvegarder votre
+téléphone Android avec
+Amazon Photos,
+OneDrive, et autres ??
+ Les services cloud sont légion,
+ et Google n'est pas le seul
+ à offrir des tonnes de stockage.
+ OneDrive de Microsoft est une alternative très
+ compétente. Si vous
+ vous abonnez à Office 365, l'
+ entreprise offre 1 To de stockage en
+ ligne.
+ Ailleurs, Amazon Photos offre
+ un stockage photo illimité plus
+ 5 Go de stockage vidéo avec un abonnement
+ Prime. Pendant ce temps, 100 Go
+ de stockage coûtent seulement 1,99 $/mois ou
+ 19,99 $/an, ce qui en fait une alternative
+ abordable bien que pas aussi étroitement intégrée.
+ Il existe de nombreuses autres
+ solutions de stockage cloud ;
+ découvrez-les en cliquant sur le
+ lien ci-dessous. Le plus grand inconvénient de
+ s'éloigner de l'écosystème de Google
+ est l'effort requis pour s'assurer que
+ tout votre contenu est copié ou synchronisé.
+ Ceux-ci ne sont pas aussi étroitement intégrés
+ à Android, donc ils nécessitent un peu plus de
+ Travail.
+ Le processus d'utilisation de ces applications
+ est relativement simple. Vous devez
+ les télécharger et suivre les
+ instructions pendant le processus de
+ configuration.
+<h5> Sauvegarder sur votre
+Ordinateur</h5>
+<h5>1. Utiliser Android File
+Transfer</h5>
+ Au lieu de sauvegarder votre appareil sur
+ le cloud ou sur le téléphone lui-même, vous
+ pourriez vouloir sauvegarder tous vos fichiers
+ sur votre ordinateur pour un accès facile
+ plus tard. Heureusement, c'est assez facile
+ à faire, et le processus est assez
+ le même que vous soyez un utilisateur
+ Mac ou PC. Les utilisateurs de Mac devront
+ télécharger et installer l'application Android
+ File Transfer, cependant.
+ Comment sauvegarder votre appareil Android
+ sur un ordinateur
+ Branchez votre téléphone à votre ordinateur
+ avec votre câble USB.
+ Sur Windows, allez dans Poste de travail
+ et ouvrez le stockage du téléphone.
+ Sur Mac, ouvrez Android File Transfer.
+ Faites glisser les fichiers que vous souhaitez sauvegarder
+ vers un dossier sur votre ordinateur.
+ Oui, l'application Android File Transfer
+ est assez maladroite et ne fait pas toujours
+ le travail. Si copier manuellement
+ les fichiers est votre option préférée,
+ il pourrait être une bonne idée d'investir
+ dans une meilleure application. Commander One
+ est une excellente application qui vous permet de faire
+ exactement cela. Oliver Craig d'Android Authority
+ nous donne toutes les informations
+ sur la meilleure façon de transférer des fichiers
+ entre un téléphone Android et Mac.
+ <h5>2. Synchronisation sans fil avec
+Syncthing</h5>
+ Et si vous pouviez automatiquement
+ sauvegarder toutes vos images et fichiers sur
+ votre ordinateur ou lecteur NAS sans
+ avoir à connecter un câble ? C'est là que
+ les utilitaires de synchronisation entrent en action.
+ Syncthing est un excellent utilitaire pour
+ s'assurer que toutes vos photographies et
+ fichiers supplémentaires sont téléchargés sur
+ l'ordinateur. Le principe est simple
+ installez une application sur votre téléphone et
+ sélectionnez un dossier à surveiller
+ constamment. Pendant ce temps, un client s'exécute
+ sur votre ordinateur, vous permettant de
+ vous lier avec votre téléphone.
+ Maintenant, chaque fois que l'application sur le
+ téléphone détecte un changement ou un ajout de
+ fichier dans un dossier surveillé, elle
+ envoie immédiatement une copie à
+ l'ordinateur. Simple et fiable. Ça
+ Marche juste. Bien sûr, vous pouvez l'utiliser
+ comme un utilitaire de synchronisation standard aussi, mais
+ je préfère avoir tous mes fichiers envoyés dans un
+ sens vers l'ordinateur pour avoir une copie
+ disponible même si je supprime quelque chose
+ de mon téléphone.
+ Comment configurez-vous Syncthing :
+ Installez l'application Syncthing depuis le
+ Play Store.
+ Installez l'application Syncthing sur votre PC
+ ou Mac.
+ C'est une bonne idée de jumeler un appareil
+ avant de créer des paires de dossiers. Allez dans
+ l'onglet Appareils et appuyez sur l'icône +.
+ Vous pouvez entrer le nom de l'appareil ou
+ cliquer sur le scan de code-barres pour ajouter la
+ paire d'appareils en utilisant un code QR.
+ C'est tout. Allez dans l'onglet Dossiers
+ et appuyez sur l'icône +.
+ Nommez le dossier, sélectionnez-le dans le
+ répertoire, choisissez le type de dossier, et
+ passez par tous les paramètres. Vous pouvez même
+ configurer le dossier pour recevoir des données si vous
+ voulez recevoir du contenu de votre
+ PC vers votre téléphone.
+ En quelques instants, il vous sera
+ demandé de confirmer la paire sur votre
+ PC, et la synchronisation commencera.
+
+<h5>Autres options pour sauvegarder
+téléphone Android</h5>
+Les services de Google sont excellents,
+mais si vous cherchez une solution plus
+Complète une qui
+sauvegarde tout à la fois, c'est-à-dire
+vous pourriez avoir besoin d'utiliser une application
+tierce.
+ <h5>Téléphone non rooté</h5>
+Il existe de nombreuses excellentes applications pour
+sauvegarder vos données, et l'une des
+meilleures est Super Backup & Restore.
+Elle vous permet de sauvegarder des éléments
+individuels sur votre téléphone, tels que les applications,
+Contacts, SMS, calendriers, appels vocaux,
+et plus. Les utilisateurs peuvent définir où
+les sauvegardes vont pour une localisation facile
+plus tard, et vous pouvez également Planifier
+des sauvegardes automatiques avec
+la sauvegarde sur le stockage cloud.
+Comment sauvegarder Android en utilisant Super
+Backup & Restore :
+Téléchargez Super Backup & Restore.
+Vous verrez une liste de catégories d'éléments
+que vous pouvez sauvegarder (Images,
+Applications, etc.).
+Sélectionnez les éléments individuels que vous aimeriez
+inclure dans votre sauvegarde.
+Appuyez sur Sauvegarder ou Sauvegarder tout pour
+chaque sélection.
+ <h5>Téléphones rootés</h5>
+ Alors que la plupart des gens n'auront pas besoin de
+ rooter leurs téléphones pour sauvegarder ce dont
+ ils ont besoin, rooter votre téléphone
+ peut vous aider à sauvegarder quelques choses
+ de plus. En rootant votre téléphone, à peu près
+ tout sur votre téléphone
+ peut être restauré, y compris des choses comme
+ les paramètres d'application, les données système, et même
+ les mots de passe Wi-Fi. L'une des applications les plus
+ utilisées pour sauvegarder un téléphone
+ rooté est Titanium Backup. Bien que
+ Titanium Backup semble certainement un
+ peu démodé, c'est une application convaincante
+ en effet. Voici comment sauvegarder vos
+ fichiers en utilisant Titanium Backup :
+ Téléchargez et ouvrez Titanium
+ Backup.
+ Appuyez sur le bouton Menu dans le coin supérieur
+ droit et sélectionnez actions par Lot.
+ Sélectionnez tout ce que vous voulez sauvegarder.
+ Si c'est la première fois que vous sauvegardez
+ votre appareil, vous voudrez au moins
+ sélectionner sauvegarder toutes les applications utilisateur et
+ sauvegarder toutes les données système.
+ Vous pouvez également choisir de sauvegarder les
+ fichiers sur Dropbox ou Google Drive,
+ ce que vous pourriez vouloir faire si vous
+ perdez votre téléphone.
+ Vous pouvez également opter pour créer un
+ fichier de sauvegarde .zip compatible avec la récupération
+ Cela garantit que même si les
+ fichiers système de votre téléphone deviennent corrompus
+ ou quelque chose d'autre se produit qui
+ vous empêche de démarrer votre
+ téléphone, vous pourrez restaurer votre
+ téléphone à partir de la sauvegarde.

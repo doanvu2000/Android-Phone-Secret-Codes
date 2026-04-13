@@ -1,0 +1,15 @@
+ <h5>Como usar o ponto de acesso WiFi?</h5>
+ <ol>
+<li> Na tela inicial, selecione o
+menu Configurações.</li>
+<li> Clique em MAIS e depois em Tethering
+e ponto de acesso portátil.</li>
+<li> Em seguida, marque a caixa Tethering WiFi.</li>
+<li>Em seguida, clique em Configurar ponto de acesso WI-FI.</li>
+<li> Em seguida, defina o nome de usuário e a senha.</li>
+<li> Agora ligue o WiFi do seu laptop.</li>
+<li> Você verá que seu ponto de acesso
+WiFi aparecerá nas configurações de WIFI
+do seu laptop.</li>
+<li> Agora conecte e aproveite.</li>
+</ol>

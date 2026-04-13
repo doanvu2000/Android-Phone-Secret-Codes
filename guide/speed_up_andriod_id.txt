@@ -1,0 +1,153 @@
+ <h5>Pastikan Anda selalu mutakhir</h5>
+
+Perangkat lunak terbaru sering kali berisi
+perbaikan bug dan peningkatan umum
+dan dapat membantu perangkat Android Anda
+berjalan lebih baik. Pembaruan perangkat lunak cenderung
+datang melalui udara (OTA) dan Anda harus
+secara otomatis diminta untuk memasangnya,
+tetapi tidak ada salahnya untuk memeriksa.
+
+<h5>Buka Setelan > Tentang perangkat >
+Pembaruan perangkat lunak dan periksa
+pembaruan.</h5>
+
+Logika yang sama berlaku untuk aplikasi
+jadi buka Play Store, buka menu
+di kiri atas dan ketuk Aplikasi
+saya dan pastikan semua aplikasi yang
+Anda gunakan sudah mutakhir.
+
+ <h5>Bersihkan layar utama Anda</h5>
+Jika Anda memilih untuk menggunakan wallpaper hidup,
+pertimbangkan untuk menggantinya dengan
+gambar statis yang bagus. Anda juga harus
+membersihkan ikon yang tidak terpakai dan
+membatasi widget Anda hanya pada yang penting saja.
+Semakin rapi layar utama Anda,
+semakin baik dalam hal performa.
+
+
+ <h5>Copot pemasangan dan nonaktifkan aplikasi yang tidak digunakan</h5>
+
+Anda tidak ingin membiarkan aplikasi yang
+tidak pernah Anda gunakan menghabiskan ruang di
+perangkat Anda dan berpotensi memakan
+sumber daya sistem. Buka Setelan >
+Aplikasi dan geser ke tab Semua.
+Perhatikan baik-baik daftar tersebut
+dan identifikasi aplikasi yang tidak Anda inginkan
+atau butuhkan. Jika Anda ragu tentang
+fungsi salah satunya, saatnya untuk
+mencarinya di Google dan memeriksa.
+
+Ketuk aplikasi apa pun yang tidak Anda inginkan
+lalu pilih Copot pemasangan atau, jika
+pilihan copot pemasangan tidak ada, ketuk
+Nonaktifkan. Aplikasi yang dinonaktifkan akan terdaftar
+di tab baru, jadi Anda selalu dapat
+mengaktifkannya kembali di masa mendatang jika
+Anda berubah pikiran.
+
+Anda juga harus melihat di
+Setelan > Aplikasi pada tab Berjalan.
+Beberapa aplikasi ingin terus berjalan
+sepanjang waktu dan itu dapat sangat
+berdampak pada performa. Pikirkan
+baik-baik apakah Anda memerlukan
+apa yang terdaftar di sana.
+
+ <h5>Matikan atau kurangi animasi</h5>
+Anda dapat membuat perangkat Android Anda
+terasa lebih cepat dengan mengurangi atau mematikan
+beberapa animasi. Anda perlu
+mengaktifkan Opsi pengembang untuk
+melakukan ini. Buka Setelan >
+Tentang ponsel dan gulir ke bawah ke
+bagian Sistem untuk mencari Nomor
+bentukan.
+ketuk tujuh kali dan Anda
+akan melihat pesan tentang menjadi seorang
+pengembang. Sekarang Anda dapat kembali ke
+menu sebelumnya dan Anda akan
+melihat Opsi pengembang terdaftar di bawah
+Sistem. Masuk ke sana dan gulir
+ke bawah untuk menemukan Skala animasi
+jendela, Skala animasi transisi, dan
+Skala durasi animator. Ketuk masing-masing
+secara bergantian dan atur ke .5x atau mati. Pilih sebuah
+opsi dan temukan apa yang cocok untuk Anda,
+jika Anda tidak suka cukup kembali lagi dan
+ubah nilainya lagi.
+
+ <h5>Hapus data cache aplikasi</h5>
+Data cache untuk aplikasi seharusnya membantu
+mereka memuat lebih cepat, tetapi itu dapat
+menumpuk seiring waktu hingga menghabiskan cukup
+banyak ruang dan berpotensi ada
+data cache di sana untuk aplikasi
+yang tidak lagi Anda gunakan. Terkadang
+menghapus data cache untuk sebuah aplikasi juga
+dapat membantu membersihkan perilaku yang tidak stabil.
+
+Jika Anda ingin memilih aplikasi satu per satu,
+buka Setelan > Aplikasi dan
+geser ke tab Semua dan ketuk pada
+aplikasi yang relevan lalu pilih Hapus
+Cache. Jika Anda memutuskan untuk menghapus
+semuanya sekaligus, buka Setelan >
+Penyimpanan dan ketuk Data dalam cache lalu
+ketuk Oke.
+
+ <h5>Matikan atau kurangi sinkronisasi otomatis</h5>
+Kebanyakan dari kita akhirnya menambahkan daftar
+berbagai akun ke perangkat
+Android kita dan kita mengizinkan
+mereka untuk menyinkronkan secara otomatis di latar
+belakang untuk menarik data baru
+dan memberi kita pembaruan. Semua
+sinkronisasi ini memiliki dampak besar pada
+performa, belum lagi masa pakai
+baterai.
+
+Anda bisa membuka Setelan dan menemukan
+Sinkronisasi otomatis di bawah Akun dan
+matikan saja sama sekali, tetapi itu
+akan terlalu drastis bagi kebanyakan orang.
+Sebaliknya, mengapa tidak mengurangi saja frekuensi
+sinkronisasi dan menghapus
+akun yang tidak benar-benar Anda butuhkan? Untuk
+banyak aplikasi, seperti Facebook, Anda harus
+membuka aplikasi tersebut dan mencari
+setelan untuk mengurangi frekuensi
+sinkronisasi.
+
+ <h5>Hapus partisi cache (Wipe cache partition)</h5>
+Partisi cache terpisah dari
+cache data aplikasi Anda dan berisi
+file sementara. Ada baiknya membersihkan
+ini sesekali. Anda harus masuk ke
+mode pemulihan (recovery mode)
+untuk melakukannya. Metode untuk masuk ke
+mode pemulihan bervariasi tergantung pada
+perangkat Anda, tetapi Anda akan menemukannya dengan mudah
+dengan pencarian Google cepat. Setelah berada di
+mode pemulihan, Anda menggunakan tombol volume
+untuk bernavigasi dan tombol daya
+untuk memilih item. Anda harus
+memilih wipe cache partition.
+
+ <h5>Lakukan reset pabrik</h5>
+Ini adalah langkah drastis, tetapi beberapa
+orang merekomendasikan agar Anda melakukan
+reset pabrik secara berkala jika Anda
+ingin perangkat Anda berjalan dalam kondisi
+baik. Ini adalah jalan pintas untuk membersihkan
+perangkat Anda dan membuang
+sampah apa pun yang terkumpul, tetapi
+itu berarti menghapus semua data dan
+setelan. Jika Anda memutuskan untuk mencobanya,
+pastikan Anda mencadangkan semua hal yang
+penting bagi Anda terlebih dahulu. Anda dapat
+menemukan opsi untuk melakukannya di Setelan >
+Cadangkan & reset > Reset data pabrik.

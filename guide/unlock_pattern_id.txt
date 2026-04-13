@@ -1,0 +1,30 @@
+<h5>Cara Membuka Kunci Pola Kunci Android Menggunakan Command Prompt</h5>
+<ol>
+<li> Hubungkan Ponsel Android Anda ke
+Komputer Anda.</li>
+ <li>  Buka command prompt sebagai
+administrator.</li>
+ <li> Sekarang di jendela command prompt
+ketik kode berikut dengan hati-hati persis
+seperti itu dan kemudian tekan enter.
+adb shell cd /data/data/
+com.android.providers.settings/
+databases SQLite3 settings.db
+update system set value=0 where
+name=lock_pattern_auto lock; update
+system set value-0 where name=lock
+Screen.locked out permanently; .quit</li>
+<li>  Sekarang Anda akan melihat layar seperti yang ditunjukkan
+di bawah ini dan kemudian Anda dapat reboot
+ponsel Anda dan sekarang ketika akan mulai
+lagi maka coba buka kunci ponsel Anda
+menggunakan pola kunci acak apa pun dan itu akan
+bekerja dengan baik.</li>
+<li>  Jika Anda menghadapi masalah ulangi langkah yang sama
+tetapi alih-alih kode di atas
+coba gunakan adb shell rm/data/system/
+gesture.key dan kemudian tekan enter dan
+sekarang coba reboot perangkat Anda untuk melihat apakah
+berhasil.
+Nikmati.</li>
+</ol>

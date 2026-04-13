@@ -1,0 +1,7 @@
+name: Singular-v12.9.1-ac1e99ab.master
+env: release
+git_commit: ac1e99ab
+git_branch: master
+version_name: 12.9.1
+version_code:1
+build_date: Wed, 2 Jul 2025 15:29:36 +0300

@@ -1,0 +1,101 @@
+ Ponsel dan tablet Android dapat
+ terisi dengan cepat saat Anda mengunduh
+ aplikasi, menambahkan file media seperti musik
+ dan film, dan menyimpan data cache untuk penggunaan
+ offline. Banyak perangkat kelas bawah
+ mungkin hanya menyertakan beberapa gigabyte
+ penyimpanan, membuat ini menjadi masalah yang lebih
+ besar.
+ Semakin sedikit ruang yang Anda miliki,
+ semakin banyak waktu yang harus Anda habiskan
+ mengelola penyimpanan internal. Jika Anda
+ menemukan diri Anda secara teratur kehabisan
+ ruang dan perlu mengelolanya coba
+ saran berikut
+
+ <h5>Gunakan Alat Penyimpanan Bawaan Android</h5>
+ Untuk menemukan ini, buka Layar
+ Pengaturan dan ketuk Penyimpanan. Anda dapat
+ melihat berapa banyak ruang yang digunakan oleh
+ aplikasi dan datanya, oleh gambar
+ dan video, file audio, unduhan,
+ data cache, dan berbagai
+ file lainnya. Ketuk unduhan untuk melihat
+ daftar unduhan di mana Anda dapat menghapus
+ file dan ketuk data cache untuk menghapus
+ data dari semua aplikasi yang diinstal. Gunakan
+ opsi lain untuk melihat file mana
+ yang memakan ruang dan hapus
+ yang tidak Anda inginkan.
+
+
+ <h5>Lihat Folder dan File Mana yang Memakan
+ Paling Banyak Ruang</h5>
+ Anda dapat menghapusnya langsung dari dalam
+ aplikasi Disk Usage untuk melihat ruang. Sebagai
+ contoh, Anda mungkin melihat folder sisa
+ dari game atau aplikasi yang telah Anda hapus instalasinya.
+ Aplikasi seharusnya telah menghapus data
+ itu, tetapi Anda dapat melakukannya secara manual dengan aplikasi
+ ini. Pilih folder atau file, ketuk tombol
+ menu, dan ketuk Hapus untuk menghapusnya.
+
+ <h5> Tambahkan Kartu SD dan Pindahkan Data ke Sana</h5>
+
+ Jika ponsel atau tablet Anda memiliki
+ slot micro SD, Anda dapat membelinya
+ untuk mendapatkan lebih banyak penyimpanan.
+ Setelah memasang kartu SD, format
+ sebagai penyimpanan portabel atau Internal lalu
+ sambungkan perangkat Anda ke komputer Anda
+ dan pindahkan musik, dan file
+ lainnya ke ruang kosong kartu SD. Kartu
+ SD akan dilihat sebagai penyimpanan lokal di perangkat
+ itu. Sistem akan menentukan aplikasi mana
+ yang paling masuk akal untuk dipindahkan ke
+ kartu SD, lalu lanjutkan dan pindahkan
+ mereka. Anda tidak dapat membedakan antara
+ penyimpanan internal sejati dan kartu SD
+ yang diformat untuk penggunaan internal, jadi sekarang ada
+ cara untuk memindahkan aplikasi individu secara
+ manual.
+
+ Jika Anda menjalankan versi pra-Marshmallow
+ dari Android, Anda dapat memindahkan Beberapa
+ aplikasi menggunakan fitur bawaan Android.
+
+ <h5>Pindahkan Foto ke Cloud</h5>
+ Daripada menyimpan Foto di
+ ponsel Anda, Anda dapat menggunakan akun online
+ seperti Google photos, Dropbox, Microsoft
+ OneDrive, Flickr, atau yang lainnya.
+ Google Photos terintegrasi ke dalam
+ aplikasi di perangkat Android Anda
+ dan menawarkan penyimpanan foto tanpa batas.
+ Anda dapat mengaksesnya dari dalam
+ aplikasi Photos.
+
+
+ <h5>Hapus Data Aplikasi yang memakan banyak ukuran</h5>
+ Ini akan menghapus semua data yang terkait
+ dengan aplikasi. Jika Anda menghapus file
+ untuk aplikasi seperti Facebook, Anda harus
+ memasukkan kembali kata sandi lagi. Ini adalah
+ sesuatu yang harus digunakan dengan hati-hati. Sebagai
+ contoh, game yang disimpan mungkin juga
+ akan terhapus.
+
+ <h5>Kosongkan cache</h5>
+ Ini juga merupakan domain yang membutuhkan
+ akal sehat. Faktanya, apa yang akan kita
+ lakukan adalah menghapus cache untuk
+ aplikasi tertentu yang memakan banyak
+ ruang. Cache, seperti yang disebutkan sebelumnya,
+ adalah jenis perpustakaan tempat aplikasi Anda
+ menyimpan file mereka untuk diambil nanti. Itu bisa
+ dikosongkan dari waktu ke waktu.
+
+ Mengosongkan cache akan memungkinkan Anda untuk
+ memblokir aplikasi yang tidak
+ berfungsi lagi, seperti Google Play setelah
+ pembaruannya gagal.

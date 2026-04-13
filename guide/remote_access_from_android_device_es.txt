@@ -1,0 +1,83 @@
+ <h5>Aplicaciones de Android para acceso remoto a computadoras </h5>
+
+La aparición de Android y la
+disponibilidad de innumerables aplicaciones ha
+ayudado a muchos usuarios de muchas
+maneras. Una de ellas es compartir y
+acceder a archivos y otros datos desde tu
+escritorio. Ahora es más fácil que antes,
+gracias a las aplicaciones de conexión remota y
+control. Al establecer una
+conexión remota con tu escritorio
+usando tu teléfono Android, puedes
+recuperar los archivos y compartirlos con
+otros. Para acceder al escritorio de forma remota
+necesitas aplicaciones de Android que sean
+capaces de establecer una conexión.
+
+<h5> 1.TeamViewer para control remoto</h5>
+
+TeamViewer es una de las herramientas más populares
+para transferir archivos desde tu
+dispositivo Android al escritorio y
+viceversa. La característica más sorprendente
+de esta aplicación es que puedes
+acceder a tu escritorio desde cualquier lugar.
+Te permite acceder, editar, transferir
+los documentos presentes en el escritorio
+desde cualquier lugar. Además de estas características,
+TeamViewer tiene la capacidad de acceder a
+computadoras detrás de servidores proxy y
+firewalls. Y también puedes reiniciar
+remotamente la computadora.
+
+ <h5>El proceso de configuración de TeamViewer
+es muy simple y se puede completar en
+solo 3 pasos.</h5>
+Ve a Google PlayStore y descarga
+la aplicación Teamviewer for Remote control
+para tu dispositivo Android.
+
+DESCARGAR: Team Viewer for Remote
+Control
+
+ Ve al sitio web oficial de TeamViewer
+y descarga e instala teamviewer
+versión completa en tu sistema.
+
+DESCARGAR: TeamViewer for PC
+
+ .  Ahora ingresa el ID de TeamViewer de tu computadora
+y la contraseña en la
+aplicación TeamViewer en tu dispositivo móvil
+y conéctate instantáneamente.
+
+<h5> 2. Splashtop 2 Remote Desktop</h5>
+
+splashtop es una de las mejores herramientas disponibles en el mercado en este
+momento para controlar remotamente el escritorio.
+es relativamente nueva y está llena de muchas características
+interesantes. como team viewer, esta herramienta también permite
+al usuario acceder a todo el escritorio muy fácil y rápidamente
+desde cualquier lugar y en cualquier momento.
+usando splashtop puedes acceder a todas las aplicaciones en tu escritorio,
+documentos de microsoft office, biblioteca multimedia, navegador
+completo con flash y también puedes jugar juegos 3D
+
+ <h5>El proceso de configuración de esta herramienta es similar
+al de TeamViewer</h5>
+ .  Descarga e instala splashtop 2
+Remote Desktop en tu dispositivo
+Android.
+
+DESCARGAR: Splashtop 2 Remote
+Desktop
+ .  Descarga Splashtop Streamer desde
+{{\field{\*\flint{HYPERLINK https://www.splashtop.com }}{\florist{https://www.splashtop.com\ul0\cf0}}}} e instálalo en
+tu computadora.
+
+Ahora ingresa tu cuenta de Splashtop para
+establecer una conexión.
+
+
+

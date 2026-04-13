@@ -1,0 +1,15 @@
+ <h5>¿Cómo usar el punto de acceso WiFi?</h5>
+ <ol>
+<li> Desde la pantalla de inicio, selecciona el
+menú de Configuración.</li>
+<li> Haz clic en MÁS y luego en Anclaje
+y punto de acceso portátil.</li>
+<li> Luego marca la casilla Anclaje WiFi.</li>
+<li>Luego haz clic en Configurar punto de acceso WI-FI.</li>
+<li> Luego establece el nombre de usuario y la contraseña.</li>
+<li> Ahora enciende el WiFi de tu portátil.</li>
+<li> Verás que tu punto de acceso
+WiFi aparecerá en la configuración de WIFI
+de tu portátil.</li>
+<li> Ahora conéctate y disfruta.</li>
+</ol>

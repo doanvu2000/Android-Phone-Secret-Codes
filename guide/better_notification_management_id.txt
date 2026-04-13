@@ -1,0 +1,23 @@
+<h5>Manajemen Notifikasi yang Lebih Baik</h5>
+Dengan Android, Anda dapat mengelola jenis
+notifikasi tertentu berdasarkan aplikasi
+asalnya. Abaikan iklan, promosi
+dan notifikasi tidak relevan lainnya dan
+simpan hanya yang penting yang benar-benar
+membutuhkan perhatian Anda.
+Untuk melakukan ini, pada setiap notifikasi masuk,
+tekan lama pada notifikasi aplikasi
+> pilih perilaku
+yang sesuai dari opsi. Anda dapat
+memilih untuk mendiamkan notifikasi atau
+memblokirnya sepenuhnya.
+Jika Anda mengetuk PENGATURAN LAINNYA (di
+bagian bawah, di sebelah SELESAI), Anda dapat memilih
+untuk:
+*Blokir semua notifikasi dari aplikasi ini,
+*Tampilkan secara diam-diam.
+*Kontrol apa yang muncul di Layar
+kunci, atau
+*Izinkan aplikasi untuk mengabaikan pengaturan
+Jangan Ganggu.
+

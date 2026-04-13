@@ -1,0 +1,105 @@
+ <h5>Configurez-le correctement</h5>
+Assurez-vous d'avoir configuré Google Now correctement
+avant de commencer à explorer.
+Tout d'abord, faites en sorte que Google Now reconnaisse
+votre commande "OK Google" depuis n'importe quel
+écran en appuyant sur l'icône du menu hamburger
+dans l'application Google. puis allez dans
+ Paramètres Voix > détection OK Google.
+ Ici, vous faites simplement glisser tous les boutons vers la
+droite.
+Une fois cela fait, vous serez invité
+à entraîner OK Google sur votre appareil, ce que
+vous faites en disant "OK Google" trois
+fois.
+Ensuite, allez dans Paramètres> Voix
+Reconnaissance vocale hors ligne  et assurez-vous
+que toutes les langues dont vous avez besoin ont été
+téléchargées. De cette façon, vous pouvez toujours
+utiliser les commandes OK Google qui ne
+nécessitent pas Internet lorsque vous êtes hors ligne.
+Si vous faites suffisamment confiance à Google pour lui donner
+accès à vos données de localisation, vous ouvrirez
+de nombreuses fonctionnalités géniales de Google Now.
+Pour permettre à Google Now d'utiliser vos
+données de localisation, allez dans l'application de paramètres
+Google, choisissez Localisation et assurez-vous qu'elle est
+définie sur Activé. Ensuite, allez dans Historique des positions Google
+en bas de la même page
+et définissez cela sur Activé également.
+Pendant que vous y êtes, allez dans l'application
+Google, appuyez sur l'icône du menu hamburger
+puis allez dans Personnaliser. ici, vous
+pouvez définir vos adresses de domicile et de travail,
+qui peuvent être utilisées pour définir des rappels et
+obtenir des informations sur votre trajet.
+Vous pouvez également saisir vos équipes sportives
+préférées, quels modes de transport vous
+utilisez, et plus encore, pour obtenir les cartes les plus utiles
+et intéressantes affichées
+
+<h5>Apprenez toutes les commandes vocales
+OK Google</h5>
+
+Google Now OK Google offre des centaines
+de commandes vocales qui peuvent être utilisées pour
+réaliser toute une série d'opérations. plus
+vous en savez, plus vous obtiendrez
+de Google Now.
+ <h5>Utilisez des rappels basés sur la localisation</h5>
+Si vous devez vous souvenir de faire quelque chose
+dans un certain endroit, mais que vous n'êtes pas sûr
+de l'heure à laquelle vous y serez, vous pouvez demander à
+Google de vous le rappeler une fois qu'il détecte
+que vous y êtes. cela peut être utile pour se souvenir
+de ce que vous devez acheter lorsque vous arrivez
+au magasin, ou que vous devez
+allumer le four dès que vous
+arrivez à la maison, par exemple.
+ <h5>Laissez-le vous aider avec les arrangements de voyage</h5>
+Si vous utilisez Google Calendar, Google
+Now vous fournira des cartes
+et des notifications qui vous informent
+à l'avance de l'heure à laquelle vous devez partir
+pour arriver à un rendez-vous à l'heure.
+Ces notifications tiennent même compte des
+conditions de circulation, faisant de vous un être humain plus
+ponctuel et efficace.
+Assurez-vous d'avoir votre mode de
+transport préféré sélectionné  (Personnaliser > transport)  puis
+allez dans  paramètres> cartes NOW
+ et activez Trajet et Heure de départ.
+
+ <h5>Utilisez-le pour suivre les colis ou les vols</h5>
+
+Si vous recevez des confirmations de vol
+et des informations de suivi de livraison sur un
+compte de messagerie Google lié à
+Google Now, ces e-mails seront utilisés
+pour fournir des cartes qui suivent les colis
+et vous mettent à jour sur l'état de votre vol.
+La même chose peut être faite pour n'importe quel vol
+en recherchant le numéro de vol. Si
+vous avez l'historique Web activé, Google
+Now créera une carte dédiée pour le
+vol.
+
+<h5> Posez des questions de suivi</h5>
+
+Google Now est assez bon pour
+contextualiser ce que vous dites. Si vous
+avez demandé, "Quelle est la taille de la Californie?",
+par exemple, vous pouvez poser une question de suivi
+comme "Combien de personnes
+y vivent?" et Google ne devrait avoir
+aucun problème à se souvenir que "là"
+fait référence à la Californie.
+ <h5>Lancez des applications</h5>
+Google Now a toujours été là
+pour fournir une expérience mains libres,
+alors, pourquoi continuer à utiliser vos doigts
+pour ouvrir laborieusement des applications? Dites simplement
+"Ouvrir [nom de l'application]" et laissez Google le faire
+pour vous!
+
+

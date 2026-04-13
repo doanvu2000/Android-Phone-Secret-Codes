@@ -1,0 +1,37 @@
+<h5> Bagaimana Meningkatkan Waktu
+Baterai Android?</h5>
+<ol>
+<li> Kurangi kecerahan layar</li>
+<li> 0 Jangan gunakan Wallpaper Animasi</li>
+<li>Gunakan wallpaper hitam atau tema hitam</li>
+<li> Hapus widget layar beranda yang
+tidak Anda perlukan</li>
+<li> Jauhkan baterai Anda dari panas
+ekstrem</li>
+<li> Nonaktifkan Sinkronisasi Otomatis
+Untuk mematikan sinkronisasi otomatis, buka Pengaturan
+-> Akun dan Sinkronisasi -> hapus centang
+'Sinkronisasi otomatis'.</li>
+<li> Matikan Wi-Fi saat tidak digunakan</li>
+<li> Nonaktifkan umpan balik haptic.
+Untuk menonaktifkan umpan balik haptic, buka
+Pengaturan -> Suara. Gulir ke bawah ke
+sistem dan hapus centang Umpan balik haptic.</li>
+<li> Matikan layanan lokasi.
+Untuk mematikan layanan lokasi:
+Ketuk Pengaturan -> Layanan lokasi.
+Hapus centang semua kotak yang tersedia.</li>
+<li> Nonaktifkan pembaruan otomatis untuk widget
+Untuk menonaktifkan pembaruan otomatis widget:
+Buka widget dan tekan Menu ->
+Pengaturan.</li>
+Ketuk pada penyegaran otomatis dan pilih Tidak Ada
+Jika Anda tidak dapat menyesuaikan widget dan
+itu adalah sesuatu yang Anda bisa hidup tanpanya, kami
+sarankan Anda untuk menghapusnya dari layar
+Beranda. Untuk melakukan itu:
+Tekan dan tahan widget sampai
+disorot.
+Seret widget ke ikon sampah untuk
+menghapusnya dari layar beranda.
+</ol>

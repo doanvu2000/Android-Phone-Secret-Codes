@@ -1,0 +1,40 @@
+ <h5>Certifique-se de que pode apagar os seus dados
+enquanto ainda tem o seu telemóvel</h5>
+Se deseja ter a capacidade de limpar remotamente o seu telemóvel, existem duas definições que precisa de ligar antes de o seu telemóvel desaparecer. Devem estar ativadas por predefinição, mas verifique para ter a certeza.
+
+Vá a Definições da Google > Segurança > Gestor de Dispositivos Android. Procure por Permitir bloqueio e limpeza remotos e certifique-se de que está ligado.
+
+O segundo interruptor que precisa de estar ativado também está no ecrã do Gestor de Dispositivos Android: procure Localizar este dispositivo remotamente e certifique-se de que está ligado. Se estas definições não estiverem ativadas, o Gestor de Dispositivos não conseguirá localizar o seu aparelho.
+
+O Gestor de Dispositivos Android também funciona para tablets, mas se tiver várias contas de utilizador, apenas a pessoa definida como proprietária do tablet pode configurar as funcionalidades do Gestor de Dispositivos Android.
+
+Também é uma boa ideia tomar algumas outras precauções: não guarde nada sensível em cartões microSD (a limpeza remota não os consegue apagar), certifique-se de que tem um código ou padrão de bloqueio decente e considere investir numa aplicação como o AirDroid ou o Lookout. Ambas as aplicações oferecem funcionalidades de limpeza remota, mas também podem transmitir dados cruciais antes de desligar.
+Definições da Google
+Segurança
+<h5>Ative ambas as opções do Gestor de Dispositivos Android como pode ver na imagem abaixo:</h5>
+<h5>Como limpar remotamente o seu telemóvel Android</h5>
+
+Oh não! O seu telemóvel desapareceu! É altura de agir, e por agir referimo-nos ao Gestor de Dispositivos Android. Pode aceder ao Gestor de Dispositivos Android de duas formas: através da aplicação Gestor de Dispositivos Android noutro dispositivo Android, ou através do site do Gestor de Dispositivos Android.
+
+Depois de iniciar sessão, o Gestor de Dispositivos Android tentará localizar o seu aparelho perdido. Se estiver ligado e conseguir receber sinal, verá a localização num mapa. Também verá três opções: fazê-lo tocar, bloqueá-lo ou limpá-lo remotamente. Se o aparelho não estiver ligado ou não conseguir receber sinal, o Gestor de Dispositivos Android reportará a sua localização quando se ligar e conectar a uma rede Wi-Fi ou celular.
+
+Nessa altura pode apagar todos os dados do seu telemóvel, mas recomendamos vivamente que tente as opções menos graves antes de tomar medidas drásticas e apagar tudo. Tente-as por esta ordem:
+
+ <h5>Use o Gestor de Dispositivos Android para fazer o seu telemóvel tocar</h5>
+
+Os telemóveis perdidos são muitas vezes apenas deixados no sítio errado em vez de estarem permanentemente perdidos ou terem sido roubados. Para descartar isso, use o Gestor de Dispositivos Android para fazer o telemóvel tocar alto durante cinco minutos completos. Isto permite-lhe encontrar o seu telemóvel se tiver caído para o chão do seu carro ou tiver sido escondido num chinelo por um dos seus filhos.
+
+ <h5>Mude o ecrã de bloqueio</h5>
+Existe uma segunda opção não drástica disponível para si: mudar o ecrã de bloqueio para que, quando o telemóvel for ligado da próxima vez, a sua mensagem seja exibida. "DEVOLVA-ME O MEU TELEMÓVEL" será provavelmente contraproducente, mas uma mensagem de "Por favor, ligue-me", possivelmente acompanhada de uma recompensa modesta, pode funcionar.
+
+Tentou isso? Ainda sem sucesso? OK. É altura de destruir os seus dados.
+
+ <h5>Apague os seus dados</h5>
+Escolher a opção de apagar irá limpar remotamente o seu telemóvel ou tablet. Isso é o mesmo que realizar uma reposição de fábrica completa, pelo que apagará todas as suas definições, a sua música, as suas fotos e as suas aplicações (mas não o cartão SD). Tal como com o bloqueio, se o telemóvel perdido estiver desligado, selecionar esta opção irá limpá-lo remotamente assim que voltar a estar online.
+Se estiver suficientemente preocupado para tomar esta opção, também deve entrar na sua conta e revogar o acesso para o seu telemóvel perdido. Também recomendamos que mude todas as palavras-passe dos seus serviços online.
+A probabilidade de um telemóvel perdido levar a que pessoas mal-intencionadas acedam a todas as suas coisas é muito remota, mas não demora muito tempo a remover essa possibilidade por completo.
+
+ <h5>E se o Gestor de Dispositivos Android não conseguir ligar?</h5>
+Se o Gestor de Dispositivos Android não conseguir ligar, existem mais duas coisas que pode tentar. O Google Maps rastreia o histórico de localização do seu telemóvel - ou pelo menos fá-lo se não tiver desativado essa funcionalidade na sua Conta Google - pelo que por vezes pode descobrir por onde o seu telemóvel perdido passou visitando a página do Histórico de Localização e verificando as marcas de tempo. Não lhe dirá necessariamente onde o seu telemóvel está agora, mas pode dizer-lhe por onde ele esteve.
+
+Outra opção é usar uma aplicação como o Android Lost, que funciona bem em dispositivos Android mais antigos. É uma das poucas soluções que pode instalar remotamente, pelo que é uma boa opção se não tiver ativado as opções do Gestor de Dispositivos Android especificadas acima. A aplicação e o site têm um aspeto terrível mas funcionam bem, embora o aparelho precise de estar online através da rede celular ou Wi-Fi para funcionar.

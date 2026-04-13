@@ -1,0 +1,153 @@
+ <h5>Asegúrese de estar actualizado</h5>
+
+El software más reciente a menudo contendrá
+correcciones de errores y mejoras generales
+y puede ayudar a que su dispositivo Android
+funcione mejor. Las actualizaciones de software suelen
+llegar de forma inalámbrica (OTA) y debería
+aparecer un aviso automático para instalarlas,
+pero no está de más comprobarlo.
+
+<h5>Vaya a Ajustes > Acerca del dispositivo >
+Actualización de software y busque
+actualizaciones.</h5>
+
+La misma lógica se aplica a las aplicaciones,
+así que abra Play Store, abra el
+menú en la primera superior izquierda y pulse Mis
+aplicaciones y asegúrese de que todas las aplicaciones
+que utiliza estén actualizadas.
+
+ <h5>Limpie su pantalla de inicio</h5>
+Si decide utilizar fondos de pantalla animados,
+considere reemplazarlos por una
+buena imagen estática. También debería
+eliminar los iconos que no utilice y
+limitar sus widgets a los esenciales.
+Cuanto menos saturada esté su pantalla de
+inicio, mejor será el rendimiento.
+
+
+ <h5>Desinstale y desactive aplicaciones no utilizadas</h5>
+
+No querrá permitir que las aplicaciones que
+nunca usa ocupen espacio en
+su dispositivo y potencialmente consuman
+recursos del sistema. Vaya a Ajustes >
+Aplicaciones y deslice hasta la pestaña Todas.
+Eche un vistazo detenido a la lista
+e identifique las aplicaciones que no quiera
+o necesite. Si tiene dudas sobre
+qué hace alguna de ellas, es hora de
+buscar en Google y comprobarlo.
+
+Pulse en cualquier aplicación que no quiera
+y luego elija Desinstalar o, si la
+opción no está ahí para desinstalar, pulse
+Desactivar. Las aplicaciones desactivadas se enumerarán
+en una nueva pestaña, por lo que siempre puede
+volver a activarlas en el futuro si
+cambia de opinión.
+
+También debería echar un vistazo en
+Ajustes > Aplicaciones en la pestaña
+En ejecución. Algunas aplicaciones quieren estar ejecutándose
+todo el tiempo y pueden afectar seriamente
+al rendimiento. Piense
+detenidamente si necesita
+lo que aparece allí.
+
+ <h5>Desactive o reduzca las animaciones</h5>
+Puede hacer que su dispositivo Android
+se sienta más ágil reduciendo o desactivando
+algunas de las animaciones. Deberá
+habilitar las opciones de desarrollador para
+hacer esto. Vaya a Ajustes >
+Acerca del teléfono y desplácese hacia abajo hasta
+la sección Sistema para buscar el Número de
+compilación.
+Púlselo siete veces y debería
+ver un mensaje sobre ser un
+desarrollador. Ahora puede volver al
+menú anterior y debería
+ver Opciones de desarrollador en la lista de
+Sistema. Entre allí y desplácese
+hacia abajo para encontrar Escala de animación
+de ventana, Escala de animación de transición y
+Escala de duración de animador. Pulse cada una a su
+vez y ajústelas a .5x o desactivado. Elija una
+opción y vea qué le conviene,
+si no le gusta, simplemente vuelva y
+cambie los valores de nuevo.
+
+ <h5>Borre los datos de caché de las aplicaciones</h5>
+Los datos almacenados en caché de las aplicaciones deberían ayudar
+a que se carguen más rápidamente, pero pueden
+acumularse con el tiempo y ocupar mucho
+espacio, y potencialmente habrá
+datos almacenados en caché de aplicaciones
+que ya no utiliza. A veces,
+borrar los datos almacenados en caché de una aplicación también
+puede ayudar a solucionar comportamientos inestables.
+
+Si desea elegir aplicaciones individuales,
+vaya a Ajustes > Aplicaciones y
+deslice hasta la pestaña Todas y pulse en
+la aplicación correspondiente, luego elija Borrar
+caché. Si ha decidido borrarlo
+todo, vaya a Ajustes >
+Almacenamiento y pulse en Datos almacenados en caché y
+luego pulse Aceptar.
+
+ <h5>Desactive o reduzca la sincronización automática</h5>
+La mayoría de nosotros terminamos añadiendo una lista
+de diferentes cuentas a nuestros
+dispositivos Android y permitimos que
+se sincronicen automáticamente en segundo
+plano para obtener nuevos datos
+y proporcionarnos actualizaciones. Toda
+esta sincronización tiene un gran impacto en el
+rendimiento, sin mencionar la duración de la
+batería.
+
+Podría ir a Ajustes y buscar
+Sincronización automática en Cuentas y
+simplemente desactivarla por completo, pero eso
+será demasiado drástico para la mayoría de la gente.
+En su lugar, ¿por qué no reducir la
+frecuencia de sincronización y eliminar las
+cuentas que no necesita realmente? Para
+muchas aplicaciones, como Facebook, tendrá que
+abrir la aplicación y buscar los
+ajustes para reducir la frecuencia de
+sincronización.
+
+ <h5>Limpie la partición de caché (Wipe cache partition)</h5>
+La partición de caché es independiente de
+la caché de datos de sus aplicaciones y contiene
+archivos temporales. Vale la pena limpiar
+esto de vez en cuando. Tendrá
+que iniciar en modo de recuperación
+para hacerlo. El método para entrar en el
+modo de recuperación varía según
+su dispositivo, pero lo encontrará fácilmente
+con una búsqueda rápida en Google. Una vez en el
+modo de recuperación, utilice las teclas de volumen
+para navegar y la tecla de encendido
+para seleccionar un elemento. Elija
+wipe cache partition.
+
+ <h5>Realice un restablecimiento de fábrica</h5>
+Este es un paso drástico, pero algunas
+personas recomiendan que haga
+un restablecimiento de fábrica periódicamente si
+desea que su dispositivo funcione en buenas
+condiciones. Es un atajo para limpiar
+su dispositivo y deshacerse de
+cualquier basura que haya acumulado, pero
+significa borrar todos los datos y
+ajustes. Si decide intentarlo,
+asegúrese de hacer una copia de seguridad de todo lo
+que sea importante para usted primero. Puede
+encontrar la opción para hacerlo en Ajustes >
+Copia de seguridad y restablecimiento > Restablecer datos de fábrica.

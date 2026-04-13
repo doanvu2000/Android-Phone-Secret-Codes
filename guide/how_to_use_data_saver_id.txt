@@ -1,0 +1,27 @@
+<h5> Cara menggunakan Penghemat Data</h5>
+
+ Salah satu fitur baru utama di Android
+ adalah mode Penghemat Data seluruh sistem baru
+ yang membantu mengurangi penggunaan data seluler.
+ Fitur ini bekerja dengan membatasi
+ aplikasi dari menerima atau mengirim data
+ di latar belakang. Aplikasi yang sering Anda
+ gunakan akan terus memiliki akses
+ ke data di latar belakang, tetapi
+ frekuensinya akan dikurangi untuk membatasi penggunaan
+ data. Efek samping positif lain yang tidak disengaja
+ dari menggunakan mode Penghemat Data adalah
+ bahwa hal itu menyebabkan sedikit peningkatan dalam
+ masa pakai baterai.
+ Berikut cara mengaktifkan mode Penghemat Data
+ di perangkat Android Anda:
+ Buka Pengaturan-> Penggunaan Data ->
+ Penghemat Data.
+ Alihkan sakelar di sudut kanan atas
+ ke Aktif, dan Anda selesai.
+
+ Jika Anda tidak ingin penggunaan data
+ seluler dibatasi untuk aplikasi tertentu,
+ Anda selalu dapat memasukkannya ke daftar putih dari
+ mode Penghemat Data dengan menggunakan
+ opsi akses data tidak terbatas.

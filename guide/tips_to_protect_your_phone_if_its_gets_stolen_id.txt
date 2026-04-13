@@ -1,0 +1,36 @@
+<h5>1. Gunakan layar kunci</h5>
+
+Kami tahu: menggunakan layar kunci dulu sangat merepotkan ketika yang Anda inginkan hanyalah melihat apakah Anda telah menerima email. Tetapi sekarang Anda dapat menggunakan widget layar kunci, tidak ada alasan untuk tidak mengunci ponsel Anda dengan benar menggunakan kode, sidik jari, gerakan, atau wajah. Perangkat Android yang lebih baru dilengkapi dengan pemindai sidik jari karena alasan yang bagus: mereka menjaga perangkat Anda tetap aman dan sangat cepat. Tidak menggunakan layar kunci adalah setara dengan keluar dan meninggalkan pintu depan Anda terbuka untuk pencuri.
+
+<h5>2. Sembunyikan kata sandi Anda</h5>
+
+Menu Pengaturan > Keamanan Android memiliki opsi untuk membuat semua kata sandi terlihat, dan meskipun niatnya baik (memudahkan memasukkan kata sandi yang akurat), ini merupakan risiko keamanan jika Anda memasukkan kata sandi di tempat yang dapat dilihat orang, misalnya saat Anda berada di kereta atau di kerumunan. Sebaiknya opsi ini dibiarkan dinonaktifkan.
+
+<h5>3. Sembunyikan dan kunci aplikasi Anda</h5>
+
+Pengunci aplikasi yang bagus dapat menjadi berkah bukan hanya untuk alasan keamanan tetapi juga untuk perlindungan privasi dan untuk memastikan anak-anak tidak dapat menghapus atau memindahkan apa pun yang penting. Pengunci seperti AppLock dapat menjaga orang lain dari foto, kontak, Facebook, pengaturan ponsel Anda, dan apa pun yang tidak Anda inginkan untuk mereka otak-atik.
+
+<h5>4. Lacak ponsel Anda dengan Android Device Manager</h5>
+
+Ini lebih merupakan tips "apa yang harus dilakukan jika Anda tidak melindungi ponsel Anda": jika hilang atau salah tempat, Android Device Manager dapat menemukannya, menguncinya dari jarak jauh, dan dalam kasus terburuk, melacak lokasi jarak jauh. Perhatikan bahwa jika Anda tidak mengaktifkan layanan lokasi di perangkat Anda, ADM tidak akan dapat menemukannya jika hilang.
+
+<h5>5. Konfigurasikan layanan lokasi dengan benar</h5>
+
+Pastikan perangkat Anda melacak GPS dengan benar: jika tidak, akan jauh lebih sulit untuk melacaknya dengan sesuatu seperti Android Device Manager jika Anda salah menempatkannya.
+
+<h5>6. Periksa notifikasi dan pengaturan aplikasi Anda</h5>
+
+Laporan terbaru menemukan bahwa sepuluh aplikasi senter paling populer meminta izin dalam jumlah yang tidak masuk akal, termasuk kemampuan untuk melacak lokasi Anda dan bahkan menghapus aplikasi dan file. Dan tentu saja bukan hanya aplikasi senter: banyak unduhan yang mencurigakan dirancang untuk mengumpulkan data pengguna atau menipu mereka agar menyerahkan detail keuangan atau uang sungguhan. Pastikan Anda mengetahui izin aplikasi Anda.
+
+<h5>7. Gunakan messenger dengan enkripsi</h5>
+
+Jika enkripsi perangkat Anda aktif secara default - yaitu, mengacak data Anda sedemikian rupa sehingga tidak dapat disalin dan dilihat begitu saja - itu tidak berarti data yang Anda kirim melalui internet dienkripsi. Untuk memastikan komunikasi Anda pribadi, gunakan platform terenkripsi seperti Telegram, WhatsApp, Facebook Messenger, dll., daripada alternatif yang tidak terenkripsi.
+
+<h5>8. Instal pembaruan</h5>
+
+Terkadang pembaruan aplikasi adalah hal-hal kecil yang tidak membuat perbedaan yang terlihat sama sekali, tetapi terkadang pembaruan tersebut berisi perbaikan penting untuk masalah keamanan yang tidak dapat Anda lihat tetapi dapat dilihat oleh penyerang potensial. Orang yang tidak memperbarui ke versi terbaru tetap rentan, jadi sangat penting untuk tetap mengikuti pembaruan aplikasi dan Android.
+
+<h5>9. Sematkan layar</h5>
+
+Jika Anda ingin membiarkan seseorang membaca sesuatu - seperti artikel AndroidPIT di aplikasi kami - tetapi tidak ingin mereka melompat ke hal lain, penyematan layar, yang pertama kali muncul di Android Lollipop, mengunci tampilan ke satu aplikasi. Ini bukan hal yang paling aman di dunia (memberi tahu Anda cara membatalkannya langsung di layar) - tetapi setidaknya mencegah teman atau kolega Anda secara tidak sengaja mengintip perangkat Anda. Jika mereka melakukannya, Anda tahu mereka melakukannya dengan sengaja.
+

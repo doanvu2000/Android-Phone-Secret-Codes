@@ -1,0 +1,68 @@
+USB OTG, USB on the go est une norme
+qui permet aux appareils mobiles de se
+parler entre eux. Traditionnellement, les
+appareils mobiles ne pouvaient se connecter à un
+Mac/PC que par USB, mais l'USB OTG permet
+aux appareils de se connecter directement les
+uns aux autres,
+
+ <h5>Comment savoir si mon appareil Android
+prend en charge l'USB OTG ?</h5>
+
+L'USB OTG possède son propre logo, qui
+devrait figurer sur l'emballage de votre appareil
+s'il est pris en charge. Si vous n'avez pas
+l'emballage d'origine sous la main, vous pouvez
+rechercher le modèle de l'appareil sur Google pour
+trouver cette information.
+Généralement, si votre smartphone a été
+commercialisé au cours des deux dernières années,
+il le prendra en charge.
+
+ <h5>Que puis-je faire avec l'USB OTG ?</h5>
+Connecter une souris ou un clavier
+
+Il suffit de brancher une souris USB et vous
+verrez automatiquement son curseur apparaître sur
+votre écran. C'est aussi un excellent moyen
+d'utiliser votre appareil si l'écran tactile
+est cassé. Alternativement, connectez un
+clavier externe pour transformer une tablette en
+ordinateur portable.
+Connecter une clé USB de stockage
+
+Vous pouvez vous connecter à des périphériques de
+stockage tels que des clés USB ou des disques durs
+externes avec l'USB OTG. En utilisant un gestionnaire
+de fichiers sur votre appareil, vous pouvez accéder
+directement aux données sur un périphérique de
+stockage externe et lire des films ou de la musique
+sans avoir à les stocker sur votre téléphone.
+
+ <h5>Connecter une manette de jeu</h5>
+L'utilisation d'une manette Xbox 360 filaire est
+un moyen facile de le faire : il suffit de la
+connecter à votre téléphone avec un câble USB OTG,
+lancez un jeu et cela devrait fonctionner tout de
+suite, aucune configuration requise.
+
+ <h5>Utiliser votre smartphone cassé depuis un PC</h5>
+L'affichage est cassé mais vous pouvez toujours voir
+l'écran
+Si vous avez cassé votre écran tactile mais que
+l'affichage fonctionne toujours (vous pouvez le voir),
+vous pouvez réparer cela en utilisant un USB OTG
+et une souris connectée à votre appareil.
+
+Une fois que vous avez connecté la souris,
+vous pouvez déverrouiller votre appareil, que
+vous ayez un schéma, un code PIN ou un
+mot de passe. Nous recommandons d'utiliser des
+mots de passe dans tous les cas car ils sont
+très sécurisés.
+
+Maintenant que votre téléphone est déverrouillé,
+vous pouvez le connecter à votre ordinateur et
+soit transférer les données dont vous avez besoin
+sur votre mémoire microSD, soit le connecter directement
+à votre PC et y transférer les fichiers.

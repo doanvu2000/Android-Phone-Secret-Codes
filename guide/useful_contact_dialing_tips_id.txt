@@ -1,0 +1,69 @@
+ <h5>Panggil kontak favorit Anda dengan satu ketukan</h5>
+Android memungkinkan Anda membuat ikon di
+layar beranda Anda untuk kontak. Untuk menambahkan
+satu tekan dan tahan ruang kosong di
+layar Anda. Ketika menu muncul
+pilih Pintasan > Kontak. Anda kemudian dapat
+menggulir daftar kontak Anda dan
+ketuk orang yang ingin Anda tambahkan.
+ <h5>Langkah-langkah untuk memanggil kontak favorit Anda
+dengan satu ketukan</h5>
+
+Di Layar Beranda perangkat Anda tekan
+dan tahan di ruang kosong di mana pun
+Anda menemukannya. Layar muncul seperti ini
+Setelah menekan dan menahan di ruang
+kosong, layar muncul seperti ini setelah
+itu Pilih ikon widget yang
+muncul di layar.
+Setelah memilih ikon widget banyak
+item akan ditampilkan di layar
+ponsel Anda
+Sekarang pilih ikon Kontak.
+Sekarang saat memilih ikon kontak. Daftar kontak lengkap
+akan muncul di layar
+ponsel Anda dari mana Anda dapat memilih
+kontak favorit Anda yang paling Anda sukai:
+Saat memilih kontak Favorit Anda
+dari daftar kontak Anda. Sekarang
+kontak tertentu yang telah Anda
+pilih akan muncul di bagian atas
+layar beranda Anda.
+Sekarang panggil Favorit Anda dengan satu
+ketukan tunggal.
+<h5> ATUR PANGGILAN CEPAT</h5>
+jika Anda memiliki Kontak yang sering Anda panggil,
+Anda sebenarnya dapat mengatur pintasan
+langsung ke mereka melalui
+layar beranda Anda. ketuk dan tahan ruang
+kosong di layar beranda Anda, lalu ketuk
+tombol Pintasan. Selanjutnya, ketuk Kontak
+dan pilih orang yang ingin Anda
+tempatkan di layar beranda Anda.
+Gambar kontak mereka akan muncul di
+layar Anda, dan hanya akan membutuhkan satu
+ketukan untuk menelepon mereka.
+<h5> LANGKAH-LANGKAH</h5>
+Di Layar Beranda perangkat Anda
+tekan dan tahan di ruang kosong
+di mana pun Anda menemukannya. Layar muncul
+seperti ini
+Setelah memilih ikon widget banyak
+item akan ditampilkan di layar
+ponsel Anda.
+Sekarang pilih ikon "Panggilan langsung" dari
+daftar widget.
+Sekarang saat memilih ikon "Panggilan langsung".
+Daftar Kontak Anda akan muncul di layar
+ponsel Anda dari mana Anda dapat memilih
+kontak favorit Anda yang paling Anda
+sukai:
+Saat memilih kontak Anda dari
+daftar kontak Anda. Sekarang kontak
+tertentu yang telah Anda pilih akan
+muncul di bagian atas layar beranda
+Anda sebagai "Kontak panggilan cepat"
+ dengan satu ketukan Anda dapat menelepon
+mereka tanpa kesulitan
+mencari dan memanggil Kontak apa pun.
+

@@ -1,0 +1,25 @@
+<h5>Liberar espacio de almacenamiento automáticamente</h5>
+Para asegurar que no te quedes sin
+espacio de almacenamiento en tu dispositivo Android
+con fotos y videos que ya han sido
+respaldados, Google incluye
+una útil opción de 'Almacenamiento Inteligente'. La
+función asegura que cuando el espacio de
+almacenamiento del sistema se está agotando, el SO
+puede eliminar tus fotos y videos respaldados
+para liberar espacio automáticamente.
+Esta función solo funciona cuando has
+configurado Google Photos para respaldar automáticamente
+tus fotos y videos.
+Para habilitar el Almacenamiento Inteligente, dirígete a
+Configuración -> Almacenamiento -> Administrar Almacenamiento.
+Asegúrate de habilitar la opción de Almacenamiento Inteligente
+desde el menú que se abre.
+También puedes decidir si la función
+debería eliminar fotos que tienen 30, 60 o
+90 días de antigüedad de la opción Fotos y videos
+respaldados.
+Si quieres, también puedes liberar manualmente
+espacio de almacenamiento usando la opción liberar
+espacio ahora.
+

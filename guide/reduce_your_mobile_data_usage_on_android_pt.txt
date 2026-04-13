@@ -1,0 +1,225 @@
+ <h5>Reduza o uso de dados móveis no Android</h5>
+
+Pode seguir estas dicas para as
+aplicações que mais utiliza ou para os seus
+hábitos de utilização específicos.
+
+Comprimir páginas do Chrome
+
+Se utiliza o Chrome para todo o seu tráfego
+web, esta dica por si só pode poupar-lhe
+30 a 35 por cento do seu consumo de dados
+do navegador móvel. A opção Poupança de
+Dados comprime as páginas web
+antes de as carregar no seu navegador.
+
+Utilizar a Poupança de Dados abranda um
+pouco as coisas, mas habitua-se
+rapidamente e um momento de atraso
+vale a pena quando os seus dados duram
+muito mais tempo. Basta abrir o Chrome,
+tocar nos três pontos no canto superior
+direito, aceder a Definições
+e depois a Poupança de Dados. Vigie
+o gráfico para ver as suas poupanças de dados crescerem.
+
+  <h5>Utilize a compressão de vídeo do Opera</h5>
+O navegador Opera para Android tem agora
+uma opção de compressão de vídeo muito útil,
+que lhe pode poupar imensos
+dados se vê vídeos frequentemente
+em movimento. Para a utilizar, basta
+descarregar o navegador Opera, aceder a
+Definições > Poupança de dados e marcar a
+caixa que diz Compressão de vídeo.
+Esta definição não só lhe poupa dados,
+como também significa que os vídeos têm
+mais probabilidade de carregar mais depressa.
+
+  <h5>Abandone a aplicação do Facebook</h5>
+É bastante conhecido entre os
+entusiastas do Android que a
+aplicação do Facebook é um dos maiores
+consumidores de dados, para não falar
+na sua elevada utilização de recursos e consumo de bateria.
+Então, por que não substituí-la por
+algo menos exigente?
+
+Existem muitas aplicações alternativas ao Facebook,
+mas muitas delas são tão
+famintas como a versão oficial.
+Mesmo o Facebook Lite, que afirma
+reduzir o consumo de dados em
+50 por cento, continua a consumir
+centenas de MB num mês.
+
+Por que não experimentar o Tinfoil para o Facebook,
+que é apenas uma aplicação web que
+apresenta o site do Facebook, ou poderia simplesmente
+criar um atalho do Chrome no seu navegador web.
+Basta abrir o Facebook no Chrome, abrir o
+menu de opções e selecionar Adicionar ao
+Ecrã Principal.
+
+  <h5>Utilize aplicações, jogos e serviços offline</h5>
+
+Algumas aplicações e jogos requerem
+acesso constante à Internet para funcionar:
+isto pode ser apenas uma medida de
+segurança ou porque precisam de recuperar dados constantemente.
+Existem algumas aplicações e jogos que não
+requerem qualquer acesso à Internet após
+o download inicial.
+
+Consulte abaixo algumas sugestões.
+
+  <h5>Restringir dados de fundo</h5>
+A forma mais fácil de poupar dados é
+dizer às suas aplicações (ou ao próprio sistema
+Android) para restringir os dados de fundo.
+Os dados de fundo são todo o tráfego de
+Internet que ocorre quando não está a usar
+realmente uma aplicação: sincronização de
+e-mail, atualização de feeds,
+widgets meteorológicos, etc.
+
+Também pode dizer ao sistema Android
+para restringir os dados de fundo em
+ <h5>Definições > Utilização de dados > Restringir
+dados de fundo ou para aplicações individuais
+em Definições > Aplicações (dependendo
+da versão do Android que possui). Também
+pode alterar as suas definições de sincronização
+para os serviços da Google em Definições >
+Contas > Google > selecione a conta e depois
+desmarque os serviços que não pretende sincronizar automaticamente.
+
+  <h5>Desativar a atualização automática de aplicações</h5>
+Outro grande consumo do seu
+plafond de dados provém da
+atualização ocasional de aplicações do Google Play.
+Se tiver a Play Store configurada para atualizar
+automaticamente as aplicações, mesmo
+através de uma ligação de dados, isto pode
+estar a consumir o seu plafond todos os meses sem
+que se aperceba.
+
+Para verificar, aceda à Play Store e
+deslize o painel de navegação esquerdo.
+Toque em Definições e, no topo,
+verá Atualizar aplicações automaticamente.
+Toque aqui e certifique-se de que tem configurado para
+Não atualizar aplicações automaticamente ou
+Atualizar aplicações automaticamente apenas via Wi-Fi.
+Para gerir aplicações individuais, aceda às minhas
+aplicações, selecione uma aplicação e depois toque
+no menu de opções para marcar ou desmarcar
+a Atualização Automática.
+
+   <h5>Coloque música no seu telemóvel</h5>
+Serviços de streaming como o YouTube,
+Spotify, Vine e outros sites de vídeo e
+música são grandes consumidores de dados.
+Se houver uma música ou álbum que ouça
+constantemente no ginásio
+ou a caminho do trabalho, utilizará
+muito menos dados carregando-os no seu
+telemóvel e ouvindo-os offline,
+em vez de os transmitir incessantemente da web.
+
+Se o seu telemóvel não tiver um
+cartão micro SD ou espaço suficiente
+na sua memória interna para
+guardar música, pode usar um adaptador
+micro SD. Alternativamente, pode guardar
+música para ouvir offline. Não
+exigirá tanto espaço no seu
+telemóvel e é fácil de apagar ou
+substituir mais tarde. Se conseguir conter os seus
+desejos de streaming, nem que seja um pouco,
+verá uma enorme redução no consumo
+de dados.
+
+   <h5>Identifique e limite/remova aplicações de
+elevado consumo</h5>
+
+Em Definições > Utilização de dados pode
+dar uma vista de olhos às aplicações que
+consomem mais dados, tanto em primeiro
+plano como em segundo plano. Isto pode
+ser muito útil para saber que aplicações
+deve restringir.
+
+Considere o Gmail, por exemplo. No meu
+telemóvel, descarregou 451 MB de
+e-mails em segundo plano. Se eu sentisse
+que não utilizava a aplicação o suficiente para
+justificar tanto uso de dados, poderia remover
+a aplicação, limitar a frequência com que sincroniza
+ou impedi-la de descarregar anexos,
+tudo isto reduziria o consumo de dados.
+
+<h5>Não carregue, descarregue nem envie
+fotos ou vídeos</h5>
+
+Um único minuto de filmagem em alta definição
+capturada num smartphone moderno
+pode ocupar até 200 MB de dados.
+Fotos individuais podem facilmente exceder 40 MB.
+Nem pense em carregá-las para o
+Facebook, ou descarregar fotos e vídeos de amigos,
+a menos que o seu plano de dados móveis consiga aguentar.
+
+ <h5>Utilize pontos de acesso Wi-Fi</h5>
+Redes Wi-Fi abertas são uma excelente
+forma de poupar dados quando está
+na rua. Cada vez mais restaurantes
+e estabelecimentos oferecem conectividade Wi-Fi e estes
+pontos de acesso são fáceis de encontrar no seu
+dispositivo Android.
+
+No seu menu de Wi-Fi (facilmente encontrado
+com um deslizar de dois dedos para baixo
+a partir do topo do seu telemóvel no
+Lollipop/Marshmallow), qualquer ponto de acesso
+Wi-Fi que não tenha um ícone de cadeado
+está aberto e tem o potencial de ser acedido
+sem introduzir quaisquer detalhes ou códigos.
+Basta tocar num ponto de acesso quando
+o vir para se ligar. Existe o potencial
+de as pessoas ouvirem as suas interações online
+através destas redes - mas isto apenas significa
+que deve ter cautela. Não introduza informações
+sensíveis em tais situações, nem aceda a
+material privado. Ou, se desejar fazer isto, pode
+utilizar uma aplicação VPN para se manter privado e seguro.
+
+ <h5>Partilhe fotos, vídeos e outros ficheiros
+via Bluetooth</h5>
+Como mencionámos no ponto 10, o simples
+recebimento de fotos e vídeos pode consumir muitos dados.
+Mas as transferências através da rede móvel não são a única
+forma de enviar ficheiros. Graças à magia do
+Bluetooth, pode enviar rápida e facilmente ficheiros
+relativamente grandes a outros nas proximidades sem usar
+quaisquer dados.
+
+Claro que a proximidade é uma das
+limitações do Bluetooth, mas quando o
+destinatário pretendido está perto, isto pode ser um grande poupador de dados.
+
+Para enviar algo via Bluetooth, deve navegar
+até ao item que deseja enviar e depois premir o
+botão partilhar (parece-se com isto) ou selecionar
+partilhar no menu de opções. A
+forma de o fazer dependerá do item
+que estiver a enviar.
+
+Em seguida, selecione o ícone do Bluetooth.
+Se o seu Bluetooth não estiver ativado, poderá
+ser solicitado a ativá-lo. Finalmente, deve
+selecionar o dispositivo de destino de uma lista
+de aparelhos próximos com Bluetooth ativado.
+Note que o dispositivo de destino também deve
+ter o Bluetooth ativado e deve saber o seu nome
+para o encontrar na lista.

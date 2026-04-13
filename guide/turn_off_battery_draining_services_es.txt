@@ -1,0 +1,12 @@
+ <h5>Desactivar servicios que agotan la batería</h5>
+Desliza desde la parte superior de tu pantalla hasta
+la parte inferior de tu pantalla de inicio te dará
+Opciones rápidas. Estas opciones varían
+desde tono de llamada hasta ahorradores de energía como
+GPS, Wi-Fi, Bluetooth, datos móviles y
+modo avión.
+
+Si no vas a usar Wi-Fi
+o GPS en un futuro cercano, este menú
+hace que sea fácil desactivar estos
+servicios que consumen energía.

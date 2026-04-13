@@ -1,0 +1,321 @@
+<h5>Cara mencadangkan ponsel
+Android Anda</h5>
+Selalu ada kemungkinan bahwa
+Anda akan salah menaruk ponsel Anda atau menjatuhkannya
+ke dalam air dan kehilangan segalanya.
+Untungnya, ada banyak
+cara untuk mencadangkan perangkat Android,
+memastikan bahwa meskipun sesuatu
+terjadi pada ponsel Anda, Anda tidak akan
+kehilangan semua foto memalukan
+anak-anak Anda yang akan Anda tunjukkan
+di ulang tahun ke-21 mereka. Baik itu
+melalui Google, aplikasi pihak ketiga
+atau komputer Anda, berikut adalah beberapa
+cara untuk mencadangkan ponsel untuk memastikan
+Anda tidak pernah menemukan diri Anda dalam
+situasi di mana Anda berakhir dengan kehilangan
+data.
+<h5> Catatan editor: Semua langkah
+dalam artikel ini disatukan
+menggunakan Pixel
+4a dengan 5G yang menjalankan
+Android 12 dan PC kustom
+yang menjalankan Windows 11.
+Ingat langkah-langkah mungkin
+berbeda tergantung pada
+perangkat dan perangkat lunak Anda.</h5>
+<h5>Cara mencadangkan ponsel
+Android Anda dengan
+Google</h5>
+ Mencadangkan sebagian besar data Anda
+cukup mudah dengan Google, dan telah
+menjadi jauh lebih mudah selama beberapa tahun
+terakhir. Sayangnya, belum ada
+metode pencadangan satu atap untuk
+ponsel Android melalui Google.
+Anda harus menggunakan layanan Google yang berbeda
+untuk mencadangkan jenis data
+yang berbeda.
+<h5> 1. Foto dan video</h5>
+Jika Anda belum menggunakan Google
+Photos, Anda seharusnya menggunakannya. Layanan ini
+secara otomatis mencadangkan setiap foto
+dan video yang Anda ambil ke cloud, jadi
+Anda tidak perlu mencadangkan
+media Anda secara manual lagi. Jika aplikasi
+Photos belum ada di ponsel Anda,
+Anda dapat mengunduhnya. Setelah
+diinstal, Anda perlu memastikan
+Photos diatur untuk mencadangkan file Anda
+secara otomatis.
+cara menyinkronkan gambar Anda ke google photos:
+Buka aplikasi Google Photos.
+Ketuk gambar profil di sudut
+kanan atas
+Pilih pengaturan Foto.
+Aktifkan Cadangkan dan sinkronisasi.
+Juga, pastikan untuk masuk ke Ukuran
+Unggah dan pilih pengaturan
+unggah pilihan Anda
+Ingatlah bahwa mengunggah
+ke Google Photos tidak lagi
+Sepenuhnya gratis. Mulai 1 Juni,
+2021, setiap foto dan video baru
+yang Anda unggah akan dihitung terhadap
+penyimpanan gratis 15GB yang disertakan dengan
+setiap Akun Google. Tentu saja,
+Anda dapat membayar untuk penyimpanan lebih. Jangan
+khawatir, karena foto atau Video apa pun yang
+mungkin telah Anda unggah dalam kualitas tinggi
+sebelum 1 Juni 2021, tidak akan dihitung
+terhadap penyimpanan Google Anda dan akan
+tetap dianggap gratis dan dikecualikan
+dari batas penyimpanan.
+ <h5>2. Musik</h5>
+Google memiliki cara yang bagus untuk mencadangkan
+musik Anda ke cloud, lalu mendengarkannya
+dari perangkat apa pun Anda dapat menggunakan
+YouTube Music, yang memungkinkan Anda untuk
+mengunggah hingga 100.000 lagu.
+Cara mengunggah lagu ke YouTube
+Music:
+Buka browser Anda dan pergi ke
+music.youtube.com.
+Klik gambar profil Anda di
+sudut kanan atas.
+Pilih Unggah musik.
+Pilih lagu yang ingin Anda unggah
+dan pilih Buka.
+Anda sekarang dapat memutar Lagu dari
+aplikasi atau situs web YouTube Music.
+Pergi ke Perpustakaan > Lagu > Unggahan.
+<h5>3. File lain</h5>
+Google Drive memungkinkan Anda menyimpan
+file lain Anda di cloud, yang berarti
+mereka akan dapat diakses dari perangkat
+terhubung apa pun.
+Cara menyimpan file Anda di Google
+Drive:
+Unduh aplikasi Google Drive, jika
+Anda belum memilikinya.
+Di aplikasi, tekan tombol +.
+Tekan Unggah.
+Pilih file yang ingin Anda cadangkan.
+Itu saja!
+
+<h5>4. Pengaturan, aplikasi, SMS,
+riwayat panggilan, dan banyak
+lagi!</h5>
+
+Google Drive dan Photos membuat
+solusi pencadangan Google
+terfragmentasi, tetapi segalanya menjadi jauh
+lebih mulus dengan semua data
+penting lainnya. Solusi pencadangan cloud
+asli Android dapat menyimpan
+pengaturan, aplikasi, pesan SMS, dan
+bahkan riwayat panggilan Anda. Ini membuatnya
+mudah untuk memulihkan semuanya di ponsel
+baru.
+Cara mencadangkan Android ke Google
+One:
+Buka aplikasi Pengaturan di
+ponsel Android Anda.
+ketuk Google.
+Masuk ke Cadangan.
+Aktifkan Cadangan oleh Google One.
+Anda juga dapat masuk ke data Akun
+Google dan memilih data lain
+yang dapat Anda sinkronkan. Ini termasuk
+Kalender, Dokumen, Google Fit, Keep,
+dan banyak lagi.
+Kembali ke pengaturan Cadangan
+utama.
+Ketuk Cadangkan sekarang.
+
+Cara mencadangkan ponsel
+Android Anda dengan
+Amazon Photos,
+OneDrive, dan lainnya??
+ Layanan cloud sangat banyak,
+ dan Google bukan satu-satunya
+ yang menawarkan banyak penyimpanan.
+ OneDrive Microsoft adalah alternatif yang sangat
+ kompeten. Jika Anda
+ berlangganan Office 365,
+ perusahaan memberikan 1TB penyimpanan
+ online.
+ Di tempat lain, Amazon Photos menawarkan
+ penyimpanan foto tanpa batas plus
+ penyimpanan video 5GB dengan langganan
+ Prime. Sementara itu, penyimpanan 100GB
+ hanya s1.99/bulan atau
+ $19.99/tahun, menjadikannya alternatif yang
+ terjangkau meskipun tidak terintegrasi seerat
+ itu. Ada banyak solusi
+ penyimpanan cloud lainnya di luar sana;
+ periksa dengan mengklik
+ tautan di bawah. Kelemahan terbesar dari
+ menyimpang dari ekosistem Google
+ adalah upaya yang diperlukan untuk memastikan
+ semua konten Anda disalin atau disinkronkan.
+ Ini tidak terintegrasi seerat
+ itu ke Android, jadi mereka butuh sedikit lebih banyak
+ Pekerjaan.
+ Proses menggunakan aplikasi ini
+ relatif sederhana. Anda harus
+ mengunduhnya dan mengikuti
+ instruksi selama proses
+ pengaturan.
+<h5> Mencadangkan ke
+Komputer Anda</h5>
+<h5>1. Menggunakan Android File
+Transfer</h5>
+ Alih-alih mencadangkan perangkat Anda ke
+ cloud atau ke ponsel itu sendiri, Anda
+ mungkin ingin mencadangkan semua file Anda
+ ke komputer Anda untuk akses mudah
+ nantinya. Untungnya, ini cukup mudah
+ dilakukan, dan prosesnya cukup
+ sama baik Anda pengguna
+ Mac atau PC. Pengguna Mac akan perlu
+ mengunduh dan menginstal aplikasi Android
+ File Transfer, namun.
+ Cara mencadangkan perangkat Android Anda
+ ke komputer
+ Colokkan ponsel Anda ke komputer Anda
+ dengan kabel USB Anda.
+ Di Windows, buka Komputer Saya
+ dan buka penyimpanan ponsel.
+ Di Mac, buka Android File Transfer.
+ Seret file yang ingin Anda cadangkan
+ ke folder di komputer Anda.
+ Ya, aplikasi Android File Transfer
+ cukup kaku dan tidak selalu
+ melakukan pekerjaan. Jika menyalin file
+ secara manual adalah opsi pilihan Anda,
+ mungkin ide yang baik untuk berinvestasi
+ dalam aplikasi yang lebih baik. Commander One
+ adalah aplikasi luar biasa yang memungkinkan Anda melakukan
+ hal itu. Oliver Craig dari Android Authority
+ memberi kami semua informasi
+ tentang cara terbaik untuk mentransfer file
+ antara ponsel Android dan Mac.
+ <h5>2. Sinkronisasi nirkabel dengan
+Syncthing</h5>
+ Bagaimana jika Anda dapat secara otomatis
+ mencadangkan semua gambar dan file Anda ke
+ komputer atau drive NAS Anda tanpa
+ harus menghubungkan kabel? Di situlah
+ utilitas sinkronisasi beraksi.
+ Syncthing adalah utilitas hebat untuk
+ memastikan semua foto dan
+ file tambahan Anda diunduh ke
+ komputer. Premisnya sederhana
+ instal aplikasi di ponsel Anda dan
+ pilih folder untuk diawasi
+ terus-menerus. Sementara itu, klien berjalan
+ di komputer Anda, memungkinkan Anda untuk
+ terhubung dengan ponsel Anda.
+ Sekarang, setiap kali aplikasi di
+ ponsel mendeteksi perubahan atau penambahan
+ file di folder yang diawasi, itu
+ segera mengirimkan salinan ke
+ komputer. Sederhana dan andal. Itu
+ Hanya bekerja. Tentu saja, Anda dapat menggunakannya
+ sebagai utilitas sinkronisasi standar juga, tetapi
+ Saya lebih suka semua file saya dikirim satu
+ arah ke komputer untuk memiliki salinan
+ tersedia bahkan jika saya menghapus sesuatu
+ dari ponsel saya.
+ Bagaimana Anda mengatur Syncthing:
+ Instal aplikasi Syncthing dari
+ Play Store.
+ Instal aplikasi Syncthing di PC
+ atau Mac Anda.
+ Adalah ide yang baik untuk memasangkan perangkat
+ sebelum membuat pasangan folder. Buka
+ tab Perangkat dan ketuk ikon +.
+ Anda dapat memasukkan nama perangkat atau
+ klik pemindaian kode batang untuk menambahkan
+ pasangan perangkat menggunakan kode QR.
+ Itu saja. Buka tab Folder
+ dan ketuk ikon +.
+ Beri nama folder, pilih di
+ direktori, pilih jenis folder, dan
+ lalui semua pengaturan. Anda bahkan dapat
+ mengatur folder untuk menerima data jika Anda
+ ingin menerima konten dari
+ PC ke ponsel Anda.
+ Dalam beberapa saat, Anda akan
+ diminta untuk mengonfirmasi pasangan di
+ PC Anda, dan sinkronisasi akan dimulai.
+
+<h5>Opsi lain untuk mencadangkan
+ponsel Android</h5>
+Layanan Google sangat baik,
+tetapi jika Anda mencari solusi yang lebih
+Komprehensif satu yang
+mencadangkan semuanya sekaligus, yaitu
+Anda mungkin perlu menggunakan aplikasi pihak
+ketiga.
+ <h5>Ponsel yang tidak di-root</h5>
+Ada banyak aplikasi hebat untuk
+mencadangkan data Anda, dan salah satu
+yang terbaik adalah Super Backup & Restore.
+Ini memungkinkan Anda untuk mencadangkan item
+individu di ponsel Anda, seperti aplikasi,
+Kontak, SMS, kalender, panggilan suara,
+dan banyak lagi. Pengguna dapat menentukan di mana
+cadangan pergi untuk lokasi yang mudah
+nanti, dan Anda juga dapat Menjadwalkan
+cadangan otomatis bersama dengan
+mencadangkan ke penyimpanan cloud.
+Cara mencadangkan Android menggunakan Super
+Backup & Restore:
+Unduh Super Backup & Restore.
+Anda akan melihat daftar kategori item
+yang dapat Anda cadangkan (Gambar,
+Aplikasi, dll.).
+Pilih item individu yang ingin Anda
+sertakan dalam cadangan Anda.
+Ketuk Cadangkan atau Cadangkan semua untuk
+setiap pilihan.
+ <h5>Ponsel yang di-root</h5>
+ Sementara kebanyakan orang tidak perlu
+ me-root ponsel mereka untuk mencadangkan apa yang
+ mereka butuhkan, me-root ponsel Anda
+ dapat membantu Anda mencadangkan beberapa hal
+ lagi. Dengan me-root ponsel Anda, hampir
+ semua hal di ponsel Anda
+ dapat dipulihkan, termasuk hal-hal seperti
+ pengaturan aplikasi, data sistem, dan bahkan
+ kata sandi Wi-Fi. Salah satu aplikasi yang paling
+ banyak digunakan untuk mencadangkan ponsel
+ yang di-root adalah Titanium Backup. Sementara
+ Titanium Backup tentu terlihat sedikit
+ ketinggalan jaman, itu adalah aplikasi yang menarik
+ memang. Berikut cara mencadangkan file Anda
+ menggunakan Titanium Backup:
+ Unduh dan buka Titanium
+ Backup.
+ Ketuk tombol Menu di sudut kanan
+ atas dan pilih tindakan Batch.
+ Pilih semua yang ingin Anda cadangkan.
+ Jika ini adalah pertama kalinya Anda mencadangkan
+ perangkat Anda, Anda setidaknya ingin
+ memilih cadangkan semua aplikasi pengguna dan
+ cadangkan semua data sistem.
+ Anda juga dapat memilih untuk mencadangkan
+ file ke Dropbox atau Google Drive,
+ yang mungkin ingin Anda lakukan jika Anda
+ kehilangan ponsel Anda.
+ Anda juga dapat memilih untuk membuat
+ file cadangan .zip yang kompatibel dengan pemulihan
+ Ini memastikan bahwa meskipun
+ file sistem ponsel Anda menjadi rusak
+ atau sesuatu lain terjadi yang
+ mencegah Anda mem-boot ponsel Anda,
+ Anda akan dapat memulihkan ponsel Anda
+ dari cadangan.

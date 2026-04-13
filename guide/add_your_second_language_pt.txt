@@ -1,0 +1,17 @@
+<h5>Adicione seu segundo idioma</h5>
+Se você é igualmente fluente em dois
+idiomas, então o Android oferece a você
+a facilidade de dar entrada em ambos os
+idiomas, o que é obviamente um ótimo
+recurso para usuários bilíngues e também
+viajantes frequentes.
+Para fazer uso do recurso
+multi-localidade, abra Configurações > Idiomas e
+entrada > Preferências de idioma, então
+selecione Adicionar um idioma e finalmente escolha
+seu segundo idioma da lista de
+idiomas disponíveis. Depois disso, você
+pode alterar facilmente o idioma no
+teclado na tela pressionando o globo
+ou pressionando longamente a tecla de espaço.
+

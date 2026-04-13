@@ -1,0 +1,14 @@
+<h5>Voir vos notifications même
+après les avoir effacées.</h5>
+Avez-vous effacé toutes vos notifications
+sans les voir ?
+Il existe un moyen très simple de les revoir.
+Allez dans les widgets, prenez le "raccourci paramètres"
+sur votre écran d'accueil et
+sélectionnez notifications là-bas.
+Maintenant vous pouvez voir le raccourci
+Notifications sur votre écran d'accueil.
+Maintenant ouvrez-le, et vous pouvez voir toutes les
+notifications.
+Le chemin est Widgets > Raccourci paramètres >
+Notifications.

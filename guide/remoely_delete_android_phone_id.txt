@@ -1,0 +1,40 @@
+ <h5>Pastikan Anda dapat menghapus data Anda
+selagi Anda masih memiliki ponsel Anda</h5>
+Jika Anda ingin kemampuan untuk menghapus ponsel Anda dari jarak jauh, ada dua pengaturan yang perlu Anda aktifkan sebelum ponsel Anda hilang. Ini seharusnya diaktifkan secara default, tetapi periksalah untuk memastikannya.
+
+Buka Setelan Google > Keamanan > Pengelola Perangkat Android. Cari Izinkan kunci dan hapus jarak jauh dan pastikan itu diaktifkan.
+
+Peralihan kedua yang perlu diaktifkan juga ada di layar Pengelola Perangkat Android: cari Lokasi perangkat ini dari jarak jauh, dan pastikan itu aktif. Jika pengaturan ini tidak diaktifkan, maka Pengelola Perangkat tidak akan dapat menemukan perangkat Anda.
+
+Pengelola Perangkat Android juga berfungsi untuk tablet, tetapi jika Anda memiliki banyak akun pengguna, hanya orang yang ditetapkan sebagai pemilik tablet yang dapat mengatur fitur Pengelola Perangkat Android.
+
+Adalah ide yang baik untuk mengambil beberapa tindakan pencegahan lainnya juga: jangan menyimpan apa pun yang sensitif di kartu microSD (penghapusan jarak jauh tidak dapat menghapusnya), pastikan Anda memiliki kode kunci atau pola yang layak, dan pertimbangkan untuk berinvestasi dalam aplikasi seperti AirDroid atau Lookout. Kedua aplikasi ini menawarkan fitur penghapusan jarak jauh, tetapi mereka juga dapat mentransfer data krusial sebelum memutuskan koneksi.
+Setelan Google
+Keamanan
+<h5>Aktifkan kedua opsi Pengelola Perangkat Android seperti yang Anda lihat pada gambar di bawah ini:</h5>
+<h5>Cara menghapus ponsel Android Anda dari jarak jauh</h5>
+
+Oh tidak. Ponsel Anda hilang! Saatnya untuk bertindak, dan yang kami maksud dengan bertindak adalah Pengelola Perangkat Android. Anda dapat mengakses Pengelola Perangkat Android dengan dua cara: Melalui aplikasi Pengelola Perangkat Android di perangkat Android lain, atau melalui situs web Pengelola Perangkat Android.
+
+Setelah Anda masuk, Pengelola Perangkat Android akan mencoba menemukan perangkat Anda yang hilang. Jika aktif dan bisa mendapatkan sinyal, Anda akan melihat lokasinya di peta. Anda juga akan melihat tiga opsi: deringkan, kunci, atau hapus jarak jauh. Jika perangkat tidak aktif atau tidak bisa mendapatkan sinyal, Pengelola Perangkat Android akan melaporkan lokasinya saat menyala dan terhubung ke WI-FI atau jaringan seluler.
+
+Pada titik itu Anda dapat menghapus semua data dari ponsel Anda, tetapi kami sangat menyarankan untuk mencoba opsi yang kurang serius sebelum Anda mengambil langkah drastis dan menghapus semuanya. Cobalah dalam urutan ini:
+
+ <h5>Gunakan Pengelola Perangkat Android untuk membuat ponsel Anda berdering</h5>
+
+Ponsel yang hilang sering kali hanya salah taruh daripada benar-benar hilang atau dicuri. Untuk menyingkirkan kemungkinan itu, gunakan Pengelola Perangkat Android untuk membuat ponsel berdering keras selama lima menit penuh. Ini memungkinkan Anda menemukan ponsel jika jatuh ke lantai mobil Anda atau disembunyikan di sandal oleh salah satu anak Anda.
+
+ <h5>Ganti layar kunci</h5>
+Ada opsi non-drastis kedua yang tersedia untuk Anda: mengganti layar kunci sehingga saat ponsel dinyalakan berikutnya, pesan Anda ditampilkan. "KEMBALIKAN PONSEL SAYA" kemungkinan akan kontra-produktif, tetapi pesan "Tolong hubungi saya", mungkin didukung dengan imbalan sederhana, bisa saja berhasil.
+
+Sudah mencoba itu? Masih belum berhasil? Oke. Saatnya untuk memusnahkan data Anda.
+
+ <h5>Hapus data Anda</h5>
+Memilih opsi hapus akan menghapus ponsel atau tablet Anda dari jarak jauh. Itu sama dengan melakukan reset pabrik penuh, sehingga akan menghapus semua pengaturan Anda, musik Anda, foto Anda, dan aplikasi Anda (tetapi tidak dengan kartu SD). Seperti halnya mengunci, jika ponsel yang hilang mati maka memilih opsi ini akan menghapusnya dari jarak jauh setelah kembali online.
+Jika Anda cukup khawatir untuk mengambil opsi ini, Anda juga harus masuk ke akun Anda dan mencabut akses untuk ponsel Anda yang hilang. Kami juga menyarankan untuk mengubah semua kata sandi untuk layanan online Anda.
+Kemungkinan ponsel yang hilang menyebabkan orang jahat mengakses semua barang Anda sangat kecil, tetapi tidak butuh waktu lama untuk menghilangkan kemungkinan itu sama sekali.
+
+ <h5>Bagaimana jika Pengelola Perangkat Android tidak dapat terhubung?</h5>
+Jika Pengelola Perangkat Android tidak dapat terhubung, ada dua hal lagi yang bisa Anda coba. Google Maps melacak riwayat lokasi ponsel Anda - atau setidaknya, ia melakukannya jika Anda tidak mematikan fitur itu di Akun Google Anda - sehingga terkadang Anda dapat menemukan di mana ponsel Anda yang hilang pernah berada dengan mengunjungi halaman Riwayat Lokasi dan memeriksa stempel waktu. Ini tidak selalu memberi tahu Anda di mana ponsel Anda sekarang, tetapi dapat memberi tahu Anda di mana ia pernah berada.
+
+Opsi lainnya adalah menggunakan aplikasi seperti Android Lost, yang berfungsi baik pada perangkat Android lama. Ini adalah salah satu dari sedikit solusi yang dapat Anda instal dari jarak jauh, jadi ini adalah opsi yang bagus jika Anda belum mengaktifkan opsi Pengelola Perangkat Android yang ditentukan di atas. Aplikasi dan situs webnya terlihat mengerikan tetapi berfungsi dengan baik, meskipun perangkat harus online melalui jaringan seluler atau Wi-Fi agar bisa berfungsi.

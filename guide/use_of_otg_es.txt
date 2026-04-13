@@ -1,0 +1,67 @@
+USB OTG, USB on the go es un estándar
+que permite que los dispositivos móviles
+se comuniquen entre sí. Tradicionalmente,
+los dispositivos móviles solo podían conectarse a una
+Mac/PC por USB, pero USB OTG hace posible
+que los dispositivos se conecten directamente entre sí,
+
+ <h5>¿Cómo sé si mi dispositivo Android
+admite USB OTG?</h5>
+
+USB OTG tiene su propio logotipo, que
+debería estar en el empaque de su dispositivo
+si es compatible. Si no tiene el
+empaque original a mano, puede buscar
+con el modelo del dispositivo en Google para encontrar
+esta información.
+Generalmente, si su teléfono inteligente fue
+lanzado en los últimos dos años, lo
+admitirá.
+
+ <h5>¿Qué puedo hacer con USB OTG?</h5>
+Conectar un mouse o teclado
+
+Simplemente conecte un mouse USB y
+verá automáticamente que su cursor aparece en
+su pantalla. Esta también es una excelente manera
+de usar su dispositivo si la pantalla táctil
+está rota. Alternativamente, conecte un
+teclado externo para convertir una tableta en una
+computadora portátil.
+Conectar una unidad de almacenamiento USB
+
+Puede conectarse a dispositivos de almacenamiento como
+memorias USB o discos duros externos
+con USB OTG. Usando un administrador de archivos en
+su dispositivo, puede acceder directamente a los
+datos en un dispositivo de almacenamiento externo y
+reproducir películas o música sin tener que
+almacenarlos en su teléfono.
+
+ <h5>Conectar un controlador de juegos</h5>
+Usar un controlador de Xbox 360 con cable es
+una forma fácil de hacer esto: simplemente conéctelo
+a su teléfono con un cable USB OTG,
+inicie un juego y debería funcionar de
+inmediato, no se requiere configuración.
+
+ <h5>Use su teléfono inteligente roto desde una PC</h5>
+La pantalla está rota pero aún puede ver
+la pantalla
+Si ha roto su pantalla táctil pero
+la pantalla sigue funcionando (puede verla),
+puede solucionar esto usando un USB OTG
+y un mouse conectado a su dispositivo.
+
+Una vez que haya conectado el mouse,
+puede desbloquear su dispositivo independientemente
+de si tiene un patrón, PIN
+o contraseña. Recomendamos usar
+contraseñas de todos modos porque son
+muy seguras.
+
+Ahora que su teléfono está desbloqueado,
+puede conectarlo a su computadora y
+transferir los datos que necesita a su
+memoria microSD o conectarlo directamente
+a su PC y transferir los archivos allí.

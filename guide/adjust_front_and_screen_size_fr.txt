@@ -1,0 +1,19 @@
+<h5>Ajuster la police et la taille de l'écran</h5>
+Avec Android, vous pouvez ajuster la taille
+du texte et même celle des éléments non textuels,
+c'est-à-dire augmenter ou diminuer
+le rapport de la taille des applications (y compris les barres
+et les boutons) à la taille de l'écran selon vos
+besoins d'affichage
+Pour ajuster la taille du texte affiché
+n'importe où dans l'interface utilisateur.
+Ouvrez l'application Paramètres > sélectionnez Affichage >
+appuyez sur Taille de la police et déplacez le curseur pour définir
+la taille finale de la police.
+
+Pour ajuster la taille des parties non textuelles
+de l'interface, y compris le tiroir,
+les barres et les boutons, ouvrez l'application Paramètres
+cliquez sur Affichage > appuyez sur Taille d'affichage et
+déplacez le curseur pour définir la taille que vous souhaitez.
+

@@ -1,0 +1,22 @@
+<h5>Mejor gestión de notificaciones</h5>
+Con Android, puedes gestionar ciertos
+tipos de notificaciones basadas en las aplicaciones
+de las que provienen. Ignora anuncios, promociones
+y otras notificaciones irrelevantes y
+mantén solo las importantes que realmente
+requieren tu atención.
+Para hacer esto, en cualquier notificación entrante,
+mantén presionada la notificación de la aplicación
+> selecciona el comportamiento
+acorde a las opciones. Puedes
+elegir silenciar las notificaciones o
+bloquearlas totalmente.
+Si tocas en MÁS CONFIGURACIONES (en la
+parte inferior, junto a LISTO), puedes elegir:
+*Bloquear todas las notificaciones de esta aplicación,
+*Mostrarlas silenciosamente.
+*Controlar lo que aparece en la pantalla de
+bloqueo, o
+*Permitir que la aplicación anule la configuración de
+No molestar.
+

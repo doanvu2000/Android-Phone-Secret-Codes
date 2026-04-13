@@ -1,0 +1,15 @@
+ <h5>Comment utiliser le point d'accès WiFi?</h5>
+ <ol>
+<li> Depuis l'écran d'accueil, sélectionnez le
+menu Paramètres.</li>
+<li> Cliquez sur PLUS puis sur Partage de connexion
+et point d'accès portable.</li>
+<li> Ensuite, cochez la case Partage de connexion WiFi.</li>
+<li>Ensuite, cliquez sur Configurer le point d'accès WI-FI.</li>
+<li> Ensuite, définissez le nom d'utilisateur et le mot de passe.</li>
+<li> Maintenant, activez le WiFi de votre ordinateur portable.</li>
+<li> Vous verrez que votre point d'accès
+WiFi apparaîtra dans les paramètres WIFI
+de votre ordinateur portable.</li>
+<li> Maintenant, connectez-vous et profitez-en.</li>
+</ol>

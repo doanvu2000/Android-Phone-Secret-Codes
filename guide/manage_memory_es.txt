@@ -1,0 +1,101 @@
+ Los teléfonos y tabletas Android pueden
+ llenarse rápidamente a medida que descargas
+ aplicaciones, agregas archivos multimedia como música
+ y películas, y almacenas datos para uso
+ sin conexión. Muchos dispositivos de gama baja
+ pueden incluir solo unos pocos gigabytes de
+ almacenamiento, haciendo de esto un problema aún
+ mayor.
+ Cuanto menos espacio tengas,
+ más tiempo tendrás que gastar
+ gestionando el almacenamiento interno. Si
+ te encuentras regularmente quedándote sin
+ espacio y necesitando gestionarlo intenta
+ las siguientes sugerencias
+
+ <h5>Usa la Herramienta de Almacenamiento Integrada de Android</h5>
+ Para encontrar esto, abre la Pantalla de
+ Configuración y toca Almacenamiento. Puedes
+ ver cuánto espacio es utilizado por
+ aplicaciones y sus datos, por imágenes
+ y videos, archivos de audio, descargas,
+ datos en caché, y otros archivos
+ misceláneos. Toca descargas para ver
+ la lista de descargas donde puedes eliminar
+ archivos y toca datos en caché para borrar
+ los datos de todas las aplicaciones instaladas. Usa
+ las otras opciones para ver qué archivos
+ están ocupando espacio y elimina los
+ que no quieres.
+
+
+ <h5>Mira Qué Carpetas y Archivos Están Ocupando
+ Más Espacio</h5>
+ Puedes eliminarlos directamente desde dentro de
+ la aplicación Disk Usage para liberar espacio. Por
+ ejemplo, podrías ver una carpeta sobrante
+ de un juego o aplicación que has desinstalado.
+ La aplicación debería haber eliminado esos
+ datos, pero puedes hacerlo a mano con esta
+ aplicación. Selecciona una carpeta o archivo, toca el botón de
+ menú, y toca Eliminar para removerlo.
+
+ <h5> Agrega una Tarjeta SD y Mueve Datos Allí</h5>
+
+ Si tu teléfono o tableta tiene una
+ ranura micro SD, puedes comprar una
+ para ganar más almacenamiento.
+ Después de instalar la tarjeta SD, formatéala
+ como almacenamiento portátil o Interno luego
+ conecta tu dispositivo a tu computadora
+ y mueve tu música, y otros
+ archivos al espacio libre de la tarjeta SD. La tarjeta
+ SD será vista como almacenamiento local en ese
+ dispositivo. El sistema determinará qué
+ aplicaciones tienen más sentido mover a
+ la tarjeta SD, luego adelante y muévelas.
+ No puedes discernir entre
+ almacenamiento interno verdadero y una tarjeta SD
+ formateada para uso interno, así que ahora hay
+ una manera de mover manualmente aplicaciones
+ individuales.
+
+ Si estás ejecutando una versión pre-Marshmallow
+ de Android, puedes mover Algunas
+ aplicaciones usando las características integradas de Android.
+
+ <h5>Mueve Fotos a la Nube</h5>
+ En lugar de almacenar Fotos en tu
+ teléfono, podrías usar una cuenta en línea
+ como Google photos, Dropbox, Microsoft
+ OneDrive, Flickr, o algo más.
+ Google Photos está integrado en la
+ aplicación en tu dispositivo Android
+ y ofrece almacenamiento ilimitado de fotos.
+ Puedes acceder a ellas desde dentro de la
+ aplicación Photos.
+
+
+ <h5>Borrar Datos de Aplicaciones que ocupan mucho tamaño</h5>
+ Esto borrará todos los datos relacionados
+ a una aplicación. Si borras los archivos
+ para una aplicación como Facebook, tienes
+ que reingresar las contraseñas de nuevo. Esto es
+ algo para usar con precaución. Por
+ ejemplo, los juegos guardados probablemente también
+ se borrarán.
+
+ <h5>Vaciar el caché</h5>
+ Esto es también un dominio que requiere
+ sentido común. De hecho, lo que estamos
+ a punto de hacer es eliminar el caché para
+ ciertas aplicaciones que están ocupando mucho
+ espacio. El caché, como se mencionó antes,
+ es un tipo de biblioteca donde tus aplicaciones
+ almacenan sus archivos para recuperar más tarde. Puede
+ ser vaciado de vez en cuando.
+
+ Vaciar el caché te permitirá
+ desbloquear una aplicación que ya no
+ funciona, como Google Play después de su
+ actualización fallida.

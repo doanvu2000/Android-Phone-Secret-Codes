@@ -1,0 +1,153 @@
+ <h5>Assurez-vous d'être à jour</h5>
+
+Le dernier logiciel contient souvent des
+corrections de bugs et des améliorations générales
+et il peut aider votre appareil Android
+à mieux fonctionner. Les mises à jour logicielles ont tendance à
+arriver par les airs (OTA) et vous devriez
+être automatiquement invité à les installer,
+mais cela ne fait pas de mal de vérifier.
+
+<h5>Allez dans Paramètres > À propos de l'appareil >
+Mise à jour logicielle et vérifiez les
+mises à jour.</h5>
+
+La même logique s'applique aux applications,
+donc lancez le Play Store, ouvrez le
+menu en haut à gauche et appuyez sur Mes
+applications et assurez-vous que toutes les applications
+que vous utilisez sont à jour.
+
+ <h5>Nettoyez votre écran d'accueil</h5>
+Si vous choisissez d'utiliser un fond d'écran animé,
+envisagez de le remplacer par une
+bonne image statique. Vous devriez également
+supprimer toutes les icônes inutilisées et
+limiter vos widgets à l'essentiel.
+Moins votre écran d'accueil est encombré,
+mieux c'est en termes de performances.
+
+
+ <h5>Désinstallez et désactivez les applications inutilisées</h5>
+
+vous ne voulez pas permettre aux applications que
+vous n'utilisez jamais de prendre de la place sur
+votre appareil et potentiellement de consommer
+les ressources du système. Allez dans Paramètres >
+Applications et faites glisser vers l'onglet Toutes.
+Regardez attentivement la liste
+et identifiez les applications dont vous ne voulez pas
+ou dont vous n'avez pas besoin. Si vous avez un doute sur
+l'utilité de l'une d'entre elles, il est temps de
+consulter Google et de vérifier.
+
+Appuyez sur n'importe quelle application dont vous ne voulez pas
+puis choisissez Désinstaller ou, si l'option
+n'est pas là pour désinstaller, appuyez sur
+Désactiver. Les applications désactivées seront répertoriées
+dans un nouvel onglet, vous pouvez donc toujours
+les réactiver à l'avenir si vous
+changez d'avis.
+
+Vous devriez également jeter un œil dans
+Paramètres > Applications sur l'onglet
+En cours d'exécution. Certaines applications veulent s'exécuter
+tout le temps et elles peuvent sérieusement
+nuire aux performances. Réfléchissez
+bien si vous avez besoin de
+ce qui est répertorié là.
+
+ <h5>Désactivez ou réduisez les animations</h5>
+Vous pouvez rendre votre appareil Android
+plus réactif en réduisant ou en désactivant
+certaines animations. Vous devrez
+activer les Options pour les développeurs pour
+faire cela. Allez dans Paramètres >
+À propos du téléphone et faites défiler jusqu'à
+la section Système pour chercher le Numéro de
+build.
+appuyez dessus sept fois et vous
+devriez voir un message indiquant que vous êtes un
+développeur. Vous pouvez maintenant revenir au
+menu précédent et vous devriez
+voir Options pour les développeurs répertorié sous
+Système. Entrez-y et faites défiler
+vers le bas pour trouver Échelle animation
+fenêtres, Échelle animation transitions, et
+Échelle durée animateur. Appuyez sur chacun
+tour à tour et réglez-le sur 0,5x ou désactivé. Choisissez une
+option et voyez ce qui vous convient,
+si cela ne vous plaît pas, revenez simplement en arrière et
+changez à nouveau les valeurs.
+
+ <h5>Effacez les données de cache des applications</h5>
+Les données en cache des applications devraient les aider
+à se charger plus rapidement, mais elles peuvent
+s'accumuler au fil du temps pour occuper pas mal
+d'espace et il y aura potentiellement
+des données en cache pour des applications
+que vous n'utilisez plus. Parfois,
+effacer les données en cache d'une application peut
+également aider à corriger un comportement instable.
+
+Si vous souhaitez choisir des applications individuelles,
+allez dans Paramètres > Applications et
+faites glisser sur l'onglet Toutes et appuyez sur
+l'application concernée, puis choisissez Effacer
+le cache. Si vous avez décidé de tout effacer,
+allez dans Paramètres >
+Stockage et appuyez sur Données en cache,
+puis appuyez sur OK.
+
+ <h5>Désactivez ou réduisez la synchronisation automatique</h5>
+La plupart d'entre nous finissent par ajouter une liste
+de différents comptes à nos
+appareils Android et nous leur permettons
+de se synchroniser automatiquement en arrière-plan
+pour récupérer de nouvelles données
+et nous fournir des mises à jour. Toute
+cette synchronisation a un impact important sur les
+performances, sans parler de la durée de vie de la
+batterie.
+
+Vous pourriez aller dans Paramètres et trouver
+Synchronisation auto sous Comptes et
+simplement la désactiver complètement, mais cela
+sera trop radical pour la plupart des gens.
+Au lieu de cela, pourquoi ne pas simplement réduire la
+fréquence de synchronisation et supprimer tous les
+comptes dont vous n'avez pas vraiment besoin ? Pour
+de nombreuses applications, comme Facebook, vous devrez
+ouvrir l'application et trouver les
+paramètres pour réduire la fréquence de
+synchronisation.
+
+ <h5>Effacez la partition de cache (Wipe cache partition)</h5>
+La partition de cache est distincte du
+cache de données de vos applications et elle contient des
+fichiers temporaires. Cela vaut la peine de la nettoyer
+de temps en temps. Vous devrez
+démarrer en mode de récupération (recovery mode)
+pour le faire. La méthode pour entrer en mode de
+récupération varie selon votre
+appareil, mais vous la trouverez facilement
+avec une recherche rapide sur Google. Une fois en mode de
+récupération, utilisez les touches de volume
+pour naviguer et la touche d'alimentation pour
+sélectionner un élément. Vous voudrez
+choisir wipe cache partition.
+
+ <h5>Effectuez une réinitialisation d'usine</h5>
+C'est une étape radicale, mais certaines
+personnes recommandent de faire
+une réinitialisation d'usine périodiquement si vous
+voulez que votre appareil fonctionne dans de bonnes
+conditions. C'est un raccourci pour nettoyer
+votre appareil et vous débarrasser de
+tout le bric-à-brac que vous avez accumulé, mais
+cela signifie effacer toutes les données et tous les
+paramètres. Si vous décidez de l'essayer,
+assurez-vous d'abord de sauvegarder tout ce qui est
+important pour vous. Vous pouvez
+trouver l'option pour le faire dans Paramètres >
+Sauvegarde et réinitialisation > Rétablir la configuration d'usine.

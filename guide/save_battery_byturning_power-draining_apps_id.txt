@@ -1,0 +1,26 @@
+Pilih kategori Aplikasi dari daftar
+Geser layar untuk mengubah
+kategori dari penyimpanan Internal ke
+daftar aplikasi yang Berjalan
+Gambar menunjukkan daftar aplikasi yang Berjalan
+Sekarang pilih dan "hentikan" aplikasi
+yang berjalan tanpa perlu dan
+menguras baterai perangkat Anda
+
+jika baterai Anda mati terlalu cepat, mungkin
+karena aplikasi latar belakang
+yang Anda lupa sedang berjalan. Meningkatkan
+masa pakai baterai Anda bisa lebih mudah dari yang Anda
+pikirkan.
+
+<h5>Navigasi ke Pengaturan>>Aplikasi>>lalu
+geser ke tab yang sedang berjalan</h5> . Anda akan melihat
+aplikasi yang menggunakan pemrosesan
+dan daya baterai paling banyak. Jika Anda tidak menggunakan
+aplikasi berdaya tinggi sangat sering, cukup ketuk
+aplikasi dan kemudian ketuk tombol keluar.
+Menyingkirkan aplikasi yang menyedot energi
+seharusnya memberi Anda sedikit dorongan untuk
+masa pakai baterai Anda.
+
+

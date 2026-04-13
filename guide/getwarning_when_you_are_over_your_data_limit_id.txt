@@ -1,0 +1,25 @@
+ Penggunaan data ponsel Anda bisa sulit
+ untuk dilacak. Jika jaringan 4G Anda cukup
+ cepat, Anda berpotensi
+ mengunduh file dengan kecepatan yang sama
+ dengan Internet rumah Anda. Untungnya, Android
+ hadir dengan sistem notifikasi penggunaan data
+ yang terintegrasi.
+
+ <h5> Hindari kesalahan umum paket data yang
+ bisa merugikan Anda.
+ Pertama, navigasikan ke Pengaturan>>Penggunaan Data.</h5>
+ Anda akan melihat grafik yang menampilkan
+ penggunaan data Anda, bersama dengan bilah
+ kuning dan merah.
+
+ Bilah kuning menunjukkan kapan ponsel
+ Anda akan memperingatkan Anda tentang penggunaan
+ data Anda. Merah adalah batas keras pada
+ data Anda untuk menghindari biaya berlebih.
+
+ Garis merah haruslah batas data
+ bulanan Ponsel Cerdas Anda. Jika
+ Anda tidak tahu batas data Anda, Anda
+ harus menghubungi operator seluler Anda sesegera
+ mungkin.

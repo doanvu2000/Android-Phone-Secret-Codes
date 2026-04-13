@@ -1,0 +1,25 @@
+<h5>Libérer automatiquement de l'espace de stockage</h5>
+Pour vous assurer de ne pas manquer
+d'espace de stockage sur votre appareil Android
+avec des photos et des vidéos qui ont déjà été
+sauvegardées, Google inclut
+une option pratique de 'Stockage intelligent'. La
+fonctionnalité garantit que lorsque l'espace de
+stockage du système est faible, le système d'exploitation
+peut supprimer vos photos et vidéos sauvegardées
+pour libérer de l'espace automatiquement.
+Cette fonctionnalité ne fonctionne que lorsque vous avez
+configuré Google Photos pour sauvegarder automatiquement
+vos photos et vidéos.
+Pour activer le Stockage intelligent, allez dans
+Paramètres -> Stockage -> Gérer le stockage.
+Assurez-vous d'activer l'option Stockage intelligent
+dans le menu qui s'ouvre.
+Vous pouvez également décider si la fonctionnalité
+doit supprimer les photos datant de 30, 60 ou
+90 jours à partir de l'option Photos et vidéos
+sauvegardées.
+Si vous le souhaitez, vous pouvez également libérer manuellement
+de l'espace de stockage en utilisant l'option libérer
+de l'espace maintenant.
+

@@ -1,0 +1,139 @@
+<h5>Cara Memeriksa pembaruan Sistem android</h5>
+Untuk pengguna Android yang menggunakan ROM
+bawaan, Anda mungkin ingin mencari pembaruan
+baru untuk sistem Anda. Untuk memeriksa
+pembaruan:
+
+Buka Pengaturan> tentang ponsel/tablet.
+
+Ketuk Pembaruan sistem.
+
+Ketuk Periksa sekarang untuk mencari pembaruan
+sistem.
+
+ <h5>Mengubah Aplikasi Default</h5>
+Jika Anda sudah mengatur beberapa aplikasi
+default untuk tugas tertentu (mis. menggunakan
+Chrome untuk membuka tautan web) tetapi ingin
+mengubah ini:
+
+Buka Pengaturan > Aplikasi.
+
+Geser ke kanan dan cari tab semua.
+
+Pilih aplikasi yang ingin Anda hapus sebagai
+default.
+
+Ketuk Hapus default.
+
+
+ <h5>Mengatur Pintasan Layar Beranda dengan
+Folder</h5>
+
+Setelah Anda memiliki banyak aplikasi terinstal,
+Layar Beranda Anda mungkin dipenuhi dengan
+pintasan aplikasi. Tidak seperti laci aplikasi
+aplikasi di Layar Beranda Anda tidak
+disusun menurut abjad, jadi, Anda mungkin
+ingin membuat beberapa folder untuk pintasan
+Layar Beranda Anda.
+
+Asumsikan Anda memiliki lebih dari
+segenggam pintasan yang sudah ada di
+Layar Beranda Anda, tekan lama pada salah satu
+pintasan dan seret ke atas pintasan
+lain
+
+Lingkaran sekarang akan muncul di sekitar
+aplikasi, menunjukkan bahwa folder telah
+dibuat.
+
+Dengan mengetuk folder yang baru dibuat,
+jendela mini akan muncul Dengan aplikasi
+Anda di Dalamnya.
+
+Anda dapat menyeret dan menjatuhkan aplikasi tambahan
+ke dalam folder jika Anda suka. Anda juga dapat
+mengganti nama folder dengan mengetuk
+area teks di bagian bawah jendela
+mini.
+
+Ada banyak aplikasi Facebook alternatif
+tetapi banyak dari mereka sama laparnya dengan
+versi resmi.
+bahkan facebook lite, yang mengklaim
+mengurangi konsumsi data sebesar
+50 persen, masih mengunyah ratusan MB dalam sebulan.
+
+Jadi mengapa tidak mencoba Tinfoil for Facebook
+yang Hanyalah aplikasi web yang menampilkan
+situs web Facebook atau Anda bisa
+Hanya membuat pintasan Chrome Di browser
+web Anda. Cukup buka Facebook Di
+Chrome, buka menu luapan dan pilih Tambahkan ke layar Beranda.
+
+ <h5>Nonaktifkan Animasi</h5>
+Berikut tip tentang cara membuat perangkat Android
+Anda berjalan sedikit lebih lancar: nonaktifkan
+animasinya. Anda perlu memiliki akses
+ke Opsi Pengembang yang dapat
+ditemukan di bawah pengaturan atau tentang perangkat.
+
+Catatan: Untuk beberapa ponsel, Anda mungkin perlu
+pergi ke Nomor bentukan dan ketuk padanya
+berulang kali sampai Anda melihat Anda sekarang adalah
+pengembang. Opsi pengembang sekarang
+diaktifkan.
+
+Di bawah opsi Pengembang yang diaktifkan, cari
+skala animasi jendela, skala animasi
+Transisi, dan Skala durasi
+Animator. Kemudian, matikan (nonaktifkan) mereka
+satu per satu.
+
+ <h5>Cara Mematikan Koreksi Otomatis</h5>
+Benci fakta bahwa ponsel Anda menjadi
+mode guru bahasa Inggris pada Anda? matikan
+koreksi otomatis untuk ketenangan pikiran saat
+mengirim pesan.
+Buka Pengaturan Bahasa & masukan.
+Ketuk ikon pengaturan di sebelah
+keyboard yang Anda gunakan, mis. Keyboard
+Google.
+Cari Koreksi otomatis dan ketuk padanya.
+
+Pilih Mati untuk mematikan koreksi otomatis.
+
+ <h5>Mengubah preferensi Jaringan</h5>
+
+Banyak perangkat saat ini berjalan di jaringan
+4G. Sayangnya cakupan
+4G sering tidak merata, dan menggunakannya dapat dengan cepat
+menguras baterai ponsel Anda dan menempatkan Anda
+di atas jatah data bulanan Anda. Anda
+mungkin ingin menggunakan jaringan 4G hanya
+di area yang terjangkau dengan baik, atau beralih ke 3G
+saat Anda kehabisan daya
+Android membuatnya mudah untuk melakukan ini. Untuk
+Beralih jaringan, cukup buka <h5>Pengaturan
+>Jaringan seluler > Mode jaringan</h5> dan
+atur ponsel Anda ke CDMA saja (3G) atau
+LTE/CDMA (4G). Pengaturan ini mungkin
+bervariasi tergantung pada lokasi Anda dan
+jaringan mana Anda berada.
+
+ <h5>Pesan flash di layar kunci</h5>
+Jika Anda bernasib buruk kehilangan
+ponsel Anda, tidak mungkin Anda akan
+mendapatkannya kembali. Bahkan jika seseorang ingin
+mengembalikannya, perlindungan kata sandi akan
+mencegah mereka mengakses nomor
+untuk menghubungi Anda. Dengan Android 4.1, 4.2 dan
+4.3 (Jelly Bean), Anda dapat menampilkan informasi
+Kontak Anda di Layar kunci
+untuk meningkatkan peluang bersatu kembali
+dengan perangkat yang hilang. Dari Pengaturan. buka
+Keamanan> Keamanan layar > Info pemilik.
+Anda dapat memasukkan nama, alamat email,
+nomor telepon atau informasi lainnya untuk
+muncul di layar kunci.

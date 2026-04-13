@@ -1,0 +1,105 @@
+ <h5>Atur dengan benar</h5>
+Pastikan Anda telah mengatur Google Now dengan
+benar sebelum Anda mulai menjelajah.
+Pertama, buat Google Now mengenali
+perintah "OK Google" Anda dari layar
+mana pun dengan mengetuk ikon menu hamburger
+di aplikasi Google. lalu buka
+ Pengaturan Suara > deteksi OK Google.
+ Di sini Anda cukup geser semua toggle ke
+kanan.
+Setelah selesai, Anda akan diminta
+untuk melatih OK Google ke perangkat Anda, yang
+Anda lakukan dengan mengatakan "OK Google" tiga
+kali.
+Selanjutnya, buka Pengaturan> Suara
+Pengenalan ucapan offline  dan pastikan
+semua bahasa yang Anda butuhkan telah
+diunduh. Dengan cara ini, Anda masih dapat
+menggunakan perintah OK Google yang tidak
+memerlukan internet saat Anda offline.
+Jika Anda cukup mempercayai Google untuk memberinya
+akses ke data lokasi Anda, Anda akan
+membuka banyak fitur Google Now yang
+hebat. Untuk membiarkan Google Now menggunakan
+data lokasi Anda, buka aplikasi pengaturan
+Google, pilih Lokasi dan pastikan sudah
+diatur ke Aktif. Selanjutnya, buka Riwayat Lokasi Google
+di bagian bawah halaman yang sama
+dan atur ini ke Aktif juga.
+Saat Anda melakukannya, buka aplikasi
+Google, tekan ikon menu hamburger
+dan kemudian buka Sesuaikan. di sini, Anda
+dapat mengatur alamat rumah dan kantor Anda,
+yang dapat digunakan untuk mengatur pengingat dan
+mendapatkan informasi tentang perjalanan Anda.
+Anda juga dapat memasukkan tim olahraga
+favorit Anda, mode transportasi apa yang
+Anda gunakan, dan lainnya, untuk mendapatkan kartu yang paling berguna
+dan menarik yang ditampilkan
+
+<h5>Pelajari semua perintah suara
+OK Google</h5>
+
+Google Now OK Google menawarkan ratusan
+perintah Suara yang dapat digunakan untuk
+mencapai sejumlah operasi. semakin
+banyak Anda tahu, semakin banyak yang akan Anda dapatkan
+dari Google Now.
+ <h5>Gunakan pengingat berbasis lokasi</h5>
+Jika Anda harus mengingat untuk melakukan sesuatu
+di tempat tertentu, tetapi Anda tidak yakin
+jam berapa Anda akan berada di sana, Anda dapat meminta
+Google untuk mengingatkan Anda setelah mendeteksi
+bahwa Anda berada di sana. ini dapat berguna untuk mengingat
+apa yang perlu Anda beli saat Anda tiba
+di toko, atau bahwa Anda perlu
+menyalakan oven segera setelah Anda
+tiba di rumah, misalnya.
+ <h5>Biarkan membantu Anda dengan pengaturan perjalanan</h5>
+Jika Anda menggunakan Google Calendar, Google
+Now akan memberi Anda kartu
+dan notifikasi yang memberi tahu Anda
+sebelumnya jam berapa Anda harus berangkat
+untuk tiba di janji tepat waktu.
+Notifikasi ini bahkan memperhitungkan
+kondisi lalu lintas, membuat Anda menjadi manusia yang lebih
+tepat waktu dan efektif.
+Pastikan Anda memiliki mode
+transportasi pilihan Anda yang dipilih  (Sesuaikan > transportasi)  dan
+kemudian buka  pengaturan> kartu NOW
+ dan aktifkan Perjalanan dan Waktu untuk Berangkat.
+
+ <h5>Gunakan untuk melacak paket atau penerbangan</h5>
+
+Jika Anda menerima konfirmasi penerbangan
+dan informasi pelacakan pengiriman ke akun
+email Google yang ditautkan ke
+Google Now, email ini akan digunakan
+untuk menyediakan kartu yang melacak paket
+dan memperbarui Anda tentang status penerbangan Anda.
+Hal yang sama dapat dilakukan untuk penerbangan apa pun
+dengan mencari nomor penerbangan. Jika
+Anda memiliki riwayat web yang diaktifkan, Google
+Now akan membuat kartu khusus untuk
+penerbangan.
+
+<h5> Ajukan pertanyaan lanjutan</h5>
+
+Google Now cukup baik dalam
+mengontekstualisasikan apa yang Anda katakan. Jika Anda
+telah bertanya, "Seberapa besar California?",
+misalnya, Anda dapat mengajukan pertanyaan lanjutan
+seperti "Berapa banyak orang
+yang tinggal di sana?" dan Google seharusnya tidak memiliki
+masalah mengingat bahwa "di sana"
+mengacu pada California.
+ <h5>Luncurkan aplikasi</h5>
+Google Now selalu ada
+untuk memberikan pengalaman bebas genggam,
+jadi, mengapa terus menggunakan jari Anda
+untuk membuka aplikasi dengan susah payah? Cukup katakan
+"Buka [nama aplikasi]" dan biarkan Google melakukannya
+untuk Anda!
+
+

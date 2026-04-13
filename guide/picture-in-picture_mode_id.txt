@@ -1,0 +1,30 @@
+<h5>Mode Gambar-dalam-Gambar</h5>
+
+Mode gambar-dalam-gambar baru Android
+memungkinkan Anda meminimalkan video sehingga Anda dapat
+melakukan banyak tugas. Apa yang dimaksud dengan ini pada dasarnya
+adalah bahwa Anda dapat melakukan panggilan video kepada seseorang
+atau menonton video di YouTube sambil
+memeriksa email Anda atau melakukan pekerjaan lain
+di latar belakang.
+
+Untuk mengaktifkan mode Gambar-dalam-Gambar,
+ikuti langkah-langkah di bawah ini:
+Buka Pengaturan Android Anda
+dan ketuk Aplikasi & Notifikasi. Setelah
+di sana, ketuk Lanjutan untuk mengungkapkan lebih banyak
+opsi.
+Sekarang, ketuk opsi Akses Aplikasi Khusus.
+Setelah di sana, daftar baru kontrol akses khusus
+yang tersedia untuk berbagai aplikasi
+akan terbuka.
+
+Pilih Gambar-dalam-Gambar dari daftar
+Anda sekarang akan disajikan dengan
+daftar semua aplikasi yang mendukung
+gambar-dalam-gambar. Cukup ketuk pada
+aplikasi yang diinginkan dan aktifkan sakelar di sebelah
+Izinkan gambar-dalam-gambar.
+
+Anda sekarang dapat menggunakan mode Gambar-dalam-Gambar
+untuk aplikasi yang Anda inginkan.

@@ -1,0 +1,134 @@
+ Android a mauvaise réputation pour la courte durée de vie de la
+batterie. Faites ces changements Simples sur
+votre smartphone ou tablette et suivez
+ces trucs et astuces alors vous pourrez avoir
+une meilleure et plus longue durée de vie de la batterie sur votre
+smartphone.
+
+ <h5>1. Désactiver l'historique de localisation et les rapports</h5>
+Le Système de Positionnement Global (GPS) est
+un énorme consommateur de batterie, car il exploite
+les données des tours de téléphonie cellulaire,
+des points d'accès Wi-Fi, et de la puce du système de positionnement Global du téléphone,
+pour trouver votre position. l'
+utilisation de la batterie est directement liée à l'utilisation du GPS,
+plus votre téléphone surveille votre
+position, plus il consomme de batterie.
+
+L'historique de localisation et les rapports de localisation
+sont deux services basés sur le GPS avec
+des motifs quelque peu flous. La page d'aide de Google
+dit que, les services peuvent
+être utilisés conjointement avec d'autres
+Google Apps. Vous pouvez désactiver ces
+deux fonctionnalités qui mangent votre batterie
+en allant dans paramètres Localisation
+Services de localisation Google > Historique de
+localisation Google.
+
+<h5> 2. Désactiver les cartes Google Now</h5>
+Google Now est un assistant personnel inégalé
+et, il vous aide de nombreuses façons.
+Mais certains de ses Services qui Viennent
+sous forme de cartes d'information sont
+inutiles et sont responsables du
+drainage de la batterie. quand vous voyagez vers un lieu
+que Google reconnaît comme un lieu hors de
+votre routine habituelle alors la carte intitulée
+Lieux à proximité apparaît. la Carte
+comprend des attractions à proximité et est une
+fonctionnalité sympa mais si vous voulez économiser votre
+batterie alors vous feriez mieux de la désactiver. Pour
+les désactiver, allez sur Google Now
+et faites défiler vers le bas et appuyez sur la baguette
+magique. Ici, vous pouvez choisir les cartes
+et rejeter toutes celles qui ne sont pas nécessaires.
+ la carte dépendante du GPS demandera
+la majeure partie de votre batterie donc il vaut mieux désactiver les cartes
+comme lieux à proximité " et " voyage pour voir un boost de batterie
+la plupart d'entre nous . ne savent pas que ce genre de fonctionnalités sont
+présentes dans notre smartphone et manquent
+une meilleure expérience utilisateur.
+
+<h5> 3. Analyse WiFi</h5>
+Nous savons tous que lorsque le Wi-Fi est laissé
+activé, plus d'énergie est utilisée. Beaucoup d'
+entre nous ne savent pas que sous Android même
+lorsque le Wi-Fi est désactivé, un téléphone pourrait
+ chercher des réseaux. pour empêcher le drainage de la batterie,
+allez dans paramètres wifi > avancé, où vous
+pouvez décocher l'option pour l'analyse wifi.
+mais vous devrez vous connecter au wifi manuellement,
+mais ce que vous obtenez en retour est une durée de vie de la batterie plus longue.
+
+ <h5> 4. Mettez à jour tous vos Logiciels</h5>
+Il est inutile de dire que chaque mise à jour de firmware
+apporte des fonctionnalités et des correctifs qui
+Améliorent les performances de l'appareil.
+Chaque mise à jour aide à une meilleure
+gestion des ressources énergétiques. La plupart
+des Fabricants donnent des mises à jour
+pour leurs mobiles. Si vous ne l'avez pas mis à jour
+encore, allez dans paramètres > À propos du
+téléphone > Mises à jour du Système et vérifiez
+là-bas pour la mise à jour. disons par exemple,
+la toute nouvelle mise à jour de google pour
+android OS inclut une interface utilisateur mise à jour, des fonctionnalités de déverrouillage intelligent,
+une nouvelle économie de batterie et un système de notification remanié.
+
+<h5>5. Le Réseau Mobile Sélectif est un autre
+Point clé</h5>
+
+Si vous n'utilisez pas les données mobiles
+alors pourquoi devrions-nous les laisser consommer la
+précieuse vie de la batterie ? Vous pouvez changer
+vos paramètres sur votre smartphone pour
+que vous puissiez utiliser uniquement les réseaux 2G pour
+les appels et les messages, si vous voulez surfer
+ou naviguer alors passez en 3G ou LTE.
+Vous pouvez économiser beaucoup de batterie en faisant
+cela. Vous pouvez basculer entre 2G et 3G
+ou LTE en suivant ce chemin, Paramètres
+Plus > Réseaux Mobiles > Mode Réseau.
+
+<h5> 6 .Apps qui augmentent la durée de vie de la batterie</h5>
+Essayez de désactiver les mises à jour automatiques sur votre
+appareil et manipulez les intervalles de rafraîchissement
+des applications installées pour
+préserver la batterie et obtenir une meilleure vie de batterie
+ sur votre smartphone. Des apps comme
+Battery Doctor et Greenery vous aident à
+préserver la batterie. Si vous n'êtes pas sûr de
+la consommation d'énergie d'une application alors
+ces applications vous aident à savoir quelles applications
+ consomment plus de ressources en fonction de votre
+utilisation et pour que vous puissiez vous rapporter sur leur
+Utilisation.
+
+<h5> 7. Synchronisation sélective des données</h5>
+Pour une durée de vie de la batterie améliorée, il est important
+de jeter un œil à ce qui est
+automatiquement synchronisé sur tous vos
+appareils. Disons par exemple chaque fois que vous
+prenez une photo elle serait automatiquement
+téléchargée et résulterait en un énorme drainage de batterie.
+Donc pour conserver votre batterie
+choisissez sélectivement ce qui a besoin
+d'être synchronisé. Le chemin est <h4>Paramètres>
+Comptes> Google> Synchronisation</h4>.
+
+<h5> 8.Ajuster les niveaux de luminosité</h5>
+L'autonomie de la batterie de votre appareil
+dépend du niveau de luminosité que vous
+définissez. Il est conseillé de régler la luminosité
+sur " Auto " dans les Paramètres rapides
+pour conserver votre batterie . le
+chemin est Paramètres>Affichage>Luminosité
+adaptative(activer).
+ <h5>9.Évitez les gros consommateurs</h5>
+Des applications comme go launcher
+Et les thèmes, qui sont graphiquement
+intenses consomment beaucoup de RAM lors de l'exécution
+ et consomment beaucoup de batterie. Nous recommandons
+  des lanceurs moins intensifs tels que Apex ou nova pour conserver votre batterie.
+

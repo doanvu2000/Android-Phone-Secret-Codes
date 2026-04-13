@@ -1,0 +1,24 @@
+<h5>Secara Otomatis Mengosongkan Ruang Penyimpanan</h5>
+Untuk memastikan Anda tidak kehabisan
+ruang penyimpanan di perangkat Android Anda
+dengan foto dan video yang telah
+dicadangkan, Google menyertakan
+opsi 'Penyimpanan Cerdas' yang praktis. Fitur
+ini memastikan bahwa ketika ruang
+Penyimpanan sistem hampir habis, OS
+dapat menghapus foto dan video yang dicadangkan
+untuk mengosongkan ruang secara otomatis.
+Fitur ini hanya berfungsi jika Anda telah
+mengatur Google Foto untuk secara otomatis mencadangkan
+foto dan video Anda.
+Untuk mengaktifkan Penyimpanan Cerdas, buka
+Pengaturan -> Penyimpanan -> Kelola Penyimpanan.
+Pastikan untuk mengaktifkan opsi Penyimpanan Cerdas
+dari menu yang terbuka.
+Anda juga dapat memutuskan apakah fitur
+tersebut harus menghapus foto yang berusia 30, 60 atau
+90 hari dari opsi Foto & video yang dicadangkan.
+Jika Anda mau, Anda juga dapat secara manual mengosongkan
+ruang penyimpanan dengan menggunakan opsi kosongkan
+ruang sekarang.
+

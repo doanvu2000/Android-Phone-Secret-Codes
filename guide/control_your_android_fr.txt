@@ -1,0 +1,23 @@
+<h5>Comment contrôler votre
+téléphone Android avec votre
+ordinateur ou ordinateur portable ?</h5>
+
+Maintenant vous pouvez contrôler votre téléphone
+Android avec votre ordinateur.
+Suivez-moi simplement.
+<ol>
+<li>Installez Team Viewer sur votre ordinateur
+ou ordinateur portable.</li>
+<li>Installez Quick Support sur votre téléphone
+Android depuis le Play Store.</li>
+<li>Maintenant ouvrez Team Viewer sur votre
+ordinateur et Quick Support sur votre
+téléphone Android.</li>
+<li>Maintenant copiez votre ID Quick Support et
+entrez-le dans le Team Viewer de votre ordinateur.</li>
+<li>Maintenant autorisez votre téléphone à se connecter
+avec votre ordinateur.
+ET OUI VOUS AVEZ TERMINÉ MAINTENANT.
+Profitez.)</li>
+</ol>
+

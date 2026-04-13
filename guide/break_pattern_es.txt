@@ -1,0 +1,46 @@
+<h5>¿Desbloquear patrón bloqueado
+Sin perder datos?</h5>
+ +Descargar (Aroma File Manager).
++Una tarjeta de memoria para dispositivo android.
++ Tu dispositivo android bloqueado ya sea por
+bloqueo de patrón o bloqueo de contraseña.
+ 1. 0 Después de descargar Aroma File Manager
+colócalo en tu tarjeta de memoria (tarjeta SD).
+Inserta la tarjeta de memoria en tu dispositivo
+android bloqueado.
+ 2. 0 Abre el Modo de Recuperación Stock
+reiniciando tu dispositivo android y
+presionando la tecla de Encendido y la tecla de Subir Volumen
+simultáneamente.
+Diferentes teléfonos pueden tener diferentes
+métodos para abrir el modo de recuperación stock
+así que si enfrentas algún problema búscalo en Google.
+ 30 . Después de entrar en el modo de recuperación usa
+los botones Volumen+ y Volumen- para desplazarte
+hacia arriba y hacia abajo.
+Para seleccionar usa el botón central.
+ 4. 0 Desde allí haz clic en "Install Zip from
+SD Card" y da la ruta para instalar "Aroma
+File Manager" desde la tarjeta SD.
+ 5. 0 Después de instalar, se abrirá en modo de
+recuperación.
+ 60 . Desde Aroma File Manager
+navega a configuración >> ve al fondo
+y haz clic en "AutoMount all devices on
+start" y luego sal.
+ 7. 0 Repite el paso 4 y 5 de nuevo.
+ 8. 0 Después de esto obtendrás "Aroma File
+Manager" abierto de nuevo.
+ 9. 0 Ahora navega a la Carpeta Data >>
+Carpeta System y encuentra >> "gesture.key"
+o "password.key" para bloqueo de patrón o
+bloqueo de contraseña respectivamente.
+ 10. 0 Elimina ese archivo y luego sal del
+administrador de archivos aroma y reinicia tu
+dispositivo android.
+Después de reiniciar notarás que
+la contraseña o bloqueo de patrón no se eliminó.
+Pero no te preocupes dibuja cualquier patrón y
+abrirás tu dispositivo android pero
+recuerda o anota ese patrón.
+

@@ -1,0 +1,11 @@
+<h5> Cara Mengaktifkan Pembesar Layar?</h5>
+<ol>
+Orang dengan penglihatan lemah sering tidak tahu
+seberapa banyak fitur ini dapat membantu mereka.
+Ikuti langkah-langkah ini
+<li> Buka Pengaturan</li>
+<li>  Aksesibilitas</li>
+<li> Gestur Pembesaran.
+Nikmati.</li>
+</ol>
+

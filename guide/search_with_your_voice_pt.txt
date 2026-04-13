@@ -1,0 +1,19 @@
+<h5> Pesquisar com sua voz</h5>
+Você já notou o microfone
+ao lado do widget do Google? Tocar no
+microfone permite que você pesquise qualquer coisa
+no seu telefone usando o poderoso
+software de análise de voz do Google.
+
+ <h5>Clique aqui para ver a rivalidade do Siri com
+Google Voice.</h5>
+Alguns telefones realmente suportam pesquisa por voz
+sem ter que pressionar nenhum
+botão. Se o seu telefone estiver por perto,
+você pode testá-lo dizendo OK Google,
+e depois uma solicitação. O Google Now tem
+um nível surpreendente de funcionalidade. Tente
+perguntar ao Google Now, Preciso de uma jaqueta
+hoje?
+Você pode se surpreender com a resposta do Google Now.
+

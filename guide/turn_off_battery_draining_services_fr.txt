@@ -1,0 +1,12 @@
+ <h5>Désactiver les services qui drainent la batterie</h5>
+Glissez du haut de votre écran vers
+le bas de votre écran d'accueil vous donnera
+des options rapides. Ces options varient
+de la sonnerie aux économiseurs d'énergie comme
+GPS, Wi-Fi, Bluetooth, données mobiles et
+mode avion.
+
+Si vous n'allez pas utiliser le Wi-Fi
+ou le GPS dans un avenir proche, ce menu
+facilite la désactivation de ces
+services qui drainent l'énergie.

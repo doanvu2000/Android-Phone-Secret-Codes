@@ -1,0 +1,26 @@
+Sélectionnez la catégorie d'application dans la liste
+Faites glisser l'écran pour changer la
+catégorie de stockage Interne à
+liste d'applications en cours d'exécution
+L'image montre une liste d'applications en cours d'exécution
+Maintenant, sélectionnez et "arrêtez" l'application
+qui s'exécute inutilement et
+draine la batterie de votre appareil
+
+si votre batterie se décharge trop rapidement, cela pourrait
+être à cause d'applications en arrière-plan
+que vous oubliez qu'elles sont en cours d'exécution. Améliorer
+la durée de vie de votre batterie peut être plus facile que vous
+ne le pensez.
+
+<h5>Accédez à Paramètres>>Applications>>puis
+glissez vers l'onglet en cours d'exécution</h5> . Vous verrez les
+applications qui utilisent le plus de traitement
+et d'énergie de batterie. Si vous n'utilisez pas une
+application gourmande en énergie très souvent, appuyez simplement sur
+l'application puis appuyez sur le bouton quitter.
+Se débarrasser des applications qui consomment de l'énergie
+devrait vous donner un petit coup de pouce à votre
+durée de vie de la batterie.
+
+

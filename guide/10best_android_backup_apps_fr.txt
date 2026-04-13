@@ -1,0 +1,31 @@
+Vous devriez toujours sauvegarder vos
+fichiers. C'est l'une des choses les plus
+importantes qu'une personne doit faire
+avec ses appareils électroniques. On ne sait
+jamais quand les choses vont mal tourner
+et vous ne voulez pas perdre vos données
+lorsque de tels événements se produisent.
+Heureusement, il existe de nombreuses façons
+de sauvegarder vos fichiers et vos applications
+sur Android. Pour cette liste, nous allons jeter
+un coup d'œil aux meilleures applications de
+sauvegarde Android. Malheureusement, avec
+les outils natifs devenant plus populaires, la
+scène des applications pour cela s'affaiblit un peu.
+De manière générale, à moins que vous ne soyez
+un utilisateur root, vos meilleures options sont
+généralement le stockage en nuage et la sauvegarde
+native de Google, mais nous en parlons plus en
+détail ci-dessous.
+Les meilleures applications de sauvegarde pour Android et
+d'autres moyens aussi
+<h6>1. Auto sync by MetaCtrl</h6>
+<h6>2. Buggy Backup Pro</h6>
+<h6>3. Backup your Mobile</h6>
+<h6>4. G Cloud Backup</h6>
+<h6>5. Google Photos</h6>
+<h6>6. Migrate</h6>
+<h6>7. Resilient Sync</h6>
+<h6>8. Solid Explorer</h6>
+<h6>9. Swift Backup</h6>
+<h6>10. Titanium Backup</h6>

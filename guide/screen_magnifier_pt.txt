@@ -1,0 +1,11 @@
+<h5> Como ativar a lupa de tela?</h5>
+<ol>
+Pessoas com visão fraca muitas vezes não têm
+ideia de quanto esse recurso pode ajudá-las.
+Apenas siga estes passos
+<li> Vá para Configurações</li>
+<li>  Acessibilidade</li>
+<li> Gesto de ampliação.
+Aproveite.</li>
+</ol>
+

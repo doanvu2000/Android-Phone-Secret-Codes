@@ -1,0 +1,27 @@
+<h5> Cómo usar el Ahorro de Datos</h5>
+
+ Una de las nuevas características clave en Android
+ es el nuevo modo de Ahorro de Datos en todo el sistema
+ que ayuda a reducir el uso de datos móviles.
+ La función funciona restringiendo que las
+ aplicaciones reciban o envíen datos
+ en segundo plano. Tus aplicaciones usadas
+ frecuentemente continuarán teniendo acceso
+ a datos en segundo plano, pero la
+ frecuencia se reducirá para limitar el uso de
+ datos. Otro efecto secundario positivo no intencionado
+ de usar el modo de Ahorro de Datos es
+ que conduce a una ligera mejora en la
+ vida de la batería.
+ Aquí te mostramos cómo puedes habilitar el modo de Ahorro de Datos
+ en tu dispositivo Android:
+ Dirígete a Configuración-> Uso de Datos ->
+ Ahorro de Datos.
+ Mueve el interruptor en la esquina superior
+ derecha a Encendido, y ya está.
+
+ En caso de que no quieras que el uso de datos
+ móviles se restrinja para ciertas aplicaciones,
+ siempre puedes ponerlas en la lista blanca del
+ modo de Ahorro de Datos usando la
+ opción de acceso a datos sin restricciones.

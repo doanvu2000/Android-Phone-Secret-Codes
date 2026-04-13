@@ -1,0 +1,46 @@
+<h5>Desbloquear Padrão Bloqueado
+Sem Perder Dados?</h5>
+ +Baixe (Aroma File Manager).
++Um cartão de memória para dispositivo android.
++ Seu dispositivo android bloqueado por
+bloqueio de padrão ou bloqueio de senha.
+ 1. 0 Após baixar o Aroma File Manager
+coloque-o no seu cartão de memória (cartão SD).
+Insira o cartão de memória no seu dispositivo
+android bloqueado.
+ 2. 0 Abra o Modo de Recuperação Stock
+reiniciando seu dispositivo android e
+pressionando a tecla Power e a tecla Volume para cima
+simultaneamente.
+Telefones diferentes podem ter métodos diferentes
+para abrir o modo de recuperação stock
+então se você enfrentar algum problema pesquise no Google.
+ 30 . Após entrar no modo de recuperação use
+os botões Volume+ e Volume- para rolar
+para cima e para baixo.
+Para selecionar use o botão do meio.
+ 4. 0 A partir daí clique em "Install Zip from
+SD Card" e dê o caminho para instalar "Aroma
+File Manager" do cartão SD.
+ 5. 0 Após instalar, ele abrirá no modo de
+recuperação.
+ 60 . Do Aroma File Manager
+navegue para configurações >> vá para o fundo
+e clique em "AutoMount all devices on
+start" e depois saia.
+ 7. 0 Repita o Passo 4 e 5 novamente.
+ 8. 0 Depois disso você terá o "Aroma File
+Manager" aberto novamente.
+ 9. 0 Agora navegue para a Pasta Data >>
+Pasta System e encontre >> "gesture.key"
+ou "password.key" para bloqueio de padrão ou
+bloqueio de senha respectivamente.
+ 10. 0 Exclua esse arquivo e depois saia do
+gerenciador de arquivos aroma e reinicie seu
+dispositivo android.
+Após reiniciar você notará que
+a senha ou bloqueio de padrão não foi removido.
+Mas não se preocupe desenhe qualquer padrão e
+você abrirá seu dispositivo android, mas
+lembre-se ou anote esse padrão.
+

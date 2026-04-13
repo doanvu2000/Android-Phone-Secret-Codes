@@ -1,0 +1,200 @@
+ <h5>Réduire votre consommation de données mobiles sur Android</h5>
+
+Vous pouvez suivre ces conseils pour les
+applications que vous utilisez le plus ou vos
+habitudes d'utilisation particulières.
+
+Compresser les pages Chrome
+
+Si vous utilisez Chrome pour tout votre trafic
+web, ce conseil à lui seul peut vous faire économiser
+de 30 à 35 % de votre consommation de données
+de navigateur mobile. L'option Économiseur de données
+compresse les pages Web avant de les charger
+dans votre navigateur.
+
+L'utilisation de l'économiseur de données ralentit un peu
+les choses, mais on s'y habitue vite et un petit délai
+en vaut la peine quand vos données durent
+beaucoup plus longtemps. Lancez simplement Chrome,
+appuyez sur les trois points dans le coin supérieur
+droit, allez dans Paramètres puis dans Économiseur de
+données. Gardez un œil sur le graphique pour voir
+vos économies de données augmenter.
+
+  <h5>Utiliser la compression vidéo Opera</h5>
+Le navigateur Opera pour Android dispose désormais
+d'une option de compression vidéo très utile,
+qui peut vous faire économiser une tonne de
+données si vous regardez fréquemment des vidéos en
+déplacement. Pour l'utiliser, téléchargez simplement
+le navigateur Opera, allez dans
+Paramètres > Économies de données et cochez la
+case Compression vidéo. Ce paramètre vous permet non
+seulement d'économiser des données, mais signifie
+également que les vidéos sont plus susceptibles
+de se charger plus rapidement.
+
+  <h5>Abandonner l'application Facebook</h5>
+Il est assez bien connu des amateurs d'Android
+que l'application Facebook est l'un des plus gros
+consommateurs de données, sans parler de sa
+consommation élevée de ressources et de l'épuisement de la batterie.
+Alors pourquoi ne pas la remplacer par quelque
+chose de moins exigeant ?
+
+Il existe de nombreuses applications Facebook alternatives,
+mais beaucoup d'entre elles sont tout aussi gourmandes
+que la version officielle. Même Facebook Lite, qui prétend
+réduire la consommation de données de 50 %, consomme
+toujours des centaines de Mo par mois.
+
+Alors pourquoi ne pas essayer Tinfoil pour Facebook,
+qui est simplement une application Web affichant le
+site Web de Facebook, ou vous pourriez simplement créer
+un raccourci Chrome dans votre navigateur Web. Ouvrez
+simplement Facebook dans Chrome, ouvrez le menu de
+débordement et sélectionnez Ajouter à l'écran d'accueil.
+
+  <h5>Utiliser des applications, des jeux et des services hors ligne</h5>
+
+Certaines applications et certains jeux nécessitent un
+accès Internet constant pour fonctionner : cela peut être
+simplement une mesure de sécurité ou parce qu'ils ont
+constamment besoin de récupérer des données. Il existe
+des applications et des jeux qui ne nécessitent aucun
+accès Internet après le téléchargement initial.
+
+Consultez ci-dessous quelques indices.
+
+  <h5>Restreindre les données d'arrière-plan</h5>
+Le moyen le plus simple d'économiser des données est de
+dire à vos applications (ou au système Android lui-même)
+de restreindre les données d'arrière-plan. Les données
+d'arrière-plan correspondent à tout le trafic Internet
+qui se produit lorsque vous n'utilisez pas réellement
+une application : synchronisation des e-mails, mise à
+jour des flux, widgets météo, etc.
+
+Vous pouvez également dire au système Android de
+restreindre les données d'arrière-plan dans
+ <h5>Paramètres > Consommation de données > Restreindre
+les données d'arrière-plan ou pour des applications
+individuelles dans Paramètres > Applications (selon la
+version d'Android que vous possédez). Vous pouvez
+également modifier vos paramètres de synchronisation
+pour les services Google dans Paramètres > Comptes >
+Google > sélectionnez le compte, puis décochez les
+services que vous ne souhaitez pas synchroniser automatiquement.
+
+  <h5>Désactiver la mise à jour automatique des applications</h5>
+Une autre source importante de consommation de votre
+forfait de données provient des mises à jour occasionnelles
+des applications Google Play. Si le Play Store est configuré
+pour mettre à jour automatiquement les applications, même
+via une connexion de données, cela pourrait épuiser votre
+forfait chaque mois sans que vous le sachiez.
+
+Pour vérifier, allez sur le Play Store et faites glisser
+le tiroir de navigation de gauche. Appuyez sur Paramètres
+et en haut, vous verrez Mise à jour automatique des
+applications. Appuyez dessus et assurez-vous de le régler
+sur Ne pas mettre à jour automatiquement les applications ou
+Mettre à jour automatiquement les applications via Wi-Fi uniquement.
+Pour gérer des applications individuelles, allez dans mes
+applications, sélectionnez une application puis appuyez sur
+le menu de débordement pour cocher ou décocher la
+Mise à jour automatique.
+
+   <h5>Mettre de la musique sur votre téléphone</h5>
+Les services de streaming comme YouTube, Spotify, Vine
+et d'autres sites vidéo et musicaux sont de gros dévoreurs
+de données. S'il y a un morceau ou un album que vous
+écoutez constamment à la salle de sport ou sur le chemin
+du travail, vous consommerez beaucoup moins de données
+en le chargeant sur votre téléphone et en l'écoutant hors
+ligne, plutôt qu'en le diffusant sans fin depuis le Web.
+
+Si votre téléphone ne possède pas de carte micro SD
+ou assez d'espace dans sa mémoire interne pour
+enregistrer de la musique, vous pouvez utiliser un adaptateur
+micro SD. Sinon, vous pouvez enregistrer de la musique
+pour une écoute hors ligne. Cela ne nécessitera pas autant
+d'espace sur votre téléphone et il est facile de s'en débarrasser
+ou de la remplacer plus tard. Si vous pouvez freiner vos
+envies de streaming, même un peu, vous verrez une
+énorme réduction de la consommation de données.
+
+   <h5>Identifier et limiter/supprimer les applications à
+forte consommation</h5>
+
+Dans Paramètres > Consommation de données, vous pouvez
+voir les applications qui consomment le plus de données,
+tant au premier plan qu'en arrière-plan. Cela peut être très
+utile pour savoir quelles applications vous devez restreindre.
+
+Prenez Gmail, par exemple. Sur mon téléphone, il a
+téléchargé 451 Mo d'e-mails en arrière-plan. Si je sentais que
+je n'utilisais pas assez l'application pour justifier autant
+d'utilisation de données, je pourrais supprimer l'application,
+limiter la fréquence de synchronisation ou l'empêcher de
+télécharger les pièces jointes, ce qui réduirait la
+consommation de données.
+
+<h5>Ne pas télécharger, téléverser ou envoyer de
+photos ou de vidéos</h5>
+
+Une seule minute de vidéo haute définition capturée sur un
+smartphone moderne peut occuper jusqu'à 200 Mo de données.
+Les photos individuelles peuvent facilement dépasser 40 Mo.
+Ne pensez même pas à les télécharger sur Facebook, ou à
+télécharger des photos et des vidéos d'amis, à moins que
+votre forfait de données mobiles ne puisse le supporter.
+
+ <h5>Utiliser les points d'accès Wi-Fi</h5>
+Les réseaux Wi-Fi ouverts sont un excellent moyen d'économiser
+des données lorsque vous êtes en déplacement. De plus en plus
+de restaurants et d'établissements proposent une connectivité
+Wi-Fi en permanence et ces points d'accès sont faciles à
+trouver sur votre appareil Android.
+
+Dans votre menu Wi-Fi (facilement accessible en faisant
+glisser deux doigts vers le bas depuis le haut de votre
+téléphone sur Lollipop/Marshmallow), tout point d'accès Wi-Fi
+qui ne présente pas d'icône de cadenas est ouvert et peut
+potentiellement être accédé sans saisir de détails ou de
+codes d'accès. Appuyez simplement sur un tel point d'accès
+lorsque vous le voyez pour vous connecter. Il est possible
+que des personnes écoutent vos interactions en ligne sur
+ces réseaux - mais cela signifie simplement que vous devez
+faire preuve de prudence. Ne saisissez pas d'informations
+sensibles dans de telles situations, et n'accédez pas à du
+matériel privé. Ou si vous souhaitez le faire, vous pourriez
+utiliser une application VPN pour rester privé et sécurisé.
+
+ <h5>Partager des photos, des vidéos et d'autres fichiers
+via Bluetooth</h5>
+Comme nous l'avons mentionné au point 10, le simple fait de
+recevoir des photos et des vidéos peut consommer beaucoup
+de données. Mais les transferts via le réseau mobile ne sont
+pas le seul moyen d'envoyer des fichiers. Grâce à la magie du
+Bluetooth, vous pouvez envoyer rapidement et facilement des
+fichiers relativement volumineux à d'autres personnes à
+proximité sans utiliser de données du tout.
+
+Bien sûr, la proximité est l'une des limites du Bluetooth,
+mais lorsque le destinataire prévu est proche, cela peut être
+un énorme gain de données.
+
+Pour envoyer quelque chose via Bluetooth, vous devez
+accéder à l'élément que vous souhaitez envoyer, puis appuyer
+sur le bouton de partage (ressemble à ceci) ou sélectionner
+partager dans le menu des options. La façon de procéder
+dépendra de l'élément que vous envoyez.
+
+Ensuite, sélectionnez l'icône Bluetooth. Si votre Bluetooth
+n'est pas activé, vous pouvez être invité à l'activer. Enfin, vous
+devez sélectionner l'appareil de destination dans une liste de
+gadgets à proximité compatibles Bluetooth. Notez que l'appareil
+de destination doit également avoir le Bluetooth activé, et vous
+devez connaître son nom pour le trouver dans la liste.

@@ -1,0 +1,138 @@
+<h5>Cómo verificar actualizaciones del sistema android</h5>
+Para usuarios de Android que están usando ROM
+stock, es posible que deseen buscar nuevas
+actualizaciones para su sistema. Para verificar
+actualizaciones:
+
+Ve a Configuración> acerca del teléfono/tableta.
+
+Toca en Actualizaciones del sistema.
+
+Toca Verificar ahora para buscar actualizaciones
+del sistema.
+
+ <h5>Cambiando Aplicaciones Predeterminadas</h5>
+Si ya has establecido algunas aplicaciones
+predeterminadas para tareas particulares (ej. usar
+Chrome para abrir enlaces web) pero deseas
+cambiar esto:
+
+Ve a Configuración > Aplicaciones.
+
+Desliza a la derecha y busca la pestaña todas.
+
+Selecciona la aplicación que quieres eliminar como
+predeterminada.
+
+Toca en Borrar valores predeterminados.
+
+
+ <h5>Organizar Accesos Directos de Pantalla de Inicio con
+Carpetas</h5>
+
+Una vez que tienes muchas aplicaciones instaladas,
+tu Pantalla de Inicio podría llenarse con
+accesos directos de aplicaciones. A diferencia del cajón de aplicaciones
+las aplicaciones en tu Pantalla de Inicio no están
+organizadas alfabéticamente, así que, podrías
+querer crear algunas carpetas para tus
+accesos directos de Pantalla de Inicio.
+
+Asumiendo que tienes más de un
+puñado de accesos directos ya en tu
+Pantalla de Inicio, mantén presionado en cualquiera de los
+accesos directos y arrástralo sobre otro
+acceso directo
+
+Un círculo debería aparecer ahora alrededor de las
+aplicaciones, indicando que se ha creado una carpeta.
+
+Al tocar en la carpeta recién creada,
+una mini ventana aparecerá Con tus
+aplicaciones en Ella.
+
+Puedes arrastrar y soltar aplicaciones adicionales
+en la carpeta si quieres. También puedes
+renombrar la carpeta tocando en el
+área de texto en la parte inferior de la mini
+ventana.
+
+Hay muchas aplicaciones alternativas de Facebook
+pero muchas de esas son tan hambrientas como la
+versión oficial.
+incluso facebook lite, que afirma
+reducir el consumo de datos en
+50 por ciento, todavía mastica cientos de MB en un mes.
+
+Así que por qué no probar Tinfoil para Facebook
+que es Simplemente una aplicación web que muestra
+el sitio web de Facebook o podrías
+Simplemente crear un acceso directo de Chrome En tu
+navegador web. Solo abre Facebook En
+Chrome, abre el menú de desbordamiento y selecciona Agregar a pantalla de Inicio.
+
+ <h5>Desactivar Animaciones</h5>
+Aquí un consejo sobre cómo hacer que tu dispositivo
+Android corra un poco más suave: desactiva sus
+animaciones. Necesitarás tener acceso
+a Opciones de Desarrollador que pueden ser
+encontradas bajo configuración o acerca del dispositivo.
+
+Nota: Para algunos teléfonos, es posible que necesites
+ir a Número de compilación y tocar en él
+repetidamente hasta que veas Ahora eres un
+desarrollador. Las opciones de desarrollador ahora están
+habilitadas.
+
+Bajo opciones de Desarrollador habilitadas, busca
+escala de animación de ventana, escala de
+animación de Transición, y Escala de duración de
+Animador. Luego, apágalas (desactívalas)
+una a la vez.
+
+ <h5>Cómo Apagar la Autocorrección</h5>
+¿Odias el hecho de que tu teléfono se ponga
+en modo profesor de Inglés contigo? apaga
+la autocorrección para tranquilidad al
+escribir mensajes.
+Ve a Configuración Idioma y entrada.
+Toca en el icono de configuración junto al
+teclado que estás usando, ej. Teclado de
+Google.
+Busca Autocorrección y toca en ella.
+
+Selecciona Apagado para apagar la autocorrección.
+
+ <h5>Cambiando preferencia de Red</h5>
+
+Muchos de los dispositivos de hoy corren en la red
+4G. Desafortunadamente la cobertura
+4G es a menudo irregular, y usarla puede agotar
+rápidamente la batería de tu teléfono y ponerte
+por encima de tu asignación mensual de datos. Podrías
+querer usar la red 4G solo
+en un área bien cubierta, o cambiar a 3G
+cuando te estás quedando sin energía
+Android hace fácil hacer esto. Para
+Cambiar redes, simplemente ve a <h5>Configuración
+>Redes móviles > Modo de red</h5> y
+configura tu teléfono a solo CDMA (3G) o
+LTE/CDMA (4G). Estas configuraciones podrían
+variar dependiendo de tu ubicación y
+en qué red estás.
+
+ <h5>Mensaje flash en pantalla de bloqueo</h5>
+Si tienes la desgracia de perder
+tu teléfono, es poco probable que lo
+recuperes. Incluso si alguien quiere
+devolverlo, la protección por contraseña
+evitará que accedan a un número
+para contactarte. Con Android 4.1, 4.2 y
+4.3 (Jelly Bean), puedes mostrar tu
+información de Contacto en la Pantalla de bloqueo
+para aumentar las posibilidades de reunirte
+con un dispositivo perdido. Desde Configuración. ve a
+Seguridad> Seguridad de pantalla > Información del propietario.
+Puedes ingresar tu nombre, dirección de correo electrónico,
+número de teléfono u otra información para
+aparecer en la pantalla de bloqueo.

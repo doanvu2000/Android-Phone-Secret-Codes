@@ -1,0 +1,46 @@
+<h5>Buka Kunci Pola Terkunci
+Tanpa Kehilangan Data?</h5>
+ +Unduh (Aroma File Manager).
++Kartu memori untuk perangkat android.
++ Perangkat android Anda terkunci baik oleh
+kunci pola atau kunci kata sandi.
+ 1. 0 Setelah mengunduh Aroma File Manager
+letakkan di kartu memori Anda (kartu SD).
+Masukkan kartu memori ke dalam perangkat
+android Anda yang terkunci.
+ 2. 0 Buka Mode Pemulihan Stok dengan
+mem-boot ulang perangkat android Anda dan
+menekan Tombol Daya dan tombol Volume naik
+secara bersamaan.
+Ponsel yang berbeda mungkin memiliki metode
+yang berbeda untuk membuka mode pemulihan stok
+jadi jika Anda menghadapi masalah, cari di Google.
+ 30 . Setelah masuk ke mode pemulihan gunakan
+tombol Volume+ dan Volume- untuk menggulir
+ke atas dan ke bawah.
+Untuk memilih gunakan tombol tengah.
+ 4. 0 Dari sana klik "Install Zip from
+SD Card" dan berikan jalur untuk menginstal "Aroma
+File Manager" dari kartu SD.
+ 5. 0 Setelah menginstal, itu akan terbuka dalam mode
+pemulihan.
+ 60 . Dari Aroma File Manager
+navigasi ke pengaturan >> pergi ke bawah
+dan klik "AutoMount all devices on
+start" dan kemudian keluar.
+ 7. 0 Ulangi Langkah 4 dan 5 lagi.
+ 8. 0 Setelah ini Anda akan mendapatkan "Aroma File
+Manager" terbuka lagi.
+ 9. 0 Sekarang navigasi ke Folder Data >>
+Folder System dan temukan >> "gesture.key"
+atau "password.key" untuk kunci pola atau
+kunci kata sandi masing-masing.
+ 10. 0 Hapus salah satu file itu dan kemudian keluar
+dari manajer file aroma dan boot ulang perangkat
+android Anda.
+Setelah mem-boot ulang Anda akan melihat bahwa
+kata sandi atau kunci pola tidak dihapus.
+Tapi jangan khawatir gambar pola apa pun dan
+Anda akan membuka perangkat android Anda tetapi
+ingat atau catat pola itu.
+

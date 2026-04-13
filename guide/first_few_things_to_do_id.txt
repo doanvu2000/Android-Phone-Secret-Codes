@@ -1,0 +1,28 @@
+<h5>Tambahkan Info Pemilik</h5>
+Menambahkan info Pemilik di ponsel android
+sangat penting. Jika Anda kehilangan ponsel
+Anda, Anda bisa mendapatkannya kembali dengan trik
+ini. Siapa pun dapat membaca info pemilik
+ponsel Anda dari layar kunci.
+<h5> Aktifkan Pengelola Perangkat</h5>
+Mengaktifkan Pengelola Perangkat sangat
+penting, jika Anda kehilangan ponsel
+cerdas Anda, Anda dapat melacak ponsel
+android Anda dengan fitur ini.
+ <h5>Siapkan Akun Google Anda</h5>
+Banyak orang melewatkan pengaturan akun Google.
+Tapi ini yang pertama dilakukan di ponsel
+android. Selalu siapkan akun Google
+Anda di ponsel android. Anda tidak dapat
+mengunduh aplikasi android di ponsel
+android dari Google Play Store, jika Anda
+tidak menyiapkan akun google Anda.
+ <h5>Aktifkan Debugging USB</h5>
+Jika Anda pernah lupa kunci pola Anda dan
+tidak tahu cara mengatur ulang kata sandi.
+Dengan mengaktifkan debugging USB Anda dapat
+dengan mudah menghapus kunci pola lama Anda dengan
+bantuan PC.
+Anda dapat melakukan lebih banyak hal dengan
+mengaktifkan debugging USB seperti mencerminkan
+layar android ke PC.

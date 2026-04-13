@@ -1,0 +1,84 @@
+<h5>Appuyez longuement sur les notifications pour accéder
+aux paramètres de l'application</h5>
+Beaucoup d'entre vous savent peut-être que si vous glissez
+un message de notification d'un côté, il
+disparaîtra. Cependant, vous pouvez faire d'autres
+choses si vous maintenez votre doigt appuyé et
+sélectionnez l'un des boutons qui apparaissent à
+droite. Cela peut être fait à la fois sur
+l'écran de verrouillage et dans la barre de notification.
+Vous verrez l'icône d'engrenage, qui vous
+amènera aux paramètres et l'icône "i"
+vous amènera aux paramètres de notification
+pour l'application en question,
+
+<h5>Glissez deux doigts vers le bas pour accéder
+directement aux paramètres rapides</h5>
+Cette astuce existe depuis que Jelly Bean
+était là, mais elle vaut la peine d'être
+rappelée. Pour éviter d'avoir à passer
+par les notifications et accéder
+au menu des raccourcis rapides, glissez simplement
+deux doigts du haut de l'écran
+vers le bas. Au lieu de faire le
+mouvement conventionnel deux fois, c'est-à-dire le
+balayage d'un doigt, et de devoir d'abord passer
+par les notifications de l'application, l'utilisateur
+accédera rapidement aux raccourcis vers les
+paramètres de base d'Android.
+ <h5>Double tapez pour sélectionner des mots pour plus
+d'Options</h5>
+Depuis que Android 6.0 Marshmallow est entré
+en scène, la fonction habituelle de copier et
+coller par double tapotement a eu
+une mise à niveau. Maintenant, tapez simplement deux fois sur un
+mot, une phrase ou un texte et appuyez longuement sur le
+contenu sélectionné. Ensuite, vous obtiendrez l'
+option de copier et partager, ou si vous appuyez
+sur le bouton de menu de débordement d'action
+trois points verticaux, cela vous permettra de
+rechercher le texte sélectionné sur le web,
+activer Google Assistant et le traduire,
+tout cela sans quitter l'écran.
+ <h5>Accédez facilement au mode sans échec</h5>
+Qu'est-ce que le mode sans échec exactement ? En quelques
+mots, ce mode démarre le Système
+Android sans montrer les applications
+que vous avez installées, donc comme si vous aviez
+formaté le téléphone. Cette option est idéale
+si vous rencontrez des problèmes avec une
+application spécifique. De plus, il est facile d'
+accès. Appuyez sur le bouton d'alimentation de votre
+appareil pendant quelques secondes. Dès que
+l'écran d'extinction apparaît, continuez simplement
+d'appuyer sur le bouton d'alimentation pendant quelques
+secondes. Une nouvelle fenêtre vous demandera si
+vous voulez redémarrer le téléphone en mode
+sans échec.
+<h5> Zoom sur n'importe quel écran</h5>
+De nombreuses applications vous permettent de zoomer
+sur un écran en plaçant deux doigts
+sur l'écran et en les séparant mais
+dans d'autres applications ou même dans la plupart des
+systèmes, cette action n'est pas autorisée
+cependant il existe une solution de contournement. Activez
+la fonction en allant dans Paramètres
+Accessibilité > Gestes d'agrandissement.
+ Une fois activé, vous cliquez trois fois
+sur l'écran pour zoomer là où vous
+voulez. Pour ensuite glisser d'un côté à l'autre sur
+l'écran zoomé, vous devez
+glisser deux doigts à gauche et à droite. Vous
+pouvez faire un pincement à deux doigts pour ajuster le
+zoom.
+<h5> Désinstaller une application directement depuis l'écran
+d'accueil</h5>
+
+Si vous appuyez longuement sur une icône d'application sur
+votre écran d'accueil, cela vous permettra
+de la désinstaller directement en faisant glisser
+l'application vers le mot Désinstaller qui
+sera apparu. Auparavant, seul le
+raccourci était supprimé. Cela peut changer
+selon le modèle de téléphone et
+la version d'Android.

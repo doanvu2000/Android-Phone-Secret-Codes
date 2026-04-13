@@ -1,0 +1,25 @@
+<h5>Liberar espaço de armazenamento automaticamente</h5>
+Para garantir que você não fique sem
+espaço de armazenamento no seu dispositivo Android
+com fotos e vídeos que já foram
+submetidos a backup, o Google inclui
+uma opção útil de 'Armazenamento Inteligente'. O
+recurso garante que quando o espaço de
+Armazenamento do sistema estiver acabando, o SO
+pode excluir suas fotos e vídeos com backup
+para liberar espaço automaticamente.
+Este recurso só funciona quando você
+configurou o Google Fotos para fazer backup automaticamente
+de suas fotos e vídeos.
+Para ativar o Armazenamento Inteligente, vá para
+Configurações -> Armazenamento -> Gerenciar Armazenamento.
+Certifique-se de ativar a opção Armazenamento Inteligente
+no menu que se abre.
+Você também pode decidir se o recurso
+deve excluir fotos com 30, 60 ou
+90 dias da opção Fotos e vídeos
+com backup.
+Se quiser, você também pode liberar manualmente
+espaço de armazenamento usando a opção liberar
+espaço agora.
+

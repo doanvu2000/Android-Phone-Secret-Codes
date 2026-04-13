@@ -1,0 +1,18 @@
+<h5>Comment ajouter des informations sur le propriétaire ?</h5>
+Ajouter vos informations de propriétaire dans un téléphone
+android est très facile. Il vous suffit d'ouvrir
+les paramètres de votre téléphone android Dans 5.0 Lollipop :G vers Paramètres-
+Sécurité-> Infos propriétaire. Maintenant ajoutez vos
+infos de propriétaire.
+Vous pouvez voir ces informations sur l'écran de verrouillage
+de votre mobile android.
+
+Ouvrez les paramètres de votre mobile android et
+sélectionnez Écran de verrouillage.
+Dans Écran de verrouillage faites défiler vers le bas et sélectionnez
+Message de l'écran de verrouillage.
+
+Maintenant écrivez vos informations de propriétaire.
+
+Vous pouvez également ajouter votre numéro de téléphone
+d'urgence comme ceci

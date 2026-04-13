@@ -1,0 +1,27 @@
+<h5> Comment utiliser l'Économiseur de données</h5>
+
+ L'une des nouvelles fonctionnalités clés sur Android
+ est le nouveau mode Économiseur de données à l'échelle du système
+ qui aide à réduire l'utilisation des données mobiles.
+ La fonctionnalité fonctionne en restreignant les
+ applications de recevoir ou d'envoyer des données
+ en arrière-plan. Vos applications fréquemment
+ utilisées continueront d'avoir accès
+ aux données en arrière-plan, mais la
+ fréquence sera réduite pour limiter l'utilisation des
+ données. Un autre effet secondaire positif involontaire
+ de l'utilisation du mode Économiseur de données est
+ qu'il conduit à une légère amélioration de la
+ durée de vie de la batterie.
+ Voici comment vous pouvez activer le mode Économiseur de données
+ sur votre appareil Android :
+ Allez dans Paramètres-> Utilisation des données ->
+ Économiseur de données.
+ Basculez l'interrupteur dans le coin supérieur
+ droit sur Activé, et vous avez terminé.
+
+ Au cas où vous ne voudriez pas que l'utilisation des données
+ mobiles soit restreinte pour certaines applications,
+ vous pouvez toujours les mettre sur liste blanche du
+ mode Économiseur de données en utilisant l'
+ option Accès aux données illimité.

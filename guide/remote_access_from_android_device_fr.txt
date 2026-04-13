@@ -1,0 +1,83 @@
+ <h5>Applications Android pour l'accès à distance à l'ordinateur </h5>
+
+L'émergence d'Android et la
+disponibilité d'innombrables applications ont
+aidé de nombreux utilisateurs de nombreuses
+façons. L'une d'entre elles est le partage et
+l'accès aux fichiers et autres données depuis votre
+bureau. C'est maintenant plus facile qu'avant-
+grâce aux applications de connexion à distance et
+de contrôle. En établissant une
+connexion à distance avec votre bureau
+en utilisant votre téléphone Android, vous pouvez
+récupérer les fichiers et les partager avec
+d'autres. Pour accéder au bureau à distance
+vous avez besoin d'applications Android qui sont
+capables d'établir une connexion.
+
+<h5> 1.TeamViewer for Remote Control</h5>
+
+TeamViewer est l'un des outils les plus populaires
+pour transférer des fichiers depuis votre
+appareil Android vers le bureau et
+vice-versa. La fonctionnalité la plus étonnante
+de cette application est que vous pouvez
+accéder à votre bureau de n'importe où.
+Il vous permet d'accéder, de modifier, de transférer
+les documents présents dans le bureau
+de n'importe où. En plus de ces fonctionnalités,
+TeamViewer a la capacité d'accéder aux
+ordinateurs derrière des serveurs proxy et
+des pare-feu. Et vous pouvez également redémarrer
+l'ordinateur à distance.
+
+ <h5>Le processus de configuration de TeamViewer
+est très simple et peut être complété en
+seulement 3 étapes.</h5>
+Allez sur Google PlayStore et téléchargez
+l'application Teamviewer for Remote control
+pour votre appareil Android.
+
+TÉLÉCHARGER: Team Viewer for Remote
+Control
+
+ Allez sur le site officiel de TeamViewer
+et téléchargez et installez teamviewer
+version complète sur votre système.
+
+TÉLÉCHARGER: TeamViewer for PC
+
+ .  Maintenant entrez l'ID TeamViewer de votre ordinateur
+et le mot de passe dans
+l'application TeamViewer sur votre appareil mobile
+et connectez-vous instantanément.
+
+<h5> 2. Splashtop 2 Remote Desktop</h5>
+
+splashtop est l'un des meilleurs outils disponibles sur le marché en ce
+moment pour contrôler à distance le bureau.
+il est relativement nouveau et regorge de nombreuses fonctionnalités
+intéressantes. comme team viewer, cet outil permet également
+à l'utilisateur d'accéder à tout le bureau très facilement et rapidement
+de n'importe où et à tout moment.
+en utilisant splashtop vous pouvez accéder à toutes les applications sur votre bureau,
+aux documents microsoft office, à la bibliothèque multimédia, au navigateur
+complet avec flash et vous pouvez également jouer à des jeux 3D
+
+ <h5>Le processus de configuration de cet outil est similaire
+à celui de TeamViewer</h5>
+ .  Téléchargez et installez splashtop 2
+Remote Desktop sur votre appareil
+Android.
+
+TÉLÉCHARGER: Splashtop 2 Remote
+Desktop
+ .  Téléchargez Splashtop Streamer depuis
+{{\field{\*\flint{HYPERLINK https://www.splashtop.com }}{\florist{https://www.splashtop.com\ul0\cf0}}}} et installez-le sur
+votre ordinateur.
+
+Maintenant entrez votre compte Splashtop pour
+établir une connexion.
+
+
+

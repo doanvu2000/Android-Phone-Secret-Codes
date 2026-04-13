@@ -1,0 +1,322 @@
+<h5>Cómo hacer una copia de seguridad de tu
+teléfono Android</h5>
+Siempre existe la posibilidad de que
+extravíes tu teléfono o lo dejes caer
+al agua y pierdas todo.
+Afortunadamente, hay muchas
+formas de hacer una copia de seguridad de dispositivos Android,
+asegurando que incluso si algo
+le sucede a tu teléfono, no
+perderás todas esas fotos vergonzosas
+de tus hijos que ibas a mostrar
+en su cumpleaños número 21. Ya sea
+a través de Google, una aplicación de terceros
+o tu computadora, aquí hay múltiples
+formas de hacer copias de seguridad de teléfonos para asegurarte
+de que nunca te encuentres en una
+situación en la que termines con datos
+perdidos.
+<h5> Nota del editor: Todos los pasos
+en este artículo fueron reunidos
+usando un Pixel
+4a con 5G ejecutando
+Android 12 y una PC personalizada
+ejecutando Windows 11.
+Recuerda que los pasos pueden
+diferir dependiendo de tu
+dispositivo y software.</h5>
+<h5>Cómo hacer una copia de seguridad de tu
+teléfono Android con
+Google</h5>
+ Hacer una copia de seguridad de la mayoría de tus datos es
+bastante fácil con Google, y se ha
+vuelto mucho más fácil en los últimos
+años. Desafortunadamente, no hay
+aún un método de copia de seguridad único para
+teléfonos Android a través de Google.
+Tendrás que usar diferentes servicios de
+Google para respaldar diferentes tipos
+de datos.
+<h5> 1. Fotos y videos</h5>
+Si aún no estás usando Google
+Photos, deberías estarlo. El servicio
+respalda automáticamente cada foto
+y video que tomas en la nube, así que
+nunca tendrás que respaldar tus
+medios manualmente de nuevo. Si la
+aplicación Photos no está ya en tu
+teléfono, puedes descargarla. Una vez
+instalada, necesitarás asegurarte de que
+Photos esté configurado para respaldar tus
+archivos automáticamente.
+cómo sincronizar tus imágenes con google photos:
+Abre la aplicación Google Photos.
+Toca en la imagen de perfil en la esquina
+superior derecha
+Selecciona configuración de Fotos.
+Activa Copia de seguridad y sincronización.
+Además, asegúrate de ir a Tamaño de
+carga y elegir tu configuración de
+carga preferida
+Solo ten en cuenta que subir
+a Google Photos ya no es
+Completamente gratis. A partir del 1 de junio de
+2021, cualquier foto y video nuevo
+que subas contará para el
+almacenamiento gratuito de 15GB que viene con
+cada Cuenta de Google. Por supuesto,
+puedes pagar por más almacenamiento. No te
+preocupes, ya que cualquier foto o video que
+hayas subido en alta calidad
+antes del 1 de junio de 2021, no contará
+para tu almacenamiento de Google y
+seguirá siendo considerado gratis y exento
+del límite de almacenamiento.
+ <h5>2. Música</h5>
+Google tiene una gran manera de respaldar
+tu música en la nube, y luego escucharla
+desde cualquier dispositivo. Puedes usar
+YouTube Music, que te permite
+subir hasta 100,000 canciones.
+Cómo subir canciones a YouTube
+Music:
+Abre tu navegador y ve a
+music.youtube.com.
+Haz clic en tu imagen de perfil en la
+esquina superior derecha.
+Selecciona Subir música.
+Elige las canciones que quieres subir
+y selecciona Abrir.
+Ahora puedes reproducir las canciones desde
+la aplicación o sitio web de YouTube Music.
+Ve a Biblioteca > Canciones > Cargas.
+<h5>3. Otros archivos</h5>
+Google Drive te permite almacenar tus
+otros archivos en la nube, lo que significa
+que serán accesibles desde cualquier
+dispositivo conectado.
+Cómo almacenar tus archivos en Google
+Drive:
+Descarga la aplicación Google Drive, si
+no la tienes ya.
+En la aplicación, presiona el botón +.
+Presiona Subir.
+Selecciona el(los) archivo(s) que te gustaría
+respaldar.
+¡Eso es todo!
+
+<h5>4. Configuración, aplicaciones, SMS,
+historial de llamadas, y mucho
+más!</h5>
+
+Google Drive y Photos hacen que
+las soluciones de respaldo de Google
+estén fragmentadas, pero las cosas se vuelven mucho
+más fluidas con todos los otros
+datos esenciales. La solución nativa de
+respaldo en la nube de Android puede almacenar
+configuraciones, aplicaciones, mensajes SMS, e
+incluso tu historial de llamadas. Esto hace que sea
+fácil restaurar todo en un nuevo
+teléfono.
+Cómo respaldar Android a Google
+One:
+Abre la aplicación Configuración en tu
+teléfono Android.
+toca en Google.
+Ve a Copia de seguridad.
+Activa Copia de seguridad de Google One.
+También puedes ir a datos de la Cuenta
+de Google y seleccionar otros datos
+que puedes sincronizar. Esto incluye el
+Calendario, Docs, Google Fit, Keep,
+y mucho más.
+Regresa a la configuración principal de
+Copia de seguridad.
+Toca en Crear copia de seguridad ahora.
+
+Cómo respaldar tu
+teléfono Android con
+Amazon Photos,
+OneDrive, y otros??
+ Los servicios en la nube abundan,
+ y Google no es el único
+ que ofrece montones de almacenamiento.
+ OneDrive de Microsoft es una alternativa muy
+ competente. Si te
+ suscribes a Office 365, la
+ compañía incluye 1TB de almacenamiento en
+ línea.
+ En otros lugares, Amazon Photos ofrece
+ almacenamiento ilimitado de fotos más
+ 5GB de almacenamiento de video con una suscripción
+ Prime. Mientras tanto, 100GB
+ de almacenamiento es apenas s1.99/mes o
+ $19.99/año, haciéndolo una alternativa
+ asequible aunque no tan estrechamente integrada.
+ Hay muchas otras
+ soluciones de almacenamiento en la nube;
+ revísalas haciendo clic en el
+ enlace abajo. La mayor desventaja de
+ alejarse del ecosistema de Google
+ es el esfuerzo requerido para asegurar que
+ todo tu contenido sea copiado o sincronizado.
+ Estos no están tan estrechamente integrados
+ a Android, así que necesitan un poco más de
+ trabajo.
+ El proceso de usar estas aplicaciones
+ es relativamente simple. Tienes que
+ descargarlas y seguir las
+ instrucciones durante el proceso de
+ configuración.
+<h5> Respaldando a tu
+Computadora</h5>
+<h5>1. Usando Android File
+Transfer</h5>
+ En lugar de respaldar tu dispositivo a
+ la nube o al teléfono mismo, podrías
+ querer respaldar todos tus archivos
+ a tu computadora para fácil acceso
+ más tarde. Afortunadamente, esto es bastante fácil
+ de hacer, y el proceso es bastante
+ similar si eres usuario de
+ Mac o PC. Los usuarios de Mac necesitarán
+ descargar e instalar la aplicación Android
+ File Transfer, sin embargo.
+ Cómo respaldar tu dispositivo Android
+ a una computadora
+ Conecta tu teléfono a tu computadora
+ con tu cable USB.
+ En Windows, ve a Mi PC
+ y abre el almacenamiento del teléfono.
+ En Mac, abre Android File Transfer.
+ Arrastra los archivos que quieres respaldar
+ a una carpeta en tu computadora.
+ Sí, la aplicación Android File Transfer
+ es bastante torpe y no siempre
+ hace el trabajo. Si copiar manualmente
+ los archivos es tu opción preferida,
+ podría ser una buena idea invertir
+ en una mejor aplicación. Commander One
+ es una excelente aplicación que te permite hacer
+ justo eso. Oliver Craig de Android Authority
+ nos da toda la información
+ sobre la mejor manera de transferir archivos
+ entre un teléfono Android y Mac.
+ <h5>2. Sincronización inalámbrica con
+Syncthing</h5>
+ ¿Qué tal si pudieras respaldar automáticamente
+ todas tus imágenes y archivos a
+ tu computadora o unidad NAS sin
+ tener que conectar un cable? Ahí es donde
+ las utilidades de sincronización entran en acción.
+ Syncthing es una gran utilidad para
+ asegurar que todas tus fotografías y
+ archivos adicionales sean descargados a
+ la computadora. La premisa es simple
+ instala una aplicación en tu teléfono y
+ selecciona una carpeta para vigilar
+ constantemente. Mientras tanto, un cliente se ejecuta
+ en tu computadora, permitiéndote
+ vincularte con tu teléfono.
+ Ahora, cada vez que la aplicación en el
+ teléfono detecta un cambio o adición de
+ archivo en una carpeta vigilada,
+ inmediatamente envía una copia a
+ la computadora. Simple y confiable. Simplemente
+ funciona. Por supuesto, puedes usarlo
+ como una utilidad de sincronización estándar también, pero
+ prefiero tener todos mis archivos enviados en una
+ dirección a la computadora para tener una copia
+ disponible incluso si borro algo
+ de mi teléfono.
+ Cómo configuras Syncthing:
+ Instala la aplicación Syncthing desde la
+ Play Store.
+ Instala la aplicación Syncthing en tu PC
+ o Mac.
+ Es una buena idea emparejar un dispositivo
+ antes de crear pares de carpetas. Dirígete a
+ la pestaña Dispositivos y toca el icono +.
+ Puedes ingresar el nombre del dispositivo o
+ hacer clic en el escaneo de código de barras para agregar el
+ par de dispositivos usando un código QR.
+ Eso es todo. Dirígete a la pestaña Carpetas
+ y toca el icono +.
+ Nombra la carpeta, selecciónala en el
+ directorio, elige el tipo de carpeta, y
+ revisa todas las configuraciones. Incluso puedes
+ configurar la carpeta para recibir datos si
+ quieres recibir contenido de tu
+ PC a tu teléfono.
+ En unos momentos, se te pedirá
+ confirmar el par en tu
+ PC, y la sincronización comenzará.
+
+<h5>Otras opciones para respaldar
+teléfono Android</h5>
+Los servicios de Google son excelentes,
+pero si estás buscando una solución más
+completa una que
+respalde todo a la vez, eso
+es-podrías necesitar usar una aplicación de
+terceros.
+ <h5>Teléfono sin root</h5>
+Hay muchas grandes aplicaciones para
+respaldar tus datos, y una de
+las mejores es Super Backup & Restore.
+Te permite respaldar elementos
+individuales en tu teléfono, como aplicaciones,
+Contactos, SMS, calendarios, llamadas de voz,
+y más. Los usuarios pueden definir a dónde
+van las copias de seguridad para fácil ubicación
+más tarde, y también puedes Programar
+copias de seguridad automáticas junto con
+respaldo a almacenamiento en la nube.
+Cómo respaldar Android usando Super
+Backup & Restore:
+Descarga Super Backup & Restore.
+Verás una lista de categorías de elementos
+que puedes respaldar (Imágenes,
+Aplicaciones, etc.).
+Selecciona los elementos individuales que te gustaría
+incluir en tu copia de seguridad.
+Toca en Copia de seguridad o Copia de seguridad de todo para
+cada selección.
+ <h5>Teléfonos con root</h5>
+ Mientras la mayoría de la gente no necesitará
+ rootear sus teléfonos para respaldar lo que
+ necesitan, rootear tu teléfono
+ puede ayudarte a respaldar algunas cosas
+ más. Al rootear tu teléfono, casi
+ todo en tu teléfono
+ puede ser restaurado, incluyendo cosas como
+ configuraciones de aplicaciones, datos del sistema, e incluso
+ contraseñas de Wi-Fi. Una de las aplicaciones más
+ usadas para respaldar un teléfono
+ rooteado es Titanium Backup. Mientras
+ Titanium Backup ciertamente se ve un
+ poco anticuado, es una aplicación convincente
+ de hecho. Aquí te mostramos cómo respaldar tus
+ archivos usando Titanium Backup:
+ Descarga y abre Titanium
+ Backup.
+ Toca el botón de Menú en la esquina superior
+ derecha y selecciona acciones por Lote.
+ Selecciona todo lo que quieres respaldar.
+ Si esta es la primera vez que estás respaldando
+ tu dispositivo, querrás al menos
+ seleccionar respaldar todas las aplicaciones de usuario y
+ respaldar todos los datos del sistema.
+ También puedes elegir respaldar los
+ archivos a Dropbox o Google Drive,
+ lo cual podrías querer hacer si
+ pierdes tu teléfono.
+ También puedes optar por crear un
+ archivo de respaldo .zip compatible con recuperación
+ Esto asegura que incluso si los
+ archivos del sistema de tu teléfono se corrompen
+ o algo más sucede que
+ te impide arrancar tu
+ teléfono, podrás restaurar tu
+ teléfono desde la copia de seguridad.

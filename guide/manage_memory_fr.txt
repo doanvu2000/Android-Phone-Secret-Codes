@@ -1,0 +1,101 @@
+ Les téléphones et tablettes Android peuvent
+ se remplir rapidement lorsque vous téléchargez
+ des applications, ajoutez des fichiers multimédias comme de la musique
+ et des films, et mettez en cache des données pour une utilisation
+ hors ligne. De nombreux appareils bas de gamme
+ peuvent n'inclure que quelques gigaoctets de
+ stockage, rendant cela encore plus un
+ problème.
+ Moins vous avez d'espace,
+ plus vous aurez de temps à passer
+ à gérer le stockage interne. Si vous
+ vous trouvez régulièrement à court
+ d'espace et avez besoin de le gérer essayez
+ les suggestions suivantes
+
+ <h5>Utiliser l'outil de stockage intégré d'Android</h5>
+ Pour trouver cela, ouvrez l'écran
+ Paramètres et appuyez sur Stockage. Vous pouvez
+ voir combien d'espace est utilisé par
+ les applications et leurs données, par les images
+ et vidéos, les fichiers audio, les téléchargements,
+ les données mises en cache, et divers
+ autres fichiers. Appuyez sur téléchargements pour voir
+ la liste de téléchargements où vous pouvez supprimer
+ des fichiers et appuyez sur données mises en cache pour effacer
+ les données de toutes les applications installées. Utilisez
+ les autres options pour voir quels fichiers
+ prennent de l'espace et supprimez
+ ceux que vous ne voulez pas.
+
+
+ <h5>Voir quels dossiers et fichiers prennent
+ le plus de place</h5>
+ Vous pouvez les supprimer directement depuis
+ l'application Disk Usage pour libérer de l'espace. Par
+ exemple, vous pourriez voir un dossier restant
+ d'un jeu ou d'une application que vous avez désinstallé.
+ L'application aurait dû supprimer ces
+ données, mais vous pouvez le faire à la main avec cette
+ application. Sélectionnez un dossier ou un fichier, appuyez sur le bouton
+ menu, et appuyez sur Supprimer pour le retirer.
+
+ <h5> Ajouter une carte SD et y déplacer des données</h5>
+
+ Si votre téléphone ou tablette a un
+ emplacement micro SD, vous pouvez en acheter une
+ pour gagner plus de stockage.
+ Après avoir installé la carte SD, formatez-la
+ comme stockage portable ou interne puis
+ connectez votre appareil à votre ordinateur
+ et déplacez votre musique, et autres
+ fichiers vers l'espace libre de la carte SD. La carte
+ SD sera vue comme un stockage local sur cet
+ appareil. Le système déterminera quelles
+ applications sont les plus logiques à déplacer vers
+ la carte SD, puis allez-y et déplacez-les.
+ Vous ne pouvez pas discerner entre
+ le vrai stockage interne et une carte SD
+ formatée pour une utilisation interne, donc il y a maintenant
+ un moyen de déplacer manuellement des applications
+ individuelles.
+
+ Si vous utilisez une version pré-Marshmallow
+ d'Android, vous pouvez déplacer Certaines
+ applications en utilisant les fonctionnalités intégrées d'Android.
+
+ <h5>Déplacer les photos vers le cloud</h5>
+ Plutôt que de stocker des photos sur votre
+ téléphone, vous pourriez utiliser un compte en ligne
+ comme Google photos, Dropbox, Microsoft
+ OneDrive, Flickr, ou autre chose.
+ Google Photos est intégré dans
+ l'application sur votre appareil Android
+ et offre un stockage illimité de photos.
+ Vous pouvez y accéder depuis
+ l'application Photos.
+
+
+ <h5>Effacer les données des applications prenant beaucoup de place</h5>
+ Cela effacera toutes les données liées
+ à une application. Si vous effacez les fichiers
+ pour une application comme Facebook, vous devez
+ entrer à nouveau les mots de passe. C'est
+ quelque chose à utiliser avec précaution. Par
+ exemple, les jeux sauvegardés seront probablement aussi
+ effacés.
+
+ <h5>Vider le cache</h5>
+ C'est aussi un domaine qui nécessite
+ du bon sens. En fait, ce que nous sommes
+ sur le point de faire est de supprimer le cache pour
+ certaines applications qui prennent beaucoup de
+ place. Le cache, comme mentionné précédemment,
+ est un type de bibliothèque où vos applications
+ stockent leurs fichiers pour les récupérer plus tard. Il peut
+ être vidé de temps en temps.
+
+ Vider le cache vous permettra de
+ débloquer une application qui ne
+ fonctionne plus, comme Google Play après sa
+ mise à jour échouée.

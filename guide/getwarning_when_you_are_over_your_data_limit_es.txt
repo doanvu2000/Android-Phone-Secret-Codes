@@ -1,0 +1,25 @@
+ El uso de datos de tu teléfono puede ser difícil
+ de rastrear. Si tu red 4G es lo suficientemente
+ rápida, podrías estar potencialmente
+ descargando archivos a la misma velocidad
+ que el Internet de tu casa. Afortunadamente, Android
+ viene con un sistema de notificación de uso de datos
+ incorporado.
+
+ <h5> Evita errores comunes del plan de datos que
+ podrían costarte mucho.
+ Primero, navega a Configuración>>Uso de datos.</h5>
+ Verás un gráfico que muestra tu
+ uso de datos, junto con una barra
+ amarilla y roja.
+
+ La barra amarilla designa cuándo tu
+ teléfono te avisará sobre tu uso de
+ datos. La roja es un límite estricto en tus
+ datos para evitar tarifas por exceso.
+
+ La línea roja debería ser el límite de datos
+ mensuales de tu teléfono inteligente. Si
+ no conoces tu límite de datos, deberías
+ contactar a tu operador de telefonía tan pronto
+ como sea posible.

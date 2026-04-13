@@ -1,0 +1,21 @@
+<h5> Hard Reset y Restablecimiento
+ de fábrica de tu teléfono android</h5>
+
+ El teléfono Android se puede formatear de dos
+ maneras
+ 1. Restablecimiento de fábrica:
+ En el restablecimiento de fábrica, tu teléfono se
+ formatea a nivel de fábrica.
+ Significa que todas las configuraciones volverán a ser predeterminadas
+ y todos los datos internos se eliminarán.
+ Para restablecer de fábrica un teléfono marca
+ "#**778O#*#*.
+ 2. Hard reset:
+ Para hacer un hard reset a un teléfono marca
+ *2767*3855#
+ esto eliminará todos los datos (incluyendo
+ datos SD internos y externos) así como
+ la configuración del teléfono android.
+ No pruebes este código con fines de prueba,
+ hasta que no estés seguro.
+ No pedirá ninguna confirmación.

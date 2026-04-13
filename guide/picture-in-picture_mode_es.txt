@@ -1,0 +1,29 @@
+<h5>Modo Imagen-en-Imagen</h5>
+
+El nuevo modo imagen-en-imagen de Android
+te permite minimizar videos para que puedas
+realizar múltiples tareas. Lo que esto significa esencialmente
+es que puedes hacer una videollamada a alguien
+o ver un video en YouTube mientras
+revisas tu correo electrónico o haces otro trabajo
+en segundo plano.
+
+Para habilitar el modo Imagen-en-Imagen,
+sigue los pasos a continuación:
+Dirígete a tu Configuración de Android
+y toca en Aplicaciones y Notificaciones. Una vez
+allí, toca en Avanzado para revelar más
+opciones.
+Ahora, toca en la opción Acceso Especial a Aplicaciones.
+Una vez allí, se abrirá una nueva lista de controles de acceso
+especial disponibles para varias aplicaciones.
+
+Selecciona Imagen-en-Imagen de la lista
+Ahora se te presentará
+una lista de todas las aplicaciones que soportan
+imagen-en-imagen. Simplemente toca en la
+aplicación deseada y habilita el interruptor junto
+a Permitir imagen-en-imagen.
+
+Ahora puedes usar el modo Imagen-en-Imagen
+para las aplicaciones que desees.

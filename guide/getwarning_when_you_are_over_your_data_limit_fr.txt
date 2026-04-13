@@ -1,0 +1,25 @@
+ Votre utilisation des données mobiles peut être difficile
+ à suivre. Si votre réseau 4G est assez
+ rapide, vous pourriez potentiellement
+ télécharger des fichiers à la même vitesse
+ que votre Internet domestique. Heureusement, Android
+ est livré avec un système de notification d'utilisation des données
+ intégré.
+
+ <h5> Évitez les erreurs courantes de forfait de données qui
+ pourraient vous coûter cher.
+ Tout d'abord, naviguez vers Paramètres>>Utilisation des données.</h5>
+ Vous verrez un graphique qui affiche votre
+ utilisation des données, ainsi qu'une barre
+ jaune et rouge.
+
+ La barre jaune indique quand votre
+ téléphone vous avertira de votre utilisation
+ des données. La rouge est un plafond strict sur vos
+ données pour éviter les frais de dépassement.
+
+ La ligne rouge devrait être la limite de données
+ mensuelle de votre Smartphone. Si
+ vous ne connaissez pas votre limite de données, vous
+ devriez contacter votre opérateur mobile dès
+ que possible.

@@ -1,0 +1,139 @@
+<h5>Como verificar atualizações do sistema android</h5>
+Para usuários de Android que estão usando ROM
+stock, você pode querer procurar novas
+atualizações para o seu sistema. Para verificar
+atualizações:
+
+Vá para Configurações> sobre o telefone/tablet.
+
+Toque em Atualizações do sistema.
+
+Toque em Verificar agora para procurar atualizações
+do sistema.
+
+ <h5>Alterando Aplicativos Padrão</h5>
+Se você já definiu alguns aplicativos
+padrão para tarefas específicas (ex. usando
+Chrome para abrir links da web) mas deseja
+mudar isso:
+
+Vá para Configurações > Aplicativos.
+
+Deslize para a direita e procure a guia todos.
+
+Selecione o aplicativo que você deseja remover como
+padrão.
+
+Toque em Limpar padrões.
+
+
+ <h5>Organizar Atalhos da Tela Inicial com
+Pastas</h5>
+
+Uma vez que você tem muitos aplicativos instalados,
+sua Tela Inicial pode ficar cheia com
+atalhos de aplicativos. Ao contrário da gaveta de aplicativos
+os aplicativos na sua Tela Inicial não são
+organizados alfabeticamente, então, você pode
+querer criar algumas pastas para seus
+atalhos da Tela Inicial.
+
+Assumindo que você tem mais de um
+punhado de atalhos já na sua
+Tela Inicial, pressione longamente em qualquer um dos
+atalhos e arraste-o para cima de outro
+atalho
+
+Um círculo deve aparecer agora ao redor dos
+aplicativos, indicando que uma pasta foi
+criada.
+
+Ao tocar na pasta recém-criada,
+uma mini janela aparecerá Com seus
+aplicativos Nela.
+
+Você pode arrastar e soltar aplicativos adicionais
+na pasta se quiser. Você também pode
+renomear a pasta tocando na
+área de texto na parte inferior da mini
+janela.
+
+Existem muitos aplicativos alternativos do Facebook
+mas muitos deles são tão famintos quanto a
+versão oficial.
+mesmo o facebook lite, que afirma
+reduzir o consumo de dados em
+50 por cento, ainda mastiga centenas de MB em um mês.
+
+Então por que não tentar Tinfoil for Facebook
+que é Simplesmente um aplicativo web que exibe
+o site do Facebook ou você poderia
+Simplesmente criar um atalho do Chrome No seu
+navegador web. Apenas abra o Facebook No
+Chrome, abra o menu de estouro e selecione Adicionar à tela Inicial.
+
+ <h5>Desativar Animações</h5>
+Aqui uma dica sobre como fazer seu dispositivo
+Android rodar um pouco mais suave: desative suas
+animações. Você precisará ter acesso
+às Opções do Desenvolvedor que podem ser
+encontradas sob configurações ou sobre o dispositivo.
+
+Nota: Para alguns telefones, você pode precisar
+ir para Número da versão e tocar nele
+repetidamente até ver Você agora é um
+desenvolvedor. Opções do desenvolvedor agora estão
+ativadas.
+
+Sob opções do Desenvolvedor ativadas, procure
+por escala de animação de janela, escala de
+animação de Transição, e Escala de duração do
+Animador. Então, desligue-as (desative)
+uma de cada vez.
+
+ <h5>Como Desativar a Correção Automática</h5>
+Odeia o fato de que seu telefone está indo
+modo professor de Inglês em você? desligue
+a correção automática para paz de espírito ao
+enviar mensagens.
+Vá para Configurações Idioma e entrada.
+Toque no ícone de configurações ao lado do
+teclado que você está usando, ex. Teclado do
+Google.
+Procure por Correção automática e toque nela.
+
+Selecione Desativado para desligar a correção automática.
+
+ <h5>Alterando preferência de Rede</h5>
+
+Muitos dos dispositivos de hoje rodam na rede
+4G. Infelizmente a cobertura
+4G é frequentemente irregular, e usá-la pode rapidamente
+drenar a bateria do seu telefone e colocá-lo
+acima da sua franquia mensal de dados. Você pode
+querer usar a rede 4G apenas
+em uma área bem coberta, ou mudar para 3G
+quando estiver com pouca energia
+O Android torna fácil fazer isso. Para
+Mudar redes, simplesmente vá para <h5>Configurações
+>Redes móveis > Modo de rede</h5> e
+defina seu telefone para CDMA apenas (3G) ou
+LTE/CDMA (4G). Essas configurações podem
+variar dependendo da sua localização e
+em qual rede você está.
+
+ <h5>Mensagem flash na tela de bloqueio</h5>
+Se você tiver a infelicidade de perder
+seu telefone, é improvável que você o
+recupere. Mesmo se alguém quiser
+devolvê-lo, a proteção por senha irá
+impedi-los de acessar um número
+para contatar você. Com o Android 4.1, 4.2 e
+4.3 (Jelly Bean), você pode exibir suas
+informações de Contato na Tela de bloqueio
+para aumentar as chances de se reunir
+com um dispositivo perdido. De Configurações. vá para
+Segurança> Segurança da tela > Info do proprietário.
+Você pode inserir seu nome, endereço de e-mail,
+número de telefone ou outras informações para
+aparecer na tela de bloqueio.

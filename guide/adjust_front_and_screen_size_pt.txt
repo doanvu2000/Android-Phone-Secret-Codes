@@ -1,0 +1,19 @@
+<h5>Ajustar Fonte e Tamanho da Tela</h5>
+Com o Android, você pode ajustar o tamanho
+do texto e até mesmo de elementos não textuais,
+isto é, aumentar ou diminuir
+a proporção do tamanho dos aplicativos (incluindo barras
+e botões) para o tamanho da tela de acordo com suas
+necessidades de exibição
+Para ajustar o tamanho do texto mostrado
+em qualquer lugar na interface do usuário.
+Abra o aplicativo Configurações > selecione Tela >
+toque em Tamanho da fonte e mova o controle deslizante para definir
+o tamanho final da fonte.
+
+Para ajustar o tamanho das partes não textuais
+da interface incluindo gaveta,
+barras e botões, abra o aplicativo Configurações
+clique em Tela > toque em Tamanho da exibição e
+mova o controle deslizante para definir o tamanho que você deseja.
+

@@ -1,0 +1,134 @@
+ Android tiene mala fama por la corta duración de la
+batería. Haz estos cambios simples a
+tu teléfono inteligente o tableta y sigue
+estos consejos y trucos entonces podrás tener
+una mejor y más larga duración de batería en tu
+teléfono inteligente.
+
+ <h5>1. Desactivar historial de ubicación e informes</h5>
+El Sistema de Posicionamiento Global (GPS) es
+un gran consumidor de batería, ya que aprovecha
+datos de las torres de telefonía celular,
+puntos de acceso Wi-Fi y el chip del sistema de posicionamiento
+Global del teléfono, para encontrar tu ubicación. el
+uso de la batería está directamente vinculado al uso del GPS,
+mientras más tu teléfono encuesta tu
+ubicación, más batería consume.
+
+El historial de ubicación y los informes de ubicación
+son dos servicios basados en GPS con
+motivos algo confusos. La página de ayuda de Google
+dice que, los servicios pueden
+ser usados junto con cualquier otra
+Google Apps. Puedes desactivar estas
+dos funciones que consumen tu batería
+dirigiéndote a configuración Ubicación
+Servicios de Ubicación de Google > Historial de
+Ubicación de Google.
+
+<h5> 2. Desactivar tarjetas Google Now</h5>
+Google Now es un asistente personal inigualable
+y, te ayuda de muchas maneras.
+Pero algunos de sus Servicios que Vienen
+en forma de tarjetas informativas son
+innecesarios y son responsables del
+drenaje de batería. cuando viajas a un lugar
+que Google reconoce como un lugar fuera de
+tu rutina habitual entonces la tarjeta titulada
+Lugares Cercanos aparece. la Tarjeta
+se compone de atracciones cercanas y es una
+característica genial pero si quieres ahorrar tu
+batería entonces mejor desactívala. Para
+desactivarlas, dirígete a Google Now
+y luego desplázate hacia abajo y toca la varita
+mágica. Aquí, puedes elegir las tarjetas
+y descartar las que no son necesarias.
+ la tarjeta dependiente del GPS demandará
+la mayor parte de tu batería así que es mejor desactivar tarjetas
+como lugares cercanos " y " viajes para ver un aumento de batería
+la mayoría de nosotros . no sabemos que este tipo de características están
+presentes en nuestro teléfono inteligente y nos perdemos
+de una mejor experiencia de usuario.
+
+<h5> 3. Escaneo WiFi</h5>
+Todos sabemos que cuando el Wi-Fi se deja
+habilitado, se usa más energía. Muchos de
+nosotros no sabemos que en Android incluso
+cuando el Wi-Fi está deshabilitado, un teléfono podría
+ estar buscando redes. para prevenir el drenaje de batería,
+ve a configuración wifi > avanzado, donde puedes
+desmarcar la opción de escaneo wifi.
+pero tendrás que conectarte a wifi manualmente,
+pero lo que obtienes a cambio es una vida de batería más larga.
+
+ <h5> 4. Actualiza todo tu Software</h5>
+No hace falta decir que cada actualización de firmware
+trae características y correcciones que
+Mejoran el rendimiento del dispositivo.
+Cada actualización ayuda en una mejor
+gestión del recurso de energía. La mayoría
+de los Fabricantes están dando actualizaciones
+para sus móviles. Si no lo has actualizado
+aún, dirígete a configuración > Acerca del
+teléfono > Actualizaciones del Sistema y verifica
+allí por actualizaciones. digamos por ejemplo,
+la nueva actualización de google para
+android OS incluye una interfaz de usuario actualizada, características de desbloqueo inteligente,
+un nuevo ahorro de batería y un sistema de notificaciones renovado.
+
+<h5>5. Red Móvil Selectiva es otro
+Punto clave</h5>
+
+Si no estás usando los datos móviles
+entonces ¿por qué deberíamos dejar que consuma la
+preciosa vida de la batería? Puedes cambiar
+tu configuración en tu teléfono inteligente para
+que puedas usar solo redes 2G para
+llamadas y mensajes, si quieres navegar
+entonces cambia a 3G o LTE.
+Puedes ahorrar mucha batería haciendo
+esto. Puedes alternar entre 2G y 3G
+o LTE siguiendo esta ruta, Configuración
+Más > Redes Móviles > Modo de Red.
+
+<h5> 6 .Apps que aumentan la vida de la batería</h5>
+Intenta desactivar las actualizaciones automáticas en tu
+dispositivo y manipular los intervalos de actualización
+de las aplicaciones instaladas para
+preservar la batería y obtener una mejor vida de batería
+ en tu teléfono inteligente. Apps como
+Battery Doctor y Greenery te ayudan a
+preservar batería. Si no estás seguro de
+cuánta energía demanda una aplicación entonces
+estas apps te ayudan a saber qué apps
+ consumen más recursos basado en tu
+uso y así puedes relacionar en su
+Uso.
+
+<h5> 7. Sincronización selectiva de datos</h5>
+Para una vida de batería mejorada es importante
+echar un vistazo a lo que está siendo
+sincronizado automáticamente en todos tus
+dispositivos. Digamos por ejemplo cada vez que
+tomas una foto sería automáticamente
+subida y resultaría en un gran drenaje de batería.
+Así que para conservar tu batería
+selectivamente elige qué todo necesita
+ser sincronizado. La ruta es <h4>Configuración>
+Cuentas> Google> Sincronización</h4>.
+
+<h5> 8.Ajustar niveles de brillo</h5>
+El respaldo de batería de tu dispositivo
+depende del nivel de brillo que
+establezcas. Se aconseja establecer el brillo
+en " Auto " en la Configuración rápida
+para conservar tu batería . la
+ruta es Configuración>Pantalla>Brillo
+adaptativo(habilitar).
+ <h5>9.Evitar grandes consumidores</h5>
+Aplicaciones como go launcher
+Y temas, que son gráficamente
+intensos consumen mucha RAM mientras corren
+ y consumen mucha batería. Recomendamos
+  lanzadores menos intensivos como Apex o nova para conservar tu batería.
+

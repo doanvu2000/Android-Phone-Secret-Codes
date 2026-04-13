@@ -1,0 +1,24 @@
+<h5> Comment contrôler votre ordinateur portable
+ou ordinateur via votre
+mobile</h5>
+ Maintenant, vous pouvez contrôler votre ordinateur portable ou
+ordinateur avec votre téléphone Android.
+Suivez-moi simplement.
+<ol>
+<li> Installez Team Viewer sur votre mobile et
+ordinateur.</li>
+ <li>Une fois l'installation terminée
+ouvrez Team Viewer sur votre mobile et
+ordinateur.</li>
+<li> Maintenant, copiez l'ID Team
+Viewer de votre ordinateur et entrez cet ID dans votre
+Team Viewer mobile.</li>
+<li> Maintenant, cliquez sur Contrôle à distance.</li>
+ <li>Maintenant, il demandera le mot de passe. Copiez votre
+mot de passe Team Viewer de l'ordinateur et
+entrez-le dans votre Team Viewer mobile.</li>
+<li> Maintenant, appuyez sur OK et oui, vous avez
+TERMINÉ maintenant.
+Profitez-en.</li>
+</ol>
+

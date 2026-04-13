@@ -1,0 +1,24 @@
+<h5> Cómo controlar tu portátil
+o computadora a través de tu
+móvil</h5>
+ Ahora puedes controlar tu portátil o
+computadora con tu teléfono Android.
+Solo sígueme.
+<ol>
+<li> Instala Team Viewer en tu móvil y
+computadora.</li>
+ <li>Después de completar la instalación
+abre Team Viewer en tu móvil y
+computadora.</li>
+<li> Ahora copia el ID de Team
+Viewer de tu computadora e ingresa ese ID en tu
+Team Viewer móvil.</li>
+<li> Ahora haz clic en Control Remoto.</li>
+ <li>Ahora te pedirá la contraseña. Copia la
+contraseña de Team Viewer de tu computadora e
+ingrésala en tu Team Viewer móvil.</li>
+<li> Ahora presiona OK y sí, ya has
+TERMINADO.
+Disfruta.</li>
+</ol>
+

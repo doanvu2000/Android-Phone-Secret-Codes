@@ -1,0 +1,17 @@
+<h5>Tambahkan Bahasa kedua Anda</h5>
+Jika Anda sama fasihnya dalam dua
+bahasa, maka Android memberi Anda
+fasilitas untuk memberikan input dalam kedua
+bahasa tersebut, yang jelas merupakan fitur
+hebat bagi pengguna bilingual dan juga
+sering bepergian.
+Untuk menggunakan fitur
+multi-lokal, buka Pengaturan > Bahasa &
+masukan > Preferensi bahasa, lalu
+pilih Tambahkan bahasa dan akhirnya pilih
+bahasa kedua Anda dari daftar
+bahasa yang tersedia. Kemudian setelah itu, Anda
+dapat dengan mudah mengubah bahasa di
+keyboard layar dengan menekan globe
+atau menekan lama tombol spasi.
+

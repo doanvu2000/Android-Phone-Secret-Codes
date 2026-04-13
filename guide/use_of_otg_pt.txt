@@ -1,0 +1,67 @@
+USB OTG, USB on the go é um padrão
+que permite que dispositivos móveis comuniquem
+entre si. Tradicionalmente, os dispositivos
+móveis só podiam ligar-se a um
+Mac/PC por USB, mas o USB OTG torna possível
+que os dispositivos se liguem diretamente uns aos
+outros,
+
+ <h5>Como sei se o meu dispositivo Android
+suporta USB OTG?</h5>
+
+O USB OTG tem o seu próprio logótipo, que
+deve estar na embalagem do seu dispositivo
+se for suportado. Se não tiver a
+embalagem original à mão, pode pesquisar
+pelo modelo do dispositivo no Google para encontrar
+esta informação.
+Geralmente, se o seu smartphone foi
+lançado nos últimos dois anos, ele irá
+suportá-lo.
+
+ <h5>O que posso fazer com o USB OTG?</h5>
+Ligar um rato ou teclado
+
+Basta ligar um rato USB e verá
+automaticamente o cursor aparecer no
+seu ecrã. Esta é também uma excelente forma
+de utilizar o seu dispositivo se o ecrã tátil
+estiver partido. Alternativamente, ligue um
+teclado externo para transformar um tablet num
+portátil.
+Ligar uma unidade de armazenamento USB
+
+Pode ligar-se a dispositivos de armazenamento como
+pens USB ou discos rígidos externos
+com USB OTG. Utilizando um gestor de ficheiros no
+seu dispositivo, pode aceder diretamente aos
+dados num dispositivo de armazenamento externo e
+reproduzir filmes ou música sem ter de os
+armazenar no seu telemóvel.
+
+ <h5>Ligar um comando de jogos</h5>
+Utilizar um comando com fios da Xbox 360 é
+uma forma fácil de o fazer: basta ligá-lo
+ao seu telemóvel com um cabo USB OTG,
+iniciar um jogo e ele deverá funcionar
+imediatamente, sem necessidade de configuração.
+
+ <h5>Utilize o seu smartphone partido a partir de um PC</h5>
+O ecrã está partido mas ainda consegue ver
+a imagem
+Se partiu o seu ecrã tátil mas a
+imagem ainda está a funcionar (consegue vê-la),
+pode resolver isto utilizando um USB OTG
+e um rato ligado ao seu dispositivo.
+
+Depois de ligar o rato, pode
+desbloquear o seu dispositivo, quer tenha
+um padrão, PIN ou palavra-passe.
+Recomendamos a utilização de palavras-passe
+de qualquer forma, porque são altamente seguras.
+
+Agora que o seu telemóvel está desbloqueado,
+pode ligá-lo ao seu computador e
+transferir os dados de que necessita para a sua
+memória microSD ou ligá-lo diretamente
+ao seu PC e transferir os ficheiros para lá.

@@ -1,0 +1,24 @@
+<h5> Como controlar seu laptop
+ou computador através do seu
+celular</h5>
+ Agora você pode controlar seu laptop ou
+computador com seu telefone Android.
+Apenas me siga.
+<ol>
+<li> Instale o Team Viewer em seu celular e
+computador.</li>
+ <li>Após a conclusão da instalação
+abra o Team Viewer em seu celular e
+computador.</li>
+<li> Agora copie o ID do Team
+Viewer do seu computador e insira esse ID no seu
+Team Viewer móvel.</li>
+<li> Agora clique em Controle Remoto.</li>
+ <li>Agora ele pedirá a senha. Copie a
+senha do Team Viewer do seu computador e
+insira no seu Team Viewer móvel.</li>
+<li> Agora pressione OK e sim, você
+TERMINOU agora.
+Aproveite.</li>
+</ol>
+

@@ -1,0 +1,54 @@
+<h5>Désactiver le suivi de localisation Android</h5>
+Ouvrez Paramètres
+
+Faites défiler jusqu'à Localisation. Vous verrez
+un interrupteur marche/arrêt en haut à droite. Utilisez
+ceci pour activer ou désactiver les services de localisation
+complètement.
+
+<h5>Appuyez sur Localisation> Historique des positions Google</h5>
+ Encore une fois, il y a un bouton
+en haut à droite qui vous permet d'activer
+ou de désactiver votre historique des positions. Si vous
+voulez également supprimer votre historique
+des positions, vous pouvez le faire ici aussi :
+sous Historique des positions appuyez sur Supprimer
+l'historique des positions. Une fois supprimées, ces
+informations ne peuvent pas être récupérées.
+
+ <h5>Activer le mode Invité sur Android</h5>
+Faites glisser vers le bas depuis le haut de l'
+écran pour abaisser la barre de
+notifications.
+Appuyez sur votre avatar en haut à droite
+deux fois
+Maintenant vous verrez trois icônes : votre
+compte Google, Ajouter un invité et Ajouter
+un utilisateur.
+
+Appuyez sur Ajouter un invité.
+Maintenant votre smartphone passera
+en mode invité. Cela peut prendre un certain
+temps et le téléphone peut être légèrement
+lent au début, mais dans nos tests avec un
+Nexus 5 cela a bien fonctionné après quelques
+minutes.
+
+Lorsque vous avez terminé avec le mode
+invité, vous pouvez facilement revenir à votre
+compte Google. Suivez les étapes 1 et
+2 ci-dessus et appuyez sur l'icône qui montre
+votre compte Google. Cela supprimera
+toutes les données enregistrées dans la session invité
+également.
+
+Si votre smartphone n'a pas
+Android 5.0 Lollipop installé, vous
+devriez vérifier s'il existe un mode invité préchargé
+auquel vous pouvez accéder en allant
+dans Paramètres> Général > Confidentialité>
+Mode Invité.
+
+ <h5>Restez à l'écart des applications frauduleuses</h5>
+Utilisez toujours le play store pour installer n'importe
+quel type d'application

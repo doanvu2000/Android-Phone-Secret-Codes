@@ -1,0 +1,210 @@
+ <h5>Kurangi penggunaan data seluler Anda di Android</h5>
+
+Anda dapat mengikuti tips ini untuk
+aplikasi yang paling sering Anda gunakan atau
+kebiasaan penggunaan khusus Anda.
+
+Kompres halaman Chrome
+
+Jika Anda menggunakan Chrome untuk semua lalu
+lintas web Anda, tips ini saja dapat menghemat
+30 hingga 35 persen konsumsi data
+browser seluler Anda. Opsi Penghemat
+Data mengompresi halaman web
+sebelum memuatnya di browser Anda.
+
+Menggunakan Penghemat Data memang memperlambat
+segalanya sedikit, tetapi Anda akan cepat
+terbiasa dan penundaan sejenak
+sangat berharga ketika data Anda bertahan
+jauh lebih lama. Cukup luncurkan Chrome,
+ketuk tiga titik di sudut kanan atas,
+buka Setelan dan kemudian ke Penghemat
+Data. Pantau grafik untuk melihat
+penghematan data Anda bertumbuh.
+
+  <h5>Gunakan kompresi video Opera</h5>
+Browser Opera untuk Android sekarang
+memiliki opsi kompresi video yang sangat berguna,
+yang dapat menghemat banyak data jika
+Anda sering menonton video di mana saja.
+Untuk menggunakannya, cukup unduh browser
+Opera, buka Setelan > Penghematan data dan
+centang kotak yang bertuliskan Kompresi video.
+Pengaturan ini tidak hanya menghemat data,
+tetapi juga berarti video lebih mungkin
+dimuat lebih cepat.
+
+  <h5>Tinggalkan aplikasi Facebook</h5>
+Sudah cukup dikenal di kalangan
+penggemar Android bahwa aplikasi
+Facebook adalah salah satu konsumen data
+terbesar, belum lagi penggunaan sumber daya yang
+tinggi dan pengurasan baterai. Jadi mengapa
+tidak menggantinya dengan sesuatu
+yang kurang menuntut?
+
+Ada banyak aplikasi Facebook alternatif
+tetapi banyak dari mereka sama laparnya
+dengan versi resmi. Bahkan Facebook Lite,
+yang mengklaim mengurangi konsumsi data
+sebesar 50 persen, masih menghabiskan
+ratusan MB dalam sebulan.
+
+Jadi mengapa tidak mencoba Tinfoil for Facebook,
+yang hanyalah aplikasi web yang menampilkan
+situs web Facebook atau Anda bisa cukup
+membuat pintasan Chrome di browser web Anda.
+Cukup buka Facebook di Chrome, buka menu
+opsi dan pilih Tambahkan ke Layar Utama.
+
+  <h5>Manfaatkan aplikasi, game, dan layanan luring</h5>
+
+Beberapa aplikasi dan game memerlukan
+akses internet konstan untuk berfungsi:
+ini bisa sekadar ukuran keamanan atau karena
+mereka terus-menerus perlu mengambil data.
+Ada beberapa aplikasi dan game yang tidak
+memerlukan akses internet sama sekali setelah
+unduhan awal.
+
+Lihat di bawah untuk beberapa petunjuk.
+
+  <h5>Batasi data latar belakang</h5>
+Cara termudah untuk menghemat data adalah
+dengan memberi tahu aplikasi Anda (atau sistem
+Android itu sendiri) untuk membatasi data latar belakang.
+Data latar belakang adalah semua lalu lintas
+internet yang terjadi saat Anda tidak benar-benar
+menggunakan aplikasi: sinkronisasi email, pembaruan
+umpan, widget cuaca, dan sebagainya.
+
+Anda juga dapat memberi tahu sistem Android
+untuk membatasi data latar belakang di
+ <h5>Setelan > Penggunaan data > Batasi Data
+Latar Belakang atau untuk aplikasi individual
+di Setelan > Aplikasi (tergantung pada versi
+Android yang Anda miliki). Anda juga dapat
+mengubah pengaturan sinkronisasi untuk layanan
+Google di Setelan > Akun > Google > pilih akun
+dan kemudian hapus centang pada layanan yang
+tidak ingin Anda sinkronkan secara otomatis.
+
+  <h5>Nonaktifkan pembaruan otomatis aplikasi</h5>
+Penguras besar lainnya dari jatah data
+Anda berasal dari pembaruan aplikasi Google Play.
+Jika Anda menyetel Play Store untuk memperbarui
+aplikasi secara otomatis, bahkan melalui
+koneksi data, ini bisa memakan jatah Anda
+setiap bulan tanpa Anda ketahui.
+
+Untuk memeriksa, buka Play Store dan
+geser keluar laci navigasi sebelah kiri.
+Ketuk Setelan dan di bagian atas, Anda
+akan melihat Perbarui Aplikasi Secara Otomatis.
+Ketuk ini dan pastikan Anda memilih Jangan
+perbarui aplikasi secara otomatis atau Perbarui
+aplikasi secara otomatis hanya melalui Wi-Fi.
+Untuk mengelola aplikasi individual, buka Aplikasi
+saya, pilih aplikasi dan kemudian ketuk menu
+opsi untuk mencentang atau menghapus centang
+Pembaruan Otomatis.
+
+   <h5>Masukkan musik ke ponsel Anda</h5>
+Layanan streaming seperti YouTube, Spotify,
+Vine, dan situs video serta musik lainnya
+adalah pembunuh data yang besar. Jika ada lagu
+atau album yang terus-menerus Anda dengarkan
+di gym atau dalam perjalanan ke kantor, Anda
+akan menggunakan jauh lebih sedikit data dengan
+memuatnya ke ponsel Anda dan mendengarkannya
+secara luring, daripada terus-menerus melakukan
+streaming dari web.
+
+Jika ponsel Anda tidak memiliki kartu micro SD
+atau ruang yang cukup di memori internalnya
+untuk menyimpan musik, Anda dapat menggunakan
+adaptor micro SD. Atau, Anda dapat menyimpan
+musik untuk didengarkan secara luring. Ini
+tidak akan memerlukan banyak ruang di ponsel
+Anda dan mudah untuk dihapus atau diganti nanti.
+Jika Anda dapat menahan keinginan streaming Anda,
+meskipun hanya sedikit, Anda akan melihat
+pengurangan besar dalam konsumsi data.
+
+   <h5>Identifikasi dan batasi/hapus aplikasi
+berkonsumsi tinggi</h5>
+
+Di Setelan > Penggunaan data Anda dapat melihat
+aplikasi mana yang mengonsumsi data paling
+banyak baik di latar depan maupun latar belakang.
+Ini bisa sangat berguna untuk mengetahui aplikasi
+mana yang harus Anda batasi.
+
+Ambil contoh Gmail. Di ponsel saya, ia telah
+mengunduh 451 MB email di latar belakang.
+Jika saya merasa tidak cukup sering menggunakan
+aplikasi tersebut untuk membenarkan penggunaan
+data sebanyak itu, saya dapat menghapus aplikasi
+tersebut, membatasi seberapa sering ia melakukan
+sinkronisasi atau mencegahnya mengunduh lampiran,
+yang semuanya akan mengurangi konsumsi data.
+
+<h5>Jangan unggah, unduh, atau kirim foto atau video</h5>
+
+Satu menit rekaman definisi tinggi yang diambil
+pada smartphone modern dapat memakan data
+hingga 200 MB. Foto tunggal dapat dengan mudah
+melebihi 40 MB. Jangan pernah berpikir untuk
+mengunggahnya ke Facebook, atau mengunduh
+gambar dan video dari teman, kecuali paket data
+seluler Anda dapat menanganinya.
+
+ <h5>Manfaatkan hotspot Wi-Fi</h5>
+Jaringan Wi-Fi terbuka adalah cara yang bagus
+untuk menghemat data saat Anda berada di luar rumah.
+Semakin banyak restoran dan tempat makan
+menyediakan konektivitas Wi-Fi setiap saat dan
+hotspot ini mudah ditemukan di perangkat Android Anda.
+
+Di menu Wi-Fi Anda (mudah ditemukan dengan
+gesekan dua jari ke bawah dari bagian atas
+ponsel Anda pada Lollipop/Marshmallow) setiap
+titik akses Wi-Fi yang tidak memiliki ikon kunci
+adalah terbuka dan memiliki potensi untuk diakses
+tanpa memasukkan detail atau kode sandi apa pun.
+Cukup ketuk salah satu hotspot tersebut saat Anda
+melihatnya untuk terhubung. Ada potensi orang
+mendengarkan interaksi daring Anda melalui jaringan
+ini - tetapi ini hanya berarti Anda harus berhati-hati.
+Jangan masukkan informasi sensitif dalam situasi seperti itu,
+atau mengakses materi pribadi. Atau jika Anda ingin
+melakukan ini, Anda dapat memanfaatkan aplikasi VPN
+untuk menjaga privasi dan keamanan Anda.
+
+ <h5>Berbagi foto, video, dan file lainnya via Bluetooth</h5>
+Seperti yang kami sebutkan di poin 10, hanya menerima
+foto dan video saja sudah bisa mengonsumsi banyak data.
+Tetapi transfer melalui jaringan seluler bukan satu-satunya
+cara untuk mengirim file. Berkat keajaiban Bluetooth,
+Anda dapat dengan cepat dan mudah mengirim file
+yang relatif besar ke orang lain di sekitar Anda tanpa
+menggunakan data sama sekali.
+
+Tentu saja, jarak adalah salah satu batasan Bluetooth,
+tetapi ketika penerima yang dituju berada di dekat Anda,
+ini bisa menjadi penghemat data yang besar.
+
+Untuk mengirim sesuatu via Bluetooth Anda harus
+menavigasi ke item yang ingin Anda kirim dan kemudian
+tekan tombol bagikan (terlihat seperti ini) atau pilih bagikan
+dari menu opsi. Cara melakukannya akan tergantung
+pada item yang Anda kirim.
+
+Selanjutnya, pilih ikon Bluetooth. Jika Bluetooth Anda
+belum diaktifkan, Anda mungkin diminta untuk
+mengaktifkannya. Terakhir, Anda harus memilih perangkat
+tujuan dari daftar gadget berkemampuan Bluetooth
+di sekitar. Perhatikan bahwa perangkat tujuan juga harus
+mengaktifkan Bluetooth, dan Anda harus mengetahui
+namanya untuk menemukannya dalam daftar.

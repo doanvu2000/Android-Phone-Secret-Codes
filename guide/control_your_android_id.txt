@@ -1,0 +1,23 @@
+<h5>Bagaimana Cara Mengontrol
+Ponsel Android Anda dengan
+Komputer atau Laptop Anda?</h5>
+
+Sekarang Anda dapat Mengontrol Ponsel
+Android Anda dengan Komputer Anda.
+Ikuti Saja Saya.
+<ol>
+<li>Instal Team Viewer di Komputer
+atau Laptop Anda.</li>
+<li>Instal Quick Support di ponsel
+Android Anda dari Play Store.</li>
+<li>Sekarang Buka Team Viewer di
+Komputer Anda dan Quick Support di
+Ponsel Android Anda.</li>
+<li>Sekarang Salin ID Quick Support Anda dan
+Masukkan di Team Viewer Komputer Anda.</li>
+<li>Sekarang Izinkan Ponsel Anda untuk terhubung
+dengan komputer Anda.
+DAN YA ANDA SUDAH SELESAI SEKARANG.
+Nikmati.)</li>
+</ol>
+
