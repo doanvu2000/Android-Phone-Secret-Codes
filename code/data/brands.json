@@ -22,5 +22,9 @@
   {
     "brand_id": 6,
     "brand_name": "Nokia"
+  },
+  {
+    "brand_id": 7,
+    "brand_name": "BLU C5L"
   }
 ]
