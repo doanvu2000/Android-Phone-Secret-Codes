@@ -54,5 +54,9 @@
   {
     "brand_id": 14.0,
     "brand_name": "Infinix"
+  },
+  {
+    "brand_id": 15.0,
+    "brand_name": "Huawei"
   }
 ]
