@@ -90,5 +90,9 @@
   {
     "brand_id": 23.0,
     "brand_name": "Walton"
+  },
+  {
+    "brand_id": 24.0,
+    "brand_name": "Google Pixel"
   }
 ]
