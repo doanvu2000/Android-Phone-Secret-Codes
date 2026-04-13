@@ -62,5 +62,9 @@
   {
     "brand_id": 16.0,
     "brand_name": "Elitephone"
+  },
+  {
+    "brand_id": 17.0,
+    "brand_name": "Acer"
   }
 ]
