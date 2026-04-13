@@ -18,5 +18,9 @@
   {
     "brand_id": 5,
     "brand_name": "Master Mobile"
+  },
+  {
+    "brand_id": 6,
+    "brand_name": "Nokia"
   }
 ]
