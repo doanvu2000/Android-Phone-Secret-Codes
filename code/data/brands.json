@@ -86,5 +86,9 @@
   {
     "brand_id": 22.0,
     "brand_name": "Symphony"
+  },
+  {
+    "brand_id": 23.0,
+    "brand_name": "Walton"
   }
 ]
