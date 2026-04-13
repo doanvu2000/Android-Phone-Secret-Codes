@@ -78,5 +78,9 @@
   {
     "brand_id": 20.0,
     "brand_name": "Phonix"
+  },
+  {
+    "brand_id": 21.0,
+    "brand_name": "Micomax"
   }
 ]
