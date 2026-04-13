@@ -70,5 +70,9 @@
   {
     "brand_id": 18.0,
     "brand_name": "Lava"
+  },
+  {
+    "brand_id": 19.0,
+    "brand_name": "Sony Xperia"
   }
 ]
