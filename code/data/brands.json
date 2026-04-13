@@ -34,5 +34,9 @@
   {
     "brand_id": 9,
     "brand_name": "Tecno"
+  },
+  {
+    "brand_id": 10,
+    "brand_name": "Oppo"
   }
 ]
